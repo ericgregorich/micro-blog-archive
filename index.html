@@ -1,0 +1,833 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+	<meta name="generator" content="Hugo 0.91.2" />
+
+  <title>
+      
+      Eric Gregorich
+      
+  </title>
+
+</head>
+
+
+  <body>
+
+    
+
+	
+<div class="h-feed">
+
+	
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://ericgregorich.com/2022/09/18/i-just-finished.html" class="u-url"><time class="dt-published" datetime="2022-09-18 08:19:33 -0400">Sep 18, 2022</time></a>
+
+		<div class="e-content">
+			 <p>I just finished (for now) updating my <a href="https://ericgregorich.com">Micro.blog website</a> theme. I tweaked the colors, fonts, and header. Added a Surprise link that loads a random post and the Bookshelf that shows books I’m reading and interested in. Also, experimenting with the Newsletter feature.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://ericgregorich.com/2022/09/16/just-received-my.html" class="u-url"><time class="dt-published" datetime="2022-09-16 17:00:07 -0400">Sep 16, 2022</time></a>
+
+		<div class="e-content">
+			 <p>Just received my physical copy of <a href="https://micro.blog/books/9781728256665">Daily Creative: A Practical Guide for Staying Prolific, Brilliant, and Healthy</a> by Todd Henry 📚</p>
+<p>This book was highly recommended. I&rsquo;ll try to take my time and read it as intended, one day at a time.</p>
+<!-- raw HTML omitted -->
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://ericgregorich.com/2022/09/16/im-looking-forward.html" class="u-url"><time class="dt-published" datetime="2022-09-16 10:10:31 -0400">Sep 16, 2022</time></a>
+
+		<div class="e-content">
+			 <p>I&rsquo;m looking forward to heading to Orlando for the <a href="https://powerplatformconf.com/#!/">Microsoft Power Platform Conference</a> all next week! #MPPC22</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://ericgregorich.com/2022/09/15/i-was-listening.html" class="u-url"><time class="dt-published" datetime="2022-09-15 09:31:21 -0400">Sep 15, 2022</time></a>
+
+		<div class="e-content">
+			 <p>I was listening to this episode of <a href="https://www.rework.fm/good-enough-is-fine/">The Rework Podcast</a> by the guys at 37signals. It was a great reminder that we tend to overcomplicate things when building technical solutions. Sometimes, we do it for the challenge, and as developers, it’s fun. Often we miss the point. What’s the end goal?</p>
+<p>For example, I was just working with a customer who wanted us to update our existing application to allow batching records together based on complicated logic. We spent hours thinking of a solution. Then someone asked, why do they need this? Oh, so one admin can run a report that shows all the records in a batch. Can’t we add a checkbox to allow the admin to select which records they want to include in the report? Yes! Well, that makes things much easier!</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://ericgregorich.com/2022/09/15/how-to-overwrite.html" class="u-url"><time class="dt-published" datetime="2022-09-15 08:54:17 -0400">Sep 15, 2022</time></a>
+
+		<div class="e-content">
+			 <p><a href="https://nesslabs.com/cognitive-scripts?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=cognitive-scripts">How to overwrite your cognitive scripts - nesslabs.com</a></p>
+<blockquote>
+<p>Cognitive scripts are based on the semantic memory, or the knowledge we acquire throughout our lives. Semantic memory develops when we experience events in the everyday world, such as how to travel by public transport or the steps involved in eating in a restaurant. We organise our experiences into cognitive scripts that are personal to us, and these scripts may vary depending on our perception of a situation and the cultures we identify with. - Dr. Hannah England</p>
+</blockquote>
+<p>We can overwrite our cognitive scripts by journaling, reset the scripts that don’t work for us, and go off script and take risks.</p>
+<p>Cognitive scripts are based on our beliefs, created during our lifetime. Habits are more about the actions we take.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://ericgregorich.com/2022/09/14/hide-commands-from.html">Hide commands from a SharePoint document library toolbar</a></h1>
+		
+
+		<a href="https://ericgregorich.com/2022/09/14/hide-commands-from.html" class="u-url"><time class="dt-published" datetime="2022-09-14 14:16:27 -0400">Sep 14, 2022</time></a>
+
+		<div class="e-content">
+			 <p>The toolbar that appears in a document library (or list) in SharePoint Online can be customized (to an extent). We can hide, rename, change the icon, and even rearrange the commands. </p>
+<p>Here is an example of a default library. By default, we see commands to create documents, Upload, Edit in Grid View, Sync, Add shortcuts to OneDrive, Pin to Quick Access, Export to Excel, and many more below the sub-menu. </p>
+<p><img src="https://ericgregorich.com/uploads/2022/a406f0d6ec.png" alt="Example SharePoint Document Library with all default commands shown."></p>
+<p>Here is an example of the library toolbar that has nearly everything hidden.</p>
+<p><img src="https://ericgregorich.com/uploads/2022/861ec7bf52.png" alt="Example SharePoint Document Library with some default commands hidden."></p>
+<h2 id="how-to-apply-the-customizations">How to apply the customizations.</h2>
+<p>To apply this formatting, select your Document Library View (by default, <strong>All Documents</strong>) and next select <strong>Format current view.</strong> Then switch to advanced mode. Replace the default JSON with your own (Example below). You can find a list of all the commands <a href="https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/view-commandbar-formatting#key">here</a>.</p>
+<pre><code>{
+  &quot;$schema&quot;: &quot;https://developer.microsoft.com/json-schemas/sp/v2/row-formatting.schema.json&quot;,
+  &quot;commandBarProps&quot;: {
+    &quot;commands&quot;: [
+      {
+        &quot;key&quot;: &quot;editInGridView&quot;,
+        &quot;hide&quot;: true
+      },
+      {
+        &quot;key&quot;: &quot;pinToQuickAccess&quot;,
+        &quot;hide&quot;: true
+      },
+      {
+        &quot;key&quot;: &quot;export&quot;,
+        &quot;hide&quot;: true
+      },
+      {
+        &quot;key&quot;: &quot;pinItem&quot;,
+        &quot;hide&quot;: true
+      },
+      {
+        &quot;key&quot;: &quot;automate&quot;,
+        &quot;hide&quot;: true
+      },
+      {
+        &quot;key&quot;: &quot;checkOut&quot;,
+        &quot;hide&quot;: true
+      },
+      {
+        &quot;key&quot;: &quot;properties&quot;,
+        &quot;hide&quot;: true
+      },
+      {
+        &quot;key&quot;: &quot;sync&quot;,
+        &quot;hide&quot;: true
+      },
+      {
+        &quot;key&quot;: &quot;download&quot;,
+        &quot;hide&quot;: true
+      },
+      {
+        &quot;key&quot;: &quot;addShortcut&quot;,
+        &quot;hide&quot;: true
+      },
+      {
+        &quot;key&quot;: &quot;integrate&quot;,
+        &quot;hide&quot;: true
+      }
+    ]
+  }
+}
+</code></pre>
+<h2 id="limitations">Limitations</h2>
+<ul>
+<li>This approach only manipulates the command bar in the current view. You would need to apply the same logic to every view independently. This means you can have different commands appear depending on your view.</li>
+<li>This approach is not a substitute for permissions. For example, if you do not want users uploading documents, you should give them Read Only access to the library, not just hide the Upload button. </li>
+<li>Some commands appear when one or more documents are selected. Your JSON can specify if the command should be affected depending on the current selection mode. Read more <a href="https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/view-commandbar-formatting#selectionmodes%20%22https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/view-commandbar-formatting#selectionmodes">here</a>.</li>
+<li>Some commands, such as the Submit for Approval command, cannot be hidden.</li>
+<li>You are hiding these commands from everyone. If any specific users need to make changes using the toolbar, they may need to remove this formatting to be able to access the commands they need.</li>
+</ul>
+<h2 id="reference">Reference</h2>
+<p><a href="https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/view-commandbar-formatting">Command bar customization syntax reference | Microsoft Docs</a></p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://ericgregorich.com/2022/09/14/did-you-know.html" class="u-url"><time class="dt-published" datetime="2022-09-14 08:45:09 -0400">Sep 14, 2022</time></a>
+
+		<div class="e-content">
+			 <p>Did you know Microsoft Edge has a built-in Citation tool? Go to Settings &gt; Appearance &gt; Toggle on the Citations button.</p>
+<p><img src="https://ericgregorich.com/uploads/2022/0667b1f608.png" alt=""></p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://ericgregorich.com/2022/09/14/when-writing-text.html" class="u-url"><time class="dt-published" datetime="2022-09-14 08:08:36 -0400">Sep 14, 2022</time></a>
+
+		<div class="e-content">
+			 <p>When writing text in Microsoft Power Apps controls, you may sometimes need to add a double quote as part of your text. Power Apps uses the Power Fx language. You must convert the &quot; to &amp;Char(34) to encode it into the correct character.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://ericgregorich.com/2022/09/12/meditations-by-marcus.html">Meditations by Marcus Aurelius</a></h1>
+		
+
+		<a href="https://ericgregorich.com/2022/09/12/meditations-by-marcus.html" class="u-url"><time class="dt-published" datetime="2022-09-12 08:25:48 -0400">Sep 12, 2022</time></a>
+
+		<div class="e-content">
+			 <p>I have started to tackle Meditations. I usually don&rsquo;t read this book, but I thought I would try it. I am taking notes as I go. I just write down what comes to mind as I read each part, even if my interpretation is completely off.</p>
+<h2 id="introduction">Introduction</h2>
+<p>His real name is Marcus Annius Verus.- Born in A.D. 121.- &ldquo;Meditations&rdquo; was not intended to be published. Marcus was writing to himself.- Marcus does not mention Stoicism.</p>
+<h2 id="book-1-debts-and-lessons">Book 1 Debts and Lessons</h2>
+<p>Marcus shows gratitude for the various people in his life.</p>
+<h2 id="book-2-on-the-river-gran-among-the-quadi">Book 2 On the river gran, among the quadi</h2>
+<p>People can be cruel, ungrateful, arrogant, etc., but this does not affect me.</p>
+<ol>
+<li>Stop being persuaded by impulses. Your mind and body and simple and don&rsquo;t need extravagance.</li>
+<li>Nature will always change to do what is best for nature. You are part of nature. Trust the change.</li>
+<li>You have limited time in this world. Don&rsquo;t spend it procrastinating on things of importance.</li>
+<li>Focus on things as if it was the last thing you will do in life.</li>
+<li>You have one life, and it&rsquo;s almost over.</li>
+<li>Take the time to learn things for yourself and less for others.</li>
+<li>Listen to your heart, and find your happiness.</li>
+<li>No one can prevent you from being in harmony with nature.</li>
+<li>Sinning out of desire is worse than doing so out of anger. Passion comes from within, and anger is caused by something external.</li>
+<li>Death happens to both good and bad people; therefore, how could it be a bad thing? How could death be a punishment for people who are good all their lives?</li>
+<li>Objects are temporary and meaningless.</li>
+<li>People deserve our affection because they are like us people.</li>
+<li>You cannot lose the future or the past, only the present.</li>
+<li>&ldquo;Everything is just an impression&rdquo; - Monimus the Cynic</li>
+<li>The soul degrades when it becomes upset with things that happen, you turn your back on another when you experience too much pleasure or pain, when you act false, and when your actions are without purpose.</li>
+<li>Be true to yourself without depending on others. You can&rsquo;t control nature, perception, the nature of the body, and the soul.</li>
+</ol>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://ericgregorich.com/2022/09/11/becoming-a-fulltime.html" class="u-url"><time class="dt-published" datetime="2022-09-11 19:45:57 -0400">Sep 11, 2022</time></a>
+
+		<div class="e-content">
+			 <p><a href="https://blog.pragmaticengineer.com/how-to-become-a-full-time-creator">Becoming a Full-Time Creator as a Software Engineer: Controversial Advice - The Pragmatic Engineer</a></p>
+<blockquote>
+<p>If you’re someone with years, or decades of experience working in tech, you can likely just sell your sawdust: things that are already in your head, like your past experience.</p>
+</blockquote>
+<p>This was a great article that talks about various ways to make a living as a creator.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://ericgregorich.com/2022/09/11/loading-everyone-to.html" class="u-url"><time class="dt-published" datetime="2022-09-11 10:57:39 -0400">Sep 11, 2022</time></a>
+
+		<div class="e-content">
+			 <blockquote>
+<p>&ldquo;Loading everyone to 100% of capacity has the same effect as loading a highway to 100% of capacity: No one can make any progress.&rdquo; (Mike Cohn, Agile Estimating and Planning)</p>
+</blockquote>
+<p>I love this quote. So true!</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://ericgregorich.com/2022/09/11/i-didnt-do.html">I Didn&#39;t Do The Thing Today</a></h1>
+		
+
+		<a href="https://ericgregorich.com/2022/09/11/i-didnt-do.html" class="u-url"><time class="dt-published" datetime="2022-09-11 10:16:38 -0400">Sep 11, 2022</time></a>
+
+		<div class="e-content">
+			 <p>While over the past decade, “Productivity” books try to teach you how to be productive and get things done, “I Didn’t Do The Thing Today” jumps on the recent “Anti-productivity” bandwagon and reminds us that to be genuinely productive, we need to relax, rest, and embrace the unexpected.</p>
+<p><a href="https://micro.blog/books/9780593419144" title="I Didn’t Do The Thing Today by Madeleine Dore">I Didn’t Do The Thing Today by Madeleine Dore</a></p>
+<p><strong>Key Ideas</strong></p>
+<ul>
+<li>We can’t compare how productive we are to others because we all have unique circumstances and objectives.</li>
+<li>The unexpected and unplanned are often the best part of our days, yet we consider it a “bad day” when things don’t go as planned. Our routines and schedules should guide us but not induce guilt when they are broken.</li>
+<li>Preparation, Incubation, Illumination, and Verification are the 4 stages of creativity.</li>
+<li>If we determine the things we “could” do and be more flexible with when we do them, perhaps the most important things to use will surface and become part of our day without being forced.</li>
+</ul>
+<p><strong>Action Items</strong></p>
+<ul>
+<li>Create a plan for the day to act as a guide.</li>
+<li>Keep a list of things I “can” do based on my current time and energy.</li>
+</ul>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://ericgregorich.com/2022/09/11/the-true-purpose.html" class="u-url"><time class="dt-published" datetime="2022-09-11 09:15:57 -0400">Sep 11, 2022</time></a>
+
+		<div class="e-content">
+			 <p><a href="https://medium.com/@ericgregorich/the-true-purpose-of-a-zettelkasten-caea362740a4">The true purpose of a Zettelkasten</a></p>
+<blockquote>
+<p>A Zettelkasten is a box of notes. Luhmann’s workflow to take and organize notes became synonymous with Zettelkasten. When we hear the word Zettelkasten today, we think of the workflow process, not necessarily a box of index cards.</p>
+</blockquote>
+<p>I posted an essay about the true purpose of a Zettelkasten. My understanding has changed over the past year.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://ericgregorich.com/2022/09/10/project-hail-mary.html">Project Hail Mary by Andy Weir</a></h1>
+		
+
+		<a href="https://ericgregorich.com/2022/09/10/project-hail-mary.html" class="u-url"><time class="dt-published" datetime="2022-09-10 22:22:29 -0400">Sep 10, 2022</time></a>
+
+		<div class="e-content">
+			 <p>Finished reading: <a href="https://micro.blog/books/9780593135204">Project Hail Mary: A Novel</a> by Andy Weir 📚.</p>
+<p>Project Hail Mary is a story by the same author of The Martian, Andy Weir. While The Martian&rsquo;s story is grounded in the science we understand today, Project Hail Mary goes beyond that and adds more sci-fi but does so without breaking the rules of science.<!-- raw HTML omitted --></p>
+<p>The other difference between The Martian and Project Hail Mary is the scope. In The Martian, Mark Watney is stranded on Mars and needs to figure out how to get home. In Project Hail Mary, the Sun is being destroyed by a phenomenon, and Ryland Grace must travel to a distant star to figure out how to save Earth.</p>
+<p>The protagonist, Ryland Grace, is a science teacher who ends up as the sole survivor of the Hail Mary as it travels to its destination, where we hope to figure out how to save Earth. Ryland wakes from a coma with no memory of how he got there or even who he is. Fortunately, his memory comes back over time.</p>
+<p>As Ryland is solving one problem after another aboard the Hail Mary, his memories slowly return.  We see the planning of the Project Hail Mary mission on Earth and how Ryland was &ldquo;chosen&rdquo; for the mission. We also see the sacrifices that are made to make the mission happen.</p>
+<p>The writing is engaging and fun. While there is a lot of math involved, you can get the point without understanding it. It all makes sense. This is one of the special things about Andy Weir&rsquo;s writing style. You can tell he loves this stuff. He spent a lot of time researching and discussing &ldquo;what if&rdquo; scenarios with real scientists and astronauts. After the success of The Martian, he likely has a pool of resources available to him.</p>
+<p>This story is not your typical sci-fi. I felt like this could actually happen. Ryland&rsquo;s problems were science-based and felt realistic, opposed to forced plot twists just to make the story exciting. There were many times in this book where I imagined all of the things that could have been done if this were an action sci-fi story that we would typically see. Instead, we get a great story about a guy working out extraordinary problems.</p>
+<p>I really enjoyed this book.</p>
+<blockquote>
+<p>“Working the problem” - NASA</p>
+</blockquote>
+<p>By the way, a Project Hail Mary movie is being made, starring Ryan Gosling.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://ericgregorich.com/2022/09/10/novelty-bias.html" class="u-url"><time class="dt-published" datetime="2022-09-10 14:29:35 -0400">Sep 10, 2022</time></a>
+
+		<div class="e-content">
+			 <p><a href="https://nesslabs.com/novelty-fallacy?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=novelty-fallacy">Novelty fallacy: why new isn’t always better - Ness Labs</a></p>
+<blockquote>
+<p>The novelty bias is a form of informal logical fallacy, where we consider that something is better simply because it’s new. Of course, in some cases, novelty seeking does correlate with benefits. For example, a newer computer may offer improved speed and performance. However, not all new ideas and objects will offer benefits over something older or more established.</p>
+</blockquote>
+<p>It’s always easy to see the latest tech innovations (like iPhones) and convince ourselves that we need them. If we think about the pros and cons and let them sit in our minds for a while. We’ll either forget about it or convince ourselves we don’t need it. In rare cases, the new toy improves our life.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://ericgregorich.com/2022/09/09/currently-reading-clean.html" class="u-url"><time class="dt-published" datetime="2022-09-09 23:49:30 -0400">Sep 9, 2022</time></a>
+
+		<div class="e-content">
+			 <p>Currently reading: <a href="https://micro.blog/books/9780134494326">Clean Architecture: A Craftsman&rsquo;s Guide to Software Structure and Design (Robert C. Martin Series)</a> by Martin Robert C. 📚</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://ericgregorich.com/2022/09/09/the-readwise-reader.html" class="u-url"><time class="dt-published" datetime="2022-09-09 08:14:00 -0400">Sep 9, 2022</time></a>
+
+		<div class="e-content">
+			 <p>The <a href="https://readwise.io/read">Readwise Reader</a> app has come a long way over the past year. With built-in RSS, Email, and Twitter support, it has replaced many of my other apps. It&rsquo;s also just a great reading experience. Powerful on desktop, simple on mobile!</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://ericgregorich.com/2022/09/08/why-do-applications.html" class="u-url"><time class="dt-published" datetime="2022-09-08 09:04:47 -0400">Sep 8, 2022</time></a>
+
+		<div class="e-content">
+			 <p>Why do applications have a big, bright &ldquo;Share&rdquo; button right in the middle of an otherwise clean and simple screen? Are they trying to encourage sharing so more people know about the application? It&rsquo;s annoying.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://ericgregorich.com/2022/09/08/im-going-to.html" class="u-url"><time class="dt-published" datetime="2022-09-08 07:26:31 -0400">Sep 8, 2022</time></a>
+
+		<div class="e-content">
+			 <p>I’m going to try out this micro-blogging thing. I currently have a blog on Ghost, but I don’t post much there. I feel like I need to write some longer content rather than just posting some thoughts on topics throughout the day.</p>
+<p>Micro-blogging may be an in-between alternative to blogging and social media.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://ericgregorich.com/2022/09/05/take-care-of.html">Take care of your eyes with the 20-20-20 Rule</a></h1>
+		
+
+		<a href="https://ericgregorich.com/2022/09/05/take-care-of.html" class="u-url"><time class="dt-published" datetime="2022-09-05 11:24:05 -0400">Sep 5, 2022</time></a>
+
+		<div class="e-content">
+			 <!-- raw HTML omitted -->
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://ericgregorich.com/2022/08/28/the-true-purpose.html">The true purpose of a Zettelkasten</a></h1>
+		
+
+		<a href="https://ericgregorich.com/2022/08/28/the-true-purpose.html" class="u-url"><time class="dt-published" datetime="2022-08-28 09:53:53 -0400">Aug 28, 2022</time></a>
+
+		<div class="e-content">
+			 <!-- raw HTML omitted -->
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://ericgregorich.com/2022/08/22/give-a-user.html">Give a user access to see Platform Environments</a></h1>
+		
+
+		<a href="https://ericgregorich.com/2022/08/22/give-a-user.html" class="u-url"><time class="dt-published" datetime="2022-08-22 16:16:55 -0400">Aug 22, 2022</time></a>
+
+		<div class="e-content">
+			 <p>If a user does not see the Microsoft Power Platform Environment they need access to, you can add them by following these steps.</p>
+<ul>
+<li>Log into the <a href="https://admin.powerplatform.microsoft.com/environments">Power Platform Admin Center</a></li>
+<li>Select the environment and go to Settings.</li>
+<li>Under User + Permissions, select Users.</li>
+<li>Select or add the user you want to allow access to.</li>
+<li>Add the user to the Basic User role.</li>
+<li>Click on Manage Security Roles.</li>
+<li>Add the user to the Basic User role.</li>
+</ul>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://ericgregorich.com/2022/08/14/app-spotlight-raindropio.html">App Spotlight: Raindrop.io</a></h1>
+		
+
+		<a href="https://ericgregorich.com/2022/08/14/app-spotlight-raindropio.html" class="u-url"><time class="dt-published" datetime="2022-08-14 09:23:51 -0400">Aug 14, 2022</time></a>
+
+		<div class="e-content">
+			 <!-- raw HTML omitted -->
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://ericgregorich.com/2022/08/08/the-sharepoint-relative.html">The SharePoint relative URL limit is 400 characters</a></h1>
+		
+
+		<a href="https://ericgregorich.com/2022/08/08/the-sharepoint-relative.html" class="u-url"><time class="dt-published" datetime="2022-08-08 15:53:15 -0400">Aug 8, 2022</time></a>
+
+		<div class="e-content">
+			 <!-- raw HTML omitted -->
+<p>For example, <!-- raw HTML omitted --><a href="https://yoursite.sharepoint.com/sites/sitename/libraryname/foldername">yoursite.sharepoint.com/sites/sit&hellip;</a><!-- raw HTML omitted --> would only include <!-- raw HTML omitted -->/sites/Sitename/libraryname/foldername<!-- raw HTML omitted --> as part of the limit. <!-- raw HTML omitted --><!-- raw HTML omitted -->The length of your site URL, library name, and folder names significantly impact this limit. When creating sites, you can have a long site name but keep the URL portion small.<!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted -->Keep your site URLs as short as possible. Choose a short URL when creating sites. The display name of the site can be whatever you want.<!-- raw HTML omitted --><!-- raw HTML omitted -->Keep your library URLs as short as possible. When creating a library, start with a short name, then you can rename it to have a longer display name, and the short URL name will remain intact.<!-- raw HTML omitted --><!-- raw HTML omitted -->Keep your folder names as short as possible.<!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted -->Of course, you can also stop or limit the use of folders.<!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted -->Use metadata instead of folders altogether. You can disable the use of folders in Library Settings &gt; Advanced Settings &gt; Folders &gt; Make &ldquo;New Folder command available.<!-- raw HTML omitted --><!-- raw HTML omitted -->Use top-level folders but then use metadata to categorize the content further.<!-- raw HTML omitted --><!-- raw HTML omitted --></p>
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://ericgregorich.com/2022/08/06/permanently-delete-an.html">Permanently delete an Office 365 Group</a></h1>
+		
+
+		<a href="https://ericgregorich.com/2022/08/06/permanently-delete-an.html" class="u-url"><time class="dt-published" datetime="2022-08-06 08:27:38 -0400">Aug 6, 2022</time></a>
+
+		<div class="e-content">
+			 <p>You can permanently delete an Office 365 Group from your Azure Portal but if you prefer to use PowerShell, here is an example.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-PowerShell" data-lang="PowerShell">Install-Module -Name AzureAD
+$tenantUrl = <span style="color:#e6db74">&#34;https://{your site}-admin.sharepoint.com/&#34;</span> 
+$groupToDelete = <span style="color:#e6db74">&#34;{Your Group Name}&#34;</span> 
+Connect-SPOService -Url $tenantUrl Write-Output <span style="color:#e6db74">&#34;Connected to $tenantUrl&#34;</span> 
+Get-AzureADMSDeletedGroup $groupToDelete | Write-Output <span style="color:#e6db74">&#34;Group $groupToDelete was found&#34;</span> <span style="color:#960050;background-color:#1e0010">–</span>Id $groupToDelete
+</code></pre></div>
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://ericgregorich.com/2022/08/05/add-plausible-analytics.html">Add Plausible Analytics to your Obsidian Publish site</a></h1>
+		
+
+		<a href="https://ericgregorich.com/2022/08/05/add-plausible-analytics.html" class="u-url"><time class="dt-published" datetime="2022-08-05 20:00:00 -0400">Aug 5, 2022</time></a>
+
+		<div class="e-content">
+			 <!-- raw HTML omitted -->
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://ericgregorich.com/2022/08/05/hide-specific-folders.html">Hide specific folders from the navigation in your Obsidian Publish site</a></h1>
+		
+
+		<a href="https://ericgregorich.com/2022/08/05/hide-specific-folders.html" class="u-url"><time class="dt-published" datetime="2022-08-05 20:00:00 -0400">Aug 5, 2022</time></a>
+
+		<div class="e-content">
+			 <!-- raw HTML omitted -->
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://ericgregorich.com/2022/08/02/remove-the-default.html">Remove the default date text in a Power Apps Date Control</a></h1>
+		
+
+		<a href="https://ericgregorich.com/2022/08/02/remove-the-default.html" class="u-url"><time class="dt-published" datetime="2022-08-02 11:59:14 -0400">Aug 2, 2022</time></a>
+
+		<div class="e-content">
+			 <!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://ericgregorich.com/2022/08/02/show-all-o.html">Show all O365 users in a Power App</a></h1>
+		
+
+		<a href="https://ericgregorich.com/2022/08/02/show-all-o.html" class="u-url"><time class="dt-published" datetime="2022-08-02 11:27:39 -0400">Aug 2, 2022</time></a>
+
+		<div class="e-content">
+			 <!-- raw HTML omitted -->
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://ericgregorich.com/2022/07/28/sharepoint-online-throttling.html">SharePoint Online Throttling</a></h1>
+		
+
+		<a href="https://ericgregorich.com/2022/07/28/sharepoint-online-throttling.html" class="u-url"><time class="dt-published" datetime="2022-07-28 17:38:18 -0400">Jul 28, 2022</time></a>
+
+		<div class="e-content">
+			 <!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://ericgregorich.com/2022/07/27/using-an-azure.html">Using an Azure Service Principal for Power Platform connections</a></h1>
+		
+
+		<a href="https://ericgregorich.com/2022/07/27/using-an-azure.html" class="u-url"><time class="dt-published" datetime="2022-07-27 10:54:06 -0400">Jul 27, 2022</time></a>
+
+		<div class="e-content">
+			 <!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://ericgregorich.com/2022/07/11/monitor-power-apps.html">Monitor Power Apps through Azure Application Insights</a></h1>
+		
+
+		<a href="https://ericgregorich.com/2022/07/11/monitor-power-apps.html" class="u-url"><time class="dt-published" datetime="2022-07-11 14:40:54 -0400">Jul 11, 2022</time></a>
+
+		<div class="e-content">
+			 <!-- raw HTML omitted -->
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://ericgregorich.com/2022/06/30/use-nvm-to.html">Use NVM to manage Node versions</a></h1>
+		
+
+		<a href="https://ericgregorich.com/2022/06/30/use-nvm-to.html" class="u-url"><time class="dt-published" datetime="2022-06-30 21:51:54 -0400">Jun 30, 2022</time></a>
+
+		<div class="e-content">
+			 <!-- raw HTML omitted -->
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://ericgregorich.com/2022/06/30/tot-pocket.html">Tot Pocket</a></h1>
+		
+
+		<a href="https://ericgregorich.com/2022/06/30/tot-pocket.html" class="u-url"><time class="dt-published" datetime="2022-06-30 20:00:00 -0400">Jun 30, 2022</time></a>
+
+		<div class="e-content">
+			 <!-- raw HTML omitted -->
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://ericgregorich.com/2022/06/21/how-to-access.html">How to access environment variables in a Canvas Power App</a></h1>
+		
+
+		<a href="https://ericgregorich.com/2022/06/21/how-to-access.html" class="u-url"><time class="dt-published" datetime="2022-06-21 13:48:36 -0400">Jun 21, 2022</time></a>
+
+		<div class="e-content">
+			 <!-- raw HTML omitted -->
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://ericgregorich.com/2022/06/21/enable-custom-scripting.html">Enable custom scripting for SharePoint Online site.</a></h1>
+		
+
+		<a href="https://ericgregorich.com/2022/06/21/enable-custom-scripting.html" class="u-url"><time class="dt-published" datetime="2022-06-21 08:54:15 -0400">Jun 21, 2022</time></a>
+
+		<div class="e-content">
+			 <!-- raw HTML omitted -->
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://ericgregorich.com/2022/06/20/schedule-time-to.html">Schedule time to work on projects rather than tasks</a></h1>
+		
+
+		<a href="https://ericgregorich.com/2022/06/20/schedule-time-to.html" class="u-url"><time class="dt-published" datetime="2022-06-20 20:00:00 -0400">Jun 20, 2022</time></a>
+
+		<div class="e-content">
+			 <!-- raw HTML omitted -->
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://ericgregorich.com/2022/06/20/use-apple-shortcuts.html">Use Apple Shortcuts to send notes on YouTube videos to Readwise</a></h1>
+		
+
+		<a href="https://ericgregorich.com/2022/06/20/use-apple-shortcuts.html" class="u-url"><time class="dt-published" datetime="2022-06-20 20:00:00 -0400">Jun 20, 2022</time></a>
+
+		<div class="e-content">
+			 <!-- raw HTML omitted -->
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://ericgregorich.com/2022/06/03/name-too-long.html">Name too long error in Power Apps</a></h1>
+		
+
+		<a href="https://ericgregorich.com/2022/06/03/name-too-long.html" class="u-url"><time class="dt-published" datetime="2022-06-03 08:42:45 -0400">Jun 3, 2022</time></a>
+
+		<div class="e-content">
+			 <!-- raw HTML omitted -->
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://ericgregorich.com/2022/06/03/microsoft-power-apps.html">Microsoft Power Apps Icons</a></h1>
+		
+
+		<a href="https://ericgregorich.com/2022/06/03/microsoft-power-apps.html" class="u-url"><time class="dt-published" datetime="2022-06-03 08:36:55 -0400">Jun 3, 2022</time></a>
+
+		<div class="e-content">
+			 <!-- raw HTML omitted -->
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://ericgregorich.com/2022/06/02/how-these-hey.html">How these Hey features changed the way I think about email</a></h1>
+		
+
+		<a href="https://ericgregorich.com/2022/06/02/how-these-hey.html" class="u-url"><time class="dt-published" datetime="2022-06-02 20:00:00 -0400">Jun 2, 2022</time></a>
+
+		<div class="e-content">
+			 <!-- raw HTML omitted -->
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://ericgregorich.com/2022/05/30/adding-color-to.html">Adding color to your tools can help you be more productive</a></h1>
+		
+
+		<a href="https://ericgregorich.com/2022/05/30/adding-color-to.html" class="u-url"><time class="dt-published" datetime="2022-05-30 20:00:00 -0400">May 30, 2022</time></a>
+
+		<div class="e-content">
+			 <!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://ericgregorich.com/2022/05/27/new-to-mac.html">New to Mac? Here are some tips to help be productive</a></h1>
+		
+
+		<a href="https://ericgregorich.com/2022/05/27/new-to-mac.html" class="u-url"><time class="dt-published" datetime="2022-05-27 20:00:00 -0400">May 27, 2022</time></a>
+
+		<div class="e-content">
+			 <!-- raw HTML omitted -->
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://ericgregorich.com/2022/04/06/using-an-index.html">Using an index card to manage your daily tasks and notes</a></h1>
+		
+
+		<a href="https://ericgregorich.com/2022/04/06/using-an-index.html" class="u-url"><time class="dt-published" datetime="2022-04-06 20:00:00 -0400">Apr 6, 2022</time></a>
+
+		<div class="e-content">
+			 <!-- raw HTML omitted -->
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://ericgregorich.com/2022/04/03/meditations-by-marcus.html">Meditations by Marcus Aurelius</a></h1>
+		
+
+		<a href="https://ericgregorich.com/2022/04/03/meditations-by-marcus.html" class="u-url"><time class="dt-published" datetime="2022-04-03 20:00:00 -0400">Apr 3, 2022</time></a>
+
+		<div class="e-content">
+			 <!-- raw HTML omitted -->
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://ericgregorich.com/2022/03/09/power-apps-error.html">Power Apps Error Function</a></h1>
+		
+
+		<a href="https://ericgregorich.com/2022/03/09/power-apps-error.html" class="u-url"><time class="dt-published" datetime="2022-03-09 12:12:00 -0400">Mar 9, 2022</time></a>
+
+		<div class="e-content">
+			 <!-- raw HTML omitted -->
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://ericgregorich.com/2022/02/12/app-spotlight-craft.html">App Spotlight – Craft</a></h1>
+		
+
+		<a href="https://ericgregorich.com/2022/02/12/app-spotlight-craft.html" class="u-url"><time class="dt-published" datetime="2022-02-12 20:00:00 -0400">Feb 12, 2022</time></a>
+
+		<div class="e-content">
+			 <!-- raw HTML omitted -->
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://ericgregorich.com/2022/02/07/bypass-the-user.html">Bypass the user consent prompt in Power Apps</a></h1>
+		
+
+		<a href="https://ericgregorich.com/2022/02/07/bypass-the-user.html" class="u-url"><time class="dt-published" datetime="2022-02-07 12:17:00 -0400">Feb 7, 2022</time></a>
+
+		<div class="e-content">
+			 <!-- raw HTML omitted -->
+<p>This is what worked for me. I ran this from the Windows PowerShell ISE run as administrator.<!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted -->```
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Force
+dir . | Unblock-File
+Install-Module -Name Microsoft.PowerApps.Administration.PowerShell
+Install-Module -Name Microsoft.PowerApps.PowerShell -AllowClobber
+Import-Module Microsoft.Online.SharePoint.Powershell -Verbose
+Connect-SPOService -Url https://&laquo;your tenant&raquo;-admin.sharepoint.com
+Set-AdminPowerAppApisToBypassConsent -AppName &laquo;GUID&raquo;</p>
+<pre tabindex="0"><code>&lt;/code&gt;&lt;/pre&gt;&lt;ol&gt;&lt;li&gt;Set the Execution Policy to allow us to run the PowerShell. Accept the prompts.&lt;/li&gt;&lt;li&gt;Install the Power Apps modules. Accept the prompts.&lt;/li&gt;&lt;li&gt;Import the SharePoint PowerShell module.&lt;/li&gt;&lt;li&gt;Connect to the tenant admin site. You'll be prompted to authenticate.&lt;/li&gt;&lt;li&gt;&lt;code&gt;Set-AdminPowerAppAPIsToBypassConsent&lt;/code&gt; is the command that applies the change. Pass in the AppName (this is the App ID that can be found on the App Details page)&lt;/li&gt;&lt;li&gt;I was prompted for the environment name, which can be found by running &lt;code&gt;Get-AdminPowerAppEnvironment&lt;/code&gt;, and it will return the default environment name. Copy the value to be used for the Environment parameter when prompted.&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;strong&gt;Additional Resources&lt;/strong&gt;&lt;/p&gt;&lt;figure class=&quot;kg-card kg-bookmark-card&quot;&gt;&lt;a class=&quot;kg-bookmark-container&quot; href=&quot;https://docs.microsoft.com/en-us/powershell/module/microsoft.powerapps.administration.powershell/set-adminpowerappapistobypassconsent?view=pa-ps-latest&quot;&gt;&lt;div class=&quot;kg-bookmark-content&quot;&gt;&lt;div class=&quot;kg-bookmark-title&quot;&gt;Set-AdminPowerAppApisToBypassConsent (Microsoft.PowerApps.Administration.PowerShell)&lt;/div&gt;&lt;div class=&quot;kg-bookmark-description&quot;&gt;The Set-AdminPowerAppApisToBypassConsent cmdlet changes the consent bypass so that users are are not required to authorize API connections for the input app. The command changes the bypassConsent flag of an app to true. Using this command, end users will observe consent is bypassed for First Party c…&lt;/div&gt;&lt;div class=&quot;kg-bookmark-metadata&quot;&gt;&lt;img class=&quot;kg-bookmark-icon&quot; src=&quot;https://ericgregorich.com/uploads/2022/5ef3439ebd.jpg&quot; alt=&quot;&quot;&gt;&lt;span class=&quot;kg-bookmark-author&quot;&gt;Microsoft Docs&lt;/span&gt;&lt;span class=&quot;kg-bookmark-publisher&quot;&gt;jimholtz&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;kg-bookmark-thumbnail&quot;&gt;&lt;img src=&quot;https://ericgregorich.com/uploads/2022/60cbfd56d8.jpg&quot; alt=&quot;&quot;&gt;&lt;/div&gt;&lt;/a&gt;&lt;/figure&gt;&lt;figure class=&quot;kg-card kg-bookmark-card&quot;&gt;&lt;a class=&quot;kg-bookmark-container&quot; href=&quot;https://docs.microsoft.com/en-us/power-platform/admin/powerapps-powershell&quot;&gt;&lt;div class=&quot;kg-bookmark-content&quot;&gt;&lt;div class=&quot;kg-bookmark-title&quot;&gt;PowerShell support - Power Platform&lt;/div&gt;&lt;div class=&quot;kg-bookmark-description&quot;&gt;Description of the different PowerShell cmdlets and a walkthrough of how to install and run them.&lt;/div&gt;&lt;div class=&quot;kg-bookmark-metadata&quot;&gt;&lt;img class=&quot;kg-bookmark-icon&quot; src=&quot;https://ericgregorich.com/uploads/2022/5ef3439ebd.jpg&quot; alt=&quot;&quot;&gt;&lt;span class=&quot;kg-bookmark-author&quot;&gt;Microsoft Docs&lt;/span&gt;&lt;span class=&quot;kg-bookmark-publisher&quot;&gt;laneswenka&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;kg-bookmark-thumbnail&quot;&gt;&lt;img src=&quot;https://ericgregorich.com/uploads/2022/60cbfd56d8.jpg&quot; alt=&quot;&quot;&gt;&lt;/div&gt;&lt;/a&gt;&lt;/figure&gt;
+</code></pre>
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://ericgregorich.com/2022/01/05/check-for-a.html">Check for a null or blank SharePoint Field value in Power Automate</a></h1>
+		
+
+		<a href="https://ericgregorich.com/2022/01/05/check-for-a.html" class="u-url"><time class="dt-published" datetime="2022-01-05 12:27:00 -0400">Jan 5, 2022</time></a>
+
+		<div class="e-content">
+			 <!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://ericgregorich.com/2021/11/21/my-detailed-review.html">My detailed review of the reMarkable 2 e-ink tablet</a></h1>
+		
+
+		<a href="https://ericgregorich.com/2021/11/21/my-detailed-review.html" class="u-url"><time class="dt-published" datetime="2021-11-21 01:00:00 -0400">Nov 21, 2021</time></a>
+
+		<div class="e-content">
+			 <!-- raw HTML omitted -->
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://ericgregorich.com/2021/01/12/use-a-zettelkasten.html">Use a Zettelkasten and change how you take notes forever</a></h1>
+		
+
+		<a href="https://ericgregorich.com/2021/01/12/use-a-zettelkasten.html" class="u-url"><time class="dt-published" datetime="2021-01-12 16:19:00 -0400">Jan 12, 2021</time></a>
+
+		<div class="e-content">
+			 <!-- raw HTML omitted -->
+
+		</div>
+	  </div>
+	
+
+</div>
+
+
+    
+    
+
+  </body>
+
+</html>
