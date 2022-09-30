@@ -24,6 +24,82 @@
 	
 	  <div class="h-entry">
 		
+			<h1><a href="https://ericgregorich.com/2022/09/30/search-office-users.html">Search Office 365 users in a Power Apps ComboBox</a></h1>
+		
+
+		<a href="https://ericgregorich.com/2022/09/30/search-office-users.html" class="u-url"><time class="dt-published" datetime="2022-09-30 14:04:53 -0400">Sep 30, 2022</time></a>
+
+		<div class="e-content">
+			 <p>We can easily search all users in the tenant by adding the Office365Users connector to our app.</p>
+<ul>
+<li>Add Office365Users data connector.</li>
+<li>Add a ComboBox control.</li>
+<li>Enable searching in the ComboBox control.</li>
+<li>In the Items property of the ComboBox control, add the following formula.</li>
+</ul>
+<pre tabindex="0"><code>Office365Users.SearchUser({searchTerm:Self.SearchText, top: 20})
+</code></pre><p>Now, when the user searches in the Combobox, it will search all of the users in Office 365 (using their Display Name by default).</p>
+<p>We can also show additional fields in the ComboBox control, which can help find the correct user.</p>
+<ul>
+<li>Select the Fields property, and click Edit.</li>
+<li>Change the Layout to Double.</li>
+<li>Select the Primary Text and Secondary Text fields that you want to show. You can also change the SearchField here.</li>
+</ul>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://ericgregorich.com/2022/09/30/last-week-i.html" class="u-url"><time class="dt-published" datetime="2022-09-30 08:55:19 -0400">Sep 30, 2022</time></a>
+
+		<div class="e-content">
+			 <p>Last week, I attended the first Microsoft Power Platform Conference 2022 in Orlando. My summary of the conference, including announcements of new features, can be found in this <a href="https://www.abelsolutions.com/microsoft-power-platform-top-10-things-to-get-excited-about-now/">post</a>.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://ericgregorich.com/2022/09/29/the-environment-selector.html" class="u-url"><time class="dt-published" datetime="2022-09-29 08:28:19 -0400">Sep 29, 2022</time></a>
+
+		<div class="e-content">
+			 <p>The environment selector for the Power Platform has been updated to allow searching and filtering of your environments. I see it rolling out to a few of my tenants.</p>
+<p><img src="https://ericgregorich.com/uploads/2022/58f42a66c7.png" alt=""></p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://ericgregorich.com/2022/09/26/announcing-the-allnew.html" class="u-url"><time class="dt-published" datetime="2022-09-26 19:12:23 -0400">Sep 26, 2022</time></a>
+
+		<div class="e-content">
+			 <p><a href="https://on.substack.com/p/new-web-reader?r=1cnvs&amp;s=r&amp;utm_campaign=post&amp;utm_medium=web">Announcing the all-new Substack Reader for web</a></p>
+<blockquote>
+<p>Want to add a publication from outside Substack? No problem—just select “Add RSS feed” from the left sidebar.</p>
+</blockquote>
+<p>I keep seeing on Twitter that Substack is finally going to replace what we lost in Google Reader all those years ago. What was special about Google Reader that has not already been replaced by Feedbin, Feedly, Inoreader, NetNewsWire, and the dozens of other RSS services out there?</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://ericgregorich.com/2022/09/25/ive-moved-all.html" class="u-url"><time class="dt-published" datetime="2022-09-25 17:11:02 -0400">Sep 25, 2022</time></a>
+
+		<div class="e-content">
+			 <p>I&rsquo;ve moved all my RSS, newsletters, and Twitter lists to Feedbin. I just discovered there is a Micro.blog integration available! After configuring the integration, I can share an item directly to Micro.blog and write a post from the Feedbin app.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
 			<h1><a href="https://ericgregorich.com/2022/09/25/im-trying-the.html">I’m trying the Agenda app</a></h1>
 		
 
