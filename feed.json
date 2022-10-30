@@ -1,11 +1,82 @@
 {
 	"version": "https://jsonfeed.org/version/1",
-	"title": "Eric Gregorich",
+	"title": "Eric Gregorich | Blog",
 	"icon": "https://micro.blog/ericgregorich/avatar.jpg",
 	"home_page_url": "https://blog.ericgregorich.com/",
 	"feed_url": "https://blog.ericgregorich.com/feed.json",
 	"items": [
 		
+			{
+				"id": "http://ericgregorich.micro.blog/2022/10/30/im-one-to.html",
+				
+				"content_html": "<p>I’m one to keep trying new phone cases to change things up (it drives my wife crazy). It’s better than buying a new phone. Right? My current phone case is by <a href=\"https://amzn.to/3TTzhoK\" title=\"Peak Design\">Peak Design</a>, and I’m enjoying it so far.</p>\n<p>A great feel, no fingerprints, a strong magnet, and decent protection.</p>\n<p><img src=\"https://blog.ericgregorich.com/uploads/2022/b14cd334ba.jpg\" alt=\"Peak Design iPhone Case\"></p>\n",
+				"content_text": "I’m one to keep trying new phone cases to change things up (it drives my wife crazy). It’s better than buying a new phone. Right? My current phone case is by [Peak Design](https://amzn.to/3TTzhoK \"Peak Design\"), and I’m enjoying it so far. \n\nA great feel, no fingerprints, a strong magnet, and decent protection.\n\n![Peak Design iPhone Case](https://blog.ericgregorich.com/uploads/2022/b14cd334ba.jpg)\n\n",
+				"date_published": "2022-10-30T08:38:35-04:00",
+				"url": "https://blog.ericgregorich.com/2022/10/30/im-one-to.html",
+				"tags": ["Hardware"]
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2022/10/29/change-too-often.html",
+				
+				"content_html": "<blockquote>\n<p>Change too often and you stand for nothing. You’re simply chasing a shadow you will never catch. Refuse to change and you’re likely to be overlooked. Somewhere in between is the posture of someone who has the maximum chance for success. - <a href=\"https://seths.blog/2022/10/caring-just-the-right-amount/\" title=\"Seth Godin\">Seth Godin</a> 💬</p>\n</blockquote>\n",
+				"content_text": "> Change too often and you stand for nothing. You’re simply chasing a shadow you will never catch. Refuse to change and you’re likely to be overlooked. Somewhere in between is the posture of someone who has the maximum chance for success. - [Seth Godin](https://seths.blog/2022/10/caring-just-the-right-amount/ \"Seth Godin\") 💬\n\n",
+				"date_published": "2022-10-29T19:32:40-04:00",
+				"url": "https://blog.ericgregorich.com/2022/10/29/change-too-often.html",
+				"tags": ["Quotes"]
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2022/10/29/stolen-focus-by.html",
+				"title": "📚 Stolen Focus by Johann Hari",
+				"content_html": "<p>I finished reading: <a href=\"https://micro.blog/books/9780593138526\" title=\"Stolen Focus\">Stolen Focus</a> by Johann Hari 📚</p>\n<p>Stolen Focus does not provide a personal step-by-step guide to remove distractions from our lives. Instead, it is about how this “Attention Crisis” impacts society.</p>\n<p>Here are some of my notes about the author’s points in this book.</p>\n<h2 id=\"what-impact-is-this-attention-crisis-having-on-our-lives\">What impact is this Attention Crisis having on our lives?</h2>\n<ul>\n<li>We’re finding it harder to find “Flow,” during which we become engrossed in an activity without disruptions.</li>\n<li>With all the tiny bits of information continuously flowing into our lives, it becomes less likely that we’ll read books.</li>\n<li>It’s harder to think because we don’t allow our minds to wonder as much as we should. Mind wandering is a critical stage in which our brain has insights, makes connections, and plans for the future.</li>\n<li>Technology is becoming better at keeping us distracted. The more we look at their service, the more money the company makes, so they manipulate us to keep us engaged.</li>\n</ul>\n<h2 id=\"what-is-contributing-to-this-attention-crisis\">What is contributing to this Attention Crisis?</h2>\n<ul>\n<li>We’re bombarded with chemicals that harm our health and, ultimately, our attention.</li>\n<li>Failing to explore ADHD. More people than ever are diagnosed with ADHD, yet we’ve prescribed medications rather than solving the causes.</li>\n<li>Our children are not allowed to explore and play like in the past. They’re no longer playing in the streets and wandering the neighborhood. They’re told precisely what to do in school and what the outcome should be rather than allowing creative learning.</li>\n<li>We’re not getting enough sleep due to artificial light and consumer capitalism. We’re spending too much time flipping through Tick-Tock videos rather than going to bed at a decent time and allowing our brains to recover and make connections during sleep.</li>\n</ul>\n<h2 id=\"how-do-we-recover\">How do we recover?</h2>\n<ul>\n<li>Fewer work hours to allow us more time to rest and recover.</li>\n<li>Allow our children more time to play and explore, especially at school.</li>\n<li>Change our technology to be less disruptive to our lives. Yet, the companies building it do not have an incentive to do so unless regulations are established, which is an entirely different issue.</li>\n<li>Take it upon ourselves to control what we consume, get more sleep and exercise, and spend quality time reading and just being bored. It’s good for us!</li>\n</ul>\n<p><a href=\"https://amzn.to/3Uaacpe\" title=\"Stolen Focus\">Get Stolen Focus on Amazon</a>.</p>\n",
+				"content_text": "I finished reading: [Stolen Focus](https://micro.blog/books/9780593138526 \"Stolen Focus\") by Johann Hari 📚 \n\nStolen Focus does not provide a personal step-by-step guide to remove distractions from our lives. Instead, it is about how this “Attention Crisis” impacts society.\n\nHere are some of my notes about the author’s points in this book.\n\n## What impact is this Attention Crisis having on our lives?\n- We’re finding it harder to find “Flow,” during which we become engrossed in an activity without disruptions. \n- With all the tiny bits of information continuously flowing into our lives, it becomes less likely that we’ll read books.\n- It’s harder to think because we don’t allow our minds to wonder as much as we should. Mind wandering is a critical stage in which our brain has insights, makes connections, and plans for the future.\n- Technology is becoming better at keeping us distracted. The more we look at their service, the more money the company makes, so they manipulate us to keep us engaged. \n\n## What is contributing to this Attention Crisis?\n- We’re bombarded with chemicals that harm our health and, ultimately, our attention.\n- Failing to explore ADHD. More people than ever are diagnosed with ADHD, yet we’ve prescribed medications rather than solving the causes.\n- Our children are not allowed to explore and play like in the past. They’re no longer playing in the streets and wandering the neighborhood. They’re told precisely what to do in school and what the outcome should be rather than allowing creative learning.\n- We’re not getting enough sleep due to artificial light and consumer capitalism. We’re spending too much time flipping through Tick-Tock videos rather than going to bed at a decent time and allowing our brains to recover and make connections during sleep.\n\n## How do we recover?\n- Fewer work hours to allow us more time to rest and recover.\n- Allow our children more time to play and explore, especially at school.\n- Change our technology to be less disruptive to our lives. Yet, the companies building it do not have an incentive to do so unless regulations are established, which is an entirely different issue.\n- Take it upon ourselves to control what we consume, get more sleep and exercise, and spend quality time reading and just being bored. It’s good for us!\n\n[Get Stolen Focus on Amazon](https://amzn.to/3Uaacpe \"Stolen Focus\").\n\n",
+				"date_published": "2022-10-29T16:03:18-04:00",
+				"url": "https://blog.ericgregorich.com/2022/10/29/stolen-focus-by.html",
+				"tags": ["Reading"]
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2022/10/28/currently-reading-the.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781943623389\">The Laws of Creativity</a> by Joey Cofone 📚</p>\n",
+				"content_text": "Currently reading: [The Laws of Creativity](https://micro.blog/books/9781943623389) by Joey Cofone 📚\n",
+				"date_published": "2022-10-28T22:25:15-04:00",
+				"url": "https://blog.ericgregorich.com/2022/10/28/currently-reading-the.html",
+				"tags": ["Reading"]
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2022/10/28/microblog-a-blog.html",
+				
+				"content_html": "<p><a href=\"https://micro.blog\">Micro.blog</a></p>\n<ol>\n<li>\n<p>A blog that encourages you to write what&rsquo;s on your mind in short posts or long essays.</p>\n</li>\n<li>\n<p>A timeline that connects you to like-minded people.</p>\n</li>\n<li>\n<p>You&rsquo;re contributing to the open web. Content is yours, distribute it how you like.</p>\n</li>\n</ol>\n",
+				"content_text": "[Micro.blog](https://micro.blog)\n\n1) A blog that encourages you to write what's on your mind in short posts or long essays. \n\n2) A timeline that connects you to like-minded people.\n\n3) You're contributing to the open web. Content is yours, distribute it how you like. \n",
+				"date_published": "2022-10-28T18:33:28-04:00",
+				"url": "https://blog.ericgregorich.com/2022/10/28/microblog-a-blog.html",
+				"tags": ["Updates"]
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2022/10/28/i-uninstalled-all.html",
+				
+				"content_html": "<p>I uninstalled all of the social apps from my phone (again), except Micro.blog.</p>\n<p>I have trouble leaving Twitter because there is such a robust community I follow for news and updates pertaining to my work.</p>\n<p>I’m experimenting with Mailbrew to provide a daily Twitter digest.</p>\n",
+				"content_text": "I uninstalled all of the social apps from my phone (again), except Micro.blog. \n\nI have trouble leaving Twitter because there is such a robust community I follow for news and updates pertaining to my work. \n\nI’m experimenting with Mailbrew to provide a daily Twitter digest. \n",
+				"date_published": "2022-10-28T18:24:54-04:00",
+				"url": "https://blog.ericgregorich.com/2022/10/28/i-uninstalled-all.html",
+				"tags": ["Updates"]
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2022/10/26/annelaure-le-cunff.html",
+				
+				"content_html": "<p>Anne-Laure Le Cunff fed Jasper, an AI writing tool, 100 headlines from content she wrote in the past and then shared them on a <a href=\"https://toolbox.nesslabs.com/\">website</a>.</p>\n<p>While the articles were repetitive and dry, it’s quite scary how AI can be used to generate content. She even created the thumbnails with AI!</p>\n<p>Here is a <a href=\"https://youtu.be/rtgyps-6jdg\">video</a> where she explains the process and the results.</p>\n",
+				"content_text": "Anne-Laure Le Cunff fed Jasper, an AI writing tool, 100 headlines from content she wrote in the past and then shared them on a [website](https://toolbox.nesslabs.com/).\n\nWhile the articles were repetitive and dry, it’s quite scary how AI can be used to generate content. She even created the thumbnails with AI!\n\nHere is a [video](https://youtu.be/rtgyps-6jdg) where she explains the process and the results.\n",
+				"date_published": "2022-10-26T22:35:58-04:00",
+				"url": "https://blog.ericgregorich.com/2022/10/26/annelaure-le-cunff.html"
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2022/10/26/i-decided-to.html",
+				
+				"content_html": "<p>I decided to try publishing the <a href=\"https://notes.ericgregorich.com/\">dev notes</a> that I&rsquo;ve been creating in Obsidian. The navigation is pretty slick, and the notes are linked together, making it easy to jump around but not lose your place. I only have about 40 notes so far.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I decided to try publishing the [dev notes](https://notes.ericgregorich.com/) that I've been creating in Obsidian. The navigation is pretty slick, and the notes are linked together, making it easy to jump around but not lose your place. I only have about 40 notes so far. \n\n<img src=\"https://blog.ericgregorich.com/uploads/2022/6b24779109.png\" width=\"600\" height=\"383\" alt=\"Eric Gregorich's Obsidian Publish Screenshot\">\n",
+				"date_published": "2022-10-26T09:20:28-04:00",
+				"url": "https://blog.ericgregorich.com/2022/10/26/i-decided-to.html",
+				"tags": ["Apps","Updates"]
+			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/10/25/i-stumbled-across.html",
 				
@@ -13,13 +84,13 @@
 				"content_text": "I stumbled across this [article](http://richardcarter.com/sidelines/charles-darwins-note-making-system) by Richard Carter that describes how Charles Darin took notes. \n\n> If you were to keep a portfolio open for a couple of years, and throw in slips of paper as subjects crossed your mind, you would soon have a skeleton (and that seems to me the difficulty) on which to put the flesh and colours in your inimitable manner.\n\nDarwin would mark up books, write literature notes, and even create a rough abstract of the books he read. He originally would use bound notebooks but later found them too restrictive, favoring the loose slips of paper instead.\n\nThe main takeaway is that he did not create a perfect system from the beginning, It always changed. The key is to capture notes and revisit them to create something useful.\n\n",
 				"date_published": "2022-10-25T08:24:01-04:00",
 				"url": "https://blog.ericgregorich.com/2022/10/25/i-stumbled-across.html",
-				"tags": ["Books"]
+				"tags": ["Reading"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/10/23/its-a-beautiful.html",
 				
 				"content_html": "<p>It’s a beautiful day to sit outside and read.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "It’s a beautiful day to sit outside and read. \n\n<img src=\"uploads/2022/16fb41ff01.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "It’s a beautiful day to sit outside and read. \n\n<img src=\"https://blog.ericgregorich.com/uploads/2022/16fb41ff01.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2022-10-23T13:06:07-04:00",
 				"url": "https://blog.ericgregorich.com/2022/10/23/its-a-beautiful.html",
 				"tags": ["Photos"]
@@ -64,7 +135,7 @@
 				"id": "http://ericgregorich.micro.blog/2022/10/20/i-imported-my.html",
 				
 				"content_html": "<p>I imported my Readwise collection into my Obsidian vault. The graph view looks like a mess, but I can start seeing where some knowledge is clustered together. I&rsquo;m thinking the local graph will be more useful day-to-day.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I imported my Readwise collection into my Obsidian vault. The graph view looks like a mess, but I can start seeing where some knowledge is clustered together. I'm thinking the local graph will be more useful day-to-day.\n\n<img src=\"uploads/2022/32520b564e.png\" width=\"600\" height=\"418\" alt=\"Eric Gregorich Obsidian Graph 2022-10-20\">\n",
+				"content_text": "I imported my Readwise collection into my Obsidian vault. The graph view looks like a mess, but I can start seeing where some knowledge is clustered together. I'm thinking the local graph will be more useful day-to-day.\n\n<img src=\"https://blog.ericgregorich.com/uploads/2022/32520b564e.png\" width=\"600\" height=\"418\" alt=\"Eric Gregorich Obsidian Graph 2022-10-20\">\n",
 				"date_published": "2022-10-20T16:37:29-04:00",
 				"url": "https://blog.ericgregorich.com/2022/10/20/i-imported-my.html",
 				"tags": ["Updates"]
@@ -94,7 +165,7 @@
 				"content_text": "I’ve been jumping between 3 books this week. \n\nThe first is [Fairy Tale, by Stephen King](https://amzn.to/3s0YZeE \"Fairy Tale, by Stephen King\"). I’m about 3/4 of the way through and have to say it’s excellent. I highly recommend the audiobook. \n\nThe next is [Stolen Focus by Johann Hari](https://amzn.to/3rZMRuj \"Stolen Focus by Johann Hari\"). Another book is about how the distractions from today’s technology are harming us. \n\nThe last is [Where Good Ideas Come From by Steven Johnson](https://amzn.to/3eAJ6bC \"Where Good Ideas Come From\"). This book discusses how our mind makes connections that form ideas. This book may interest you if you’re interested in PKM and all the new apps like Roam Research, Obsidian, Tana, Scrintal, Napkin, etc. \n\n",
 				"date_published": "2022-10-16T08:28:37-04:00",
 				"url": "https://blog.ericgregorich.com/2022/10/16/what-im-reading.html",
-				"tags": ["Books"]
+				"tags": ["Reading"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/10/15/i-made-some.html",
@@ -174,7 +245,7 @@
 				"content_text": "Reading [Stolen Focus](https://micro.blog/books/9780593138526 \"Stolen Focus\") by Johann Hari 📚, the author discusses the “Disruption of Mind Wandering” in Chapter 5 and how we tend to consider mind wandering negative. Yet, the author explains, it’s part of how we learn and create.\n\n> “Creativity is not where you create some new thing that’s emerged from your brain.” “It’s a new association between two things that were already there.” Mind-wandering allows “more extended trains of thought to unfold, which allows for more associations to be made.” - Stolen Focus p96\n\nWhile this is nothing new, it caught my attention because I am a daydreamer. Ever since I was a kid, I would get in trouble for not paying attention. I suppose my excuse now is, “I’m creating something!”. \n\nMind wandering is a necessary part of how our brains work. For example, as we read, we focus on the words. Our mind tries to make connections to the ideas we’re reading about. We may think of past experiences, related reading, or even contradictions. This is precisely what we should be doing. This part of reading helps us learn and make sense of things.\n\nOf course, we can easily take our minds wandering too far when we’re trying to read but keep thinking about checking Twitter or what’s for dinner. In these cases, we’re getting into distraction territory. \n\n",
 				"date_published": "2022-10-09T09:15:47-04:00",
 				"url": "https://blog.ericgregorich.com/2022/10/09/the-benefits-of.html",
-				"tags": ["Books"]
+				"tags": ["Reading"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/10/09/i-try-to.html",
@@ -263,7 +334,7 @@
 				"content_text": "Currently reading: [Stolen Focus](https://micro.blog/books/9780593138526 \"Stolen Focus\") by Johann Hari 📚\n\n> It's when you set aside your distractions, he said, that you begin to see what you were distracting yourself from. - Stolen Focus p27 💬\n\n",
 				"date_published": "2022-10-03T08:27:18-04:00",
 				"url": "https://blog.ericgregorich.com/2022/10/03/082718.html",
-				"tags": ["Books","Quotes"]
+				"tags": ["Quotes","Reading"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/10/03/currently-reading-stolen.html",
@@ -272,7 +343,7 @@
 				"content_text": "Currently reading: [Stolen Focus](https://micro.blog/books/9780593138526 \"Stolen Focus\") by Johann Hari 📚\n\nAs a kid, I’ve always struggled with focus and attention, even without digital distractions. I’m a daydreamer. Today’s digital tools have made our lives simpler, yet at a cost. Even as I read the introduction to this book, I noticed I picked up my phone at least twice. \n\nStaying focused becomes more manageable when working on something I enjoy—writing code, building something, solving a problem. It’s easy to get into focus during those times. We can’t always be in deep focus. What do we do when we’re not?\n\nI’m hoping this book is not only about scare tactics. I’m not expecting some miracle cure, but perhaps a guide through my own thoughts to help figure out what works for me. \n\nI hope I can stay focused enough to read through the nearly 300 pages in this book. :)\n\n",
 				"date_published": "2022-10-03T08:11:48-04:00",
 				"url": "https://blog.ericgregorich.com/2022/10/03/currently-reading-stolen.html",
-				"tags": ["Books"]
+				"tags": ["Reading"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/10/02/airshow-podcast-app.html",
@@ -341,7 +412,7 @@
 				"content_text": "Just received my physical copy of [Daily Creative: A Practical Guide for Staying Prolific, Brilliant, and Healthy](https://micro.blog/books/9781728256665) by Todd Henry 📚\n\nThis book was highly recommended. I'll try to take my time and read it as intended, one day at a time.\n\n<img src=\"https://ericgregorich.micro.blog/uploads/2022/24084bae76.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-09-16T17:00:07-04:00",
 				"url": "https://blog.ericgregorich.com/2022/09/16/just-received-my.html",
-				"tags": ["Books"]
+				"tags": ["Reading"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/09/16/im-looking-forward.html",
@@ -382,7 +453,7 @@
 				"content_text": "I have started to tackle Meditations. I usually don't read this book, but I thought I would try it. I am taking notes as I go. I just write down what comes to mind as I read each part, even if my interpretation is completely off. \n\n\n## Introduction\nHis real name is Marcus Annius Verus.- Born in A.D. 121.- \"Meditations\" was not intended to be published. Marcus was writing to himself.- Marcus does not mention Stoicism.\n\n## Book 1 Debts and Lessons\nMarcus shows gratitude for the various people in his life.\n\n## Book 2 On the river gran, among the quadi\nPeople can be cruel, ungrateful, arrogant, etc., but this does not affect me.\n\n1. Stop being persuaded by impulses. Your mind and body and simple and don't need extravagance.\n2. Nature will always change to do what is best for nature. You are part of nature. Trust the change.\n3. You have limited time in this world. Don't spend it procrastinating on things of importance.\n4. Focus on things as if it was the last thing you will do in life.\n5. You have one life, and it's almost over.\n6. Take the time to learn things for yourself and less for others.\n7. Listen to your heart, and find your happiness.\n8. No one can prevent you from being in harmony with nature.\n9. Sinning out of desire is worse than doing so out of anger. Passion comes from within, and anger is caused by something external.\n10. Death happens to both good and bad people; therefore, how could it be a bad thing? How could death be a punishment for people who are good all their lives?\n11. Objects are temporary and meaningless.\n12. People deserve our affection because they are like us people.\n13. You cannot lose the future or the past, only the present.\n14. \"Everything is just an impression\" - Monimus the Cynic\n15. The soul degrades when it becomes upset with things that happen, you turn your back on another when you experience too much pleasure or pain, when you act false, and when your actions are without purpose.\n16. Be true to yourself without depending on others. You can't control nature, perception, the nature of the body, and the soul.\n",
 				"date_published": "2022-09-12T08:25:48-04:00",
 				"url": "https://blog.ericgregorich.com/2022/09/12/meditations-by-marcus.html",
-				"tags": ["Books"]
+				"tags": ["Reading"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/09/11/becoming-a-fulltime.html",
@@ -407,7 +478,7 @@
 				"content_text": "While over the past decade, “Productivity” books try to teach you how to be productive and get things done, “I Didn’t Do The Thing Today” jumps on the recent “Anti-productivity” bandwagon and reminds us that to be genuinely productive, we need to relax, rest, and embrace the unexpected. \n\n[I Didn’t Do The Thing Today by Madeleine Dore](https://micro.blog/books/9780593419144 \"I Didn’t Do The Thing Today by Madeleine Dore\")\n\n**Key Ideas**\n\n- We can’t compare how productive we are to others because we all have unique circumstances and objectives.\n- The unexpected and unplanned are often the best part of our days, yet we consider it a “bad day” when things don’t go as planned. Our routines and schedules should guide us but not induce guilt when they are broken.\n- Preparation, Incubation, Illumination, and Verification are the 4 stages of creativity.\n- If we determine the things we “could” do and be more flexible with when we do them, perhaps the most important things to use will surface and become part of our day without being forced.\n\n**Action Items**\n\n- Create a plan for the day to act as a guide. \n- Keep a list of things I “can” do based on my current time and energy. \n\n",
 				"date_published": "2022-09-11T10:16:38-04:00",
 				"url": "https://blog.ericgregorich.com/2022/09/11/i-didnt-do.html",
-				"tags": ["Books"]
+				"tags": ["Reading"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/09/10/project-hail-mary.html",
@@ -416,7 +487,7 @@
 				"content_text": "Finished reading: [Project Hail Mary: A Novel](https://micro.blog/books/9780593135204) by Andy Weir 📚.\n\nProject Hail Mary is a story by the same author of The Martian, Andy Weir. While The Martian's story is grounded in the science we understand today, Project Hail Mary goes beyond that and adds more sci-fi but does so without breaking the rules of science.<br>\n\nThe other difference between The Martian and Project Hail Mary is the scope. In The Martian, Mark Watney is stranded on Mars and needs to figure out how to get home. In Project Hail Mary, the Sun is being destroyed by a phenomenon, and Ryland Grace must travel to a distant star to figure out how to save Earth.\n\nThe protagonist, Ryland Grace, is a science teacher who ends up as the sole survivor of the Hail Mary as it travels to its destination, where we hope to figure out how to save Earth. Ryland wakes from a coma with no memory of how he got there or even who he is. Fortunately, his memory comes back over time.\n\nAs Ryland is solving one problem after another aboard the Hail Mary, his memories slowly return.  We see the planning of the Project Hail Mary mission on Earth and how Ryland was \"chosen\" for the mission. We also see the sacrifices that are made to make the mission happen.\n\nThe writing is engaging and fun. While there is a lot of math involved, you can get the point without understanding it. It all makes sense. This is one of the special things about Andy Weir's writing style. You can tell he loves this stuff. He spent a lot of time researching and discussing \"what if\" scenarios with real scientists and astronauts. After the success of The Martian, he likely has a pool of resources available to him.\n\nThis story is not your typical sci-fi. I felt like this could actually happen. Ryland's problems were science-based and felt realistic, opposed to forced plot twists just to make the story exciting. There were many times in this book where I imagined all of the things that could have been done if this were an action sci-fi story that we would typically see. Instead, we get a great story about a guy working out extraordinary problems.\n\nI really enjoyed this book.\n\n> “Working the problem” - NASA\n\nBy the way, a Project Hail Mary movie is being made, starring Ryan Gosling.\n",
 				"date_published": "2022-09-10T22:22:29-04:00",
 				"url": "https://blog.ericgregorich.com/2022/09/10/project-hail-mary.html",
-				"tags": ["Books"]
+				"tags": ["Reading"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/09/10/novelty-bias.html",
@@ -433,7 +504,7 @@
 				"content_text": "Currently reading: [Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series)](https://micro.blog/books/9780134494326) by Martin Robert C. 📚\n",
 				"date_published": "2022-09-09T23:49:30-04:00",
 				"url": "https://blog.ericgregorich.com/2022/09/09/currently-reading-clean.html",
-				"tags": ["Books"]
+				"tags": ["Reading"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/09/09/the-readwise-reader.html",
