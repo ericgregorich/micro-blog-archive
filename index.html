@@ -24,6 +24,44 @@
 	
 	  <div class="h-entry">
 		
+			<h1><a href="https://ericgregorich.com/2022/11/24/upnote-a-beautiful.html">UpNote - A beautiful, cross-platform app for notes</a></h1>
+		
+
+		<a href="https://ericgregorich.com/2022/11/24/upnote-a-beautiful.html" class="u-url"><time class="dt-published" datetime="2022-11-24 10:05:15 -0500">Nov 24, 2022</time></a>
+
+		<div class="e-content">
+			 <p>When it comes to my note-taking app, I have a few criteria.</p>
+<ul>
+<li>Can I write in it? I’m talking about simple, distraction-free writing. Markdown support is necessary to write and add some basic formatting without leaving the keyboard.</li>
+<li>Can I get my notes out of it? I don’t want to use any application where I’ll struggle to move my notes elsewhere.</li>
+<li>Is it available everywhere? As a user of Windows, Mac, and iOS, I need an app that will work everywhere.</li>
+<li>Is it flexible? Can I organize my notes by folders or tags? I don’t organize much and rely on search to find what I need. Some simple tags and a couple of folders suit my workflow.</li>
+<li>Can I easily publish my notes elsewhere? Sometimes it’s my blog. Sometimes it is to a PDF or some other application.</li>
+</ul>
+<p>If I were only using a Mac, I’d probably use Bear for my notes. I love its clean and simple interface, speed, and export capabilities. But I’m also using Windows, so I’ve been searching for an app that will meet my requirements.</p>
+<p>I have been using Evernote for years, and it checks some of the boxes. The biggest downside to Evernote is the note editor is not as clean as I would like, and getting notes out of Evernote can be a pain Although many apps import from Evernote, it’s not a great experience.</p>
+<p>Then I discovered <a href="https://getupnote.com" title="UpNote">UpNote</a>, a notes app similar to Bear. UpNote supports markdown and has a focus mode, making it a pleasure to write in. The sync is fast and reliable. It has plenty of features. I can organize by folder and tags. And it’s available on macOS, Windows, iOS, Android, and even Linux. I can export to various formats, including Markdown or PDF.</p>
+<p>What is UpNote missing? Well, on paper, it’s not missing much. In reality, a few things would make it perfect (for me). One is the ability to drag and drop notes into folders. Not a big deal. Since folders can be organized in any order, you can create sub-folders and even add colors and images to folder thumbnails, I’ll let it slide. Maybe some more explore options and better Markdown export. When I copy Markdown into other apps, sometimes I have to fix some things.</p>
+<p>There is also something else that is missing that I can’t quite put my finger on. You may get some level of polish from apps like Bear or Ulysses. UpNote is a beautiful app, but if I were to compare the UI, Bear might be a 9 or 10, while UpNote is an 8 or 9. UpNote’s UI is beautiful but safe and not as exciting to use as other premium apps.</p>
+<p>I will stick with UpNote for a while and see if it meets my needs long-term. Let me know if you use the app yourself or know of any similar apps!</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://ericgregorich.com/2022/11/24/ive-been-making.html" class="u-url"><time class="dt-published" datetime="2022-11-24 09:08:03 -0500">Nov 24, 2022</time></a>
+
+		<div class="e-content">
+			 <p>I&rsquo;ve been making some final tweaks on my new Micro.blog theme. I have a few more fixes before I publish (maybe this weekend?). You&rsquo;ll be able to set your colors through the plugin settings. Here are some samples.</p>
+<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
 
 		<a href="https://ericgregorich.com/2022/11/17/the-goal-is.html" class="u-url"><time class="dt-published" datetime="2022-11-17 22:19:31 -0500">Nov 17, 2022</time></a>
 
@@ -1827,6 +1865,30 @@ Get-PnPAzureADAppSitePermission -Site $targetSiteUrl
 <li>Paste the Power Apps Code into the Image property.</li>
 </ul>
 
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://ericgregorich.com/2022/02/15/update-sharepoint-calculated.html">Update SharePoint Calculated field using CSOM</a></h1>
+		
+
+		<a href="https://ericgregorich.com/2022/02/15/update-sharepoint-calculated.html" class="u-url"><time class="dt-published" datetime="2022-02-15 00:00:00 -0500">Feb 15, 2022</time></a>
+
+		<div class="e-content">
+			 <p>A Microsoft SharePoint calculated column can be updated using CSOM.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-csharp" data-lang="csharp"><span style="color:#75715e">//Enforce calculated column to refresh values 
+</span><span style="color:#75715e"></span><span style="color:#66d9ef">var</span> libraryHasCalculatedColumn = library.FieldExistsByName(ColumnNames.IsOCRVersionDiff); 
+<span style="color:#66d9ef">if</span> (libraryHasCalculatedColumn) 
+{ 
+ Field oField = library.Fields.GetByInternalNameOrTitle(ColumnNames.IsOCRVersionDiff); 
+ FieldCalculated calculatedfield = context.CastTo&lt;FieldCalculated&gt;(oField); 
+ calculatedfield.Formula = <span style="color:#e6db74">&#34;=IF(Version=OCRVersion,\&#34;No\&#34;,\&#34;Yes\&#34;)&#34;</span>; 
+ oField.Update(); 
+ context.ExecuteQueryWithExponentialRetry(); 
+}
+
+</code></pre></div>
 		</div>
 	  </div>
 	
