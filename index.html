@@ -24,16 +24,198 @@
 	
 	  <div class="h-entry">
 		
-			<h1><a href="https://ericgregorich.com/2022/12/02/i-am-trying.html">I am trying out a Working Memory file</a></h1>
+			<h1><a href="https://ericgregorich.com/2022/12/08/create-an-azure.html">Create an Azure Function App that connects to SharePoint Online</a></h1>
+		
+
+		<a href="https://ericgregorich.com/2022/12/08/create-an-azure.html" class="u-url"><time class="dt-published" datetime="2022-12-08 08:43:40 -0500">Dec 8, 2022</time></a>
+
+		<div class="e-content">
+			 <!-- raw HTML omitted -->
+<p>Get-PnPAzureADAppSitePermission -Site $targetSiteUrl
+<!-- raw HTML omitted --><!-- raw HTML omitted --></p>
+<!-- raw HTML omitted -->
+<p>namespace DemoFunctionApp
+{
+public static class Function1
+{
+[FunctionName(&ldquo;Function1&rdquo;)]
+public static async Task Run(
+[HttpTrigger(AuthorizationLevel.Function, &ldquo;get&rdquo;, &ldquo;post&rdquo;, Route = null)] HttpRequest req,
+ILogger log)
+{
+log.LogInformation(&ldquo;Started request&rdquo;);</p>
+<pre><code>        try
+        {
+            // Get values from the environment configuration
+            var certThumbprint = System.Environment.GetEnvironmentVariable(&quot;CertThumbprint&quot;, EnvironmentVariableTarget.Process);
+            var appClientId = System.Environment.GetEnvironmentVariable(&quot;AppClientId&quot;, EnvironmentVariableTarget.Process);
+            var tenantId = System.Environment.GetEnvironmentVariable(&quot;AzureTenantId&quot;, EnvironmentVariableTarget.Process);
+            var redirectUrl = System.Environment.GetEnvironmentVariable(&quot;RedirectUrl&quot;, EnvironmentVariableTarget.Process);
+            var spSiteUrl = System.Environment.GetEnvironmentVariable(&quot;SiteCollectionUrl&quot;, EnvironmentVariableTarget.Process);
+            var certificate = GetCertificate(certThumbprint);
+            var responseMessage = String.Empty;
+
+            // Get values from the querystring
+            string spListName = req.Query[&quot;ListName&quot;];
+
+            // Validate
+            if(String.IsNullOrEmpty(spListName))
+            {
+                responseMessage = &quot;Please provide a ListName querystring parameter.&quot;;
+                return new BadRequestObjectResult(responseMessage);
+            }
+
+            // Authenticate to SharePoint
+            AuthenticationManager authManager = new AuthenticationManager(appClientId, certificate, tenantId, redirectUrl, AzureEnvironment.Production, null);
+
+            using (var ctx = authManager.GetContext(spSiteUrl))
+            {
+                var splist = ctx.Web.Lists.GetByTitle(spListName);
+                ctx.Load(splist);
+                ctx.ExecuteQuery();
+                responseMessage = splist.Title + &quot; was retrieved&quot;;
+            }
+
+            return new OkObjectResult(responseMessage);
+        }
+        catch(Exception ex)
+        {
+            return new BadRequestObjectResult(ex.Message);
+        }
+    }
+
+    private static X509Certificate2 GetCertificate(string thumbprint)
+    {
+        X509Certificate2 cert = null;
+        X509Store certStore = new X509Store(StoreName.My, StoreLocation.CurrentUser);
+        certStore.Open(OpenFlags.ReadOnly);
+        X509Certificate2Collection certCollection = certStore.Certificates.Find(X509FindType.FindByThumbprint, thumbprint, false);
+
+        if (certCollection.Count &amp;gt; 0)
+        {
+            cert = certCollection[0];
+            Console.WriteLine(cert.FriendlyName);
+        }
+
+        certStore.Close();
+        return cert;
+    }
+}
+</code></pre>
+<p>}</p>
+<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>
+<!-- raw HTML omitted -->
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://ericgregorich.com/2022/12/07/im-trying-out.html" class="u-url"><time class="dt-published" datetime="2022-12-07 16:41:17 -0500">Dec 7, 2022</time></a>
+
+		<div class="e-content">
+			 <!-- raw HTML omitted -->
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://ericgregorich.com/2022/12/06/the-new-canvas.html" class="u-url"><time class="dt-published" datetime="2022-12-06 20:26:16 -0500">Dec 6, 2022</time></a>
+
+		<div class="e-content">
+			 <!-- raw HTML omitted -->
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://ericgregorich.com/2022/12/05/how-we-spend.html" class="u-url"><time class="dt-published" datetime="2022-12-05 21:01:06 -0500">Dec 5, 2022</time></a>
+
+		<div class="e-content">
+			 <blockquote>
+<p>&ldquo;How we spend our hours is how we spend our days. And, as the writer Annie Dillard so eloquently pointed out, “How we spend our days is . . . how we spend our lives.”&rdquo; (Brad Stulberg, The Practice of Groundedness) 💬</p>
+</blockquote>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://ericgregorich.com/2022/12/04/why-microblog-is.html">Why Micro.blog is a great Twitter alternative</a></h1>
+		
+
+		<a href="https://ericgregorich.com/2022/12/04/why-microblog-is.html" class="u-url"><time class="dt-published" datetime="2022-12-04 11:42:51 -0500">Dec 4, 2022</time></a>
+
+		<div class="e-content">
+			 <!-- raw HTML omitted -->
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://ericgregorich.com/2022/12/03/i-watched-the.html" class="u-url"><time class="dt-published" datetime="2022-12-03 19:50:00 -0500">Dec 3, 2022</time></a>
+
+		<div class="e-content">
+			 <p>I watched the first episode of Willow last night. It brings back memories! I loved the movie when I was a kid.</p>
+<p>While I&rsquo;m not yet blown away by the effects and story, it&rsquo;s still fun, and I‘ll undoubtedly continue watching. 📺</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://ericgregorich.com/2022/12/03/ive-been-cleaning.html" class="u-url"><time class="dt-published" datetime="2022-12-03 17:15:26 -0500">Dec 3, 2022</time></a>
+
+		<div class="e-content">
+			 <p>I’ve been cleaning up the apps on my phone. My main screen has a few widgets (photos, calendar, activity, airshow, Kindle) and this second screen has the main apps I use. Next, I’ll work on the iPad. :)</p>
+<p><img src="https://ericgregorich.com/uploads/2022/94d5501227.png" alt=""></p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://ericgregorich.com/2022/12/03/microblog-cards-theme.html">Micro.blog Cards Theme 1.0.8</a></h1>
+		
+
+		<a href="https://ericgregorich.com/2022/12/03/microblog-cards-theme.html" class="u-url"><time class="dt-published" datetime="2022-12-03 11:03:34 -0500">Dec 3, 2022</time></a>
+
+		<div class="e-content">
+			 <p>I made some minor updates to the <a href="https://micro.blog/account/plugins/view/82" title="Cards Theme">Cards Theme</a> for Micro.blog.</p>
+<ul>
+<li>Removed some unused CSS from the main.css file.</li>
+<li>Added some additional padding above the footer.</li>
+<li>Added some additional padding around the text with the cards.</li>
+<li>Removed the custom 404.html page. I had problems loading the page content because the body text would fade the opacity from 0 to 1, but the 404 page wouldn’t load this CSS to do the transition. You can add <a href="https://help.micro.blog/t/custom-404-page/73/2" title="customer 404">your own custom 404 page</a> instead (if you choose). It is more flexible this way.</li>
+</ul>
+<blockquote>
+<p>If you have applied custom colors through the plugin settings, you may want to open your config.json and make a copy before updating. I believe a bug in Micro.blog will override your settings during the update. Go to Design &gt; Edit Custom Themes, Select the Cards Theme, open the config.json and copy the content. Upgrade the theme, then go back and paste the content back into the config.json to save your previous customizations.</p>
+</blockquote>
+<p><a href="https://ericgregorich.com/email/">Let me know</a> if you have any problems.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://ericgregorich.com/2022/12/02/i-am-trying.html">Using a working memory file to stay productive during the day</a></h1>
 		
 
 		<a href="https://ericgregorich.com/2022/12/02/i-am-trying.html" class="u-url"><time class="dt-published" datetime="2022-12-02 10:32:01 -0500">Dec 2, 2022</time></a>
 
 		<div class="e-content">
 			 <p>I created a Working Memory file that I&rsquo;ll use throughout the day. I learned this from <a href="https://www.calnewport.com/blog/2015/10/27/deep-habits-workingmemory-txt-the-most-important-productivity-tool-youve-never-heard-of/">Cal Newport</a>, although I&rsquo;m sure he didn&rsquo;t invent the idea.</p>
-<p>The point is to have a single text file open all day that you use to write all of your notes, today&rsquo;s tasks, etc. Similar to a Daily Note available in some applications, like Roam Research, Logseq, or Obsidian, except this file persists from day to day.</p>
+<p>The idea is to have a single text file open all day that you use to write all of your notes, today&rsquo;s tasks, etc. Similar to a Daily Note available in some applications, like Roam Research, Logseq, or Obsidian, except this file persists from day to day.</p>
 <p>I clean up the file daily, move tasks to my task system, and save important notes into my note application. My Working Memory file also has a list of active projects with the current status that I keep up to date, as well as a short list of things I want to remember.</p>
-<p>The point is not to jump in and out of applications all day, which is one of my struggles.</p>
+<p>The purpose is not to jump in and out of applications all day, which is one of my struggles.</p>
 <p>I&rsquo;m on Windows (for work), and Notepad was too basic; I tried iAWriter, but while I like writing with Markdown, I don&rsquo;t want to see the Markdown. Now, I&rsquo;m trying Typora, which uses Markdown, but with a live preview.</p>
 <p>So far, I love this approach. It keeps everything within easy reach and forces me to review every day.</p>
 
@@ -46,8 +228,7 @@
 		<a href="https://ericgregorich.com/2022/11/28/i-finally-published.html" class="u-url"><time class="dt-published" datetime="2022-11-28 18:04:15 -0500">Nov 28, 2022</time></a>
 
 		<div class="e-content">
-			 <p>I finally published my new <a href="https://micro.blog/account/plugins/view/82">Cards theme</a> for Micro.blog. It is a simple theme, and you can easily customize all colors, providing endless options. It&rsquo;s also optimized for performance and SEO.</p>
-<!-- raw HTML omitted -->
+			 <!-- raw HTML omitted -->
 
 		</div>
 	  </div>
@@ -107,8 +288,7 @@
 		<a href="https://ericgregorich.com/2022/11/24/ive-been-making.html" class="u-url"><time class="dt-published" datetime="2022-11-24 09:08:03 -0500">Nov 24, 2022</time></a>
 
 		<div class="e-content">
-			 <p>I&rsquo;ve been making some final tweaks on my new Micro.blog theme. I have a few more fixes before I publish (maybe this weekend?). You&rsquo;ll be able to set your colors through the plugin settings. Here are some samples.</p>
-<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>
+			 <!-- raw HTML omitted -->
 
 		</div>
 	  </div>
@@ -132,8 +312,7 @@
 		<a href="https://ericgregorich.com/2022/11/17/i-dont-know.html" class="u-url"><time class="dt-published" datetime="2022-11-17 14:14:56 -0500">Nov 17, 2022</time></a>
 
 		<div class="e-content">
-			 <p>I don&rsquo;t know if the Lighthouse tool in Chromium browsers is worth much; I have used it to test my sites for performance, accessibility, and SEO. Of all the platforms and themes I&rsquo;ve used, I have never achieved a near-perfect score. Hosted on Micro.blog using my new &ldquo;Cards&rdquo; theme.</p>
-<!-- raw HTML omitted -->
+			 <!-- raw HTML omitted -->
 
 		</div>
 	  </div>
@@ -225,9 +404,7 @@ A character-driven and realistic adventure into another world where many of our 
 		<a href="https://ericgregorich.com/2022/11/13/im-going-allin.html" class="u-url"><time class="dt-published" datetime="2022-11-13 21:25:23 -0500">Nov 13, 2022</time></a>
 
 		<div class="e-content">
-			 <p>I’m going all-in with the Readwise Reader app for a while. I’ll see if it is enough to make me switch from Feedbin.</p>
-<p>I’ll need some time to <strong>adjust</strong>.</p>
-<p>Readwise has a great reading and highlighting experience with the ability to subscribe to RSS, Newsletters, and Twitter.</p>
+			 <!-- raw HTML omitted -->
 
 		</div>
 	  </div>
@@ -603,7 +780,7 @@ A character-driven and realistic adventure into another world where many of our 
 		<a href="https://ericgregorich.com/2022/10/28/currently-reading-the.html" class="u-url"><time class="dt-published" datetime="2022-10-28 21:25:15 -0500">Oct 28, 2022</time></a>
 
 		<div class="e-content">
-			 <p>Currently reading: <a href="https://micro.blog/books/9781943623389">The Laws of Creativity</a> by Joey Cofone 📚</p>
+			 <!-- raw HTML omitted -->
 
 		</div>
 	  </div>
@@ -1367,7 +1544,7 @@ A character-driven and realistic adventure into another world where many of our 
 		<a href="https://ericgregorich.com/2022/09/08/why-do-applications.html" class="u-url"><time class="dt-published" datetime="2022-09-08 08:04:47 -0500">Sep 8, 2022</time></a>
 
 		<div class="e-content">
-			 <p>Why do applications have a big, bright &ldquo;Share&rdquo; button right in the middle of an otherwise clean and simple screen? Are they trying to encourage sharing so more people know about the application? It&rsquo;s annoying.</p>
+			 <!-- raw HTML omitted -->
 
 		</div>
 	  </div>
@@ -1895,30 +2072,6 @@ Get-PnPAzureADAppSitePermission -Site $targetSiteUrl
 <li>Paste the Power Apps Code into the Image property.</li>
 </ul>
 
-		</div>
-	  </div>
-	
-	  <div class="h-entry">
-		
-			<h1><a href="https://ericgregorich.com/2022/02/15/update-sharepoint-calculated.html">Update SharePoint Calculated field using CSOM</a></h1>
-		
-
-		<a href="https://ericgregorich.com/2022/02/15/update-sharepoint-calculated.html" class="u-url"><time class="dt-published" datetime="2022-02-15 00:00:00 -0500">Feb 15, 2022</time></a>
-
-		<div class="e-content">
-			 <p>A Microsoft SharePoint calculated column can be updated using CSOM.</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-csharp" data-lang="csharp"><span style="color:#75715e">//Enforce calculated column to refresh values 
-</span><span style="color:#75715e"></span><span style="color:#66d9ef">var</span> libraryHasCalculatedColumn = library.FieldExistsByName(ColumnNames.IsOCRVersionDiff); 
-<span style="color:#66d9ef">if</span> (libraryHasCalculatedColumn) 
-{ 
- Field oField = library.Fields.GetByInternalNameOrTitle(ColumnNames.IsOCRVersionDiff); 
- FieldCalculated calculatedfield = context.CastTo&lt;FieldCalculated&gt;(oField); 
- calculatedfield.Formula = <span style="color:#e6db74">&#34;=IF(Version=OCRVersion,\&#34;No\&#34;,\&#34;Yes\&#34;)&#34;</span>; 
- oField.Update(); 
- context.ExecuteQueryWithExponentialRetry(); 
-}
-
-</code></pre></div>
 		</div>
 	  </div>
 	
