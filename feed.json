@@ -7,6 +7,32 @@
 	"items": [
 		
 			{
+				"id": "http://ericgregorich.micro.blog/2022/12/26/you-wont-succeed.html",
+				
+				"content_html": "<p>You won&rsquo;t succeed with a digital detox unless you replace the things you are removing from your life with other things you enjoy. You also need to become comfortable being bored. It&rsquo;s an opportunity to let your mind wander.</p>\n",
+				"content_text": "You won't succeed with a digital detox unless you replace the things you are removing from your life with other things you enjoy. You also need to become comfortable being bored. It's an opportunity to let your mind wander. \n",
+				"date_published": "2022-12-26T08:29:05-05:00",
+				"url": "https://ericgregorich.com/2022/12/26/you-wont-succeed.html"
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2022/12/22/i-started-playing.html",
+				
+				"content_html": "<p>I started playing around with a new custom theme today. I applied the first draft to my blog. I have some fixes to apply, and I&rsquo;m still tweaking things, but pretty happy with it so far. 🎨</p>\n",
+				"content_text": "I started playing around with a new custom theme today. I applied the first draft to my blog. I have some fixes to apply, and I'm still tweaking things, but pretty happy with it so far. 🎨\n",
+				"date_published": "2022-12-22T16:09:12-05:00",
+				"url": "https://ericgregorich.com/2022/12/22/i-started-playing.html",
+				"tags": ["Change Log"]
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2022/12/20/using-teuxdeux-for.html",
+				"title": "Using TeuxDeux for time management",
+				"content_html": "<p>I&rsquo;m trying <a href=\"https://teuxdeux.com\">TeuxDeux</a> again to see if it can be suitable for time blocking.</p>\n<p>One of my favorite things about TeuxDeux is that I can see an overview of my week and keep as many lists as I need on one clean page.</p>\n<p>TuexDuex supports Markdown headers, links, recurring tasks, configurable colors, and more. You can also email tasks into your account.</p>\n<p>Otherwise, TuexDuex is a very minimal app. Almost like writing on a big sheet of paper.</p>\n<p>One downside of TuexDuex is that it doesn&rsquo;t work as an actual calendar, so there is no way to plan my work in a calendar view to see what I have time to work on. On the other hand, I don&rsquo;t need to estimate my tasks and reschedule things all the time. With TeuxDeux, I see the current week and schedule the tasks I plan to work on during the day after reviewing my calendar. It&rsquo;s more of a &ldquo;finger in the wind&rdquo; approach.</p>\n<p>Here is a screenshot with most of my tasks blurred out for obvious reasons. I don&rsquo;t have much in there yet because of the upcoming holidays, and I haven&rsquo;t transferred everything.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I'm trying [TeuxDeux](https://teuxdeux.com) again to see if it can be suitable for time blocking. \n\nOne of my favorite things about TeuxDeux is that I can see an overview of my week and keep as many lists as I need on one clean page. \n\nTuexDuex supports Markdown headers, links, recurring tasks, configurable colors, and more. You can also email tasks into your account. \n\nOtherwise, TuexDuex is a very minimal app. Almost like writing on a big sheet of paper.\n\nOne downside of TuexDuex is that it doesn't work as an actual calendar, so there is no way to plan my work in a calendar view to see what I have time to work on. On the other hand, I don't need to estimate my tasks and reschedule things all the time. With TeuxDeux, I see the current week and schedule the tasks I plan to work on during the day after reviewing my calendar. It's more of a \"finger in the wind\" approach. \n\nHere is a screenshot with most of my tasks blurred out for obvious reasons. I don't have much in there yet because of the upcoming holidays, and I haven't transferred everything.\n\n<img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://ericgregorich.com/uploads/2022/24206fb1c7.png\" alt=\"Eric Gregorich TeuxDeux Sample Page\" title=\"CleanShot 2022-12-20 at 17.10.18.png\" border=\"0\" width=\"740\" height=\"600\" />\n",
+				"date_published": "2022-12-20T17:21:21-05:00",
+				"url": "https://ericgregorich.com/2022/12/20/using-teuxdeux-for.html",
+				"tags": ["Apps"]
+			},
+			{
 				"id": "http://ericgregorich.micro.blog/2022/12/17/i-played-around.html",
 				
 				"content_html": "<p>I played around with Obsidian&rsquo;s Canvas feature (only in the Insider Build). I also played with Apple&rsquo;s new Freeform app and think Obsidian canvas is better. Quite impressive for such a small dev team.</p>\n<p>Here is a pass at my &ldquo;PKM&rdquo; system. This doesn&rsquo;t do the app justice, though.</p>\n<!-- raw HTML omitted -->\n",
