@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://ericgregorich.micro.blog/2023/01/27/im-considering-moving.html",
+				
+				"content_html": "<p>I’m considering moving all of my notes into Craft.</p>\n<p>I’ll have my personal space and another space for my knowledge base where some would be shared.</p>\n<p>I like the idea of creating “documents” around a specific topic that are updated over time rather than small individual notes.</p>\n",
+				"content_text": "I’m considering moving all of my notes into Craft. \n\nI’ll have my personal space and another space for my knowledge base where some would be shared. \n\nI like the idea of creating “documents” around a specific topic that are updated over time rather than small individual notes. \n",
+				"date_published": "2023-01-27T15:59:48-05:00",
+				"url": "https://ericgregorich.com/2023/01/27/im-considering-moving.html",
+				"tags": ["Updates"]
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2023/01/26/finished-reading-how.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781039000070\">How to Calm Your Mind</a> by Chris Bailey 📚</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Finished reading: [How to Calm Your Mind](https://micro.blog/books/9781039000070) by Chris Bailey 📚\n\n<p>A nice balance of storytelling, research, and actionable advice. Chris doesn't get technical or ramble on pointless stories, either. It was an easy-to-read book with a few actionable takeaways.</p>\n<p>Here are my <a href=\"https://ericgregorich.url.lol/calmyourmind\">notes</a>.</p>\n",
+				"date_published": "2023-01-26T13:12:15-05:00",
+				"url": "https://ericgregorich.com/2023/01/26/finished-reading-how.html",
+				"tags": ["Literature"]
+			},
+			{
 				"id": "http://ericgregorich.micro.blog/2023/01/22/i-dug-out.html",
 				
 				"content_html": "<p>☕ I dug out my old French Press, which tastes much better than the Keurig I&rsquo;ve been using (for convenience).</p>\n<p>I want to try and wait a good 90 minutes before any coffee (wake up naturally) and have coffee I’ll enjoy for the flavor.</p>\n",
@@ -46,7 +64,7 @@
 				"id": "http://ericgregorich.micro.blog/2023/01/17/bike-outliner.html",
 				"title": "Bike Outliner",
 				"content_html": "<p><!-- raw HTML omitted -->Bike Outliner<!-- raw HTML omitted --> is a simple, native macOS app from the creators of Task Paper. Bike makes creating outlines simple and fast. Unfortunately, it is macOS only right now.</p>\n<p>It may be worth a look if you like to create outlines for blog posts, books, projects, or brainstorming.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "<a href=\"https://hogbaysoftware.netlify.app/bike/\">Bike Outliner</a> is a simple, native macOS app from the creators of Task Paper. Bike makes creating outlines simple and fast. Unfortunately, it is macOS only right now.\n\nIt may be worth a look if you like to create outlines for blog posts, books, projects, or brainstorming.\n\n<img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://ericgregorich.com/uploads/2023/59d1670c2a.png\" alt=\"Bike Outliner Demo\" title=\"Bike Outliner Demo.png\" border=\"0\" width=\"580\" height=\"600\" />\n",
+				"content_text": "<a href=\"https://hogbaysoftware.netlify.app/bike/\">Bike Outliner</a> is a simple, native macOS app from the creators of Task Paper. Bike makes creating outlines simple and fast. Unfortunately, it is macOS only right now.\n\nIt may be worth a look if you like to create outlines for blog posts, books, projects, or brainstorming.\n\n<img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://cdn.uploads.micro.blog/81720/2023/59d1670c2a.png\" alt=\"Bike Outliner Demo\" title=\"Bike Outliner Demo.png\" border=\"0\" width=\"580\" height=\"600\" />\n",
 				"date_published": "2023-01-17T16:33:10-05:00",
 				"url": "https://ericgregorich.com/2023/01/17/bike-outliner.html",
 				"tags": ["Resources"]
