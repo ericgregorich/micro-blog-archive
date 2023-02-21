@@ -25,6 +25,100 @@
 	  <div class="h-entry">
 		
 
+		<a href="https://ericgregorich.com/2023/02/21/day-one-for.html" class="u-url"><time class="dt-published" datetime="2023-02-21 12:02:47 -0500">Feb 21, 2023</time></a>
+
+		<div class="e-content">
+			 <p><a href="https://dayone.me/login">Day One for the Web</a> has been released. Sync your journals with your devices. Includes a web-exclusive “focus mode”.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://ericgregorich.com/2023/02/19/lesson-learned-if.html" class="u-url"><time class="dt-published" datetime="2023-02-19 09:47:25 -0500">Feb 19, 2023</time></a>
+
+		<div class="e-content">
+			 <!-- raw HTML omitted -->
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://ericgregorich.com/2023/02/18/currently-reading-the.html" class="u-url"><time class="dt-published" datetime="2023-02-18 09:33:05 -0500">Feb 18, 2023</time></a>
+
+		<div class="e-content">
+			 <p>Currently reading: <a href="https://micro.blog/books/9781541701571">The Future Is Analog</a> by David Sax 📚</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://ericgregorich.com/2023/02/17/craft-has-replaced.html" class="u-url"><time class="dt-published" datetime="2023-02-17 17:20:06 -0500">Feb 17, 2023</time></a>
+
+		<div class="e-content">
+			 <!-- raw HTML omitted -->
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://ericgregorich.com/2023/02/17/if-you-cant.html" class="u-url"><time class="dt-published" datetime="2023-02-17 11:33:38 -0500">Feb 17, 2023</time></a>
+
+		<div class="e-content">
+			 <blockquote>
+<p>If you can’t relax into your life – or make a big decision, or launch an important project, etcetera — before having it endorsed as the Right Sort Of Thing To Be Doing, you’ll fritter away your finite days, when you could have spent them getting stuck in.</p>
+</blockquote>
+<p><a href="https://newsletters.feedbinusercontent.com/56e/56e233539c489eca0d457ed7399f84ceb6f03cc9.html">The Imperfectionist - Who’s in charge around here</a></p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://ericgregorich.com/2023/02/16/using-a-double.html">Using a double quote in your Power App text control</a></h1>
+		
+
+		<a href="https://ericgregorich.com/2023/02/16/using-a-double.html" class="u-url"><time class="dt-published" datetime="2023-02-16 14:45:26 -0500">Feb 16, 2023</time></a>
+
+		<div class="e-content">
+			 <!-- raw HTML omitted -->
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://ericgregorich.com/2023/02/16/suppress-the-power.html">Suppress the Power Apps Consent Dialog using PowerShell</a></h1>
+		
+
+		<a href="https://ericgregorich.com/2023/02/16/suppress-the-power.html" class="u-url"><time class="dt-published" datetime="2023-02-16 14:39:27 -0500">Feb 16, 2023</time></a>
+
+		<div class="e-content">
+			 <p>You can disable the consent dialog that appears when you first open a Microsoft Power App with some PowerShell.</p>
+<h3 id="set-consent-bypass">Set Consent Bypass</h3>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-shell" data-lang="shell">Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Force
+dir . | Unblock-File
+Install-Module -Name Microsoft.PowerApps.Administration.PowerShell
+Install-Module -Name Microsoft.PowerApps.PowerShell -AllowClobber
+Import-Module Microsoft.Online.SharePoint.Powershell -Verbose
+Connect-SPOService -Url <span style="color:#f92672">{</span>Your SharePoint Admin Tenant URL<span style="color:#f92672">}</span>
+Set-AdminPowerAppApisToBypassConsent -AppName <span style="color:#f92672">{</span>Your App ID<span style="color:#f92672">}</span> -EnvironmentName <span style="color:#f92672">{</span>Your Environment ID<span style="color:#f92672">}</span>
+</code></pre></div><h3 id="clear-consent-bypass">Clear Consent Bypass</h3>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-shell" data-lang="shell">Clear-AdminPowerAppApisToBypassConsent -AppName <span style="color:#f92672">{</span>Your App Id<span style="color:#f92672">}</span> -EnvironmentName <span style="color:#f92672">{</span>Your Environment ID<span style="color:#f92672">}</span>
+</code></pre></div>
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
 		<a href="https://ericgregorich.com/2023/02/13/i-have-access.html" class="u-url"><time class="dt-published" datetime="2023-02-13 10:20:12 -0500">Feb 13, 2023</time></a>
 
 		<div class="e-content">
@@ -142,6 +236,19 @@
 	
 	  <div class="h-entry">
 		
+			<h1><a href="https://ericgregorich.com/2023/02/02/change-the-item.html">Change the 100-item limit in Power Automate Get Item actions</a></h1>
+		
+
+		<a href="https://ericgregorich.com/2023/02/02/change-the-item.html" class="u-url"><time class="dt-published" datetime="2023-02-02 15:00:00 -0500">Feb 2, 2023</time></a>
+
+		<div class="e-content">
+			 <!-- raw HTML omitted -->
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
 
 		<a href="https://ericgregorich.com/2023/01/31/ive-been-using.html" class="u-url"><time class="dt-published" datetime="2023-01-31 18:56:02 -0500">Jan 31, 2023</time></a>
 
@@ -227,12 +334,121 @@
 	
 	  <div class="h-entry">
 		
+			<h1><a href="https://ericgregorich.com/2023/01/26/finished-reading-how.html">How to Calm Your Mind by Chris Bailey</a></h1>
+		
 
 		<a href="https://ericgregorich.com/2023/01/26/finished-reading-how.html" class="u-url"><time class="dt-published" datetime="2023-01-26 13:12:15 -0500">Jan 26, 2023</time></a>
 
 		<div class="e-content">
 			 <p>Finished reading: <a href="https://micro.blog/books/9781039000070">How to Calm Your Mind</a> by Chris Bailey 📚</p>
 <!-- raw HTML omitted -->
+<p>This book discusses different ideas for managing stress, cultivating a mindset for productivity, and several techniques to help improve overall well-being.</p>
+<h2 id="my-summary">My Summary</h2>
+<p>The book, How to Calm Your Mind by Chris Bailey is about determining what causes stress in your life and taking action to reduce it. The opposite of Anxiety is Calm, so the more calm we have in our lives, the more tolerance we have for stress.</p>
+<p>The book has a nice balance of storytelling, research, and actionable advice. Chris doesn&rsquo;t get technical or ramble on pointless stories, either. It was an easy-to-read book with a few actionable takeaways.</p>
+<p>This was my favorite of the books I&rsquo;ve read related to this topic.</p>
+<h2 id="key-ideas">Key Ideas</h2>
+<h3 id="accomplishment-mindset-p16">Accomplishment mindset (p16)</h3>
+<blockquote>
+<p>A conditioned set of attitudes and beliefs that drive us to strive constantly to accomplish more.</p>
+</blockquote>
+<h3 id="definition-of-calm-p23">Definition of calm (p23)</h3>
+<blockquote>
+<p>A subjectively positive state characterized by a low level of arousal, with an accompanying absence of anxiety.</p>
+</blockquote>
+<h3 id="types-of-stress-p30">Types of stress (p30)</h3>
+<ol>
+<li>Acute stress - Temporary and often one-off. Things that come up cause stress at the moment but fade away.</li>
+<li>Chronic stress - Ongoing stress that does not fade away over time.</li>
+</ol>
+<h3 id="productivity-hours-p35">Productivity Hours (p35)</h3>
+<p>Schedule a period during which you are productive during the day. During the remaining time, chill. You can still do things, but don&rsquo;t worry about being productive. This time should be scheduled daily to account for the variations in our days.</p>
+<h3 id="stress-inventory-p41">Stress Inventory (p41)</h3>
+<p>Write down the things that cause you to stress, whether chronic or acute. This helps you identify the causes of stress in your life so you can start to address the source.</p>
+<h3 id="burnout-equation-p49">Burnout Equation (p49)</h3>
+<p>To feel burnout, we need to feel exhausted but also cynical and unproductive. We usually only think of exhaustion as part of burnout.</p>
+<h3 id="burnout-threshold-p56">Burnout Threshold (p56)</h3>
+<p>How much chronic stress can we take before we burn out?</p>
+<h3 id="burnout-factors-p59">Burnout Factors (p59)</h3>
+<ol>
+<li>Workload</li>
+<li>Control</li>
+<li>Insufficient Reward</li>
+<li>Community</li>
+<li>Fairness</li>
+<li>Values</li>
+</ol>
+<h3 id="the-mindset-of-more-p68">The mindset of more (p68)</h3>
+<blockquote>
+<p>A set of attitudes that drive us to strive for more at all costs, regardless of context.</p>
+</blockquote>
+<h3 id="dopamine-anticipation-p76">Dopamine Anticipation (p76)</h3>
+<p>Dopamine is often referred to as a &ldquo;pleasure&rdquo; chemical, but it is not. Instead, it is a chemical associated with the anticipation of something pleasurable.</p>
+<h3 id="related-neurochemicals-p83">Related Neurochemicals (p83)</h3>
+<ul>
+<li>Serotonin makes us feel happy.</li>
+<li>Oxytocin makes us feel connected.</li>
+<li>Endorphins give us a sense of euphoria.</li>
+</ul>
+<h3 id="engagement-is-the-opposite-of-burnout-p84">Engagement is the opposite of burnout (p84)</h3>
+<blockquote>
+<p>The polar opposite of burnout is engagement - Christina Maslach</p>
+</blockquote>
+<blockquote>
+<p>When we&rsquo;re burnt out, we&rsquo;re exhausted, unproductive, and cynical. When we&rsquo;re engaged, we feel energized, productive, and driven by purpose.</p>
+</blockquote>
+<h3 id="make-a-list-of-things-you-savor-p91">Make a list of things you savor (p91)</h3>
+<p>Make a list of the things you savor, and try to do as much as you can daily.</p>
+<h3 id="superstimuli-p109">Superstimuli (p109)</h3>
+<blockquote>
+<p>A highly processed, exaggerated version of things we&rsquo;re naturally wired to enjoy.</p>
+</blockquote>
+<p>Examples include social media, pornography, YouTube, Netflix binge-watch, etc.</p>
+<h3 id="dopamine-fast-p138">Dopamine Fast (p138)</h3>
+<p>Cut out as many dopamine-producing activities as possible for one month. This should reset your dopamine baseline to normal levels. Then you can introduce some things with limitations.</p>
+<h3 id="hedonic-adaption-p144">Hedonic Adaption (p144)</h3>
+<p>Having less of something makes us savor it more. When we overdo something, like social media, our baseline changes, and then we crave even more to get the same feelings. A Dopamine Fast (p138)|Dopamine Fast helps reset the baseline.</p>
+<h3 id="the-advantages-of-digital-p158">The advantages of digital (p158)</h3>
+<blockquote>
+<p>The digital world is valuable only as far as it supports us in what we intend to accomplish.</p>
+</blockquote>
+<h3 id="analog-gives-us-time-to-think-p163">Analog gives us time to think (p163)</h3>
+<p>When our mind is allowed time to wander, it makes connections. This is why we often think more clearly when we write on paper because as we slow down, our mind is thinking ahead. When we write quickly digitally, our mind only has time to make the same connections. If you take your time digitally, you could get the same impact.</p>
+<h3 id="meditation-p176">Meditation (p176)</h3>
+<p>Meditation gives us time to notice things. We often lose focus when trying to meditate, which is normal, but by refocusing, we&rsquo;re training our minds to slow down.</p>
+<h3 id="slow-breathing-p178">Slow Breathing (p178)</h3>
+<p>Slow breathing stimulates the vagus nerve, which connects the body to the brain.</p>
+<p>A good slow-breathing technique is the 4-7-8 technique.</p>
+<ul>
+<li>Inhale for a count of 4.</li>
+<li>Hold for a count of 7.</li>
+<li>Exhale for a count of 8.</li>
+</ul>
+<h3 id="caffeine-p187">Caffeine (p187)</h3>
+<p>Caffeine has been shown to increase cortisol and epinephrine (adrenaline) production. Try a caffeine reset, and if you enjoy coffee, try introducing it back into your diet as a treat rather than a necessity.</p>
+<h3 id="l-theanine-p185">L-theanine (p185)</h3>
+<p>L-theanine is an amino acid found in green tea and matcha that reduces how much adrenaline your body produces in response to caffeine. It&rsquo;s a great way to get caffeine without the spikes and jitters.</p>
+<h3 id="eating-and-stress-p188">Eating and stress (p188)</h3>
+<p>Stress causes us to want to eat more and less healthfully. Our body craves and retains fat in response to stressful situations. This is how we&rsquo;re wired from our primitive days. But today, we don&rsquo;t use this additional energy like we used to, and it causes us to hold onto the fat we generate.</p>
+<h3 id="attentional-space-p201">Attentional Space (p201)</h3>
+<blockquote>
+<p>Attentional Space is our working memory capacity &hellip; the more mental space we have to work with, the deeper we can think, the more we can process at one time, and the better we perform.</p>
+</blockquote>
+<h3 id="measuring-productivity-p211">Measuring Productivity (p211)</h3>
+<blockquote>
+<p>The trick to measuring productivity is to reflect on how much you accomplish.</p>
+</blockquote>
+<p>It isn’t easy to measure productivity in any other way. Gauging by the time spent or widgets produced is not a good reflection of whether we&rsquo;re productive. We must reflect on our day and decide for ourselves if we are productive. Productivity is about doing what we intend to do.</p>
+<h2 id="action-items">Action Items</h2>
+<ul>
+<li>Define productivity hours</li>
+<li>Make a stress inventory.</li>
+<li>Make a list of things I savor.</li>
+<li>Execute a month-long dopamine fast.</li>
+<li>Incorporate movement daily.</li>
+<li>Meditate daily.</li>
+<li>Cut out or cut back on caffeine.</li>
+</ul>
 
 		</div>
 	  </div>
@@ -271,7 +487,7 @@
 		<a href="https://ericgregorich.com/2023/01/21/manictime-automatically-track.html" class="u-url"><time class="dt-published" datetime="2023-01-21 09:18:46 -0500">Jan 21, 2023</time></a>
 
 		<div class="e-content">
-			 <p><!-- raw HTML omitted -->ManicTime<!-- raw HTML omitted --> is Windows App that will automatically track your time. Useful for anyone who needs to track time to bill clients, ManicTime can auto-tag your documents, URLs, etc., to your projects, as well as give you an overview of where you spend your time. The data stays on your device!</p>
+			 <!-- raw HTML omitted -->
 
 		</div>
 	  </div>
@@ -296,9 +512,7 @@
 		<a href="https://ericgregorich.com/2023/01/17/bike-outliner.html" class="u-url"><time class="dt-published" datetime="2023-01-17 16:33:10 -0500">Jan 17, 2023</time></a>
 
 		<div class="e-content">
-			 <p><!-- raw HTML omitted -->Bike Outliner<!-- raw HTML omitted --> is a simple, native macOS app from the creators of Task Paper. Bike makes creating outlines simple and fast. Unfortunately, it is macOS only right now.</p>
-<p>It may be worth a look if you like to create outlines for blog posts, books, projects, or brainstorming.</p>
-<!-- raw HTML omitted -->
+			 <!-- raw HTML omitted -->
 
 		</div>
 	  </div>
@@ -311,44 +525,7 @@
 		<a href="https://ericgregorich.com/2023/01/15/readwise-reader-is.html" class="u-url"><time class="dt-published" datetime="2023-01-15 09:20:54 -0500">Jan 15, 2023</time></a>
 
 		<div class="e-content">
-			 <p>By default, <!-- raw HTML omitted -->Readwise Reader<!-- raw HTML omitted --> has an Inbox, Later, and Archive location. If I wanted to read something, do I put it in my Inbox or Later? And what&rsquo;s this Shortlist? It can be pretty confusing for someone who wants a simple reading list.</p>
-<p>Fortunately, there is an easy change we can make to adjust the &ldquo;workflow&rdquo; that works best for us. Of course, you can always change it later if your needs shift.</p>
-<ul>
-<li>From the Reader desktop app, open the default Library page.</li>
-</ul>
-<!-- raw HTML omitted -->
-<ul>
-<li>Click the Library header, and it will expand a menu.</li>
-<li>Select Edit Library Locations.</li>
-<li>A popup will appear, allowing you to choose your desired workflow. The Classic would be the most straightforward option and is what I use.</li>
-</ul>
-<!-- raw HTML omitted -->
-<h2 id="shortlist">Shortlist</h2>
-<p>The Shortlist option works best if you have many articles in your reading queue. If there are some articles you want to prioritize, you can add them to the Shortlist using a tag or by clicking &ldquo;s&rdquo; on the keyboard while on the Reader desktop.</p>
-<p>You can now see all of your articles in Later but jump to Shortlist to see the few you want to read first.</p>
-<h2 id="triage">Triage</h2>
-<p>The Triage option (the default option) works best for Power Users. If you have many incoming documents that you may or may not want to read later, they will be added to your Inbox by default. Next, you can triage your Inbox, select which articles you want to read, and put them in the Later queue. Delete or archive the rest.</p>
-<h2 id="classic">Classic</h2>
-<p>The Classic option is the simplest and is recommended for those coming from other Read Later apps, like Instapaper or Pocket.</p>
-<p>With the Classic option, you have a Later queue and an Archive. No triage is necessary. When you add any article to Reader, it will automatically go to your Later list.</p>
-<p>After you read articles in the Later list, you can Archive them.</p>
-<h2 id="sorting-your-lists">Sorting your lists</h2>
-<p>Now that you have your workflow set up, you can change your sort options for your lists.</p>
-<p>While in your list (Later, Inbox, etc.), select the Sort Options from the toolbar. You have a ton of options, and choose the one that works best for you.</p>
-<!-- raw HTML omitted -->
-<h2 id="conclusion">Conclusion</h2>
-<p>I hope this helps to streamline your reading Workflow using Readwise Reader. I&rsquo;ll try to post some more Reader tips soon.</p>
-
-		</div>
-	  </div>
-	
-	  <div class="h-entry">
-		
-
-		<a href="https://ericgregorich.com/2023/01/14/181356.html" class="u-url"><time class="dt-published" datetime="2023-01-14 18:13:56 -0500">Jan 14, 2023</time></a>
-
-		<div class="e-content">
-			 <p><a href="https://nesslabs.com/everything-is-aiming"><img src="https://cdn.uploads.micro.blog/81720/2023/9ca153df13.png" alt="Everything is Aiming"></a></p>
+			 <!-- raw HTML omitted -->
 
 		</div>
 	  </div>
@@ -361,8 +538,7 @@
 		<a href="https://ericgregorich.com/2023/01/14/a-couple-of.html" class="u-url"><time class="dt-published" datetime="2023-01-14 17:39:19 -0500">Jan 14, 2023</time></a>
 
 		<div class="e-content">
-			 <p>I listened to a snippet of <a href="https://youtu.be/9XWHCF4pLmI" title="Security Now">Security Now</a> podcast where they discuss password managers. The subject was brought up after the recent <a href="https://blog.lastpass.com/2022/12/notice-of-recent-security-incident/amp/">LastPass breach</a>.</p>
-<p>Apparently <a href="https://bitwarden.com">Bitwarden</a> is a great option because it’s open source, has a great free offering and is very secure. <a href="https://1password.com">1Password</a> is also great especially if you want a family plan (which I have).</p>
+			 <!-- raw HTML omitted -->
 
 		</div>
 	  </div>
@@ -395,7 +571,7 @@
 		<a href="https://ericgregorich.com/2023/01/14/lantern.html" class="u-url"><time class="dt-published" datetime="2023-01-14 10:27:01 -0500">Jan 14, 2023</time></a>
 
 		<div class="e-content">
-			 <p><!-- raw HTML omitted -->Lantern<!-- raw HTML omitted --> is a slick service from <a href="https://micro.blog/rknightuk">@rknightuk</a> that allows you to quickly search for a game, TV show, or Movie. Give it a rating and post your thoughts about it to your <!-- raw HTML omitted -->Micro.blog<!-- raw HTML omitted --> site. Since Micro.blog has books covered, this is a great addition. Well done!</p>
+			 <!-- raw HTML omitted -->
 
 		</div>
 	  </div>
@@ -406,8 +582,7 @@
 		<a href="https://ericgregorich.com/2023/01/14/this-may-seem.html" class="u-url"><time class="dt-published" datetime="2023-01-14 09:43:19 -0500">Jan 14, 2023</time></a>
 
 		<div class="e-content">
-			 <p>This may seem odd, but I won&rsquo;t even give Mem.ai a shot because of this giant blue Share button in the middle of every screen in an otherwise simple and clean app. I don&rsquo;t want to share my notes. Give me the option in the submenu. It&rsquo;s a big distraction for me.</p>
-<!-- raw HTML omitted -->
+			 <!-- raw HTML omitted -->
 
 		</div>
 	  </div>
@@ -418,12 +593,7 @@
 		<a href="https://ericgregorich.com/2023/01/14/the-end-of.html" class="u-url"><time class="dt-published" datetime="2023-01-14 09:35:45 -0500">Jan 14, 2023</time></a>
 
 		<div class="e-content">
-			 <p>&ldquo;<!-- raw HTML omitted -->The End of Organizing<!-- raw HTML omitted -->&rdquo; by Dan Shipper argues that AI will be the best way to organize our notes in the future.</p>
-<!-- raw HTML omitted -->
-<p>As you consume content and take generic notes, the AI can transform it into more meaningful text, autocomplete the thought, apply context, and organize it, making it easy to find again.</p>
-<p>As you create content, AI could show your notes as you type. Imagine typing about a topic, and the AI presents the notes to you as you type, as it applies to the current context.</p>
-<p>Many note and reading apps already incorporate AI, including Readwise, Mem, Mymind, Craft, and Notion. Some with plugins that add this, including Obsidian and Logseq. It should quickly evolve to the point envisioned in this essay.</p>
-<p>This essay does not account for the act of writing as a way to help you think and learn. If we let AI do the lifting for us, does that make us smarter, or do we lose the ability to think for ourselves? There is a fine line.</p>
+			 <!-- raw HTML omitted -->
 
 		</div>
 	  </div>
@@ -434,9 +604,7 @@
 		<a href="https://ericgregorich.com/2023/01/13/readwise-reader-is.html" class="u-url"><time class="dt-published" datetime="2023-01-13 09:31:01 -0500">Jan 13, 2023</time></a>
 
 		<div class="e-content">
-			 <p>Readwise Reader is growing on me.</p>
-<p>I spent some time learning how to configure it to my liking and learned some shortcuts.  I removed most of the views, updated the swipe commands, and changed my Library Commands to only Later and Archive. Also, cleaned up my feed.</p>
-<!-- raw HTML omitted -->
+			 <!-- raw HTML omitted -->
 
 		</div>
 	  </div>
@@ -449,15 +617,7 @@
 		<a href="https://ericgregorich.com/2023/01/11/from-problem-to.html" class="u-url"><time class="dt-published" datetime="2023-01-11 17:33:41 -0500">Jan 11, 2023</time></a>
 
 		<div class="e-content">
-			 <p>Have you ever started an email to someone that explains a problem to them, one that you don’t know the solution to, then by the time you finish the email, you’ve realized you have come up with a solution?</p>
-<p>Simply writing out a problem where the explanation is as simple as possible (so someone else can understand it), we are clarifying in our mind precisely what the problem is. You likely don’t understand if you can’t explain the situation to someone else.</p>
-<p>Understanding the problem is only the first part. Now we try to come up with a solution. Often there are multiple solutions. So, we start listing some potential solutions and thinking through the pros and cons of each solution.</p>
-<p>As we write out the potential options to solve the problem, we often eliminate specific options based on what we know about the situation. Perhaps it is a budget issue or an infrastructure limitation. The more we can get down on paper (digital or analog) more likely we are to come up with the best options.</p>
-<p>As a Software Architect, this happens to me all the time. So much that I’ve incorporated this into my workflow. When I need to deal with a problem, even if I think I understand the problem, I write it out in the most straightforward explanation possible. Then each option will have pros and cons, and I’ll usually have a recommendation of which option I think would work best or is most reasonable within the current circumstances.</p>
-<p>After going through this process, I’ve often solved the problem and realized the best solution we can implement immediately. Clients love being told there was a problem and that you already took care of it. There is also the added benefit of having everything documented.</p>
-<p>I’ll write on paper when I’m struggling with something I can’t wrap my head around. This slows me down, so I can spend time thinking as I go. When writing on a computer, it’s easy to spit out words that don’t have as much meaning. On the flip side, a computer makes it easier to delete and reorganize ideas.</p>
-<p>Writing out our problems is not only for technical issues; it can work for anything. This is why Journaling is so beneficial.</p>
-<p>Writing is thinking.</p>
+			 <!-- raw HTML omitted -->
 
 		</div>
 	  </div>
@@ -520,7 +680,6 @@
 
 		<div class="e-content">
 			 <!-- raw HTML omitted -->
-<p>I felt like going analog today, so I dusted off my Bullet Journal and started using it. I have wanted to start journaling more in 2023 and have always enjoyed writing on paper, so it felt like it was time to give it another go.</p>
 
 		</div>
 	  </div>
@@ -531,9 +690,7 @@
 		<a href="https://ericgregorich.com/2023/01/01/a-day-full.html" class="u-url"><time class="dt-published" datetime="2023-01-01 18:55:20 -0500">Jan 1, 2023</time></a>
 
 		<div class="e-content">
-			 <p>A day full of meetings and emails can make things easier because we don’t have to decide what to do with our time. We have an excuse not to do real work.</p>
-<p>It’s a trap! An easy way to procrastinate.</p>
-<!-- raw HTML omitted -->
+			 <!-- raw HTML omitted -->
 
 		</div>
 	  </div>
@@ -544,7 +701,7 @@
 		<a href="https://ericgregorich.com/2023/01/01/currently-reading-secret.html" class="u-url"><time class="dt-published" datetime="2023-01-01 18:45:14 -0500">Jan 1, 2023</time></a>
 
 		<div class="e-content">
-			 <p>Currently reading: <a href="https://micro.blog/books/9781938570346">Secret Project #1</a> by Brandon Sanderson 📚</p>
+			 <!-- raw HTML omitted -->
 
 		</div>
 	  </div>
@@ -568,21 +725,7 @@
 		<a href="https://ericgregorich.com/2022/12/31/a-book-review.html" class="u-url"><time class="dt-published" datetime="2022-12-31 10:49:52 -0500">Dec 31, 2022</time></a>
 
 		<div class="e-content">
-			 <p>Finished reading: <a href="https://micro.blog/books/ISBN139798986862613">Antinet Zettelkasten</a> by Scott P. Scheper, 📚 a book about how to create an analog Zettelkasten (slip box) that acts as a &ldquo;communication partner&rdquo; for thinking and creating.</p>
-<!-- raw HTML omitted -->
-<p>After seeing a couple of <!-- raw HTML omitted -->videos<!-- raw HTML omitted --> from Scott and keeping up with his <!-- raw HTML omitted -->website<!-- raw HTML omitted -->, I expected this book to be a deep and dull venture into the analog Zettelkasten, including tons of history and facts. Not that his other content is this way, but the build-up to the book made me think this. However, I thought it flowed nicely and was pretty easy to read. Perhaps this is because I&rsquo;m already familiar with the material, so I didn&rsquo;t get stuck at any point. Also, the book appears much longer than it is. Each chapter has several pages of footnotes, and I recommend exploring them, but they take up a lot of space.</p>
-<!-- raw HTML omitted -->
-<p>Scott explores the analog Zettelkasten, made famous by <!-- raw HTML omitted -->Niklas Luhmann<!-- raw HTML omitted -->, a German sociologist, philosopher of social scient, and a prominent thinker in systems theory. Luhmann used a note card system that enabled him to publish dozens of books and hundreds of scholarly articles over his lifetime. The Antinet is Scott&rsquo;s version of this system, nearly identical to the original.</p>
-<p>The four principles of the Antinet are Analog, Numeric-Alpha, Tree, and Index. The Net in Antinet stands for network. I won&rsquo;t try to go into the details in this post; there are plenty of other <!-- raw HTML omitted -->articles<!-- raw HTML omitted --> that do this well (or get the <!-- raw HTML omitted -->book<!-- raw HTML omitted -->).</p>
-<p>While Scott has an <!-- raw HTML omitted -->article<!-- raw HTML omitted --> on his website explaining how to get started with an Antinet, the book goes into much more detail. You&rsquo;ll learn how to create the cards, bib notes, index, and other system components. It does take a while to get to the step-by-step instructions, but it&rsquo;s probably important to understand the concepts first.</p>
-<p>Scott spends a reasonable amount of time discussing how this analog system can become your &ldquo;communication partner.&rdquo; This idea is pulled from Luhmann&rsquo;s essay &ldquo;<!-- raw HTML omitted -->Communicating with Slip Boxes<!-- raw HTML omitted -->.&rdquo; If you want to go deeper into Luhmann&rsquo;s work, you can visit the <!-- raw HTML omitted -->Niklas Luhmann Archive<!-- raw HTML omitted -->.</p>
-<p>Scott mentions (several times) <!-- raw HTML omitted -->How to Take Smart Notes<!-- raw HTML omitted --> by Sönke Ahrens and how, although Sönke introduced the Zettelkasten system to modern day, he also gets much of it wrong, especially by trying to make it work in digital tools.</p>
-<!-- raw HTML omitted -->
-<p><!-- raw HTML omitted -->Who should create an Antinet?<!-- raw HTML omitted --> This system is not for those who need to capture technical notes, meeting notes, etc. This is a thinking tool, and you would use it to gather your thoughts during research. The system is best suited for specific projects where you need to do a lot of research, gather your thoughts, and then create an output (academic paper, article, book, etc.).</p>
-<p>You want to use an analog Zettelkasten because it forces you to slow down and think. Not only do you have to take the time to write notes by hand on index cards, but you also have to think about where to put the card. This is intentional, forcing you to think and connect ideas by flipping through your cards. As you do this, you engrain these thoughts into memory.</p>
-<p><!-- raw HTML omitted -->Am I going to create my Antinet?<!-- raw HTML omitted --> Maybe someday, but I don&rsquo;t need it now. As I mentioned earlier, it is best to have a big project or do a lot of research. I&rsquo;ll be honest. When I first read How to Take Smart Notes by Sönke Ahrens, I tried to create a digital Zettelkasten. I spent about a year of my life trying different tools and approaches. I later realized I was pursuing the system for the wrong reasons. I was trying to force a square peg into a round hole. Not only that, I was trying to replicate it in Digital tools, which misses the point.</p>
-<!-- raw HTML omitted -->
-<p>Overall, this was a good book. I would recommend you check out Scott&rsquo;s <!-- raw HTML omitted -->website<!-- raw HTML omitted --> and <!-- raw HTML omitted -->videos<!-- raw HTML omitted --> first. If these are interesting, then the book is for you. I enjoyed it more than I expected, but I admit, I geek out on this stuff.</p>
+			 <!-- raw HTML omitted -->
 
 		</div>
 	  </div>
@@ -593,7 +736,7 @@
 		<a href="https://ericgregorich.com/2022/12/30/i-updated-my.html" class="u-url"><time class="dt-published" datetime="2022-12-30 11:00:04 -0500">Dec 30, 2022</time></a>
 
 		<div class="e-content">
-			 <p>I updated my <!-- raw HTML omitted -->Books<!-- raw HTML omitted --> page to show what I&rsquo;m currently reading and what I finished reading (each year). I&rsquo;m using the <!-- raw HTML omitted -->Bookshelf shortcode<!-- raw HTML omitted --> plugin by @kottkrig and <!-- raw HTML omitted -->Book Reading Goals<!-- raw HTML omitted --> by @manton.</p>
+			 <!-- raw HTML omitted -->
 
 		</div>
 	  </div>
@@ -630,8 +773,7 @@
 		<a href="https://ericgregorich.com/2022/12/26/currently-reading-antinet.html" class="u-url"><time class="dt-published" datetime="2022-12-26 08:49:18 -0500">Dec 26, 2022</time></a>
 
 		<div class="e-content">
-			 <p>Currently reading: <a href="https://micro.blog/books/ISBN139798986862613">Antinet Zettelkasten</a> by Scott P. Scheper 📚</p>
-<p>If you are interested in analog note-taking, this is the book to read—the book details the analog Zettelkasten system and how and why it works.</p>
+			 <!-- raw HTML omitted -->
 
 		</div>
 	  </div>
@@ -677,9 +819,7 @@
 		<a href="https://ericgregorich.com/2022/12/17/i-played-around.html" class="u-url"><time class="dt-published" datetime="2022-12-17 09:08:34 -0500">Dec 17, 2022</time></a>
 
 		<div class="e-content">
-			 <p>I played around with Obsidian&rsquo;s Canvas feature (only in the Insider Build). I also played with Apple&rsquo;s new Freeform app and think Obsidian canvas is better. Quite impressive for such a small dev team.</p>
-<p>Here is a pass at my &ldquo;PKM&rdquo; system. This doesn&rsquo;t do the app justice, though.</p>
-<!-- raw HTML omitted -->
+			 <!-- raw HTML omitted -->
 
 		</div>
 	  </div>
@@ -703,7 +843,7 @@
 		<a href="https://ericgregorich.com/2022/12/15/currently-reading-the.html" class="u-url"><time class="dt-published" datetime="2022-12-15 22:54:25 -0500">Dec 15, 2022</time></a>
 
 		<div class="e-content">
-			 <p>Currently reading: <a href="https://micro.blog/books/9781098118730">The Staff Engineer&rsquo;s Path</a> by Tanya Reilly 📚</p>
+			 <!-- raw HTML omitted -->
 
 		</div>
 	  </div>
@@ -714,7 +854,7 @@
 		<a href="https://ericgregorich.com/2022/12/15/finished-reading-the.html" class="u-url"><time class="dt-published" datetime="2022-12-15 22:53:01 -0500">Dec 15, 2022</time></a>
 
 		<div class="e-content">
-			 <p>Finished reading: <a href="https://micro.blog/books/9781943623389">The Laws of Creativity</a> by Joey Cofone 📚</p>
+			 <!-- raw HTML omitted -->
 
 		</div>
 	  </div>
@@ -833,6 +973,69 @@
 	
 	  <div class="h-entry">
 		
+			<h1><a href="https://ericgregorich.com/2022/12/08/create-an-azure.html">Create an Azure Function App that connects to SharePoint Online</a></h1>
+		
+
+		<a href="https://ericgregorich.com/2022/12/08/create-an-azure.html" class="u-url"><time class="dt-published" datetime="2022-12-08 08:00:00 -0500">Dec 8, 2022</time></a>
+
+		<div class="e-content">
+			 <!-- raw HTML omitted -->
+<pre><code>        // Get values from the querystring
+        string spListName = req.Query[&quot;ListName&quot;];
+
+        // Validate
+        if(String.IsNullOrEmpty(spListName))
+        {
+            responseMessage = &quot;Please provide a ListName querystring parameter.&quot;;
+            return new BadRequestObjectResult(responseMessage);
+        }
+
+        // Authenticate to SharePoint
+        AuthenticationManager authManager = new AuthenticationManager(appClientId, certificate, tenantId, redirectUrl, AzureEnvironment.Production, null);
+
+        using (var ctx = authManager.GetContext(spSiteUrl))
+        {
+            var splist = ctx.Web.Lists.GetByTitle(spListName);
+            ctx.Load(splist);
+            ctx.ExecuteQuery();
+            responseMessage = splist.Title + &quot; was retrieved&quot;;
+        }
+
+        return new OkObjectResult(responseMessage);
+    }
+    catch(Exception ex)
+    {
+        return new BadRequestObjectResult(ex.Message);
+    }
+}
+
+private static X509Certificate2 GetCertificate(string thumbprint)
+{
+    X509Certificate2 cert = null;
+    X509Store certStore = new X509Store(StoreName.TrustedPublisher, StoreLocation.LocalMachine);
+    certStore.Open(OpenFlags.ReadOnly);
+    X509Certificate2Collection certCollection = certStore.Certificates.Find(X509FindType.FindByThumbprint, thumbprint, false);
+
+    if (certCollection.Count &gt; 0)
+    {
+        cert = certCollection[0];
+        Console.WriteLine(cert.FriendlyName);
+    }
+
+    certStore.Close();
+    return cert;
+}
+</code></pre>
+<p>}</p>
+<p>}
+<!-- raw HTML omitted --><!-- raw HTML omitted --></p>
+<!-- raw HTML omitted -->
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
 
 		<a href="https://ericgregorich.com/2022/12/07/im-trying-out.html" class="u-url"><time class="dt-published" datetime="2022-12-07 16:41:17 -0500">Dec 7, 2022</time></a>
 
@@ -885,8 +1088,7 @@
 		<a href="https://ericgregorich.com/2022/12/03/i-watched-the.html" class="u-url"><time class="dt-published" datetime="2022-12-03 19:50:00 -0500">Dec 3, 2022</time></a>
 
 		<div class="e-content">
-			 <p>I watched the first episode of Willow last night. It brings back memories! I loved the movie when I was a kid.</p>
-<p>While I&rsquo;m not yet blown away by the effects and story, it&rsquo;s still fun, and I‘ll undoubtedly continue watching. 📺</p>
+			 <!-- raw HTML omitted -->
 
 		</div>
 	  </div>
@@ -897,8 +1099,7 @@
 		<a href="https://ericgregorich.com/2022/12/03/ive-been-cleaning.html" class="u-url"><time class="dt-published" datetime="2022-12-03 17:15:26 -0500">Dec 3, 2022</time></a>
 
 		<div class="e-content">
-			 <p>I’ve been cleaning up the apps on my phone. My main screen has a few widgets (photos, calendar, activity, airshow, Kindle) and this second screen has the main apps I use. Next, I’ll work on the iPad. :)</p>
-<p><img src="https://cdn.uploads.micro.blog/81720/2022/94d5501227.png" alt=""></p>
+			 <!-- raw HTML omitted -->
 
 		</div>
 	  </div>
@@ -1031,8 +1232,7 @@
 		<a href="https://ericgregorich.com/2022/11/15/i-tried-using.html" class="u-url"><time class="dt-published" datetime="2022-11-15 12:21:43 -0500">Nov 15, 2022</time></a>
 
 		<div class="e-content">
-			 <p>I tried using Logseq to write in throughout the day. It&rsquo;s a great application, but I can&rsquo;t enjoy writing in an outliner. I had the same issues when I tried Roam Research back in the day. It&rsquo;s okay when I&rsquo;m just jotting things down, but I become frustrated whenever I try to write anything substantial, more than a couple of paragraphs.</p>
-<p>I&rsquo;ll stick with Obsidian because of the much better writing experience (for me).</p>
+			 <!-- raw HTML omitted -->
 
 		</div>
 	  </div>
@@ -1043,8 +1243,7 @@
 		<a href="https://ericgregorich.com/2022/11/15/i-switched-from.html" class="u-url"><time class="dt-published" datetime="2022-11-15 09:42:42 -0500">Nov 15, 2022</time></a>
 
 		<div class="e-content">
-			 <p>I switched from my Logitech MX Keys Mechanical to the MX Keys Mini. I can actually type much faster, and it is quieter! The <strong>aluminum</strong> casing makes it feel premium.</p>
-<!-- raw HTML omitted -->
+			 <!-- raw HTML omitted -->
 
 		</div>
 	  </div>
@@ -1055,7 +1254,7 @@
 		<a href="https://ericgregorich.com/2022/11/15/currently-reading-the.html" class="u-url"><time class="dt-published" datetime="2022-11-15 07:39:43 -0500">Nov 15, 2022</time></a>
 
 		<div class="e-content">
-			 <p>Currently reading: <a href="https://micro.blog/books/9780765391209">The Lost Metal: A Mistborn Novel</a> by Brandon Sanderson 📚</p>
+			 <!-- raw HTML omitted -->
 
 		</div>
 	  </div>
@@ -1066,9 +1265,7 @@
 		<a href="https://ericgregorich.com/2022/11/15/finished-reading-king.html" class="u-url"><time class="dt-published" datetime="2022-11-15 07:36:25 -0500">Nov 15, 2022</time></a>
 
 		<div class="e-content">
-			 <p>Finished reading: <a href="https://micro.blog/books/9781399705417">King: Fairy Tale</a> by Stephen King 📚.
-A character-driven and realistic adventure into another world where many of our fairy tales began.</p>
-<p>I&rsquo;d love to see this book made into a movie!</p>
+			 <!-- raw HTML omitted -->
 
 		</div>
 	  </div>
@@ -1079,9 +1276,7 @@ A character-driven and realistic adventure into another world where many of our 
 		<a href="https://ericgregorich.com/2022/11/14/its-the-stuff.html" class="u-url"><time class="dt-published" datetime="2022-11-14 19:47:48 -0500">Nov 14, 2022</time></a>
 
 		<div class="e-content">
-			 <blockquote>
-<p>&ldquo;It’s the stuff you <strong>leave</strong> out that matters. So constantly look for things to remove, simplify, and streamline. Be a curator. Stick to what’s truly essential. Pare things down until you’re left with only the most important stuff.&rdquo; (Rework) 💬</p>
-</blockquote>
+			 <!-- raw HTML omitted -->
 
 		</div>
 	  </div>
@@ -1105,10 +1300,7 @@ A character-driven and realistic adventure into another world where many of our 
 		<a href="https://ericgregorich.com/2022/11/13/your-words-are.html" class="u-url"><time class="dt-published" datetime="2022-11-13 08:28:17 -0500">Nov 13, 2022</time></a>
 
 		<div class="e-content">
-			 <p><a href="https://www.hanselman.com/blog/your-words-are-wasted">Your words are wasted - Scott Hanselman&rsquo;s Blog</a> Written in 2012.</p>
-<blockquote>
-<p>&ldquo;Every developer should have a blog.&rdquo; Put yourself out there and make it findable. And still, you tweet giving all your life&rsquo;s precious remaining keystrokes to a company and a service that doesn&rsquo;t love or care about you - to a service that can&rsquo;t even find a tweet you wrote a month ago.</p>
-</blockquote>
+			 <!-- raw HTML omitted -->
 
 		</div>
 	  </div>
@@ -1189,26 +1381,7 @@ A character-driven and realistic adventure into another world where many of our 
 		<a href="https://ericgregorich.com/2022/11/10/interstitial-journaling.html" class="u-url"><time class="dt-published" datetime="2022-11-10 12:41:20 -0500">Nov 10, 2022</time></a>
 
 		<div class="e-content">
-			 <p>A productivity technique created by Tony Stubblebine, Interstitial Journaling combines note-taking with time tracking. <sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup></p>
-<p>To implement Interstitial Journaling, you simply write down the current time and what you’re doing or thinking at that time. Try to write in this log after completing tasks, meetings, etc.</p>
-<p>This technique has become very popular with modern apps like Roam Research, LogSeq, and Tana, where you have a Daily Page where you dump everything into. The advantage of doing this in a digital tool is that you can easily link to other notes in your system (if your app supports it).</p>
-<p>The Bullet Journal is a popular analog note-taking, essentially Interstitial Journaling. The difference is Bullet Journal doesn’t recommend using the current time before each of your notes. Otherwise, it’s the same system—you write brief tasks and notes throughout the day.</p>
-<p>An example:</p>
-<ul>
-<li>9:15 AM - Code review for XYZ app.</li>
-<li>10:27 AM - Starting the estimate for ABC Corp.</li>
-<li>11:32 AM - Wrapped up the estimate for ABC Corp. I think parts of this can be reused. These are always easier to do than I anticipated. I should create an archive for estimates somehow.</li>
-<li>12:00 PM - Lunch</li>
-<li>12:27 PM - Writing about Interstitial journaling.</li>
-</ul>
-<section class="footnotes" role="doc-endnotes">
-<hr>
-<ol>
-<li id="fn:1" role="doc-endnote">
-<p><a href="https://nesslabs.com/interstitial-journaling">Interstitial Journaling</a>&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
-</li>
-</ol>
-</section>
+			 <!-- raw HTML omitted -->
 
 		</div>
 	  </div>
@@ -1391,7 +1564,7 @@ A character-driven and realistic adventure into another world where many of our 
 		<div class="e-content">
 			 <p>I’m one to keep trying new phone cases to change things up (it drives my wife crazy). It’s better than buying a new phone. Right? My current phone case is by <a href="https://amzn.to/3TTzhoK" title="Peak Design">Peak Design</a>, and I’m enjoying it so far.</p>
 <p>A great feel, no fingerprints, a strong magnet, and decent protection.</p>
-<p><img src="https://cdn.uploads.micro.blog/81720/2022/b14cd334ba.jpg" alt="Peak Design iPhone Case"></p>
+<p><img src="https://ericgregorich.com/uploads/2022/b14cd334ba.jpg" alt="Peak Design iPhone Case"></p>
 
 		</div>
 	  </div>
@@ -1450,9 +1623,7 @@ A character-driven and realistic adventure into another world where many of our 
 		<a href="https://ericgregorich.com/2022/10/28/i-uninstalled-all.html" class="u-url"><time class="dt-published" datetime="2022-10-28 17:24:54 -0500">Oct 28, 2022</time></a>
 
 		<div class="e-content">
-			 <p>I uninstalled all of the social apps from my phone (again), except Micro.blog.</p>
-<p>I have trouble leaving Twitter because there is such a robust community I follow for news and updates pertaining to my work.</p>
-<p>I’m experimenting with Mailbrew to provide a daily Twitter digest.</p>
+			 <!-- raw HTML omitted -->
 
 		</div>
 	  </div>
@@ -1732,9 +1903,7 @@ A character-driven and realistic adventure into another world where many of our 
 		<a href="https://ericgregorich.com/2022/10/04/i-have-used.html" class="u-url"><time class="dt-published" datetime="2022-10-04 12:35:32 -0500">Oct 4, 2022</time></a>
 
 		<div class="e-content">
-			 <p>I have used the new Windows snap management in the latest Windows 11 update. It is a significant improvement over the previous version, but it&rsquo;s still not nearly as flexible as FancyZones that is included in <a href="https://github.com/microsoft/PowerToys">PowerToys</a>.</p>
-<p>I&rsquo;m still getting used to it.</p>
-<!-- raw HTML omitted -->
+			 <!-- raw HTML omitted -->
 
 		</div>
 	  </div>
@@ -1988,11 +2157,7 @@ A character-driven and realistic adventure into another world where many of our 
 		<a href="https://ericgregorich.com/2022/09/10/novelty-bias.html" class="u-url"><time class="dt-published" datetime="2022-09-10 13:29:35 -0500">Sep 10, 2022</time></a>
 
 		<div class="e-content">
-			 <p><a href="https://nesslabs.com/novelty-fallacy?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=novelty-fallacy">Novelty fallacy: why new isn’t always better - Ness Labs</a></p>
-<blockquote>
-<p>The novelty bias is a form of informal logical fallacy, where we consider that something is better simply because it’s new. Of course, in some cases, novelty seeking does correlate with benefits. For example, a newer computer may offer improved speed and performance. However, not all new ideas and objects will offer benefits over something older or more established.</p>
-</blockquote>
-<p>It’s always easy to see the latest tech innovations (like iPhones) and convince ourselves that we need them. If we think about the pros and cons and let them sit in our minds for a while. We’ll either forget about it or convince ourselves we don’t need it. In rare cases, the new toy improves our life.</p>
+			 <!-- raw HTML omitted -->
 
 		</div>
 	  </div>
@@ -2382,7 +2547,6 @@ RemoveCertsFromStore
 
 		<div class="e-content">
 			 <!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
 
 		</div>
 	  </div>
@@ -2434,15 +2598,55 @@ RemoveCertsFromStore
 		<a href="https://ericgregorich.com/2022/03/15/microsoft-power-apps.html" class="u-url"><time class="dt-published" datetime="2022-03-15 07:00:00 -0500">Mar 15, 2022</time></a>
 
 		<div class="e-content">
-			 <p>Microsoft Power Apps has a few icons built-in that we can use in our applications. If you want more options, you can follow these simple steps.</p>
+			 <!-- raw HTML omitted -->
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://ericgregorich.com/2022/02/14/check-for-a.html">Check for a null or blank SharePoint field value in Power Automate</a></h1>
+		
+
+		<a href="https://ericgregorich.com/2022/02/14/check-for-a.html" class="u-url"><time class="dt-published" datetime="2022-02-14 14:22:00 -0500">Feb 14, 2022</time></a>
+
+		<div class="e-content">
+			 <p>If you are using Microsoft Power Automate with Microsoft SharePoint Online list or library data and need to check if a field is empty or null, you can use the <code>@empty</code> function in an expression.</p>
+<h2 id="example">Example</h2>
+<p>The following example involves setting up a new Power Automate workflow triggered when a user starts the workflow from the SharePoint list. The workflow will check if the &ldquo;President&rdquo; column is empty and update the &ldquo;Is Empty&rdquo; column with the result.</p>
+<h3 id="create-a-sharepoint-list">Create a SharePoint List</h3>
+<p><img src="https://res.craft.do/user/full/d06a515d-4351-1c9f-57c1-9531f9792185/doc/77A4F9D9-4AC3-4EAD-9362-ABF2DD96922F/E81B43B3-6D3A-42D6-A975-2812E34714C7_2/mbeGRMi8RMy6OHLc0aAGTg8bFYn6jJSXaH3A4r5ySzoz/Pasted%20image%2020221024152321.png" alt="Pasted image 20221024152321.png"></p>
 <ul>
-<li>Go to the site <a href="https://www.matthewdevaney.com/2000-free-power-apps-icons/" title="Power Apps Icons">Power Apps Icons</a>.</li>
-<li>Search for the icon name to find the one you want.</li>
-<li>Click the color of the icon to choose the color.</li>
-<li>Right-click the Power Apps Code and choose Copy &gt; Copy value.</li>
-<li>Open your Power App.</li>
-<li>Add an image control.</li>
-<li>Paste the Power Apps Code into the Image property.</li>
+<li>Create a new SharePoint list. This demo uses the default Title column, a choice column called <strong>President</strong>, and a Boolean column called &ldquo;Is Empty.&rdquo;</li>
+<li>Add some sample data. Leave the President column blank for some items.</li>
+</ul>
+<h3 id="create-a-power-automate-flow">Create a Power Automate Flow</h3>
+<p><img src="https://res.craft.do/user/full/d06a515d-4351-1c9f-57c1-9531f9792185/doc/77A4F9D9-4AC3-4EAD-9362-ABF2DD96922F/1FE57638-1B37-422E-9DC9-94683E21C7FF_2/HZeyigvrnslrKIJs7UykxtJQo63k0LdvNWBM73HCWZkz/Pasted%20image%2020221024152332.png" alt="Pasted image 20221024152332.png"></p>
+<ul>
+<li>Create a new Power Automate Automated Cloud Flow. Select <strong>For a selected item</strong> as the trigger action. Select your SharePoint site and list in this action.</li>
+<li>Add the <strong>Get Item</strong> action and configure it to retrieve the selected item from the list. This step is necessary to retrieve all the columns so we can use them in the workflow. Set the ID to the ID of the For a Selected Item trigger.</li>
+<li>Add the <strong>Initialize Variable</strong> action. We want to use the <strong>empty()</strong> function with our President column in the Value. The full expression is <strong>empty(outputs(&lsquo;Get_item&rsquo;)?[&lsquo;body/President/Value&rsquo;])</strong>.</li>
+</ul>
+<p><img src="https://res.craft.do/user/full/d06a515d-4351-1c9f-57c1-9531f9792185/doc/77A4F9D9-4AC3-4EAD-9362-ABF2DD96922F/21989D0C-3796-4370-BC58-96C898999D32_2/EnwTT80lfJff1tc9FkvYPjNgF1r1yu9jlZW2RhA2YX0z/Pasted%20image%2020221024152345.png" alt="Pasted image 20221024152345.png"></p>
+<ul>
+<li>Add an Update Item action that is pointed to your list and set the Is Empty column.</li>
+</ul>
+<p><img src="https://res.craft.do/user/full/d06a515d-4351-1c9f-57c1-9531f9792185/doc/77A4F9D9-4AC3-4EAD-9362-ABF2DD96922F/FD16B158-33E9-41DF-9132-639BD49C7709_2/GwifbxtB5WxqfD01XyzpMho55Lc4YZFZtqEwFhfiEoEz/Pasted%20image%2020221024152402.png" alt="Pasted image 20221024152402.png"></p>
+<ul>
+<li>Save the workflow.</li>
+</ul>
+<h3 id="test-your-workflow">Test your workflow</h3>
+<ul>
+<li>Now, go back to your list and select an item with an empty President value. Under the Automate menu, you should see your workflow listed (it may take a few seconds to load). Please select it and run the workflow.</li>
+</ul>
+<p><img src="https://res.craft.do/user/full/d06a515d-4351-1c9f-57c1-9531f9792185/doc/77A4F9D9-4AC3-4EAD-9362-ABF2DD96922F/4EF28FE0-4393-4E94-9144-3A89AABD5237_2/kRvjuTxDuWtzfel9Mx4bxYi49qbg1W3ttVNt2ZKmTpAz/Pasted%20image%2020221024152421.png" alt="Pasted image 20221024152421.png"></p>
+<ul>
+<li>Refresh your list after a few seconds; the <strong>Is Empty</strong> column should be <strong>checked</strong>.</li>
+<li>Try running the workflow on a row that has a President selected. The <strong>Is Empty</strong> should <strong>not be checked</strong>.</li>
+</ul>
+<p><img src="https://res.craft.do/user/full/d06a515d-4351-1c9f-57c1-9531f9792185/doc/77A4F9D9-4AC3-4EAD-9362-ABF2DD96922F/1B9EAB39-5B5E-4B23-8EA9-90B123ED4C6D_2/RBSVLxWM0XdqMRZP7CaYS0a5e2VF3NSlYmSgNM9x9aMz/Pasted%20image%2020221024152435.png" alt="Pasted image 20221024152435.png"></p>
+<ul>
+<li>Open the workflow that you ran. You can see that the variable we created resulted in <strong>True</strong> when the column was empty and <strong>False</strong> when it was not.</li>
 </ul>
 
 		</div>
@@ -2489,7 +2693,7 @@ RemoveCertsFromStore
 		<a href="https://ericgregorich.com/2022/01/14/add-a-double.html" class="u-url"><time class="dt-published" datetime="2022-01-14 08:00:00 -0500">Jan 14, 2022</time></a>
 
 		<div class="e-content">
-			 <p>When writing text in Microsoft Power Apps controls, you may need to add a double quote as part of your text. Power Apps uses the Power Fx language. It would be best to convert the &quot; to <code>&amp;Char(34)</code> to encode them into the correct character.</p>
+			 <!-- raw HTML omitted -->
 
 		</div>
 	  </div>
@@ -2525,12 +2729,12 @@ RemoveCertsFromStore
 
 
     
-    <div>
-    <a href="https://micro.blog/ericgregorich" style="font-size: 2em; color: #ffaa09;" title="Micro.blog"><i class="fa-brands fa-microblog"></i></a>
+    <div><a href="https://micro.blog/ericgregorich" style="font-size: 2em; color: #ffaa09;" title="Micro.blog"><i class="fa-brands fa-microblog"></i></a>
 <a href="https://social.lol/@ericgregorich" style="font-size: 2em; color: #5b4be1;" title="Mastodon"><i class="fa-brands fa-mastodon"></i></a>
 </div>
-
-© 2017-2023 Eric Gregorich | Powered By Micro.Blog | Designed by Eric Gregorich
+<div>
+© 2017-2023 Eric Gregorich | Powered By <a href="https://micro.blog">Micro.Blog</a>  and <a href="https://micro.blog/account/plugins/view/82">Cards Theme</a>.
+</div>
 <script>hljs.highlightAll();</script>
 
 
