@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://ericgregorich.micro.blog/2023/02/26/233417.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "\n\n<img src=\"uploads/2023/c92ff6753b.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-02-26T23:34:17-05:00",
+				"url": "https://ericgregorich.com/2023/02/26/233417.html",
+				"tags": ["Photos"]
+			},
+			{
 				"id": "http://ericgregorich.micro.blog/2023/02/26/i-dont-understand.html",
 				
 				"content_html": "<p>I don&rsquo;t understand the excitement of <a href=\"https://arc.net/\">Arc Browser</a>. Most of the features I&rsquo;ve seen have been in other browsers for years. I think it is a new UI, and people are just now discovering these features they never knew about before but have always been there.</p>\n",
