@@ -7,6 +7,78 @@
 	"items": [
 		
 			{
+				"id": "http://ericgregorich.micro.blog/2023/03/26/ai-like-chapgpt.html",
+				
+				"content_html": "<p>AI, like ChapGPT, is simply manipulating data and returning it to us in the requested format. The real AI we&rsquo;re all terrified of can learn. Give that AI access to material things, and then I&rsquo;m scared.</p>\n",
+				"content_text": "AI, like ChapGPT, is simply manipulating data and returning it to us in the requested format. The real AI we're all terrified of can learn. Give that AI access to material things, and then I'm scared. \n",
+				"date_published": "2023-03-26T07:54:06-04:00",
+				"url": "https://blog.ericgregorich.com/2023/03/26/ai-like-chapgpt.html"
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2023/03/25/i-decided-to.html",
+				
+				"content_html": "<p>I decided to switch my custom email from Fastmail to iCloud custom domains. I don&rsquo;t get a lot of emails and don&rsquo;t use most of the features of Fastmail. And I&rsquo;m already paying for iCloud +. One less subscription.</p>\n",
+				"content_text": "I decided to switch my custom email from Fastmail to iCloud custom domains. I don't get a lot of emails and don't use most of the features of Fastmail. And I'm already paying for iCloud +. One less subscription. \n",
+				"date_published": "2023-03-25T18:01:28-04:00",
+				"url": "https://blog.ericgregorich.com/2023/03/25/i-decided-to.html"
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2023/03/25/four-thousand-weeks.html",
+				
+				"content_html": "<p><a href=\"https://micro.blog/books/9780374715243\">Four Thousand Weeks: Time Management for Mortals</a> by Oliver Burkeman 📚</p>\n<p>Oliver recommends having 3 main tasks you can currently work on. When one task is complete, you can determine which task from your backlog to insert into the empty slot. You can also drop a task from the three if necessary.</p>\n",
+				"content_text": "[Four Thousand Weeks: Time Management for Mortals](https://micro.blog/books/9780374715243) by Oliver Burkeman 📚\n\nOliver recommends having 3 main tasks you can currently work on. When one task is complete, you can determine which task from your backlog to insert into the empty slot. You can also drop a task from the three if necessary. \n",
+				"date_published": "2023-03-25T12:08:30-04:00",
+				"url": "https://blog.ericgregorich.com/2023/03/25/four-thousand-weeks.html"
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2023/03/25/im-trying-out.html",
+				
+				"content_html": "<p>I&rsquo;m trying out Drafts to be my primary capture tool. I&rsquo;m configuring Drafts to send to various locations, like Micro.blog, Day One, Logseq, Obsidian, Reminders, etc. Perhaps, it will help to have one place to go to write things down?</p>\n",
+				"content_text": "I'm trying out Drafts to be my primary capture tool. I'm configuring Drafts to send to various locations, like Micro.blog, Day One, Logseq, Obsidian, Reminders, etc. Perhaps, it will help to have one place to go to write things down?\n",
+				"date_published": "2023-03-25T10:46:20-04:00",
+				"url": "https://blog.ericgregorich.com/2023/03/25/im-trying-out.html"
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2023/03/24/discarded-the-future.html",
+				
+				"content_html": "<p>Discarded: <a href=\"https://micro.blog/books/9781541701571\">The Future Is Analog</a> by David Sax 📚I just couldn’t get into this book. It’s all about the pandemic with an “I told you so” attitude.</p>\n",
+				"content_text": "Discarded: [The Future Is Analog](https://micro.blog/books/9781541701571) by David Sax 📚I just couldn’t get into this book. It’s all about the pandemic with an “I told you so” attitude. \n",
+				"date_published": "2023-03-24T18:01:56-04:00",
+				"url": "https://blog.ericgregorich.com/2023/03/24/discarded-the-future.html"
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2023/03/23/dateful-is-a.html",
+				
+				"content_html": "<p><a href=\"https://dateful.com/\">dateful</a> is a simple website with tools like Time Zone Converter, EventLink, World Clock, Time Calculator, and a Schedule. A simple way to do some quick date calculations.</p>\n",
+				"content_text": "[dateful](https://dateful.com/) is a simple website with tools like Time Zone Converter, EventLink, World Clock, Time Calculator, and a Schedule. A simple way to do some quick date calculations.\n",
+				"date_published": "2023-03-23T17:26:18-04:00",
+				"url": "https://blog.ericgregorich.com/2023/03/23/dateful-is-a.html"
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2023/03/22/publishing-to-blot.html",
+				
+				"content_html": "<p>Publishing to Blot is so fast; I don&rsquo;t even know how it&rsquo;s possible. I click the &ldquo;push&rdquo; button in Obsidian and switch to my browser, refresh, and the latest post is already there. Less than 1 second. Quite impressive!</p>\n",
+				"content_text": "Publishing to Blot is so fast; I don't even know how it's possible. I click the \"push\" button in Obsidian and switch to my browser, refresh, and the latest post is already there. Less than 1 second. Quite impressive!\n",
+				"date_published": "2023-03-22T18:10:42-04:00",
+				"url": "https://blog.ericgregorich.com/2023/03/22/publishing-to-blot.html"
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2023/03/22/sharepoint-site-provisioning.html",
+				
+				"content_html": "<p><a href=\"https://ericgregorich.com/sharepoint-site-provisioning-start-here\">SharePoint Site Provisioning</a> I started a series of posts demonstrating how to use Power Automate to create and update SharePoint sites.</p>\n<p>It includes creating a new site, applying a template to the site, deleting a content type, setting up default folders, and more.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "[SharePoint Site Provisioning](https://ericgregorich.com/sharepoint-site-provisioning-start-here) I started a series of posts demonstrating how to use Power Automate to create and update SharePoint sites. \n\nIt includes creating a new site, applying a template to the site, deleting a content type, setting up default folders, and more. \n\n<img src=\"https://cdn.uploads.micro.blog/81720/2023/89033d7505.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-03-22T17:19:16-04:00",
+				"url": "https://blog.ericgregorich.com/2023/03/22/sharepoint-site-provisioning.html"
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2023/03/21/logseq-has-been.html",
+				
+				"content_html": "<p>Logseq has been very valuable for taking work notes. It is one of the few tools where I can rapidly log notes throughout the day. I can quickly zoom in and focus on one thing at a time and click, search, and filter to find all related notes.</p>\n<p>I’m still using Obsidian for long-form writing.</p>\n",
+				"content_text": "Logseq has been very valuable for taking work notes. It is one of the few tools where I can rapidly log notes throughout the day. I can quickly zoom in and focus on one thing at a time and click, search, and filter to find all related notes.\n\nI’m still using Obsidian for long-form writing. \n",
+				"date_published": "2023-03-21T18:19:02-04:00",
+				"url": "https://blog.ericgregorich.com/2023/03/21/logseq-has-been.html"
+			},
+			{
 				"id": "http://ericgregorich.micro.blog/2023/03/15/currently-reading-think.html",
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9789083023847\">THINK STRAIGHT</a> by Darius Foroux 📚</p>\n",
@@ -18,7 +90,7 @@
 				"id": "http://ericgregorich.micro.blog/2023/03/12/i-finished-the.html",
 				
 				"content_html": "<p>I finished the &ldquo;Design your system for creativity&rdquo; webinar by Oliver Burkeman. I took my notes in Obsidian Canvas, resulting in a visual mind map.</p>\n<p>I will try Canvas to map out the technical requirements of apps I design for my clients. Especially useful that each node can be a full page of notes.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I finished the \"Design your system for creativity\" webinar by Oliver Burkeman. I took my notes in Obsidian Canvas, resulting in a visual mind map. \n\nI will try Canvas to map out the technical requirements of apps I design for my clients. Especially useful that each node can be a full page of notes.\n\n<img src=\"uploads/2023/01ea2f8605.png\" width=\"600\" height=\"558\" alt=\"\">\n",
+				"content_text": "I finished the \"Design your system for creativity\" webinar by Oliver Burkeman. I took my notes in Obsidian Canvas, resulting in a visual mind map. \n\nI will try Canvas to map out the technical requirements of apps I design for my clients. Especially useful that each node can be a full page of notes.\n\n<img src=\"https://cdn.uploads.micro.blog/81720/2023/01ea2f8605.png\" width=\"600\" height=\"558\" alt=\"\">\n",
 				"date_published": "2023-03-12T14:08:16-04:00",
 				"url": "https://blog.ericgregorich.com/2023/03/12/i-finished-the.html",
 				"tags": ["Photos"]
