@@ -7,6 +7,55 @@
 	"items": [
 		
 			{
+				"id": "http://ericgregorich.micro.blog/2023/03/31/the-temperature-is.html",
+				
+				"content_html": "<p>The temperature is in that zone where my house is either too hot or too cold, and we must switch between heat and air to make it bearable.</p>\n<p><img src=\"https://blog.ericgregorich.com/uploads/2023/43629c6442.jpg\" alt=\"\"></p>\n",
+				"content_text": "The temperature is in that zone where my house is either too hot or too cold, and we must switch between heat and air to make it bearable.\n\n![](https://blog.ericgregorich.com/uploads/2023/43629c6442.jpg)\n\n",
+				"date_published": "2023-03-31T08:19:45-04:00",
+				"url": "https://blog.ericgregorich.com/2023/03/31/the-temperature-is.html"
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2023/03/29/raindrop-released-native.html",
+				
+				"content_html": "<p><a href=\"https://raindrop.io\">Raindrop</a> released native iOS and iPadOS apps today.</p>\n<p>I’ve been using Raindrop because I need something cross-platform. I also use it heavily to highlight documentation that I review for work.</p>\n<p>I&rsquo;m happy to see some native apps. The mobile experience was definitely lacking.</p>\n",
+				"content_text": "[Raindrop](https://raindrop.io) released native iOS and iPadOS apps today. \n\nI’ve been using Raindrop because I need something cross-platform. I also use it heavily to highlight documentation that I review for work. \n\nI'm happy to see some native apps. The mobile experience was definitely lacking.\n",
+				"date_published": "2023-03-29T18:38:37-04:00",
+				"url": "https://blog.ericgregorich.com/2023/03/29/raindrop-released-native.html"
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2023/03/29/ultimate-calendar-hack.html",
+				
+				"content_html": "<p><a href=\"https://www.sahilbloom.com/newsletter/energy-calendars-how-to-negotiate-more\">Ultimate Calendar Hack, How to Negotiate. &amp; More</a></p>\n<blockquote>\n<p>At the end of every weekday, I go through and color-code my calendar from the day that just finished. \nGreen = Energy Creating Yellow = Neutral Red = Energy Draining. I don’t spend too much time thinking about which bucket each item fell into—I try to trust my gut.</p>\n</blockquote>\n<p>I like this idea of color coding the calendar to show what gives you energy vs. what drains your energy. It could be a great way to work on balancing things out. I&rsquo;m not sure I&rsquo;ll do it, but I&rsquo;ll keep it in mind.</p>\n",
+				"content_text": "[Ultimate Calendar Hack, How to Negotiate. & More](https://www.sahilbloom.com/newsletter/energy-calendars-how-to-negotiate-more)\r\n\r\n> At the end of every weekday, I go through and color-code my calendar from the day that just finished. \r\nGreen = Energy Creating Yellow = Neutral Red = Energy Draining. I don’t spend too much time thinking about which bucket each item fell into—I try to trust my gut.\r\n\r\nI like this idea of color coding the calendar to show what gives you energy vs. what drains your energy. It could be a great way to work on balancing things out. I'm not sure I'll do it, but I'll keep it in mind.\n",
+				"date_published": "2023-03-29T09:22:11-04:00",
+				"url": "https://blog.ericgregorich.com/2023/03/29/ultimate-calendar-hack.html",
+				"tags": ["Quotes"]
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2023/03/26/my-rocketbook-notebook.html",
+				
+				"content_html": "<p>My Rocketbook notebook arrived.</p>\n<ol>\n<li>I think I like the size (8.5 x 11). Plenty of space to write.</li>\n<li>I love how it lays flat and is not thick.</li>\n<li>It&rsquo;s easy to write on, but not the same as paper. I don&rsquo;t think I&rsquo;ll have a problem.</li>\n</ol>\n<p>The real test is using it this week for work. We&rsquo;ll see how it holds up!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "My Rocketbook notebook arrived. \r\n\r\n1. I think I like the size (8.5 x 11). Plenty of space to write.\r\n2. I love how it lays flat and is not thick. \r\n3. It's easy to write on, but not the same as paper. I don't think I'll have a problem. \r\n\r\nThe real test is using it this week for work. We'll see how it holds up!\n\n<img src=\"uploads/2023/a0a7b07500.jpg\" width=\"600\" height=\"450\" alt=\"RocketBook Notebook\">\n",
+				"date_published": "2023-03-26T19:20:25-04:00",
+				"url": "https://blog.ericgregorich.com/2023/03/26/my-rocketbook-notebook.html"
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2023/03/26/i-purchased-a.html",
+				
+				"content_html": "<p>I purchased a RocketBook notebook today. I&rsquo;ve been using a standard Bullet Journal-style notebook for a while, but as a temporary working page where I can write throughout the day.</p>\n<p>I like the idea of snapping a photo of anything I want to keep and wiping the rest clean for a fresh start.</p>\n",
+				"content_text": "I purchased a RocketBook notebook today. I've been using a standard Bullet Journal-style notebook for a while, but as a temporary working page where I can write throughout the day. \r\n\r\nI like the idea of snapping a photo of anything I want to keep and wiping the rest clean for a fresh start.\n",
+				"date_published": "2023-03-26T10:35:18-04:00",
+				"url": "https://blog.ericgregorich.com/2023/03/26/i-purchased-a.html"
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2023/03/26/we-finished-stranger.html",
+				
+				"content_html": "<p>📺 We finished <a href=\"https://www.themoviedb.org/tv/66732\">Stranger Things</a> season 4. What a fun show!</p>\n",
+				"content_text": "📺 We finished [Stranger Things](https://www.themoviedb.org/tv/66732) season 4. What a fun show!\r\n",
+				"date_published": "2023-03-26T08:30:57-04:00",
+				"url": "https://blog.ericgregorich.com/2023/03/26/we-finished-stranger.html"
+			},
+			{
 				"id": "http://ericgregorich.micro.blog/2023/03/26/ai-like-chapgpt.html",
 				
 				"content_html": "<p>AI, like ChapGPT, is simply manipulating data and returning it to us in the requested format. The real AI we&rsquo;re all terrified of can learn. Give that AI access to material things, and then I&rsquo;m scared.</p>\n",
