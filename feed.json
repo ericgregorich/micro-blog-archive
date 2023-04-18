@@ -7,22 +7,49 @@
 	"items": [
 		
 			{
+				"id": "http://ericgregorich.micro.blog/2023/04/16/my-workspace-update.html",
+				"title": "My Workspace update: April 16, 2023",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>I cleaned up my workspace this week and loved it so far. </p>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" title=\"Eric Gregorich Workspace 2023-04-16.png\" src=\"https://ericgregorich.com/uploads/2023/deab1945be.png\" alt=\"Eric Gregorich Workspace 2023-04-16\" width=\"600\" height=\"450\" border=\"0\" /></p>\n<h2>Desk</h2>\n<p>Years ago, I purchased a huge desk with a hidden compartment to store all the cables, adapters, power bricks, and even my dock. It has enough space to hold plenty of equipment comfortably.</p>\n<h2>Monitors</h2>\n<p>I have an LG Ultrawide monitor with decent speakers, so I also use it for audio. I have a cheap standalone microphone velcroed to the back of the monitor. It works great.</p>\n<p>I have Windows running on the big monitor. This is where I do all my work for my day job. I also have a Mac mini for personal use.</p>\n<p>Until this week, both machines were connected to the main monitor. I would need to switch my monitor input to get to my Mac and vice-versa. </p>\n<p>The small monitor in the front is a recent purchase. It's an Arzopa 15” portable monitor (not an iPad). It allows me to see my Mac and Windows machines at the same time. I use my Mac for my email, calendar, notes, tasks, etc., and the big monitor for my work.</p>\n<p>The trick to making this work is using Logitech Flow. Since my keyboard and mouse are both Logitech, I can easily move my mouse between monitors by moving it to the edge of the screen while holding the CTR key. This works between Windows and Mac machines seamlessly. </p>\n<h2>Keyboard and Mouse</h2>\n<p>Logitech <a href=\"https://www.logitech.com/en-us/products/keyboards/mx-mechanical.html\">MX Mechanical Mini</a> and <a href=\"https://www.logitech.com/en-us/products/mice/mx-vertical-ergonomic-mouse.910-005447.html\">Logitech MX Vertical</a>.</p>\n<h2>Time Tracking</h2>\n<p>That white octagon-shaped thing is from <a href=\"https://timeular.com\">Timeular</a>. I use it to track my time for work, which is required since I bill clients.</p>\n<h2>Decoration</h2>\n<p>I spruced it up today by adding some of my books and bobbleheads. </p>\n",
+				"date_published": "2023-04-16T09:49:00-04:00",
+				"url": "https://ericgregorich.com/2023/04/16/my-workspace-update.html",
+				"tags": ["Photos","Hardware"]
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2023/04/15/my-daughter-is.html",
+				
+				"content_html": "<p>My daughter (17) is going to prom tonight with her boyfriend. I don’t feel old enough for this. We&rsquo;re about to get some pictures and send her off!</p>\n<p>I’m so proud of how much she has accomplished in life already.</p>\n",
+				"content_text": "My daughter (17) is going to prom tonight with her boyfriend. I don’t feel old enough for this. We're about to get some pictures and send her off!\n\nI’m so proud of how much she has accomplished in life already.  \n",
+				"date_published": "2023-04-15T17:19:06-04:00",
+				"url": "https://ericgregorich.com/2023/04/15/my-daughter-is.html",
+				"tags": ["Productivity","Notes"]
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2023/04/13/want-to-read.html",
+				
+				"content_html": "<p>Want to read: <a href=\"https://micro.blog/books/9781800181106\">Shareware Heroes</a> by Richard Moss 📚</p>\n",
+				"content_text": "Want to read: [Shareware Heroes](https://micro.blog/books/9781800181106) by Richard Moss 📚\n",
+				"date_published": "2023-04-13T22:41:24-04:00",
+				"url": "https://ericgregorich.com/2023/04/13/want-to-read.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2023/04/13/ive-been-busy.html",
+				
+				"content_html": "<p>I’ve been busy rebuilding an old workflow solution with modern APIs in a modular format enabling my team to reuse components across many solutions.</p>\n<p>It’s been a lot of fun, and easy to lose track of time!</p>\n",
+				"content_text": "I’ve been busy rebuilding an old workflow solution with modern APIs in a modular format enabling my team to reuse components across many solutions.\n\nIt’s been a lot of fun, and easy to lose track of time!\n\n",
+				"date_published": "2023-04-13T19:22:46-04:00",
+				"url": "https://ericgregorich.com/2023/04/13/ive-been-busy.html",
+				"tags": ["Development","Notes"]
+			},
+			{
 				"id": "http://ericgregorich.micro.blog/2023/04/10/the-brain-vs.html",
 				
 				"content_html": "<p><a href=\"https://thesweetsetup.com/the-brain-vs-the-list/\">The Brain vs. The List</a></p>\n<blockquote>\n<p>“Your digital task manager and calendar help “collect” all the things you need to do, both today and for the future. Your analog notebook helps you sit down, take a deep breath, and think through what’s most important for this week and for today.&quot; (Chloe, The Brain vs. The List)</p>\n</blockquote>\n<p>I’ve been using this approach lately and enjoy it. I store everything digitally but work from paper. It helps me remove distractions, and processing my notes and even rewriting is a great way to prioritize.</p>\n",
 				"content_text": "[The Brain vs. The List](https://thesweetsetup.com/the-brain-vs-the-list/)\n\n> “Your digital task manager and calendar help “collect” all the things you need to do, both today and for the future. Your analog notebook helps you sit down, take a deep breath, and think through what’s most important for this week and for today.\" (Chloe, The Brain vs. The List)\n\nI’ve been using this approach lately and enjoy it. I store everything digitally but work from paper. It helps me remove distractions, and processing my notes and even rewriting is a great way to prioritize. \n",
 				"date_published": "2023-04-10T20:22:21-04:00",
 				"url": "https://ericgregorich.com/2023/04/10/the-brain-vs.html",
-				"tags": ["Micro Posts","Productivity"]
-			},
-			{
-				"id": "http://ericgregorich.micro.blog/2023/04/10/a-helpful-guide.html",
-				
-				"content_html": "<p>A helpful guide to using AI tools in their current state.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A helpful guide to using AI tools in their current state. \n\n<blockquote class=\"quoteback\" data-title=\"\" data-author=\"oneusefulthing.org\" data-avatar=\"https://micro.blog/oneusefulthing.org/avatar.jpg\" cite=\"https://www.oneusefulthing.org/p/how-to-use-ai-to-do-practical-stuff\"><p>How to use AI to do practical stuff: A new guide <a href=\"https://www.oneusefulthing.org/p/how-to-use-ai-to-do-practical-stuff\">oneusefulthing.org</a></p><p class=\"post_archived_links\">Read: <a href=\"https://micro.blog/bookmarks/650240\">www.oneusefulthing.org</a> </p><footer>oneusefulthing.org <cite><a href=\"https://www.oneusefulthing.org/p/how-to-use-ai-to-do-practical-stuff\" class=\"u-in-reply-to\">https://www.oneusefulthing.org/p/how-to-use-ai-to-do-practical-stuff</a></cite></footer></blockquote><script src=\"https://micro.blog/quoteback.js\"></script>\n",
-				"date_published": "2023-04-10T19:56:21-04:00",
-				"url": "https://ericgregorich.com/2023/04/10/a-helpful-guide.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Productivity","Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/04/10/i-updated-my.html",
@@ -31,7 +58,7 @@
 				"content_text": "I updated my blog to show long posts on the home page and a separate ”[Micro Posts](https://ericgregorich.com/categories/micro-posts/)” page. \n\nLong posts are truncated and have a link. Micro posts show the full content. \n\nI had both types of posts on the home page together. I can’t decide if I stay with separate pages or mixed together? \n\nSuggestions?\n",
 				"date_published": "2023-04-10T19:35:44-04:00",
 				"url": "https://ericgregorich.com/2023/04/10/i-updated-my.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/04/10/im-curious-how.html",
@@ -40,7 +67,7 @@
 				"content_text": "I’m curious how everyone is using the Micro.blog Bookmarks feature? I understand how it works, but how are you using it? Is it efficient for bookmarking anything you want to share to Micro.blog? \n\nThere is also a [plugin](https://micro.blog/account/plugins/view/84) that allows you to easily add your bookmarks to a page on your site that I may try.. \n",
 				"date_published": "2023-04-10T18:28:15-04:00",
 				"url": "https://ericgregorich.com/2023/04/10/im-curious-how.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/04/10/document-your-work.html",
@@ -58,7 +85,7 @@
 				"content_text": "I tried the [Bear 2 Beta](https://beta.bear.app/t/the-bear-2-beta-is-here/9115). What a beautiful app! I'm tempted to use it for my personal Knowledge Base.\n\nI've tried using one app (Obsidian), but finding separate apps for specific purposes seems to work better. \n\n* Rocketbook = Capture\n* Readwise = Collection\n* Bear = Knowledge\n* Raindrop = Bookmarks\n* Ulysses = Long-form writing\n* Mars Edit = Blog posts\n* Things 3 = Tasks\n* Apple Notes = Miscellaneous and shared notes\n",
 				"date_published": "2023-04-09T09:55:53-04:00",
 				"url": "https://ericgregorich.com/2023/04/09/i-tried-the.html",
-				"tags": ["Apps","Micro Posts"]
+				"tags": ["Apps","Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/04/08/filter-the-posts.html",
@@ -76,7 +103,7 @@
 				"content_text": "[HeyScottyJ - No PKM necessary](https://heyscottyj.com/2023/02/13/no-pkm-necessary.html \"No PKM Necessary\")\n\n> The concept of Personal Knowledge Management (PKM) is flawed in that it fails to recognize that there is more to knowledge management than simply collecting, storing, and organizing data. Rather, knowledge management is a process of transforming data into information and then into knowledge through the application of cognitive processes. \n\nWhile PKM tools can be helpful in collecting, organizing, and connecting the information you gather, it is up to you to do something with that information to turn it into knowledge.\n\n",
 				"date_published": "2023-04-02T10:13:14-04:00",
 				"url": "https://ericgregorich.com/2023/04/02/heyscottyj-no-pkm.html",
-				"tags": ["Quotes","Micro Posts"]
+				"tags": ["Quotes","Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/04/01/apps-im-using.html",
@@ -94,7 +121,7 @@
 				"content_text": "The temperature is in that zone where my house is either too hot or too cold, and we must switch between heat and air to make it bearable.\n\n![](https://cdn.uploads.micro.blog/81720/2023/43629c6442.jpg)\n\n",
 				"date_published": "2023-03-31T08:19:45-04:00",
 				"url": "https://ericgregorich.com/2023/03/31/the-temperature-is.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/03/29/raindrop-released-native.html",
@@ -103,7 +130,7 @@
 				"content_text": "[Raindrop](https://raindrop.io) released native iOS and iPadOS apps today. \n\nI’ve been using Raindrop because I need something cross-platform. I also use it heavily to highlight documentation that I review for work. \n\nI'm happy to see some native apps. The mobile experience was definitely lacking.\n",
 				"date_published": "2023-03-29T18:38:37-04:00",
 				"url": "https://ericgregorich.com/2023/03/29/raindrop-released-native.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/03/29/ultimate-calendar-hack.html",
@@ -112,16 +139,16 @@
 				"content_text": "[Ultimate Calendar Hack, How to Negotiate. & More](https://www.sahilbloom.com/newsletter/energy-calendars-how-to-negotiate-more)\r\n\r\n> At the end of every weekday, I go through and color-code my calendar from the day that just finished. \r\nGreen = Energy Creating Yellow = Neutral Red = Energy Draining. I don’t spend too much time thinking about which bucket each item fell into—I try to trust my gut.\r\n\r\nI like this idea of color coding the calendar to show what gives you energy vs. what drains your energy. It could be a great way to work on balancing things out. I'm not sure I'll do it, but I'll keep it in mind.\n",
 				"date_published": "2023-03-29T09:22:11-04:00",
 				"url": "https://ericgregorich.com/2023/03/29/ultimate-calendar-hack.html",
-				"tags": ["Quotes","Micro Posts"]
+				"tags": ["Quotes","Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/03/26/my-rocketbook-notebook.html",
 				
 				"content_html": "<p>My Rocketbook notebook arrived.</p>\n<ol>\n<li>I think I like the size (8.5 x 11). Plenty of space to write.</li>\n<li>I love how it lays flat and is not thick.</li>\n<li>It&rsquo;s easy to write on, but not the same as paper. I don&rsquo;t think I&rsquo;ll have a problem.</li>\n</ol>\n<p>The real test is using it this week for work. We&rsquo;ll see how it holds up!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My Rocketbook notebook arrived. \r\n\r\n1. I think I like the size (8.5 x 11). Plenty of space to write.\r\n2. I love how it lays flat and is not thick. \r\n3. It's easy to write on, but not the same as paper. I don't think I'll have a problem. \r\n\r\nThe real test is using it this week for work. We'll see how it holds up!\n\n<img src=\"https://cdn.uploads.micro.blog/81720/2023/a0a7b07500.jpg\" width=\"600\" height=\"450\" alt=\"RocketBook Notebook\">\n",
+				"content_text": "My Rocketbook notebook arrived. \n\n1. I think I like the size (8.5 x 11). Plenty of space to write.\n2. I love how it lays flat and is not thick. \n3. It's easy to write on, but not the same as paper. I don't think I'll have a problem. \n\nThe real test is using it this week for work. We'll see how it holds up!\n\n<img src=\"uploads/2023/a0a7b07500.jpg\" width=\"600\" height=\"450\" alt=\"RocketBook Notebook\">\n",
 				"date_published": "2023-03-26T19:20:25-04:00",
 				"url": "https://ericgregorich.com/2023/03/26/my-rocketbook-notebook.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Photos","Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/03/26/i-purchased-a.html",
@@ -130,7 +157,7 @@
 				"content_text": "I purchased a RocketBook notebook today. I've been using a standard Bullet Journal-style notebook for a while, but as a temporary working page where I can write throughout the day. \r\n\r\nI like the idea of snapping a photo of anything I want to keep and wiping the rest clean for a fresh start.\n",
 				"date_published": "2023-03-26T10:35:18-04:00",
 				"url": "https://ericgregorich.com/2023/03/26/i-purchased-a.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/03/26/we-finished-stranger.html",
@@ -139,7 +166,7 @@
 				"content_text": "📺 We finished [Stranger Things](https://www.themoviedb.org/tv/66732) season 4. What a fun show!\r\n",
 				"date_published": "2023-03-26T08:30:57-04:00",
 				"url": "https://ericgregorich.com/2023/03/26/we-finished-stranger.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/03/26/ai-like-chapgpt.html",
@@ -148,7 +175,7 @@
 				"content_text": "AI, like ChapGPT, is simply manipulating data and returning it to us in the requested format. The real AI we're all terrified of can learn. Give that AI access to material things, and then I'm scared. \n",
 				"date_published": "2023-03-26T07:54:06-04:00",
 				"url": "https://ericgregorich.com/2023/03/26/ai-like-chapgpt.html",
-				"tags": ["Micro Posts","AI"]
+				"tags": ["AI","Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/03/25/i-decided-to.html",
@@ -157,7 +184,7 @@
 				"content_text": "I decided to switch my custom email from Fastmail to iCloud custom domains. I don't get a lot of emails and don't use most of the features of Fastmail. And I'm already paying for iCloud +. One less subscription. \n",
 				"date_published": "2023-03-25T18:01:28-04:00",
 				"url": "https://ericgregorich.com/2023/03/25/i-decided-to.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/03/25/four-thousand-weeks.html",
@@ -166,7 +193,7 @@
 				"content_text": "[Four Thousand Weeks: Time Management for Mortals](https://micro.blog/books/9780374715243) by Oliver Burkeman 📚\n\nOliver recommends having 3 main tasks you can currently work on. When one task is complete, you can determine which task from your backlog to insert into the empty slot. You can also drop a task from the three if necessary. \n",
 				"date_published": "2023-03-25T12:08:30-04:00",
 				"url": "https://ericgregorich.com/2023/03/25/four-thousand-weeks.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/03/25/im-trying-out.html",
@@ -175,7 +202,7 @@
 				"content_text": "I'm trying out Drafts to be my primary capture tool. I'm configuring Drafts to send to various locations, like Micro.blog, Day One, Logseq, Obsidian, Reminders, etc. Perhaps, it will help to have one place to go to write things down?\n",
 				"date_published": "2023-03-25T10:46:20-04:00",
 				"url": "https://ericgregorich.com/2023/03/25/im-trying-out.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/03/24/discarded-the-future.html",
@@ -184,7 +211,7 @@
 				"content_text": "Discarded: [The Future Is Analog](https://micro.blog/books/9781541701571) by David Sax 📚I just couldn’t get into this book. It’s all about the pandemic with an “I told you so” attitude. \n",
 				"date_published": "2023-03-24T18:01:56-04:00",
 				"url": "https://ericgregorich.com/2023/03/24/discarded-the-future.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/03/23/dateful-is-a.html",
@@ -193,7 +220,7 @@
 				"content_text": "[dateful](https://dateful.com/) is a simple website with tools like Time Zone Converter, EventLink, World Clock, Time Calculator, and a Schedule. A simple way to do some quick date calculations.\n",
 				"date_published": "2023-03-23T17:26:18-04:00",
 				"url": "https://ericgregorich.com/2023/03/23/dateful-is-a.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/03/22/publishing-to-blot.html",
@@ -202,7 +229,7 @@
 				"content_text": "Publishing to Blot is so fast; I don't even know how it's possible. I click the \"push\" button in Obsidian and switch to my browser, refresh, and the latest post is already there. Less than 1 second. Quite impressive!\n",
 				"date_published": "2023-03-22T18:10:42-04:00",
 				"url": "https://ericgregorich.com/2023/03/22/publishing-to-blot.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/03/22/sharepoint-site-provisioning.html",
@@ -211,7 +238,7 @@
 				"content_text": "[SharePoint Site Provisioning](https://ericgregorich.com/sharepoint-site-provisioning-start-here) I started a series of posts demonstrating how to use Power Automate to create and update SharePoint sites. \n\nIt includes creating a new site, applying a template to the site, deleting a content type, setting up default folders, and more. \n\n<img src=\"https://cdn.uploads.micro.blog/81720/2023/89033d7505.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-03-22T17:19:16-04:00",
 				"url": "https://ericgregorich.com/2023/03/22/sharepoint-site-provisioning.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/03/21/logseq-has-been.html",
@@ -220,7 +247,7 @@
 				"content_text": "Logseq has been very valuable for taking work notes. It is one of the few tools where I can rapidly log notes throughout the day. I can quickly zoom in and focus on one thing at a time and click, search, and filter to find all related notes.\n\nI’m still using Obsidian for long-form writing. \n",
 				"date_published": "2023-03-21T18:19:02-04:00",
 				"url": "https://ericgregorich.com/2023/03/21/logseq-has-been.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/03/15/currently-reading-think.html",
@@ -229,7 +256,7 @@
 				"content_text": "Currently reading: [THINK STRAIGHT](https://micro.blog/books/9789083023847) by Darius Foroux 📚\n",
 				"date_published": "2023-03-15T21:32:04-04:00",
 				"url": "https://ericgregorich.com/2023/03/15/currently-reading-think.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/03/12/i-finished-the.html",
@@ -238,7 +265,7 @@
 				"content_text": "I finished the \"Design your system for creativity\" webinar by Oliver Burkeman. I took my notes in Obsidian Canvas, resulting in a visual mind map. \n\nI will try Canvas to map out the technical requirements of apps I design for my clients. Especially useful that each node can be a full page of notes.\n\n<img src=\"https://cdn.uploads.micro.blog/81720/2023/01ea2f8605.png\" width=\"600\" height=\"558\" alt=\"\">\n",
 				"date_published": "2023-03-12T14:08:16-04:00",
 				"url": "https://ericgregorich.com/2023/03/12/i-finished-the.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/03/11/i-added-my.html",
@@ -247,7 +274,7 @@
 				"content_text": "I added my [status.lol](https://ericgregorich.status.lol) updates to my <a href=\"http://blog.ericgregorich.com\">blog home page</a>. You can see how [here](https://home.omg.lol/info/statuslog).\n",
 				"date_published": "2023-03-11T18:05:55-04:00",
 				"url": "https://ericgregorich.com/2023/03/11/i-added-my.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/03/11/im-about-complete.html",
@@ -256,7 +283,7 @@
 				"content_text": "I'm about 90% complete with my \"website\" transition to Blot for hosting. The ONLY reason I'm moving my main blog from Micro.blog is because of the workflow I have set up with Obsidian and Git. \n\nMicro.blog is still where I post status updates and will continue to be the \"hub\" from a social standpoint. \n",
 				"date_published": "2023-03-11T18:02:29-04:00",
 				"url": "https://ericgregorich.com/2023/03/11/im-about-complete.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/03/11/microblog-rss-feeds.html",
@@ -274,7 +301,7 @@
 				"content_text": "I wrote about how to customize your Blot template to show either a Summary or the Full Post in an entries list based on the Tag of the current entry. [Read More](https://ericgregorich.com/use-a-tag-to-determine-summary-or-full-post-in-blot)\n",
 				"date_published": "2023-03-10T19:14:48-04:00",
 				"url": "https://ericgregorich.com/2023/03/10/i-wrote-about.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/03/09/bing-surprised-me.html",
@@ -283,7 +310,7 @@
 				"content_text": "Bing surprised me today when I searched for how to add a custom RSS feed to my blot.im template. I started to click on the links to search for the answer but then realized the AI gave me the exact answer directly. And it was accurate!\n",
 				"date_published": "2023-03-09T20:38:25-04:00",
 				"url": "https://ericgregorich.com/2023/03/09/bing-surprised-me.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/03/07/its-softball-season.html",
@@ -292,7 +319,7 @@
 				"content_text": "It’s softball season again!\n\n<img src=\"https://cdn.uploads.micro.blog/81720/2023/e5a51e28c9.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-03-07T21:03:15-04:00",
 				"url": "https://ericgregorich.com/2023/03/07/its-softball-season.html",
-				"tags": ["Photos","Micro Posts"]
+				"tags": ["Photos","Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/03/07/ive-been-quite.html",
@@ -301,7 +328,7 @@
 				"content_text": "I've been quiet the past couple of weeks. I'm working on a few things, including some website updates. I moved my Micro.blog site to [blog.ericgregorich.com](https://blog.ericgregorich.com) and moved my [main site](https://ericgregorich.com) to [Blot.im](https://blot.im).\n\nThe only reason for this move is because Blot fits my workflow better. I can take all my markdown notes in Obsidian and easily publish them to my website using Git. I have local markdown files for everything, which is my goal.\n",
 				"date_published": "2023-03-07T17:13:33-04:00",
 				"url": "https://ericgregorich.com/2023/03/07/ive-been-quite.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/02/26/233417.html",
@@ -310,7 +337,7 @@
 				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/81720/2023/c92ff6753b.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-02-27T00:34:17-04:00",
 				"url": "https://ericgregorich.com/2023/02/26/233417.html",
-				"tags": ["Photos","Micro Posts"]
+				"tags": ["Photos","Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/02/26/i-dont-understand.html",
@@ -319,7 +346,7 @@
 				"content_text": "I don't understand the excitement of [Arc Browser](https://arc.net/). Most of the features I've seen have been in other browsers for years. I think it is a new UI, and people are just now discovering these features they never knew about before but have always been there.\n",
 				"date_published": "2023-02-26T12:29:56-04:00",
 				"url": "https://ericgregorich.com/2023/02/26/i-dont-understand.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/02/25/im-thinking-about.html",
@@ -328,7 +355,7 @@
 				"content_text": "<p>I’m thinking about trying iA Writer because it is so nice. But the price is making me hesitate. It’s better than a subscription, I suppose. </p>\n",
 				"date_published": "2023-02-25T11:01:02-04:00",
 				"url": "https://ericgregorich.com/2023/02/25/im-thinking-about.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/02/21/day-one-for.html",
@@ -337,7 +364,7 @@
 				"content_text": "[Day One for the Web](https://dayone.me/login) beta has been released to the public. Sync your journals with your devices. End-to-end Encryption. Includes a web-exclusive “focus mode”. \n",
 				"date_published": "2023-02-21T13:02:47-04:00",
 				"url": "https://ericgregorich.com/2023/02/21/day-one-for.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/02/19/lesson-learned-if.html",
@@ -346,7 +373,7 @@
 				"content_text": "<p>Lesson Learned: If you need glasses you use for the computer and do web or graphic design, don’t get the blue-light filter on your lenses. It messes with the colors. </p>\n",
 				"date_published": "2023-02-19T10:47:25-04:00",
 				"url": "https://ericgregorich.com/2023/02/19/lesson-learned-if.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/02/18/currently-reading-the.html",
@@ -355,7 +382,7 @@
 				"content_text": "Currently reading: [The Future Is Analog](https://micro.blog/books/9781541701571) by David Sax 📚\n",
 				"date_published": "2023-02-18T10:33:05-04:00",
 				"url": "https://ericgregorich.com/2023/02/18/currently-reading-the.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/02/17/craft-has-replaced.html",
@@ -364,7 +391,7 @@
 				"content_text": "<p><a href=\"https://www.craft.do/\">Craft</a> has replaced my bookmarking service, <a href=\"https://raindrop.io/\">Raindrop</a>. I migrated all of my essential bookmarks, and I have a Document for every topic that can easily add links using copy/paste or the share menu. I will miss highlights and other features, but it’s one less service to pay for.</p>\n",
 				"date_published": "2023-02-17T18:20:06-04:00",
 				"url": "https://ericgregorich.com/2023/02/17/craft-has-replaced.html",
-				"tags": ["Apps","Micro Posts"]
+				"tags": ["Apps","Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/02/17/if-you-cant.html",
@@ -373,7 +400,7 @@
 				"content_text": "> If you can’t relax into your life – or make a big decision, or launch an important project, etcetera — before having it endorsed as the Right Sort Of Thing To Be Doing, you’ll fritter away your finite days, when you could have spent them getting stuck in.\n\n[The Imperfectionist - Who’s in charge around here](https://newsletters.feedbinusercontent.com/56e/56e233539c489eca0d457ed7399f84ceb6f03cc9.html)\n",
 				"date_published": "2023-02-17T12:33:38-04:00",
 				"url": "https://ericgregorich.com/2023/02/17/if-you-cant.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/02/13/i-have-access.html",
@@ -382,7 +409,7 @@
 				"content_text": "I have access to the new Bing AI. I asked about myself and the results were pretty accurate. I realized I had an old About.me page that I just now deleted. :)\n\n<img src=\"https://cdn.uploads.micro.blog/81720/2023/5d2582145e.png\" width=\"413\" height=\"600\" alt=\"Bing AI Eric Gregorich\">\n",
 				"date_published": "2023-02-13T11:20:12-04:00",
 				"url": "https://ericgregorich.com/2023/02/13/i-have-access.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/02/12/exploring-microsoft-edge.html",
@@ -400,7 +427,7 @@
 				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/81720/2022/e0f26646c9.jpg\" alt=\"\" width=\"903\" height=\"602\" /></p>\n<p>Flowers at Gibbs Gardens, GA.</p>\n",
 				"date_published": "2023-02-11T16:14:20-04:00",
 				"url": "https://ericgregorich.com/2023/02/11/flowers-at-gibbs.html",
-				"tags": ["Photos","Micro Posts"]
+				"tags": ["Photos","Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/02/11/ive-used-raycast.html",
@@ -409,7 +436,7 @@
 				"content_text": "<p>I’ve used <a href=\"https://www.raycast.com/\">Raycast</a> on my Mac for various things, including Windows Management. I find that just typing where I want the window to move to is pretty fast. No keyboard shortcuts are needed, although I still have them configured. I’ve tried Stage Manager, but it was a disaster!</p>\n",
 				"date_published": "2023-02-11T15:56:11-04:00",
 				"url": "https://ericgregorich.com/2023/02/11/ive-used-raycast.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/02/11/i-updated-my.html",
@@ -418,7 +445,7 @@
 				"content_text": "I updated my [Now](https://notes.ericgregorich.com/now) page with podcasts and newsletters that I’m actively consuming. \n",
 				"date_published": "2023-02-11T10:02:39-04:00",
 				"url": "https://ericgregorich.com/2023/02/11/i-updated-my.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/02/10/the-last-couple.html",
@@ -427,7 +454,7 @@
 				"content_text": "The last couple of books I read were hardcovers.  I think I'll switch back to my Kindle.  The convenience of digital (Kindle) is too high. I can read anywhere and have digital copies of my highlights and notes. I also send articles to the Kindle for reading later. \n",
 				"date_published": "2023-02-10T20:35:28-04:00",
 				"url": "https://ericgregorich.com/2023/02/10/the-last-couple.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/02/04/im-experimenting-with.html",
@@ -436,7 +463,7 @@
 				"content_text": "I'm experimenting with a new [Now](https://notes.ericgregorich.com/now) page. It is built using Craft and is very easy to add to and maintain. \n\n<img src=\"https://cdn.uploads.micro.blog/81720/2023/76188c0af9.jpg\" width=\"600\" height=\"419\" alt=\"\">\n",
 				"date_published": "2023-02-04T18:28:47-04:00",
 				"url": "https://ericgregorich.com/2023/02/04/im-experimenting-with.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/02/04/short-notes-vs.html",
@@ -445,7 +472,7 @@
 				"content_text": "Short notes vs. long notes, how they differ, and the tools you need to manage each. \n\nI personally capture small notes but then create larger documents. \n\n[Original Post](https://www.obsidianroundup.org/one-size-fits-all-how-to-take-big-notes-and-how-to-take-small-notes/)\n",
 				"date_published": "2023-02-04T13:14:15-04:00",
 				"url": "https://ericgregorich.com/2023/02/04/short-notes-vs.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/02/04/ive-been-using.html",
@@ -454,7 +481,7 @@
 				"content_text": "I've been using Craft for over a week, including capturing personal notes and sharing many of my <a href=\"https://notes.ericgregorich.com/now\">notes</a> online. \n\nIt's easy to capture links, notes, images, and more and curate them into nice-looking documents. I think I like it!\n",
 				"date_published": "2023-02-04T10:25:34-04:00",
 				"url": "https://ericgregorich.com/2023/02/04/ive-been-using.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/02/02/currently-reading-move.html",
@@ -463,7 +490,7 @@
 				"content_text": "<p>Currently reading: <a href=\"https://micro.blog/books/9780358573838\">Move The Body, Heal The Mind</a> by Jennifer Heisz 📚</p>\n<p><img src=\"https://cdn.uploads.micro.blog/81720/2023/2df2be68c6.jpg\" alt=\"\" width=\"600\" height=\"542\" /></p>\n",
 				"date_published": "2023-02-02T18:16:16-04:00",
 				"url": "https://ericgregorich.com/2023/02/02/currently-reading-move.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/01/31/ive-been-using.html",
@@ -472,7 +499,7 @@
 				"content_text": "I’ve been using OneNote for anything related to work projects. I’ve never been a big fan, but I like the integration and how it is shared with team members by default. \n\nToday, I created a single note that I keep open all day with my projects and immediate action items for each. \n",
 				"date_published": "2023-01-31T19:56:02-04:00",
 				"url": "https://ericgregorich.com/2023/01/31/ive-been-using.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/01/29/watching-stutz-on.html",
@@ -481,7 +508,7 @@
 				"content_text": "📺 Watching [Stutz](https://www.netflix.com/title/81387962) on Netflix. \n",
 				"date_published": "2023-01-29T16:02:35-04:00",
 				"url": "https://ericgregorich.com/2023/01/29/watching-stutz-on.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/01/29/ive-used-craftdo.html",
@@ -490,7 +517,7 @@
 				"content_text": "I've used Craft.do before and have recently gone back. From my perspective, and you see this in their marketing, Craft is more about creating documents rather than notes. \n\nCreating documents is a great way to put the puzzle pieces together into something coherent and useful. \n\n",
 				"date_published": "2023-01-29T16:00:31-04:00",
 				"url": "https://ericgregorich.com/2023/01/29/ive-used-craftdo.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/01/29/i-published-a.html",
@@ -499,7 +526,7 @@
 				"content_text": "<p>I <a href=\"https://notes.ericgregorich.com/mastodon\">published a guide</a> that consolidates my notes and bookmarks about Mastodon. It includes articles, tools for finding a server, people to follow, and client apps.</p>\n<p>As I stumble across more resources, I’ll add them. I’m recently starting with Mastodon. Let me know what I’m missing!</p>\n",
 				"date_published": "2023-01-29T10:30:21-04:00",
 				"url": "https://ericgregorich.com/2023/01/29/i-published-a.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/01/28/i-published-my.html",
@@ -508,7 +535,7 @@
 				"content_text": "I published my first Craft documents for the public. Starting with recent <a href=\"https://notes.ericgregorich.com/calmyourmind\">book</a> notes and my notes for <a href=\"https://notes.ericgregorich.com/microsoft-power-apps\">Microsoft Power Apps</a>.\n\nCurrently, it's a copy of my existing notes, but I plan to expand on it quite a bit.\n\nI also created a <a href=\"https://ericgregorich.com/notes/\">Notes</a> page that will link the various documents.\n",
 				"date_published": "2023-01-28T11:12:52-04:00",
 				"url": "https://ericgregorich.com/2023/01/28/i-published-my.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/01/27/im-considering-moving.html",
@@ -517,7 +544,7 @@
 				"content_text": "I’m considering moving all of my notes into Craft. \n\nI’ll have my personal space and another space for my knowledge base where some would be shared. \n\nI like the idea of creating “documents” around a specific topic that are updated over time rather than small individual notes. \n",
 				"date_published": "2023-01-27T16:59:48-04:00",
 				"url": "https://ericgregorich.com/2023/01/27/im-considering-moving.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/01/26/finished-reading-how.html",
@@ -535,7 +562,7 @@
 				"content_text": "☕ I dug out my old French Press, which tastes much better than the Keurig I've been using (for convenience).\n\nI want to try and wait a good 90 minutes before any coffee (wake up naturally) and have coffee I’ll enjoy for the flavor. \n",
 				"date_published": "2023-01-22T10:39:37-04:00",
 				"url": "https://ericgregorich.com/2023/01/22/i-dug-out.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/01/22/i-got-a.html",
@@ -544,7 +571,7 @@
 				"content_text": "🎮 I got a Nintendo Switch last year and rarely used it after the novelty wore off. \n\nA couple of weeks ago, I hooked it up to our main TV, and the family and I play together almost daily. \n\nWe usually play Rocket League, Mario Cart, and Gang Beasts. \n\nSo much fun!\n\n",
 				"date_published": "2023-01-22T10:05:55-04:00",
 				"url": "https://ericgregorich.com/2023/01/22/i-got-a.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/01/21/manictime-automatically-track.html",
@@ -553,7 +580,7 @@
 				"content_text": "<p><a href=\"https://www.manictime.com\">ManicTime</a> is Windows App that will automatically track your time. Useful for anyone who needs to track time to bill clients, ManicTime can auto-tag your documents, URLs, etc., to your projects, as well as give you an overview of where you spend your time. The data stays on your device!</p>\n",
 				"date_published": "2023-01-21T10:18:46-04:00",
 				"url": "https://ericgregorich.com/2023/01/21/manictime-automatically-track.html",
-				"tags": ["Apps","Micro Posts"]
+				"tags": ["Apps"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/01/17/cal-newport.html",
@@ -562,7 +589,7 @@
 				"content_text": "Cal Newport explains how he marks up physical non-fiction books for his research.  He simply adds a slash to the corner of the page containing anything of interest, adds a block to the side of the text and sometimes adds a star for important things. No notes. No highlights. \n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/T79wobxay98\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n",
 				"date_published": "2023-01-17T21:25:51-04:00",
 				"url": "https://ericgregorich.com/2023/01/17/cal-newport.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/01/17/bike-outliner.html",
@@ -607,7 +634,7 @@
 				"content_text": "<p>This may seem odd, but I won’t even give Mem.ai a shot because of this giant blue Share button in the middle of every screen in an otherwise simple and clean app. I don’t want to share my notes. Give me the option in the submenu. It’s a big distraction for me.</p>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" title=\"Mem.ai share button.png\" src=\"https://cdn.uploads.micro.blog/81720/2023/1f55adee06.png\" alt=\"Mem.ai share button.png\" width=\"778\" height=\"346\" border=\"0\" /></p>\n",
 				"date_published": "2023-01-14T10:43:19-04:00",
 				"url": "https://ericgregorich.com/2023/01/14/this-may-seem.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/01/14/the-end-of.html",
@@ -616,7 +643,7 @@
 				"content_text": "<p>“<a href=\"https://every.to/superorganizers/the-end-of-organizing\">The End of Organizing</a>” by Dan Shipper argues that AI will be the best way to organize our notes in the future.</p>\n<blockquote>\n<p>So you rarely go back to use your old notes. It’s too cognitively expensive and not rewarding enough. For an old note to be helpful it needs to be presented to Future You in a way that clicks into what you’re working on instantly—with as little processing as possible.</p>\n</blockquote>\n<p>As you consume content and take generic notes, the AI can transform it into more meaningful text, autocomplete the thought, apply context, and organize it, making it easy to find again.</p>\n<p>As you create content, AI could show your notes as you type. Imagine typing about a topic, and the AI presents the notes to you as you type, as it applies to the current context.</p>\n<p>Many note and reading apps already incorporate AI, including Readwise, Mem, Mymind, Craft, and Notion. Some with plugins that add this, including Obsidian and Logseq. It should quickly evolve to the point envisioned in this essay.</p>\n<p>This essay does not account for the act of writing as a way to help you think and learn. If we let AI do the lifting for us, does that make us smarter, or do we lose the ability to think for ourselves? There is a fine line.</p>\n",
 				"date_published": "2023-01-14T10:35:45-04:00",
 				"url": "https://ericgregorich.com/2023/01/14/the-end-of.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/01/13/readwise-reader-is.html",
@@ -625,7 +652,7 @@
 				"content_text": "<p>Readwise Reader is growing on me.</p>\n<p>I spent some time learning how to configure it to my liking and learned some shortcuts. I removed most of the views, updated the swipe commands, and changed my Library Commands to only Later and Archive. Also, I cleaned up my feed.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/81720/2023/7266561d81.png\" alt=\"\" width=\"536\" height=\"548\" /></p>\n",
 				"date_published": "2023-01-13T10:31:01-04:00",
 				"url": "https://ericgregorich.com/2023/01/13/readwise-reader-is.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/01/11/from-problem-to.html",
@@ -661,7 +688,7 @@
 				"content_text": "📷I finally completed my Christmas gift. The Razor Crest from The Mandalorian. \n\n<img src=\"https://cdn.uploads.micro.blog/81720/2023/ef74ac9c51.jpg\" width=\"900px\" alt=\"The Mandalorian Razor Crest Legos\">\n",
 				"date_published": "2023-01-06T17:24:20-04:00",
 				"url": "https://ericgregorich.com/2023/01/06/i-finally-completed.html",
-				"tags": ["Photos","Micro Posts"]
+				"tags": ["Photos","Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/01/04/kill-the-newsletter.html",
@@ -679,7 +706,7 @@
 				"content_text": "<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" title=\"Eric Gregorich Bullet Journal 2023-01-03.jpeg\" src=\"https://cdn.uploads.micro.blog/81720/2023/1406b6101a.jpg\" alt=\"IMG 0634\" width=\"900\" height=\"637\" border=\"0\" /></p>\n<p>I felt like going analog today, so I dusted off my Bullet Journal and started using it. I have wanted to start journaling more in 2023 and have always enjoyed writing on paper, so it felt like it was time to give it another go.</p>\n",
 				"date_published": "2023-01-03T19:16:27-04:00",
 				"url": "https://ericgregorich.com/2023/01/03/i-felt-like.html",
-				"tags": ["Photos","Micro Posts"]
+				"tags": ["Photos","Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/01/01/a-day-full.html",
@@ -688,7 +715,7 @@
 				"content_text": "<p>A day full of meetings and emails can make things easier because we don’t have to decide what to do with our time. We have an excuse not to do real work.</p>\n<p>It’s a trap! An easy way to procrastinate.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/81720/2023/b82c831f76.jpg\" alt=\"\" width=\"600\" height=\"337\" /></p>\n",
 				"date_published": "2023-01-01T19:55:20-04:00",
 				"url": "https://ericgregorich.com/2023/01/01/a-day-full.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/01/01/currently-reading-secret.html",
@@ -697,7 +724,7 @@
 				"content_text": "<p>Currently reading: <a href=\"https://micro.blog/books/9781938570346\">Secret Project #1</a> by Brandon Sanderson 📚</p>\n",
 				"date_published": "2023-01-01T19:45:14-04:00",
 				"url": "https://ericgregorich.com/2023/01/01/currently-reading-secret.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/01/01/the-microblog-cards.html",
@@ -706,7 +733,7 @@
 				"content_text": "<p>The Micro.blog <a href=\"https://micro.blog/account/plugins/view/82\">Cards Theme</a> has been updated to v1.1.6.</p>\n<ul>\n<li>The categories (if any) will now appear on the post page.</li>\n<li>Added an option in theme settings to show a summary rather than the full post on the home page and category pages.</li>\n</ul>\n",
 				"date_published": "2023-01-01T11:26:18-04:00",
 				"url": "https://ericgregorich.com/2023/01/01/the-microblog-cards.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/12/31/a-book-review.html",
@@ -724,7 +751,7 @@
 				"content_text": "<p>I updated my <a href=\"https://ericgregorich.com/books/\">Books</a> page to show what I’m currently reading and what I finished reading (each year). I’m using the <a href=\"https://micro.blog/account/plugins/view/81\">Bookshelf shortcode</a> plugin by @kottkrig and <a href=\"https://micro.blog/account/plugins/view/85\">Book Reading Goals</a> by @manton.</p>\n",
 				"date_published": "2022-12-30T12:00:04-04:00",
 				"url": "https://ericgregorich.com/2022/12/30/i-updated-my.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/12/30/play-manage-your.html",
@@ -733,7 +760,7 @@
 				"content_text": "<p><a href=\"https://apps.apple.com/us/app/play-save-videos-watch-later/id1596506190\">Play</a>, by Loop Apps LTDA, is an app for iOS and macOS that lets you easily save videos from YouTube, Vimeo, and other sources so you can manage your playlist and watch them later.</p>\n<p>If you get frustrated by the Watch later feature built into YouTube, this app could solve your problems.</p>\n",
 				"date_published": "2022-12-30T09:51:49-04:00",
 				"url": "https://ericgregorich.com/2022/12/30/play-manage-your.html",
-				"tags": ["Apps","Micro Posts"]
+				"tags": ["Apps"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/12/30/fade-in-your.html",
@@ -751,7 +778,7 @@
 				"content_text": "<p>Currently reading: <a href=\"https://micro.blog/books/ISBN139798986862613\">Antinet Zettelkasten</a> by Scott P. Scheper 📚</p>\n<p>If you are interested in analog note-taking, this is the book to read—the book details the analog Zettelkasten system and how and why it works.</p>\n",
 				"date_published": "2022-12-26T09:49:18-04:00",
 				"url": "https://ericgregorich.com/2022/12/26/currently-reading-antinet.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/12/26/you-wont-succeed.html",
@@ -760,7 +787,7 @@
 				"content_text": "You won't succeed with a digital detox unless you replace what you are removing from your life with other things you enjoy. You also need to become comfortable being bored. It's an opportunity to let your mind wander. \n",
 				"date_published": "2022-12-26T09:29:05-04:00",
 				"url": "https://ericgregorich.com/2022/12/26/you-wont-succeed.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/12/22/i-started-playing.html",
@@ -769,7 +796,7 @@
 				"content_text": "<p>I started playing around with a new custom theme today. I applied the first draft to my blog. I have some fixes to apply, and I’m still tweaking things, but pretty happy with it so far. 🎨</p>\n",
 				"date_published": "2022-12-22T17:09:12-04:00",
 				"url": "https://ericgregorich.com/2022/12/22/i-started-playing.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/12/20/using-teuxdeux-for.html",
@@ -778,7 +805,7 @@
 				"content_text": "<p>I’m trying <a href=\"https://teuxdeux.com\">TeuxDeux</a> again to see if it can be suitable for time blocking.</p>\n<p>One of my favorite things about TeuxDeux is that I can see an overview of my week and keep as many lists as I need on one clean page.</p>\n<p>TuexDuex supports Markdown headers, links, recurring tasks, configurable colors, and more. You can also email tasks into your account.</p>\n<p>Otherwise, TuexDuex is a very minimal app, almost like writing on a big sheet of paper.</p>\n<p>One downside of TuexDuex is that it doesn’t work as an actual calendar, so there is no way to plan my work in a calendar view to see what I have time to work on. On the other hand, I don’t need to estimate my tasks and reschedule things all the time. With TeuxDeux, I see the current week and schedule the tasks I plan to work on during the day after reviewing my calendar. It’s more of a “finger in the wind” approach.</p>\n<p>Here is a screenshot with most of my tasks blurred out for obvious reasons. I don’t have much in there yet because of the upcoming holidays, and I haven’t transferred everything.</p>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" title=\"CleanShot 2022-12-20 at 17.10.18.png\" src=\"https://cdn.uploads.micro.blog/81720/2022/24206fb1c7.png\" alt=\"Eric Gregorich TeuxDeux Sample Page\" width=\"740\" height=\"600\" border=\"0\" /></p>\n",
 				"date_published": "2022-12-20T18:21:21-04:00",
 				"url": "https://ericgregorich.com/2022/12/20/using-teuxdeux-for.html",
-				"tags": ["Apps","Micro Posts"]
+				"tags": ["Apps"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/12/17/i-played-around.html",
@@ -787,7 +814,7 @@
 				"content_text": "<p>I played around with Obsidian’s Canvas feature (only in the Insider Build). I also played with Apple’s new Freeform app and think Obsidian canvas is better. Quite impressive for such a small dev team.</p>\n<p>Here is a pass at my “PKM” system. This doesn’t do the app justice, though.</p>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" title=\"My PKM System.png\" src=\"https://cdn.uploads.micro.blog/81720/2022/1febccf8ec.png\" alt=\"My PKM System\" width=\"715\" height=\"600\" border=\"0\" /></p>\n",
 				"date_published": "2022-12-17T10:08:34-04:00",
 				"url": "https://ericgregorich.com/2022/12/17/i-played-around.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/12/16/microblog-cards-theme.html",
@@ -805,7 +832,7 @@
 				"content_text": "<p>Currently reading: <a href=\"https://micro.blog/books/9781098118730\">The Staff Engineer’s Path</a> by Tanya Reilly 📚</p>\n",
 				"date_published": "2022-12-15T23:54:25-04:00",
 				"url": "https://ericgregorich.com/2022/12/15/currently-reading-the.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/12/15/finished-reading-the.html",
@@ -814,7 +841,7 @@
 				"content_text": "<p>Finished reading: <a href=\"https://micro.blog/books/9781943623389\">The Laws of Creativity</a> by Joey Cofone 📚</p>\n",
 				"date_published": "2022-12-15T23:53:01-04:00",
 				"url": "https://ericgregorich.com/2022/12/15/finished-reading-the.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/12/15/add-reading-time.html",
@@ -824,6 +851,14 @@
 				"date_published": "2022-12-15T19:08:40-04:00",
 				"url": "https://ericgregorich.com/2022/12/15/add-reading-time.html",
 				"tags": ["Micro.blog"]
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2022/12/13/interstitial-journaling.html",
+				"title": "Interstitial Journaling",
+				"content_html": "<p>A productivity technique created by Tony Stubblebine, Interstitial Journaling combines note-taking with time tracking.</p>\n<p>To implement Interstitial Journaling, you write down the current time and what you’re doing or thinking at that time. Try to write in this log after completing tasks, meetings, etc.</p>\n<p>This technique has become very popular with modern apps like Roam Research, LogSeq, and Tana, where you have a Daily Page where you dump everything into. The advantage of doing this in a digital tool is that you can easily link to other notes in your system (if your app supports it).</p>\n<p>The Bullet Journal is a popular analog note-taking, essentially Interstitial Journaling. Bullet Journal doesn’t recommend using the current time before each of your notes. Otherwise, it’s the same system—you write brief tasks and notes throughout the day.</p>\n<p>9:15 AM - Code review for XYZ app.</p>\n<p>10:27 AM - Starting the estimate for ABC Corp.</p>\n<p>11:32 AM - Wrapped up the estimate for ABC Corp. I think parts of this can be reused. These are always easier to do than I anticipated. I should create an archive for estimates somehow.</p>\n<p>Noon - Lunch</p>\n<p>12:27 PM - Writing about Interstitial journaling.</p>\n<p><a href=\"https://nesslabs.com/interstitial-journaling\" title=\"Interstitial Journaling \">https://nesslabs.com/interstitial-journaling</a></p>\n",
+				"content_text": "A productivity technique created by Tony Stubblebine, Interstitial Journaling combines note-taking with time tracking. \n\nTo implement Interstitial Journaling, you write down the current time and what you’re doing or thinking at that time. Try to write in this log after completing tasks, meetings, etc. \n\nThis technique has become very popular with modern apps like Roam Research, LogSeq, and Tana, where you have a Daily Page where you dump everything into. The advantage of doing this in a digital tool is that you can easily link to other notes in your system (if your app supports it). \n\nThe Bullet Journal is a popular analog note-taking, essentially Interstitial Journaling. Bullet Journal doesn’t recommend using the current time before each of your notes. Otherwise, it’s the same system—you write brief tasks and notes throughout the day.\n\n9:15 AM - Code review for XYZ app.\n\n10:27 AM - Starting the estimate for ABC Corp.\n\n11:32 AM - Wrapped up the estimate for ABC Corp. I think parts of this can be reused. These are always easier to do than I anticipated. I should create an archive for estimates somehow.\n\nNoon - Lunch\n\n12:27 PM - Writing about Interstitial journaling.\n\n[https://nesslabs.com/interstitial-journaling](https://nesslabs.com/interstitial-journaling \"Interstitial Journaling \")\n\n",
+				"date_published": "2022-12-13T19:00:00-04:00",
+				"url": "https://ericgregorich.com/2022/12/13/interstitial-journaling.html"
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/12/12/a-substack-and.html",
@@ -849,7 +884,7 @@
 				"content_text": "I wonder if today's search engines will be replaced by AI or at least incorporate AI into the results. \n\nRather than searching for a website with an answer to something, the AI will tell you the answer and allow you to fine-tune the outcome based on your needs. \n",
 				"date_published": "2022-12-11T12:41:25-04:00",
 				"url": "https://ericgregorich.com/2022/12/11/i-wonder-if.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/12/11/i-just-purchased.html",
@@ -858,7 +893,7 @@
 				"content_text": "<p>I just purchased my copy of Mars Edit 5. A great app from <a href=\"https://micro.blog/danielpunkass\">@danielpunkass</a> that works great with Micro.blog.</p>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" title=\"CleanShot 2022-12-11 at 10.21.19.png\" src=\"https://cdn.uploads.micro.blog/81720/2022/4312f7f7e4.png\" alt=\"CleanShot 2022 12 11 at 10 21 19\" width=\"606\" height=\"321\" border=\"0\" /></p>\n",
 				"date_published": "2022-12-11T11:23:57-04:00",
 				"url": "https://ericgregorich.com/2022/12/11/i-just-purchased.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/12/10/showing-conversation-or.html",
@@ -885,7 +920,7 @@
 				"content_text": "The [Microsoft Graph Developer Proxy](https://devblogs.microsoft.com/microsoft365dev/introducing-the-microsoft-graph-developer-proxy-community-preview/#:~:text=The%20Microsoft%20Graph%20Developer%20Proxy%20is%20a%20standalone,macOS%2C%20Linux%29%20Simulate%20different%20Microsoft%20Graph%20API%20errors) allows testing of how our apps handle errors and even throttling limits when accessing the Microsoft Graph API. Verify your code yourself before your customers do it for you!\n",
 				"date_published": "2022-12-09T15:17:39-04:00",
 				"url": "https://ericgregorich.com/2022/12/09/the-microsoft-graph.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/12/07/im-trying-out.html",
@@ -894,7 +929,7 @@
 				"content_text": "<p>I’m trying out <a href=\"https://redsweater.com/marsedit/\">MarsEdit 5</a> from <a href=\"https://micro.blog/danielpunkass\">@danielpunkass</a>. The integration with Micro.blog looks to be outstanding. I wish there were a mobile version!</p>\n",
 				"date_published": "2022-12-07T17:41:17-04:00",
 				"url": "https://ericgregorich.com/2022/12/07/im-trying-out.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/12/06/the-new-canvas.html",
@@ -903,7 +938,7 @@
 				"content_text": "<p>The new Canvas feature in the Obsidian v1.1.0 (Insider Build) looks crazy brilliant. I can see how this would help brainstorm directly in Obsidian. I will be trying it out soon. ￼<a href=\"https://youtu.be/G3DJKk4ivq4\">Here is a short video￼</a> from Danny Hatcher that shows precisely what the Canvas view can do.</p>\n",
 				"date_published": "2022-12-06T21:26:16-04:00",
 				"url": "https://ericgregorich.com/2022/12/06/the-new-canvas.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/12/05/how-we-spend.html",
@@ -912,7 +947,7 @@
 				"content_text": "> \"How we spend our hours is how we spend our days. And, as the writer Annie Dillard so eloquently pointed out, “How we spend our days is . . . how we spend our lives.”\" (Brad Stulberg, The Practice of Groundedness) 💬\n\n",
 				"date_published": "2022-12-05T22:01:06-04:00",
 				"url": "https://ericgregorich.com/2022/12/05/how-we-spend.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/12/03/i-watched-the.html",
@@ -921,7 +956,7 @@
 				"content_text": "<p>I watched the first episode of Willow last night. It brings back memories! I loved the movie when I was a kid.</p>\n<p>While I’m not yet blown away by the effects and story, it’s still fun, and I‘ll undoubtedly continue watching. 📺</p>\n",
 				"date_published": "2022-12-03T20:50:00-04:00",
 				"url": "https://ericgregorich.com/2022/12/03/i-watched-the.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/12/03/ive-been-cleaning.html",
@@ -930,7 +965,7 @@
 				"content_text": "<p>I’ve been cleaning up the apps on my phone. My main screen has a few widgets (photos, calendar, activity, airshow, Kindle) and this second screen has the main apps I use. Next, I’ll work on the iPad. :)</p>\n<figure><img src=\"https://cdn.uploads.micro.blog/81720/2022/94d5501227.png\" alt=\"\" /></figure>\n",
 				"date_published": "2022-12-03T18:15:26-04:00",
 				"url": "https://ericgregorich.com/2022/12/03/ive-been-cleaning.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/12/03/microblog-cards-theme.html",
@@ -948,7 +983,7 @@
 				"content_text": "<p>I created a Working Memory file that I’ll use throughout the day. I learned this from <a href=\"https://www.calnewport.com/blog/2015/10/27/deep-habits-workingmemory-txt-the-most-important-productivity-tool-youve-never-heard-of/\">Cal Newport</a>, although I’m sure he didn’t invent the idea.</p>\n<p>The idea is to have a single text file open all day that you use to write all of your notes, today’s tasks, etc. Similar to a Daily Note available in some applications, like Roam Research, Logseq, or Obsidian, except this file persists from day to day.</p>\n<p>I clean up the file daily, move tasks to my task system, and save important notes into my note application. My Working Memory file also has a list of active projects with the current status that I keep up to date, as well as a short list of things I want to remember.</p>\n<p>The purpose is not to jump in and out of applications all day, which is one of my struggles.</p>\n<p>I’m on Windows (for work), and Notepad was too basic; I tried iAWriter, but while I like writing with Markdown, I don’t want to see the Markdown. Now, I’m trying Typora, which uses Markdown, but with a live preview.</p>\n<p>So far, I love this approach. It keeps everything within easy reach and forces me to review every day.</p>\n",
 				"date_published": "2022-12-02T11:32:01-04:00",
 				"url": "https://ericgregorich.com/2022/12/02/i-am-trying.html",
-				"tags": ["Micro Posts","Productivity"]
+				"tags": ["Productivity"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/11/28/i-finally-published.html",
@@ -957,7 +992,7 @@
 				"content_text": "<p>I finally published my new <a href=\"https://micro.blog/account/plugins/view/82\">Cards theme</a> for Micro.blog. It is a simple theme, and you can easily customize all colors, providing endless options. It’s also optimized for performance and SEO.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/81720/2022/9a1cbeef03.png\" alt=\"Cards Theme by Eric Gregorich\" width=\"600\" height=\"583\" /></p>\n",
 				"date_published": "2022-11-28T19:04:15-04:00",
 				"url": "https://ericgregorich.com/2022/11/28/i-finally-published.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/11/28/i-received-my.html",
@@ -966,7 +1001,7 @@
 				"content_text": "I received my invitation to try out [Lex](https://lex.page \"Lex\") today. While I’m opposed to the idea of AI writing for me, I certainly don’t mind some assistance when I get stuck. Kind of like a writing partner. I doubt I will use it, but I’m interested in the tech.\n\n",
 				"date_published": "2022-11-28T09:22:55-04:00",
 				"url": "https://ericgregorich.com/2022/11/28/i-received-my.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/11/27/i-made-some.html",
@@ -975,7 +1010,7 @@
 				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/81720/2022/ca36a2fa9f.jpg\" alt=\"\" width=\"900\" height=\"750\" /> I made some delicious smoked pulled pork today.</p>\n",
 				"date_published": "2022-11-27T21:46:04-04:00",
 				"url": "https://ericgregorich.com/2022/11/27/i-made-some.html",
-				"tags": ["Photos","Micro Posts"]
+				"tags": ["Photos","Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/11/24/upnote-a-beautiful.html",
@@ -993,7 +1028,7 @@
 				"content_text": "<p>I’ve been making some final tweaks on my new Micro.blog theme. I have a few more fixes before I publish (maybe this weekend?). You’ll be able to set your colors through the plugin settings. Here are some samples.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/81720/2022/9f4085fdde.png\" alt=\"Cards Light Theme\" width=\"546\" height=\"600\" /><img src=\"https://cdn.uploads.micro.blog/81720/2022/fdca454863.png\" alt=\"Cards Blue Theme\" width=\"595\" height=\"600\" /><img src=\"https://cdn.uploads.micro.blog/81720/2022/72d5ed3894.png\" alt=\"Cards Dark Theme\" width=\"572\" height=\"600\" /></p>\n",
 				"date_published": "2022-11-24T10:08:03-04:00",
 				"url": "https://ericgregorich.com/2022/11/24/ive-been-making.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/11/17/the-goal-is.html",
@@ -1002,7 +1037,7 @@
 				"content_text": "> The goal is the target we want to achieve, while the aim is the course we set to reach that target. A goal fixates on the finish line, while an aim considers the trajectory. When we focus on our aims, the process becomes the goal. And we’re more likely to reach our goal when we become fully aware of our aim. (Anne-Laure Le Cunff, Everything Is Aiming: Forget the Target and Focus on Your Aim) 💬\n",
 				"date_published": "2022-11-17T23:19:31-04:00",
 				"url": "https://ericgregorich.com/2022/11/17/the-goal-is.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/11/17/i-dont-know.html",
@@ -1011,7 +1046,7 @@
 				"content_text": "<p>I don’t know if the Lighthouse tool in Chromium browsers is worth much; I have used it to test my sites for performance, accessibility, and SEO. Of all the platforms and themes I’ve used, I have never achieved a near-perfect score. Hosted on Micro.blog using my new “Cards” theme.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/81720/2022/da458408d6.png\" alt=\"Eric Gregorich Lighthouse Score\" width=\"600\" height=\"238\" /></p>\n",
 				"date_published": "2022-11-17T15:14:56-04:00",
 				"url": "https://ericgregorich.com/2022/11/17/i-dont-know.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/11/17/bending-spoon-purchased.html",
@@ -1038,7 +1073,7 @@
 				"content_text": "<p>I switched from my Logitech MX Keys Mechanical to the MX Keys Mini. I can actually type much faster, and it is quieter! The <strong>aluminum</strong> casing makes it feel premium.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/81720/2022/de00033ef0.jpg\" alt=\"Logitech MX Keys Mini\" width=\"600\" height=\"450\" /></p>\n",
 				"date_published": "2022-11-15T10:42:42-04:00",
 				"url": "https://ericgregorich.com/2022/11/15/i-switched-from.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/11/15/currently-reading-the.html",
@@ -1047,7 +1082,7 @@
 				"content_text": "<p>Currently reading: <a href=\"https://micro.blog/books/9780765391209\">The Lost Metal: A Mistborn Novel</a> by Brandon Sanderson 📚</p>\n",
 				"date_published": "2022-11-15T08:39:43-04:00",
 				"url": "https://ericgregorich.com/2022/11/15/currently-reading-the.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/11/15/finished-reading-king.html",
@@ -1056,7 +1091,7 @@
 				"content_text": "<p>Finished reading: <a href=\"https://micro.blog/books/9781399705417\">King: Fairy Tale</a> by Stephen King 📚. A character-driven and realistic adventure into another world where many of our fairy tales began.</p>\n<p>I’d love to see this book made into a movie!</p>\n",
 				"date_published": "2022-11-15T08:36:25-04:00",
 				"url": "https://ericgregorich.com/2022/11/15/finished-reading-king.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/11/14/its-the-stuff.html",
@@ -1065,7 +1100,7 @@
 				"content_text": "<blockquote>\n<p>“It’s the stuff you <strong>leave</strong> out that matters. So constantly look for things to remove, simplify, and streamline. Be a curator. Stick to what’s truly essential. Pare things down until you’re left with only the most important stuff.” (Rework) 💬</p>\n</blockquote>\n",
 				"date_published": "2022-11-14T20:47:48-04:00",
 				"url": "https://ericgregorich.com/2022/11/14/its-the-stuff.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/11/13/im-going-allin.html",
@@ -1074,7 +1109,7 @@
 				"content_text": "<p>I’m going all-in with the Readwise Reader app for a while. I’ll see if it is enough to make me switch from Feedbin.</p>\n<p>I’ll need some time to <strong>adjust</strong>.</p>\n<p>Readwise has a great reading and highlighting experience with the ability to subscribe to RSS, Newsletters, and Twitter.</p>\n",
 				"date_published": "2022-11-13T22:25:23-04:00",
 				"url": "https://ericgregorich.com/2022/11/13/im-going-allin.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/11/13/your-words-are.html",
@@ -1083,7 +1118,7 @@
 				"content_text": "<p><a href=\"https://www.hanselman.com/blog/your-words-are-wasted\">Your words are wasted - Scott Hanselman’s Blog</a> Written in 2012.</p>\n<blockquote>\n<p>“Every developer should have a blog.” Put yourself out there and make it findable. And still, you tweet giving all your life’s precious remaining keystrokes to a company and a service that doesn’t love or care about you - to a service that can’t even find a tweet you wrote a month ago.</p>\n</blockquote>\n",
 				"date_published": "2022-11-13T09:28:17-04:00",
 				"url": "https://ericgregorich.com/2022/11/13/your-words-are.html",
-				"tags": ["Quotes","Micro Posts"]
+				"tags": ["Quotes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/11/12/i-have-a.html",
@@ -1092,7 +1127,7 @@
 				"content_text": "I have a **suspicion** I'll be leaving Twitter by the end of the year. I only use it for some work-related content at the moment. After stepping away, I've realized how much less stress I have without the algorithm, followers, likes, retweets, etc. \n",
 				"date_published": "2022-11-12T20:43:30-04:00",
 				"url": "https://ericgregorich.com/2022/11/12/i-have-a.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/11/12/i-just-finished.html",
@@ -1101,7 +1136,7 @@
 				"content_text": "<p>I just finished the first phase of my custom Micro.blog theme. I applied it to my live site. Next, I need to fix issues, tweak, test mobile, and package it up as a real theme to share with other Micro.blog users. I’m also not sure what to call it yet. 🤔</p>\n",
 				"date_published": "2022-11-12T14:43:16-04:00",
 				"url": "https://ericgregorich.com/2022/11/12/i-just-finished.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/11/11/i-have-been.html",
@@ -1110,7 +1145,7 @@
 				"content_text": "<p>I have been using my iPad as a <strong>display</strong> under my monitor while I work. It has been helpful to have quick access to my calendar and tasks.</p>\n<p>The widgets disappear when not in work focus, and I enjoy a nice background image.</p>\n<figure><img src=\"https://ericgregorich-test.micro.blog/uploads/2022/eec566b953.png\" alt=\"iPad background image. \" />\n<figcaption>iPad background image.</figcaption>\n</figure>\n",
 				"date_published": "2022-11-11T22:50:54-04:00",
 				"url": "https://ericgregorich.com/2022/11/11/i-have-been.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/11/11/whoever-best-describes.html",
@@ -1119,7 +1154,7 @@
 				"content_text": "> “Whoever best describes the problem is the one most likely to solve it. –.” — Josh Kaufman 💬\n\n",
 				"date_published": "2022-11-11T19:52:58-04:00",
 				"url": "https://ericgregorich.com/2022/11/11/whoever-best-describes.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/11/10/im-thinking-about.html",
@@ -1128,7 +1163,7 @@
 				"content_text": "<p>I’m thinking about making a new theme for Micro.blog.</p>\n<p>I’ve always enjoyed tinkering with themes. I’ve changed my current theme, which is based on Alpine, quite a bit. It would be a great way to learn how all this works under the covers. Any advice for getting started?</p>\n",
 				"date_published": "2022-11-10T20:55:37-04:00",
 				"url": "https://ericgregorich.com/2022/11/10/im-thinking-about.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/11/10/a-year-or.html",
@@ -1137,7 +1172,7 @@
 				"content_text": "A year or so ago, I needed to **minister** my email situation. I had so many junk emails and many email accounts. After about a year of unsubscribing and consolidating accounts, I can finally say my email is under control. It’s easy to stay at inbox zero these days! #mbnov\n\n",
 				"date_published": "2022-11-10T19:18:26-04:00",
 				"url": "https://ericgregorich.com/2022/11/10/a-year-or.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/11/09/i-was-certain.html",
@@ -1146,7 +1181,7 @@
 				"content_text": "I was **certain** I had already posted today's #mbnov word of the day. I’m glad I checked because I didn’t. 🤨\n",
 				"date_published": "2022-11-09T22:54:46-04:00",
 				"url": "https://ericgregorich.com/2022/11/09/i-was-certain.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/11/08/i-have-not.html",
@@ -1155,7 +1190,7 @@
 				"content_text": "I have not come to a **consensus** over how to make my coffee. Pour Over, or quick and simple coffee pods? Probably both. I prefer the Pour Over when I'm not too lazy. \n",
 				"date_published": "2022-11-08T22:13:36-04:00",
 				"url": "https://ericgregorich.com/2022/11/08/i-have-not.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/11/08/blot-is-an.html",
@@ -1173,7 +1208,7 @@
 				"content_text": "I started the Ness Labs [Mindful Productivity](https://nesslabs.com/masterclass \"Mindful Productivity\") masterclass today. The goal is to gain **insight** into how I currently manage my typical day through self-reflection, make improvements, and work towards new meaningful goals.\n\n",
 				"date_published": "2022-11-07T20:32:59-04:00",
 				"url": "https://ericgregorich.com/2022/11/07/i-started-the.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/11/06/i-started-using.html",
@@ -1182,7 +1217,7 @@
 				"content_text": "I started using Apple Notes for quick capture. \n\nOne way is from my iPad. I tap my Apple Pencil on the Lock Screen and start to write or sketch. \n\nI have always enjoyed this process on paper, and now I can do it digitally. \n\nIt’s a great way to **echo** my thoughts. #mbnov\n",
 				"date_published": "2022-11-06T15:54:41-04:00",
 				"url": "https://ericgregorich.com/2022/11/06/i-started-using.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/11/06/things-i-love.html",
@@ -1200,7 +1235,7 @@
 				"content_text": "Can I be **exempt** from today's word of the day? I’m going to be at my girl's softball tournament all day. #mbnov\n\n<img src=\"https://cdn.uploads.micro.blog/81720/2022/93bfea147a.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-11-05T08:08:41-04:00",
 				"url": "https://ericgregorich.com/2022/11/05/can-i-be.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/11/04/the-revue-newsletter.html",
@@ -1209,7 +1244,7 @@
 				"content_text": "The Revue newsletter service owned by Twitter is being [shut down](https://www.platformer.news/p/inside-twitters-product-roadmap-under) by the end of the year. What I liked about the Revue service was the ability to easily integrate other services, like RSS, to make it easier to build a link-based newsletter.\n",
 				"date_published": "2022-11-04T18:51:02-04:00",
 				"url": "https://ericgregorich.com/2022/11/04/the-revue-newsletter.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/11/04/i-have-great.html",
@@ -1218,7 +1253,7 @@
 				"content_text": "I have great **admiration** for the Kindle which can take a tumble down the stairs (at least 4 bounces), and land at the bottom and slide across the floor like it was nothing. No noticeable scratches or issues so far.  #mbnov\n",
 				"date_published": "2022-11-04T18:19:42-04:00",
 				"url": "https://ericgregorich.com/2022/11/04/i-have-great.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/11/03/as-a-consultant.html",
@@ -1227,7 +1262,7 @@
 				"content_text": "As a consultant, I'm always asked by clients what *license* they need for their Microsoft services. Unfortunately, that is not an easy answer. In fact, I need to get an official certification from Microsoft just to understand a portion of it. So much fun! 😒 #mbnov\n",
 				"date_published": "2022-11-03T17:06:03-04:00",
 				"url": "https://ericgregorich.com/2022/11/03/as-a-consultant.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/11/02/im-trying-to.html",
@@ -1236,7 +1271,7 @@
 				"content_text": "I’m trying to think of how to use the word \"feast\" for #mbnov.  The first thing I thought of was the upcoming Thanksgiving feast in a few weeks. But that’s not original. \n\nFeast your eyes on this! On what? I don't know. \n\n🤔 I'm not very creative after a long day. \n\n",
 				"date_published": "2022-11-02T18:56:21-04:00",
 				"url": "https://ericgregorich.com/2022/11/02/im-trying-to.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/11/01/im-trying-to.html",
@@ -1245,7 +1280,7 @@
 				"content_text": "I'm trying to **figure** out how to go from not taking consistent notes to creating a personal knowledge base. \n\nI'm using Obsidian and publishing ~90% of my notes are published to my [site](https://notes.ericgregorich.com) rather than my blog.\n\nPhase 1 is to consolidate my existing notes. I already see the benefits!\n",
 				"date_published": "2022-11-01T08:27:39-04:00",
 				"url": "https://ericgregorich.com/2022/11/01/im-trying-to.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/10/30/our-assumptions-may.html",
@@ -1254,7 +1289,7 @@
 				"content_text": "What we learn during life feeds our assumptions on how things should or should not work. Even when we're not an expert on something, we can make assumptions based on our limited knowledge.\n\nWe think of these \"rules\" as the way things are. These assumptions are often limiting our creativity.\n\nWhen trying to solve a problem, try to throw out your assumptions. They're not always correct (except when they are).\n\n",
 				"date_published": "2022-10-30T15:52:55-04:00",
 				"url": "https://ericgregorich.com/2022/10/30/our-assumptions-may.html",
-				"tags": ["Micro Posts","Productivity"]
+				"tags": ["Productivity"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/10/30/if-nothing-else.html",
@@ -1263,7 +1298,7 @@
 				"content_text": "<p>If nothing else, my Micro.blog <a title=\"newsletter\" href=\"https://blog.ericgregorich.com/newsletter/\">newsletter</a> provides a nice overview of my past week. It’s a great way to reflect and share with others who have similar interests.</p>\n",
 				"date_published": "2022-10-30T10:47:19-04:00",
 				"url": "https://ericgregorich.com/2022/10/30/if-nothing-else.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/10/30/im-one-to.html",
@@ -1272,7 +1307,7 @@
 				"content_text": "I’m one to keep trying new phone cases to change things up (it drives my wife crazy). It’s better than buying a new phone. Right? My current phone case is by [Peak Design](https://amzn.to/3TTzhoK \"Peak Design\"), and I’m enjoying it so far. \n\nA great feel, no fingerprints, a strong magnet, and decent protection.\n\n![Peak Design iPhone Case](https://cdn.uploads.micro.blog/81720/2022/b14cd334ba.jpg)\n\n",
 				"date_published": "2022-10-30T08:38:35-04:00",
 				"url": "https://ericgregorich.com/2022/10/30/im-one-to.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/10/29/change-too-often.html",
@@ -1281,7 +1316,7 @@
 				"content_text": "> Change too often and you stand for nothing. You’re simply chasing a shadow you will never catch. Refuse to change and you’re likely to be overlooked. Somewhere in between is the posture of someone who has the maximum chance for success. - [Seth Godin](https://seths.blog/2022/10/caring-just-the-right-amount/ \"Seth Godin\") 💬\n\n",
 				"date_published": "2022-10-29T19:32:40-04:00",
 				"url": "https://ericgregorich.com/2022/10/29/change-too-often.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/10/29/stolen-focus-by.html",
@@ -1299,7 +1334,7 @@
 				"content_text": "<p>Currently reading: <a href=\"https://micro.blog/books/9781943623389\">The Laws of Creativity</a> by Joey Cofone 📚</p>\n",
 				"date_published": "2022-10-28T22:25:15-04:00",
 				"url": "https://ericgregorich.com/2022/10/28/currently-reading-the.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/10/28/microblog-a-blog.html",
@@ -1308,7 +1343,7 @@
 				"content_text": "<p><a href=\"https://micro.blog\">Micro.blog</a></p>\n<p>1) A blog that encourages you to write what’s on your mind in short posts or long essays.</p>\n<p>2) A timeline that connects you to like-minded people.</p>\n<p>3) You’re contributing to the open web. Content is yours, distribute it how you like.</p>\n",
 				"date_published": "2022-10-28T18:33:28-04:00",
 				"url": "https://ericgregorich.com/2022/10/28/microblog-a-blog.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/10/28/i-uninstalled-all.html",
@@ -1317,7 +1352,7 @@
 				"content_text": "<p>I uninstalled all of the social apps from my phone (again), except Micro.blog.</p>\n<p>I have trouble leaving Twitter because there is such a robust community I follow for news and updates pertaining to my work.</p>\n<p>I’m experimenting with Mailbrew to provide a daily Twitter digest.</p>\n",
 				"date_published": "2022-10-28T18:24:54-04:00",
 				"url": "https://ericgregorich.com/2022/10/28/i-uninstalled-all.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/10/26/annelaure-le-cunff.html",
@@ -1326,7 +1361,7 @@
 				"content_text": "Anne-Laure Le Cunff fed Jasper, an AI writing tool, 100 headlines from content she wrote in the past and then shared them on a [website](https://toolbox.nesslabs.com/).\n\nWhile the articles were repetitive and dry, it’s quite scary how AI can be used to generate content. She even created the thumbnails with AI!\n\nHere is a [video](https://youtu.be/rtgyps-6jdg) where she explains the process and the results.\n",
 				"date_published": "2022-10-26T22:35:58-04:00",
 				"url": "https://ericgregorich.com/2022/10/26/annelaure-le-cunff.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/10/25/i-stumbled-across.html",
@@ -1335,7 +1370,7 @@
 				"content_text": "I stumbled across this [article](http://richardcarter.com/sidelines/charles-darwins-note-making-system) by Richard Carter that describes how Charles Darin took notes. \n\n> If you were to keep a portfolio open for a couple of years, and throw in slips of paper as subjects crossed your mind, you would soon have a skeleton (and that seems to me the difficulty) on which to put the flesh and colours in your inimitable manner.\n\nDarwin would mark up books, write literature notes, and even create a rough abstract of the books he read. He originally would use bound notebooks but later found them too restrictive, favoring the loose slips of paper instead.\n\nThe main takeaway is that he did not create a perfect system from the beginning, It always changed. The key is to capture notes and revisit them to create something useful.\n\n",
 				"date_published": "2022-10-25T08:24:01-04:00",
 				"url": "https://ericgregorich.com/2022/10/25/i-stumbled-across.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/10/23/its-a-beautiful.html",
@@ -1344,7 +1379,7 @@
 				"content_text": "It’s a beautiful day to sit outside and read. \n\n<img src=\"https://cdn.uploads.micro.blog/81720/2022/16fb41ff01.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2022-10-23T13:06:07-04:00",
 				"url": "https://ericgregorich.com/2022/10/23/its-a-beautiful.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/10/21/i-renewed-my.html",
@@ -1353,7 +1388,7 @@
 				"content_text": "<p>I renewed my Mymind subscription today. It’s expensive, but I enjoy using it and keep returning to it as my primary tool for bookmarks and private notes.</p>\n<p>Myminds best features include AI to tag your content automatically, a clean interface, and an extremely fast search.</p>\n<figure><img src=\"https://cdn.uploads.micro.blog/81720/2022/a2a748d734.png\" alt=\"Eric Gregorichs Mymind\" />\n<figcaption>Eric Gregorich’s Mymind</figcaption>\n</figure>\n",
 				"date_published": "2022-10-21T17:14:37-04:00",
 				"url": "https://ericgregorich.com/2022/10/21/i-renewed-my.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/10/21/my-struggles-with.html",
@@ -1371,7 +1406,7 @@
 				"content_text": "<blockquote>\n<p>“The goal is the target we want to achieve, while the aim is the course we set to reach that target. A goal fixates on the finish line, while an aim considers the trajectory. When we focus on our aims, the process becomes the goal. And we’re more likely to reach our goal when we become fully aware of our aim.” (Anne-Laure Le Cunff, <a href=\"https://nesslabs.com/everything-is-aiming\">Everything Is Aiming: Forget the Target and Focus on Your Aim</a>)</p>\n</blockquote>\n",
 				"date_published": "2022-10-20T20:27:03-04:00",
 				"url": "https://ericgregorich.com/2022/10/20/the-goal-is.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/10/20/front-matter-is.html",
@@ -1389,7 +1424,7 @@
 				"content_text": "<p>I imported my Readwise collection into my Obsidian vault. The graph view looks like a mess, but I can start seeing where some knowledge is clustered together. I’m thinking the local graph will be more useful day-to-day.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/81720/2022/32520b564e.png\" alt=\"Eric Gregorich Obsidian Graph 2022-10-20\" width=\"600\" height=\"418\" /></p>\n",
 				"date_published": "2022-10-20T16:37:29-04:00",
 				"url": "https://ericgregorich.com/2022/10/20/i-imported-my.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/10/20/after-exploring-many.html",
@@ -1398,7 +1433,7 @@
 				"content_text": "<p>After exploring many note applications, I’ve been sticking with Obsidian. The main reasons include local files and end-to-end encrypted sync (through Obsidian Sync). The UI, including mobile apps, has greatly improved in v1.</p>\n",
 				"date_published": "2022-10-20T13:46:32-04:00",
 				"url": "https://ericgregorich.com/2022/10/20/after-exploring-many.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/10/16/what-im-reading.html",
@@ -1416,7 +1451,7 @@
 				"content_text": "<p>I made some more tweaks to my blog.</p>\n<ul>\n<li>Added tags across the top of each page for easy navigation.</li>\n<li>Tweaked the CSS to make the posts look more like cards.</li>\n<li>Separated Dev Notes into a separate blog.</li>\n<li>Auto-posting updates to Twitter. 😱</li>\n<li>Quotes stand out more.</li>\n</ul>\n<figure><img src=\"https://cdn.uploads.micro.blog/81720/2022/d033ba2cbd.png\" alt=\"A screenshot of my blog home page style updates.\" />\n<figcaption>A screenshot of my blog home page style updates.</figcaption>\n</figure>\n",
 				"date_published": "2022-10-15T12:16:58-04:00",
 				"url": "https://ericgregorich.com/2022/10/15/i-made-some.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/10/15/the-readwise-reader.html",
@@ -1425,7 +1460,7 @@
 				"content_text": "<p>The <a title=\"Readwise Reader\" href=\"https://readwise.io/read\">Readwise Reader</a> app is a great way to keep up with your Twitter feed.</p>\n<ul>\n<li>Create lists in your Twitter account.</li>\n<li>Subscribe to those lists in Reader.</li>\n<li>Receive a digest of each Twitter list twice daily.</li>\n</ul>\n<p>It’s a great way to keep up with what’s happening without going to Twitter!</p>\n",
 				"date_published": "2022-10-15T10:34:32-04:00",
 				"url": "https://ericgregorich.com/2022/10/15/the-readwise-reader.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/10/14/the-ability-to.html",
@@ -1434,7 +1469,7 @@
 				"content_text": "<blockquote>\n<p>The ability to perform deep work is becoming increasingly rare at exactly the same time it is becoming increasingly valuable in our economy. As a consequence, the few who cultivate this skill, and then make it the core of their working life, will thrive. (Cal Newport) 💬</p>\n</blockquote>\n",
 				"date_published": "2022-10-14T17:28:08-04:00",
 				"url": "https://ericgregorich.com/2022/10/14/the-ability-to.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/10/13/its-pm-est.html",
@@ -1443,7 +1478,7 @@
 				"content_text": "<p>It’s 6 pm EST, and I’m at my daughter’s softball game. Near Atlanta, Georgia.</p>\n<p>It’s a beautiful day for softball!</p>\n<p><img src=\"https://cdn.uploads.micro.blog/81720/2022/99ec9d61a1.jpg\" alt=\"\" width=\"600\" height=\"450\" /></p>\n",
 				"date_published": "2022-10-13T18:34:20-04:00",
 				"url": "https://ericgregorich.com/2022/10/13/its-pm-est.html",
-				"tags": ["Photos","Micro Posts"]
+				"tags": ["Photos","Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/10/12/the-real-measure.html",
@@ -1452,7 +1487,7 @@
 				"content_text": "<blockquote>\n<p>“The real measure of any time management technique is whether or not it helps you neglect the right things.” (Oliver Burkeman, Four Thousand Weeks) 💬</p>\n</blockquote>\n",
 				"date_published": "2022-10-12T08:00:00-04:00",
 				"url": "https://ericgregorich.com/2022/10/12/the-real-measure.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/10/11/i-define-minimalism.html",
@@ -1461,7 +1496,7 @@
 				"content_text": "<blockquote>\n<p>“I define minimalism as ”the intentional promotion of the things we most value by removing anything that distracts us from them.“ … It isn’t primarily about decluttering or organizing; it’s about creating freedom.” (Joshua Becker, Things That Matter) 💬</p>\n</blockquote>\n",
 				"date_published": "2022-10-11T08:00:00-04:00",
 				"url": "https://ericgregorich.com/2022/10/11/i-define-minimalism.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/10/10/weve-mistaken-doing.html",
@@ -1470,7 +1505,7 @@
 				"content_text": "<blockquote>\n<p>“We’ve mistaken doing things—being “productive”—as the measure of a day well spent, when really that’s just one of many by-products of living well.” (Madeleine Dore, I Didn’t Do the Thing Today) 💬</p>\n</blockquote>\n",
 				"date_published": "2022-10-10T08:00:00-04:00",
 				"url": "https://ericgregorich.com/2022/10/10/weve-mistaken-doing.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/10/09/the-benefits-of.html",
@@ -1488,7 +1523,7 @@
 				"content_text": "<blockquote>\n<p>“I try to avoid having thoughts. They lead to other thoughts, and-if you’re not careful-those lead to actions. Actions make you tired. I have this on rather good authority from someone who once read it in a book.” (Brandon Sanderson, Warbreaker)</p>\n</blockquote>\n<p>💬 Hilarious!</p>\n",
 				"date_published": "2022-10-09T08:00:00-04:00",
 				"url": "https://ericgregorich.com/2022/10/09/i-try-to.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/10/08/started-to-play.html",
@@ -1497,7 +1532,7 @@
 				"content_text": "<p>🎮 Started to play Return to Monkey Island. This brings back memories! I loved these games years ago.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/81720/2022/ea28eb5e0a.jpg\" alt=\"Return to Monkey Island\" width=\"600\" height=\"337\" /></p>\n",
 				"date_published": "2022-10-08T09:37:33-04:00",
 				"url": "https://ericgregorich.com/2022/10/08/started-to-play.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/10/08/instead-of-wondering.html",
@@ -1506,7 +1541,7 @@
 				"content_text": "<blockquote>\n<p>“Instead of wondering when your next vacation is, maybe you should set up a life you don’t need to escape from.” (Peter Voogd, 6 Months to 6 Figures)</p>\n</blockquote>\n<p>💬 I can’t imagine retiring in the traditional sense. I’ll always be coding, writing, and creating something.</p>\n",
 				"date_published": "2022-10-08T08:43:14-04:00",
 				"url": "https://ericgregorich.com/2022/10/08/instead-of-wondering.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/10/07/loading-everyone-to.html",
@@ -1515,7 +1550,7 @@
 				"content_text": "<blockquote>\n<p>“Loading everyone to 100% of capacity has the same effect as loading a highway to 100% of capacity: No one can make any progress.” (Mike Cohn, Agile Estimating and Planning)</p>\n</blockquote>\n<p>💬 I love this quote. So true!</p>\n",
 				"date_published": "2022-10-07T20:06:54-04:00",
 				"url": "https://ericgregorich.com/2022/10/07/loading-everyone-to.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/10/07/i-have-started.html",
@@ -1524,7 +1559,7 @@
 				"content_text": "<p>I have started using Obsidian to manage my work notes. I created a new vault for each client connected to source control using Git.</p>\n<p>Obsidian allows me to work with local markdown files, which has been a great experience.</p>\n<p>Also, Obsidian is free and secure!</p>\n",
 				"date_published": "2022-10-07T18:05:21-04:00",
 				"url": "https://ericgregorich.com/2022/10/07/i-have-started.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/10/04/i-have-used.html",
@@ -1533,7 +1568,7 @@
 				"content_text": "<p>I have used the new Windows snap management in the latest Windows 11 update. It is a significant improvement over the previous version, but it’s still not nearly as flexible as FancyZones that is included in <a href=\"https://github.com/microsoft/PowerToys\">PowerToys</a>.</p>\n<p>I’m still getting used to it.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/81720/2022/389466e587.jpg\" alt=\"Windows Snap Management\" width=\"600\" height=\"116\" /></p>\n",
 				"date_published": "2022-10-04T13:35:32-04:00",
 				"url": "https://ericgregorich.com/2022/10/04/i-have-used.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/10/04/i-have-also.html",
@@ -1542,7 +1577,7 @@
 				"content_text": "I have also disconnected and closed my Plausible Analytics account. If you need analytics, I still highly recommend Plausible. \n\nI don’t need to see how much traffic my blog is getting. It’s another distraction. \n\nEngagement is a better way to know if something clicks. \n",
 				"date_published": "2022-10-04T12:34:06-04:00",
 				"url": "https://ericgregorich.com/2022/10/04/i-have-also.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/10/04/i-officially-broke.html",
@@ -1551,7 +1586,7 @@
 				"content_text": "I officially broke up with my Ghost blogs today. I love Ghost. I think it’s beautiful, simple, and powerful. I highly recommend Ghost for creating content and building an audience. I only want to share without pressure to do so in a formal blog or newsletter. Micro.blog it is.\n\n",
 				"date_published": "2022-10-04T10:08:37-04:00",
 				"url": "https://ericgregorich.com/2022/10/04/i-officially-broke.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/10/03/i-just-added.html",
@@ -1560,7 +1595,7 @@
 				"content_text": "<p>I added a vertical monitor to my workspace. I like having the extra space to stick my Teams video calls, calendar, and other static things.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/81720/2022/8057798399.jpg\" alt=\"\" width=\"600\" height=\"450\" /></p>\n",
 				"date_published": "2022-10-03T17:45:01-04:00",
 				"url": "https://ericgregorich.com/2022/10/03/i-just-added.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/10/03/082718.html",
@@ -1569,7 +1604,7 @@
 				"content_text": "<p>Currently reading: <a title=\"Stolen Focus\" href=\"https://micro.blog/books/9780593138526\">Stolen Focus</a> by Johann Hari 📚</p>\n<blockquote>\n<p>It’s when you set aside your distractions, he said, that you begin to see what you were distracting yourself from. - Stolen Focus p27 💬</p>\n</blockquote>\n",
 				"date_published": "2022-10-03T08:27:18-04:00",
 				"url": "https://ericgregorich.com/2022/10/03/082718.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/10/03/currently-reading-stolen.html",
@@ -1578,7 +1613,7 @@
 				"content_text": "<p>Currently reading: <a title=\"Stolen Focus\" href=\"https://micro.blog/books/9780593138526\">Stolen Focus</a> by Johann Hari 📚</p>\n<p>As a kid, I’ve always struggled with focus and attention, even without digital distractions. I’m a daydreamer. Today’s digital tools have made our lives simpler, yet at a cost. Even as I read the introduction to this book, I noticed I picked up my phone at least twice.</p>\n<p>Staying focused becomes more manageable when working on something I enjoy—writing code, building something, solving a problem. It’s easy to get into focus during those times. We can’t always be in deep focus. What do we do when we’re not?</p>\n<p>I’m hoping this book is not only about scare tactics. I’m not expecting some miracle cure, but perhaps a guide through my own thoughts to help figure out what works for me.</p>\n<p>I hope I can stay focused enough to read through the nearly 300 pages in this book. :)</p>\n",
 				"date_published": "2022-10-03T08:11:48-04:00",
 				"url": "https://ericgregorich.com/2022/10/03/currently-reading-stolen.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/10/02/airshow-podcast-app.html",
@@ -1596,7 +1631,7 @@
 				"content_text": "<p>Last week, I attended the first Microsoft Power Platform Conference 2022 in Orlando. My summary of the conference, including announcements of new features, can be found in this <a href=\"https://www.abelsolutions.com/microsoft-power-platform-top-10-things-to-get-excited-about-now/\">post</a>.</p>\n",
 				"date_published": "2022-09-30T08:55:19-04:00",
 				"url": "https://ericgregorich.com/2022/09/30/last-week-i.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/09/26/announcing-the-allnew.html",
@@ -1605,7 +1640,7 @@
 				"content_text": "<p><a href=\"https://on.substack.com/p/new-web-reader?r=1cnvs&amp;s=r&amp;utm_campaign=post&amp;utm_medium=web\">Announcing the all-new Substack Reader for web</a></p>\n<blockquote>\n<p>Want to add a publication from outside Substack? No problem—just select “Add RSS feed” from the left sidebar.</p>\n</blockquote>\n<p>I keep seeing on Twitter that Substack is finally going to replace what we lost in Google Reader all those years ago. What was special about Google Reader that has not already been replaced by Feedbin, Feedly, Inoreader, NetNewsWire, and the dozens of other RSS services out there?</p>\n",
 				"date_published": "2022-09-26T19:12:23-04:00",
 				"url": "https://ericgregorich.com/2022/09/26/announcing-the-allnew.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/09/25/ive-moved-all.html",
@@ -1614,7 +1649,7 @@
 				"content_text": "<p>I’ve moved all my RSS, newsletters, and Twitter lists to Feedbin. I just discovered there is a Micro.blog integration available! After configuring the integration, I can share an item directly to Micro.blog and write a post from the Feedbin app.</p>\n",
 				"date_published": "2022-09-25T17:11:02-04:00",
 				"url": "https://ericgregorich.com/2022/09/25/ive-moved-all.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/09/25/im-trying-the.html",
@@ -1632,7 +1667,7 @@
 				"content_text": "<p>I just finished (for now) updating my <a href=\"https://ericgregorich.com\">Micro.blog website</a> theme. I tweaked the colors, fonts, and header. Added a Surprise link that loads a random post and the Bookshelf that shows books I’m reading and interested in. Also, experimenting with the Newsletter feature.</p>\n",
 				"date_published": "2022-09-18T08:19:33-04:00",
 				"url": "https://ericgregorich.com/2022/09/18/i-just-finished.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/09/16/just-received-my.html",
@@ -1641,7 +1676,7 @@
 				"content_text": "<p>Just received my physical copy of <a href=\"https://micro.blog/books/9781728256665\">Daily Creative: A Practical Guide for Staying Prolific, Brilliant, and Healthy</a> by Todd Henry 📚</p>\n<p>This book was highly recommended. I’ll try to take my time and read it as intended, one day at a time.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/81720/2022/24084bae76.jpg\" alt=\"\" width=\"600\" height=\"450\" /></p>\n",
 				"date_published": "2022-09-16T17:00:07-04:00",
 				"url": "https://ericgregorich.com/2022/09/16/just-received-my.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/09/16/im-looking-forward.html",
@@ -1650,7 +1685,7 @@
 				"content_text": "<p>I’m looking forward to heading to Orlando for the <a href=\"https://powerplatformconf.com/#!/\">Microsoft Power Platform Conference</a> all next week! #MPPC22</p>\n",
 				"date_published": "2022-09-16T10:10:31-04:00",
 				"url": "https://ericgregorich.com/2022/09/16/im-looking-forward.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/09/15/i-was-listening.html",
@@ -1659,7 +1694,7 @@
 				"content_text": "<p>I was listening to this episode of <a href=\"https://www.rework.fm/good-enough-is-fine/\">The Rework Podcast</a> by the guys at 37signals. It was a great reminder that we tend to overcomplicate things when building technical solutions. Sometimes, we do it for the challenge, and as developers, it’s fun. Often we miss the point. What’s the end goal?</p>\n<p>For example, I was just working with a customer who wanted us to update our existing application to allow batching records together based on complicated logic. We spent hours thinking of a solution. Then someone asked, why do they need this? Oh, so one admin can run a report that shows all the records in a batch. Can’t we add a checkbox to allow the admin to select which records they want to include in the report? Yes! Well, that makes things much easier!</p>\n",
 				"date_published": "2022-09-15T09:31:21-04:00",
 				"url": "https://ericgregorich.com/2022/09/15/i-was-listening.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/09/15/how-to-overwrite.html",
@@ -1668,7 +1703,7 @@
 				"content_text": "<p><a href=\"https://nesslabs.com/cognitive-scripts?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=cognitive-scripts\">How to overwrite your cognitive scripts - nesslabs.com</a></p>\n<blockquote>\n<p>Cognitive scripts are based on the semantic memory, or the knowledge we acquire throughout our lives. Semantic memory develops when we experience events in the everyday world, such as how to travel by public transport or the steps involved in eating in a restaurant. We organise our experiences into cognitive scripts that are personal to us, and these scripts may vary depending on our perception of a situation and the cultures we identify with. - Dr. Hannah England</p>\n</blockquote>\n<p>We can overwrite our cognitive scripts by journaling, reset the scripts that don’t work for us, and go off script and take risks.</p>\n<p>Cognitive scripts are based on our beliefs, created during our lifetime. Habits are more about the actions we take.</p>\n",
 				"date_published": "2022-09-15T08:54:17-04:00",
 				"url": "https://ericgregorich.com/2022/09/15/how-to-overwrite.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/09/14/did-you-know.html",
@@ -1677,7 +1712,7 @@
 				"content_text": "<p>Did you know Microsoft Edge has a built-in Citation tool? Go to Settings &gt; Appearance &gt; Toggle on the Citations button.</p>\n<figure><img src=\"https://cdn.uploads.micro.blog/81720/2022/0667b1f608.png\" alt=\"\" /></figure>\n",
 				"date_published": "2022-09-14T08:45:09-04:00",
 				"url": "https://ericgregorich.com/2022/09/14/did-you-know.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/09/11/becoming-a-fulltime.html",
@@ -1686,7 +1721,7 @@
 				"content_text": "<p><a href=\"https://blog.pragmaticengineer.com/how-to-become-a-full-time-creator\">Becoming a Full-Time Creator as a Software Engineer: Controversial Advice - The Pragmatic Engineer</a></p>\n<blockquote>\n<p>If you’re someone with years, or decades of experience working in tech, you can likely just sell your sawdust: things that are already in your head, like your past experience.</p>\n</blockquote>\n<p>This was a great article that talks about various ways to make a living as a creator.</p>\n",
 				"date_published": "2022-09-11T19:45:57-04:00",
 				"url": "https://ericgregorich.com/2022/09/11/becoming-a-fulltime.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/09/11/loading-everyone-to.html",
@@ -1695,7 +1730,7 @@
 				"content_text": "<blockquote>\n<p>“Loading everyone to 100% of capacity has the same effect as loading a highway to 100% of capacity: No one can make any progress.” (Mike Cohn, Agile Estimating and Planning)</p>\n</blockquote>\n<p>I love this quote. So true!</p>\n",
 				"date_published": "2022-09-11T10:57:39-04:00",
 				"url": "https://ericgregorich.com/2022/09/11/loading-everyone-to.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/09/11/i-didnt-do.html",
@@ -1722,7 +1757,7 @@
 				"content_text": "<p><a href=\"https://nesslabs.com/novelty-fallacy?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=novelty-fallacy\">Novelty fallacy: why new isn’t always better - Ness Labs</a></p>\n<blockquote>\n<p>The novelty bias is a form of informal logical fallacy, where we consider that something is better simply because it’s new. Of course, in some cases, novelty seeking does correlate with benefits. For example, a newer computer may offer improved speed and performance. However, not all new ideas and objects will offer benefits over something older or more established.</p>\n</blockquote>\n<p>It’s always easy to see the latest tech innovations (like iPhones) and convince ourselves that we need them. If we think about the pros and cons and let them sit in our minds for a while. We’ll either forget about it or convince ourselves we don’t need it. In rare cases, the new toy improves our life.</p>\n",
 				"date_published": "2022-09-10T14:29:35-04:00",
 				"url": "https://ericgregorich.com/2022/09/10/novelty-bias.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/09/09/currently-reading-clean.html",
@@ -1731,7 +1766,7 @@
 				"content_text": "<p>Currently reading: <a href=\"https://micro.blog/books/9780134494326\">Clean Architecture: A Craftsman’s Guide to Software Structure and Design (Robert C. Martin Series)</a> by Martin Robert C. 📚</p>\n",
 				"date_published": "2022-09-09T23:49:30-04:00",
 				"url": "https://ericgregorich.com/2022/09/09/currently-reading-clean.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/09/09/the-readwise-reader.html",
@@ -1740,7 +1775,7 @@
 				"content_text": "The [Readwise Reader](https://readwise.io/read) app has come a long way over the past year. With built-in RSS, Email, and Twitter support, it has replaced many of my other apps. It's also just a great reading experience. Powerful on desktop, simple on mobile!\n  \n",
 				"date_published": "2022-09-09T08:14:00-04:00",
 				"url": "https://ericgregorich.com/2022/09/09/the-readwise-reader.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/09/08/why-do-applications.html",
@@ -1749,7 +1784,7 @@
 				"content_text": "<p>Why do applications have a big, bright “Share” button right in the middle of an otherwise clean and simple screen? Are they trying to encourage sharing so more people know about the application? It’s annoying.</p>\n",
 				"date_published": "2022-09-08T09:04:47-04:00",
 				"url": "https://ericgregorich.com/2022/09/08/why-do-applications.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/09/08/im-going-to.html",
@@ -1758,7 +1793,7 @@
 				"content_text": "<p>I’m going to try out this micro-blogging thing. I currently have a blog on Ghost, but I don’t post much there. I feel like I need to write some longer content rather than just posting some thoughts on topics throughout the day.</p>\n<p>Micro-blogging may be an in-between alternative to blogging and social media.</p>\n",
 				"date_published": "2022-09-08T07:26:31-04:00",
 				"url": "https://ericgregorich.com/2022/09/08/im-going-to.html",
-				"tags": ["Micro Posts"]
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/09/05/take-care-of.html",
