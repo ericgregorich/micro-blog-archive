@@ -7,6 +7,42 @@
 	"items": [
 		
 			{
+				"id": "http://ericgregorich.micro.blog/2023/04/23/144835.html",
+				
+				"content_html": "<p><a href=\"https://jukkaniiranen.com/2023/03/your-power-apps-user-settings-are-probably-wrong/\">jukkaniiranen.com/2023/03/y&hellip;</a></p>\n",
+				"content_text": "[jukkaniiranen.com/2023/03/y...](https://jukkaniiranen.com/2023/03/your-power-apps-user-settings-are-probably-wrong/)\n",
+				"date_published": "2023-04-23T14:48:35-04:00",
+				"url": "https://ericgregorich.com/2023/04/23/144835.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2023/04/22/another-full-day.html",
+				
+				"content_html": "<p>Another full day of softball. Beautiful sunny yet cool weather. The girls seem to be having a lot of fun today.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Another full day of softball. Beautiful sunny yet cool weather. The girls seem to be having a lot of fun today. \n\n<img src=\"uploads/2023/67dfa657ce.jpg\" width=\"417\" height=\"600\" alt=\"Softball\">\n",
+				"date_published": "2023-04-22T09:41:13-04:00",
+				"url": "https://ericgregorich.com/2023/04/22/another-full-day.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2023/04/21/im-playing-around.html",
+				
+				"content_html": "<p>I&rsquo;m playing around with <a href=\"https://obsidian.md/publish\">Obsidian Publish</a> again since they cut the price in half and pushed out a few updates. Your published notes can now have permalinks, which means the URL won&rsquo;t change even if I reorganize my notes. This is a big deal for me!</p>\n",
+				"content_text": "I'm playing around with [Obsidian Publish](https://obsidian.md/publish) again since they cut the price in half and pushed out a few updates. Your published notes can now have permalinks, which means the URL won't change even if I reorganize my notes. This is a big deal for me! \n",
+				"date_published": "2023-04-21T10:31:26-04:00",
+				"url": "https://ericgregorich.com/2023/04/21/im-playing-around.html",
+				"tags": ["Obsidian","Notes"]
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2023/04/19/the-team-at.html",
+				
+				"content_html": "<p>The team at Obsidian has <a href=\"https://forum.obsidian.md/t/obsidian-publish-now-offers-more-for-less-a-lower-price-with-new-features-improved-seo-and-accessibility/58272\">announced</a> that <a href=\"https://obsidian.md/publish\">Obsidian Publish</a> is now 50% cheaper and has even more features. Obsidian Publish received a facelift recently, has better SEO and, we can finally edit permalinks, images, and page descriptions using YAML!</p>\n",
+				"content_text": "The team at Obsidian has [announced](https://forum.obsidian.md/t/obsidian-publish-now-offers-more-for-less-a-lower-price-with-new-features-improved-seo-and-accessibility/58272) that [Obsidian Publish](https://obsidian.md/publish) is now 50% cheaper and has even more features. Obsidian Publish received a facelift recently, has better SEO and, we can finally edit permalinks, images, and page descriptions using YAML!\n",
+				"date_published": "2023-04-19T20:13:49-04:00",
+				"url": "https://ericgregorich.com/2023/04/19/the-team-at.html",
+				"tags": ["Obsidian","Notes"]
+			},
+			{
 				"id": "http://ericgregorich.micro.blog/2023/04/16/my-workspace-update.html",
 				"title": "My Workspace update: April 16, 2023",
 				"content_html": "<!-- raw HTML omitted -->\n",
@@ -145,7 +181,7 @@
 				"id": "http://ericgregorich.micro.blog/2023/03/26/my-rocketbook-notebook.html",
 				
 				"content_html": "<p>My Rocketbook notebook arrived.</p>\n<ol>\n<li>I think I like the size (8.5 x 11). Plenty of space to write.</li>\n<li>I love how it lays flat and is not thick.</li>\n<li>It&rsquo;s easy to write on, but not the same as paper. I don&rsquo;t think I&rsquo;ll have a problem.</li>\n</ol>\n<p>The real test is using it this week for work. We&rsquo;ll see how it holds up!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My Rocketbook notebook arrived. \n\n1. I think I like the size (8.5 x 11). Plenty of space to write.\n2. I love how it lays flat and is not thick. \n3. It's easy to write on, but not the same as paper. I don't think I'll have a problem. \n\nThe real test is using it this week for work. We'll see how it holds up!\n\n<img src=\"uploads/2023/a0a7b07500.jpg\" width=\"600\" height=\"450\" alt=\"RocketBook Notebook\">\n",
+				"content_text": "My Rocketbook notebook arrived. \n\n1. I think I like the size (8.5 x 11). Plenty of space to write.\n2. I love how it lays flat and is not thick. \n3. It's easy to write on, but not the same as paper. I don't think I'll have a problem. \n\nThe real test is using it this week for work. We'll see how it holds up!\n\n<img src=\"https://cdn.uploads.micro.blog/81720/2023/a0a7b07500.jpg\" width=\"600\" height=\"450\" alt=\"RocketBook Notebook\">\n",
 				"date_published": "2023-03-26T19:20:25-04:00",
 				"url": "https://ericgregorich.com/2023/03/26/my-rocketbook-notebook.html",
 				"tags": ["Photos","Notes"]
