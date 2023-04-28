@@ -7,13 +7,22 @@
 	"items": [
 		
 			{
-				"id": "http://ericgregorich.micro.blog/2023/04/23/144835.html",
+				"id": "http://ericgregorich.micro.blog/2023/04/28/ive-given-stage.html",
 				
-				"content_html": "<p><a href=\"https://jukkaniiranen.com/2023/03/your-power-apps-user-settings-are-probably-wrong/\">jukkaniiranen.com/2023/03/y&hellip;</a></p>\n",
-				"content_text": "[jukkaniiranen.com/2023/03/y...](https://jukkaniiranen.com/2023/03/your-power-apps-user-settings-are-probably-wrong/)\n",
-				"date_published": "2023-04-23T14:48:35-04:00",
-				"url": "https://ericgregorich.com/2023/04/23/144835.html",
-				"tags": ["Notes"]
+				"content_html": "<p>I&rsquo;ve given Stage Manager on macOS another try, but it seems like a mess. I&rsquo;m not entirely sure how to use it, and I don&rsquo;t think it&rsquo;s working well for me. I want to give it a fair chance, but at the moment, it&rsquo;s just not clicking. Does anyone use it effectively?</p>\n",
+				"content_text": "I've given Stage Manager on macOS another try, but it seems like a mess. I'm not entirely sure how to use it, and I don't think it's working well for me. I want to give it a fair chance, but at the moment, it's just not clicking. Does anyone use it effectively?\n",
+				"date_published": "2023-04-28T08:17:08-04:00",
+				"url": "https://ericgregorich.com/2023/04/28/ive-given-stage.html",
+				"tags": ["Apps","Notes"]
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2023/04/26/ive-started-using.html",
+				
+				"content_html": "<p>I&rsquo;ve started using Pipelines for one of my client&rsquo;s Power Platform environments. This new feature allows us to configure deployment pipelines to publish solutions from Dev to UAT to Production. A huge time saver and allows me to delegate deployments!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I've started using Pipelines for one of my client's Power Platform environments. This new feature allows us to configure deployment pipelines to publish solutions from Dev to UAT to Production. A huge time saver and allows me to delegate deployments!\n\n<img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://ericgregorich.com/uploads/2023/1ef0d84f91.png\" alt=\"Power Platform Pipelines\" title=\"Power Platform Pipelines.png\" border=\"0\" width=\"599\" height=\"297\" />\n",
+				"date_published": "2023-04-26T17:41:49-04:00",
+				"url": "https://ericgregorich.com/2023/04/26/ive-started-using.html",
+				"tags": ["Notes","Microsoft"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/04/22/another-full-day.html",
@@ -22,7 +31,7 @@
 				"content_text": "Another full day of softball. Beautiful sunny yet cool weather. The girls seem to be having a lot of fun today. \n\n<img src=\"uploads/2023/67dfa657ce.jpg\" width=\"417\" height=\"600\" alt=\"Softball\">\n",
 				"date_published": "2023-04-22T09:41:13-04:00",
 				"url": "https://ericgregorich.com/2023/04/22/another-full-day.html",
-				"tags": ["Notes"]
+				"tags": ["Photos","Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/04/21/im-playing-around.html",
@@ -181,7 +190,7 @@
 				"id": "http://ericgregorich.micro.blog/2023/03/26/my-rocketbook-notebook.html",
 				
 				"content_html": "<p>My Rocketbook notebook arrived.</p>\n<ol>\n<li>I think I like the size (8.5 x 11). Plenty of space to write.</li>\n<li>I love how it lays flat and is not thick.</li>\n<li>It&rsquo;s easy to write on, but not the same as paper. I don&rsquo;t think I&rsquo;ll have a problem.</li>\n</ol>\n<p>The real test is using it this week for work. We&rsquo;ll see how it holds up!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My Rocketbook notebook arrived. \n\n1. I think I like the size (8.5 x 11). Plenty of space to write.\n2. I love how it lays flat and is not thick. \n3. It's easy to write on, but not the same as paper. I don't think I'll have a problem. \n\nThe real test is using it this week for work. We'll see how it holds up!\n\n<img src=\"https://cdn.uploads.micro.blog/81720/2023/a0a7b07500.jpg\" width=\"600\" height=\"450\" alt=\"RocketBook Notebook\">\n",
+				"content_text": "My Rocketbook notebook arrived. \n\n1. I think I like the size (8.5 x 11). Plenty of space to write.\n2. I love how it lays flat and is not thick. \n3. It's easy to write on, but not the same as paper. I don't think I'll have a problem. \n\nThe real test is using it this week for work. We'll see how it holds up!\n\n<img src=\"uploads/2023/a0a7b07500.jpg\" width=\"600\" height=\"450\" alt=\"RocketBook Notebook\">\n",
 				"date_published": "2023-03-26T19:20:25-04:00",
 				"url": "https://ericgregorich.com/2023/03/26/my-rocketbook-notebook.html",
 				"tags": ["Photos","Notes"]
