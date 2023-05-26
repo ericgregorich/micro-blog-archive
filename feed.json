@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://ericgregorich.micro.blog/2023/05/26/if-youre-into.html",
+				
+				"content_html": "<p>If you&rsquo;re into self-help books but don&rsquo;t want to waste time, check out <a href=\"https://bookworm.fm/\">Bookworm Podcast</a>. Hosts Joe Buhlig and Mike Schmitz drop a new episode every couple of weeks, and they give a thorough review of each book. It&rsquo;s been a huge help for me when it comes to deciding which books I wanna read.</p>\n",
+				"content_text": "If you're into self-help books but don't want to waste time, check out [Bookworm Podcast](https://bookworm.fm/). Hosts Joe Buhlig and Mike Schmitz drop a new episode every couple of weeks, and they give a thorough review of each book. It's been a huge help for me when it comes to deciding which books I wanna read.\n",
+				"date_published": "2023-05-26T13:24:11-04:00",
+				"url": "https://ericgregorich.com/2023/05/26/if-youre-into.html",
+				"tags": ["Notes","Podcasts"]
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2023/05/18/microsoft-outlook-has.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Microsoft Outlook has made significant progress in recent years. The recently released <a href=\"https://support.microsoft.com/en-us/office/getting-started-with-the-new-outlook-for-windows-656bb8d9-5a60-49b2-a98b-ba7822bc7627\">Outlook client (preview)</a> for Windows has seen remarkable development in the past few months. While the features are largely taken from the Outlook web client, I am highly impressed with its progress.</p>\n",
+				"date_published": "2023-05-18T12:54:40-04:00",
+				"url": "https://ericgregorich.com/2023/05/18/microsoft-outlook-has.html",
+				"tags": ["Apps","Notes"]
+			},
+			{
 				"id": "http://ericgregorich.micro.blog/2023/05/15/what-i-dislike.html",
 				
 				"content_html": "<p>What I dislike most about Obsidian is how notes are accessed though a file explorer-like interface with no nice list of notes with preview, thumbnail, etc., as you get in most apps like Bear.</p>\n<p>That seems like it could be a plugin. I&rsquo;ll need to check to see if it already exists.</p>\n",
