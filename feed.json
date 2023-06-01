@@ -7,6 +7,60 @@
 	"items": [
 		
 			{
+				"id": "http://ericgregorich.micro.blog/2023/05/31/is-chatgpt-really.html",
+				
+				"content_html": "<p><a href=\"https://www.macsparky.com/blog/2023/05/is-chatgpt-really-artificial-intelligence/\">Is ChatGPT really Artificial Intelligence?</a></p>\n<blockquote>\n<p>So going forward, I will be referring to things like ChatGPT as an LLM, and not artificial intelligence. I would argue that you do the same. </p>\n</blockquote>\n<p>Yep. I feel the same. These LLMs are not really &ldquo;intelligent&rdquo;. Classifying them as AI seems misleading.</p>\n",
+				"content_text": "[Is ChatGPT really Artificial Intelligence?](https://www.macsparky.com/blog/2023/05/is-chatgpt-really-artificial-intelligence/)\n\n> So going forward, I will be referring to things like ChatGPT as an LLM, and not artificial intelligence. I would argue that you do the same. \n\nYep. I feel the same. These LLMs are not really \"intelligent\". Classifying them as AI seems misleading. \n",
+				"date_published": "2023-05-31T20:56:36-04:00",
+				"url": "https://ericgregorich.com/2023/05/31/is-chatgpt-really.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2023/05/28/ive-been-enjoying.html",
+				
+				"content_html": "<p>🎮 I&rsquo;ve been enjoying Zelda TOTK. It&rsquo;s really fun and relaxing (most of the time) to explore this huge open world. The creative possibilities are amazing with the new crafting system.</p>\n",
+				"content_text": "🎮 I've been enjoying Zelda TOTK. It's really fun and relaxing (most of the time) to explore this huge open world. The creative possibilities are amazing with the new crafting system. \n",
+				"date_published": "2023-05-28T21:53:00-04:00",
+				"url": "https://ericgregorich.com/2023/05/28/ive-been-enjoying.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2023/05/28/ill-probably-unsubscribe.html",
+				
+				"content_html": "<p>I&rsquo;ll probably unsubscribe from Grammarly when my subscription is up.</p>\n<p>I dropped it altogether on my work machine in favor of Microsoft Editor instead for security and cost reasons.</p>\n<p>For personal use, I&rsquo;m not using grammar checking other than the occasional check using Raycast AI or Bing chat.</p>\n",
+				"content_text": "I'll probably unsubscribe from Grammarly when my subscription is up. \n\nI dropped it altogether on my work machine in favor of Microsoft Editor instead for security and cost reasons. \n\nFor personal use, I'm not using grammar checking other than the occasional check using Raycast AI or Bing chat. \n\n",
+				"date_published": "2023-05-28T16:29:35-04:00",
+				"url": "https://ericgregorich.com/2023/05/28/ill-probably-unsubscribe.html",
+				"tags": ["Apps","Notes"]
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2023/05/28/currently-reading-the.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781401964368\">The Gap and The Gain</a> by Dan Sullivan 📚</p>\n",
+				"content_text": "Currently reading: [The Gap and The Gain](https://micro.blog/books/9781401964368) by Dan Sullivan 📚\n",
+				"date_published": "2023-05-28T16:12:05-04:00",
+				"url": "https://ericgregorich.com/2023/05/28/currently-reading-the.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2023/05/28/i-bit-the.html",
+				
+				"content_html": "<p>I bit the bullet and purchased a new iPhone case (that barely qualifies as a case) called the <a href=\"https://arc.cc/products/arc-pulse-for-iphone-14-pro\">Arc Pulse</a>.</p>\n<p>It only covers the corners and camera and provides solid protection in those areas, but the rest of the phone is exposed.</p>\n<p>I actually love it because it doesn&rsquo;t feel like  using a case at all!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I bit the bullet and purchased a new iPhone case (that barely qualifies as a case) called the [Arc Pulse](https://arc.cc/products/arc-pulse-for-iphone-14-pro). \n\nIt only covers the corners and camera and provides solid protection in those areas, but the rest of the phone is exposed. \n\nI actually love it because it doesn't feel like  using a case at all!\n\n\n\n\n<img src=\"uploads/2023/e461a94fe4.jpg\" width=\"421\" height=\"600\" alt=\"iPhone 14 Pro with Arc Pulse Case\">\n",
+				"date_published": "2023-05-28T16:10:02-04:00",
+				"url": "https://ericgregorich.com/2023/05/28/i-bit-the.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2023/05/28/i-finished-moving.html",
+				
+				"content_html": "<p>I finished moving my notes from Obsidian, Apple Notes, and even Evernote into Bear. I don&rsquo;t have too many notes so this want a big deal. But having one place for all my notes is a nice feeling.</p>\n<p>I chose Bear because it is fast, simple, and easy to export a note into various formats.</p>\n",
+				"content_text": "I finished moving my notes from Obsidian, Apple Notes, and even Evernote into Bear. I don't have too many notes so this want a big deal. But having one place for all my notes is a nice feeling. \n\nI chose Bear because it is fast, simple, and easy to export a note into various formats. \n",
+				"date_published": "2023-05-28T12:16:53-04:00",
+				"url": "https://ericgregorich.com/2023/05/28/i-finished-moving.html",
+				"tags": ["Notes"]
+			},
+			{
 				"id": "http://ericgregorich.micro.blog/2023/05/26/if-youre-into.html",
 				
 				"content_html": "<p>If you&rsquo;re into self-help books but don&rsquo;t want to waste time, check out <a href=\"https://bookworm.fm/\">Bookworm Podcast</a>. Hosts Joe Buhlig and Mike Schmitz drop a new episode every couple of weeks, and they give a thorough review of each book. It&rsquo;s been a huge help for me when it comes to deciding which books I wanna read.</p>\n",
