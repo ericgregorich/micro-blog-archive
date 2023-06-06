@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://ericgregorich.micro.blog/2023/06/02/ive-heard-rumors.html",
+				
+				"content_html": "<p>I&rsquo;ve heard rumors of a Journaling app from Apple.</p>\n<p>I discovered there is a new Shortcut from Apple called <a href=\"https://www.icloud.com/shortcuts/488c2b6ed3024a47bbdfc862a988ecc5\">Remember This</a>.</p>\n<p>The shortcut asks what you want to remember and then if you want to include a photo. It appends your response to a single note for each day.</p>\n<p>I wonder if this is all we&rsquo;re getting?</p>\n",
+				"content_text": "I've heard rumors of a Journaling app from Apple. \n\nI discovered there is a new Shortcut from Apple called [Remember This](https://www.icloud.com/shortcuts/488c2b6ed3024a47bbdfc862a988ecc5). \n\nThe shortcut asks what you want to remember and then if you want to include a photo. It appends your response to a single note for each day. \n\nI wonder if this is all we're getting?\n",
+				"date_published": "2023-06-02T18:44:55-04:00",
+				"url": "https://ericgregorich.com/2023/06/02/ive-heard-rumors.html",
+				"tags": ["Apps","Notes"]
+			},
+			{
 				"id": "http://ericgregorich.micro.blog/2023/05/31/is-chatgpt-really.html",
 				
 				"content_html": "<p><a href=\"https://www.macsparky.com/blog/2023/05/is-chatgpt-really-artificial-intelligence/\">Is ChatGPT really Artificial Intelligence?</a></p>\n<blockquote>\n<p>So going forward, I will be referring to things like ChatGPT as an LLM, and not artificial intelligence. I would argue that you do the same. </p>\n</blockquote>\n<p>Yep. I feel the same. These LLMs are not really &ldquo;intelligent&rdquo;. Classifying them as AI seems misleading.</p>\n",
@@ -46,7 +55,7 @@
 				"id": "http://ericgregorich.micro.blog/2023/05/28/i-bit-the.html",
 				
 				"content_html": "<p>I bit the bullet and purchased a new iPhone case (that barely qualifies as a case) called the <a href=\"https://arc.cc/products/arc-pulse-for-iphone-14-pro\">Arc Pulse</a>.</p>\n<p>It only covers the corners and camera and provides solid protection in those areas, but the rest of the phone is exposed.</p>\n<p>I actually love it because it doesn&rsquo;t feel like  using a case at all!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I bit the bullet and purchased a new iPhone case (that barely qualifies as a case) called the [Arc Pulse](https://arc.cc/products/arc-pulse-for-iphone-14-pro). \n\nIt only covers the corners and camera and provides solid protection in those areas, but the rest of the phone is exposed. \n\nI actually love it because it doesn't feel like  using a case at all!\n\n\n\n\n<img src=\"uploads/2023/e461a94fe4.jpg\" width=\"421\" height=\"600\" alt=\"iPhone 14 Pro with Arc Pulse Case\">\n",
+				"content_text": "I bit the bullet and purchased a new iPhone case (that barely qualifies as a case) called the [Arc Pulse](https://arc.cc/products/arc-pulse-for-iphone-14-pro). \n\nIt only covers the corners and camera and provides solid protection in those areas, but the rest of the phone is exposed. \n\nI actually love it because it doesn't feel like  using a case at all!\n\n\n\n\n<img src=\"https://cdn.uploads.micro.blog/81720/2023/e461a94fe4.jpg\" width=\"421\" height=\"600\" alt=\"iPhone 14 Pro with Arc Pulse Case\">\n",
 				"date_published": "2023-05-28T16:10:02-04:00",
 				"url": "https://ericgregorich.com/2023/05/28/i-bit-the.html",
 				"tags": ["Notes"]
