@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://ericgregorich.micro.blog/2023/06/09/driving-through-alabama.html",
+				
+				"content_html": "<p>Driving through Alabama to get to a softball tournament. We got stuck waiting for some construction but had a great view.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Driving through Alabama to get to a softball tournament. We got stuck waiting for some construction but had a great view. \n\n<img src=\"uploads/2023/00717f521c.jpg\" width=\"600\" height=\"450\" alt=\"Field in Alabama \">\n",
+				"date_published": "2023-06-09T23:01:01-04:00",
+				"url": "https://ericgregorich.com/2023/06/09/driving-through-alabama.html",
+				"tags": ["Photos","Notes"]
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2023/06/08/ghost-now-has.html",
+				
+				"content_html": "<p>Ghost now has a <!-- raw HTML omitted -->Chrome extension<!-- raw HTML omitted --> that allows you to bookmark websites to a draft post in your account quickly. This is an excellent feature if you use Ghost to create a curation newsletter. I missed this feature from the Twitters Revue newsletter service.</p>\n",
+				"content_text": "Ghost now has a <a href=\"https://chrome.google.com/webstore/detail/ghost-bookmarker/aakhcgcbiehjpkmhngjjommcdhnobpho?ref=ghost.org\">Chrome extension</a> that allows you to bookmark websites to a draft post in your account quickly. This is an excellent feature if you use Ghost to create a curation newsletter. I missed this feature from the Twitters Revue newsletter service.\n",
+				"date_published": "2023-06-08T09:59:43-04:00",
+				"url": "https://ericgregorich.com/2023/06/08/ghost-now-has.html",
+				"tags": ["Notes","Ghost"]
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2023/06/05/i-have-not.html",
+				
+				"content_html": "<p>I have not watched everything from the Apple Keynote yet.</p>\n<p>Vision Pro looks impressive but still seems ridiculous to wear, especially during the life moments that you don&rsquo;t want to miss.</p>\n<p>To watch through some goggles to record the moment seems over the top. Yet, the result could be pretty sweet.</p>\n",
+				"content_text": "I have not watched everything from the Apple Keynote yet. \n\nVision Pro looks impressive but still seems ridiculous to wear, especially during the life moments that you don't want to miss. \n\nTo watch through some goggles to record the moment seems over the top. Yet, the result could be pretty sweet. \n",
+				"date_published": "2023-06-05T22:34:31-04:00",
+				"url": "https://ericgregorich.com/2023/06/05/i-have-not.html",
+				"tags": ["Notes"]
+			},
+			{
 				"id": "http://ericgregorich.micro.blog/2023/06/02/ive-heard-rumors.html",
 				
 				"content_html": "<p>I&rsquo;ve heard rumors of a Journaling app from Apple.</p>\n<p>I discovered there is a new Shortcut from Apple called <a href=\"https://www.icloud.com/shortcuts/488c2b6ed3024a47bbdfc862a988ecc5\">Remember This</a>.</p>\n<p>The shortcut asks what you want to remember and then if you want to include a photo. It appends your response to a single note for each day.</p>\n<p>I wonder if this is all we&rsquo;re getting?</p>\n",
