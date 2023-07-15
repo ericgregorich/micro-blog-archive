@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://ericgregorich.micro.blog/2023/07/15/this-will-be.html",
+				
+				"content_html": "<p>This will be my view for a few days, right from the bedroom balcony. Hopefully, the weather holds out, and I can drink a few coffees and read some books! Panama City Beach.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "This will be my view for a few days, right from the bedroom balcony. Hopefully, the weather holds out, and I can drink a few coffees and read some books! Panama City Beach. \n\n<img src=\"uploads/2023/63ccf0b412.jpg\" width=\"600\" height=\"450\" alt=\"My view of Panama City Beach from the bedroom balcony. \">\n",
+				"date_published": "2023-07-15T17:16:15-04:00",
+				"url": "https://ericgregorich.com/2023/07/15/this-will-be.html",
+				"tags": ["Photos","My Story"]
+			},
+			{
 				"id": "http://ericgregorich.micro.blog/2023/07/09/im-launching-a.html",
 				"title": "I'm launching a new site \"The Power Architect\"!",
 				"content_html": "<p>In my day job, I develop custom business applications using Microsoft platforms that help businesses become more productive. The last two years have been focused on the Power Platform, Microsoft&rsquo;s low-code solution platform.</p>\n<p>I&rsquo;m creating a new website, The Power Architect, where I will post new content about the platform. Primarily, I&rsquo;ll share solutions for common problems, as well as links to related content from the community. The site is hosted on Ghost.</p>\n<p>I&rsquo;m doing this to help me organize my content, create a collection of solutions and resources, and share them with my team and the wider community.</p>\n<p>If you&rsquo;re interested, please <a href=\"https://thepowerarchitect.com\">check out the site</a> and sign up! I&rsquo;d appreciate any feedback from the Micro.blog community. The site is basic at the moment, but I plan to add at least one new post every week and I&rsquo;m also working on importing an archive of a few posts.</p>\n<!-- raw HTML omitted -->\n",
