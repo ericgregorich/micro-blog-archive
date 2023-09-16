@@ -2,7 +2,7 @@
 <html>
 
   <head>
-	<meta name="generator" content="Hugo 0.91.2" />
+	<meta name="generator" content="Hugo 0.117.0">
 
   <title>
       
@@ -21,6 +21,43 @@
 <div class="h-feed">
 
 	
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://ericgregorich.com/2023/09/10/how-im-using.html">How I&#39;m using Reflect.app (2023-09-10)</a></h1>
+		
+
+		<a href="https://ericgregorich.com/2023/09/10/how-im-using.html" class="u-url"><time class="dt-published" datetime="2023-09-10 11:18:15 -0400">Sep 10, 2023</time></a>
+
+		<div class="e-content">
+			 <p>After many weeks, I continue to use the <a href="http://Reflect.app">Reflect.app</a> as my primary note-taking application. Its simplicity is what attracts me the most. The app doesn&rsquo;t appear to be much more than a notepad, especially in focus mode. However, with features like backlinks, Kindle import, markdown, end-to-end encryption, and built-in GPT-4, I find the app incredibly useful for capturing notes and writing.</p>
+<ul>
+<li>I maintain separate graphs for my work and personal notes.</li>
+<li>The Daily Notes feature has replaced a text file that I previously used as my <a href="https://ericgregorich.com/2022/12/02/i-am-trying.html">Working Memory</a> file.</li>
+<li>I have stopped using Readwise (at least for now) since I now use the <a href="https://chrome.google.com/webstore/detail/reflect/kljfphapkgkjaiiddfmfpbdmeaplojge">Reflect browser extension</a> to highlight webpages and import highlights directly from Kindle.</li>
+<li>I am attempting to use the Voice Transcriber to take audio notes. Although I don&rsquo;t use it frequently, it works flawlessly when I do.</li>
+<li>I use tags sparingly. The default tags for books, links, people, and authors are sufficient for me. I might add some new tags to track drafts, posts, etc.</li>
+<li>I use the AI for grammar checking and formatting. For example, I can write a note that contains backlinks and then run a custom prompt that will strip the backlinks and give me the pure markdown that I can copy and paste into my blog or wiki.</li>
+</ul>
+<p>I don&rsquo;t have a specific &ldquo;system&rdquo; when I Reflect, which suits me perfectly. I can simply capture notes without worrying about organizing them into folders or tags.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://ericgregorich.com/2023/09/09/testing-updates-to.html">Testing updates to the Micro.blog Cards Theme</a></h1>
+		
+
+		<a href="https://ericgregorich.com/2023/09/09/testing-updates-to.html" class="u-url"><time class="dt-published" datetime="2023-09-09 19:23:10 -0400">Sep 9, 2023</time></a>
+
+		<div class="e-content">
+			 <p>I&rsquo;m testing some core changes to the <a href="https://micro.blog/account/plugins/view/82">Cards Theme</a> on my <a href="https://ericgregorich.com">site</a>. I&rsquo;ve updated the theme to support Hugo 0.117 and incorporated the changes to the default Micro.blog themes (thanks to <a href="https://micro.blog/sod">@sod</a>.)</p>
+<p>Things look good on my test site. Next, I&rsquo;m testing on my live site to see if I have any issues before I push the release to the Micro.blog theme directory (maybe tomorrow).</p>
+<p>I also want to work on some UI tweaks and a new feature that shows your tags below your post content. I&rsquo;m still thinking about it. I&rsquo;d appreciate any suggestions you can give me. I wonder if anyone even uses the Cards Theme, to be honest. :)</p>
+
+		</div>
+	  </div>
 	
 	  <div class="h-entry">
 		
@@ -136,18 +173,18 @@
 <p>You can add many additional <a href="https://microformats.org/wiki/h-card#Properties">custom h-card properties</a>.</p>
 <p>Once configured and saved, you can test your h-card from the <a href="https://indiewebify.me/validate-h-card/">indiewebify.me</a> site.</p>
 <p>Here is an example based on what is on my site. Obviously, you&rsquo;ll want to add your own content.</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html">&lt;<span style="color:#f92672">div</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;h-card vcard&#34;</span> <span style="color:#a6e22e">style</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;display:none&#34;</span>&gt; 
-    &lt;<span style="color:#f92672">span</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;p-name&#34;</span>&gt;Your full name&lt;/<span style="color:#f92672">span</span>&gt;
-    &lt;<span style="color:#f92672">span</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;p-given-name&#34;</span>&gt;Your given name&lt;/<span style="color:#f92672">span</span>&gt;
-    &lt;<span style="color:#f92672">abbr</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;p-additional-name&#34;</span>&gt;Your additional name&lt;/<span style="color:#f92672">abbr</span>&gt;
-    &lt;<span style="color:#f92672">span</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;p-family-name&#34;</span>&gt;Your family. name&lt;/<span style="color:#f92672">span</span>&gt;
-    &lt;<span style="color:#f92672">img</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;u-photo&#34;</span> <span style="color:#a6e22e">src</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;url to your profile picture&#34;</span>/&gt;
-    &lt;<span style="color:#f92672">a</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;u-url&#34;</span> <span style="color:#a6e22e">href</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;url to your website&#34;</span>&gt;Website&lt;/<span style="color:#f92672">a</span>&gt;,
-    &lt;<span style="color:#f92672">a</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;u-email&#34;</span> <span style="color:#a6e22e">href</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;mailto:your email address&#34;</span>&gt;Email&lt;/<span style="color:#f92672">a</span>&gt;
-    &lt;<span style="color:#f92672">div</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;p-country-name&#34;</span>&gt;Your country&lt;/<span style="color:#f92672">div</span>&gt;
-    &lt;<span style="color:#f92672">div</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;p-note&#34;</span>&gt;A brief bio about you.&lt;/<span style="color:#f92672">div</span>&gt;
-&lt;/<span style="color:#f92672">div</span>&gt;
-</code></pre></div><p>The key is to define the class values and nest them inside the h-card class. Notice the display: none means my h-card is hidden on the page. You can remove this if you want to display it and change the HTML and CSS to your liking.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>&lt;<span style="color:#f92672">div</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;h-card vcard&#34;</span> <span style="color:#a6e22e">style</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;display:none&#34;</span>&gt; 
+</span></span><span style="display:flex;"><span>    &lt;<span style="color:#f92672">span</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;p-name&#34;</span>&gt;Your full name&lt;/<span style="color:#f92672">span</span>&gt;
+</span></span><span style="display:flex;"><span>    &lt;<span style="color:#f92672">span</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;p-given-name&#34;</span>&gt;Your given name&lt;/<span style="color:#f92672">span</span>&gt;
+</span></span><span style="display:flex;"><span>    &lt;<span style="color:#f92672">abbr</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;p-additional-name&#34;</span>&gt;Your additional name&lt;/<span style="color:#f92672">abbr</span>&gt;
+</span></span><span style="display:flex;"><span>    &lt;<span style="color:#f92672">span</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;p-family-name&#34;</span>&gt;Your family. name&lt;/<span style="color:#f92672">span</span>&gt;
+</span></span><span style="display:flex;"><span>    &lt;<span style="color:#f92672">img</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;u-photo&#34;</span> <span style="color:#a6e22e">src</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;url to your profile picture&#34;</span>/&gt;
+</span></span><span style="display:flex;"><span>    &lt;<span style="color:#f92672">a</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;u-url&#34;</span> <span style="color:#a6e22e">href</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;url to your website&#34;</span>&gt;Website&lt;/<span style="color:#f92672">a</span>&gt;,
+</span></span><span style="display:flex;"><span>    &lt;<span style="color:#f92672">a</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;u-email&#34;</span> <span style="color:#a6e22e">href</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;mailto:your email address&#34;</span>&gt;Email&lt;/<span style="color:#f92672">a</span>&gt;
+</span></span><span style="display:flex;"><span>    &lt;<span style="color:#f92672">div</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;p-country-name&#34;</span>&gt;Your country&lt;/<span style="color:#f92672">div</span>&gt;
+</span></span><span style="display:flex;"><span>    &lt;<span style="color:#f92672">div</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;p-note&#34;</span>&gt;A brief bio about you.&lt;/<span style="color:#f92672">div</span>&gt;
+</span></span><span style="display:flex;"><span>&lt;/<span style="color:#f92672">div</span>&gt;
+</span></span></code></pre></div><p>The key is to define the class values and nest them inside the h-card class. Notice the display: none means my h-card is hidden on the page. You can remove this if you want to display it and change the HTML and CSS to your liking.</p>
 
 		</div>
 	  </div>
@@ -235,14 +272,14 @@
 			 <p>🖋️ I received the second edition of the Time Block Planner <sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>. The paper quality is great, and the planner features a spiral binder, allowing it to lay flat.</p>
 <p>Plan your day and adjust your time blocks as you go. Jot down anything that comes up. I prefer doing this on paper.</p>
 <!-- raw HTML omitted -->
-<section class="footnotes" role="doc-endnotes">
+<div class="footnotes" role="doc-endnotes">
 <hr>
 <ol>
-<li id="fn:1" role="doc-endnote">
+<li id="fn:1">
 <p><a href="https://www.timeblockplanner.com">The Time Block Planner</a> was created by Cal Newport as a tool to help implement his time blocking method on paper.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 </ol>
-</section>
+</div>
 
 		</div>
 	  </div>
@@ -408,11 +445,11 @@
 <li>Publish the file to Obsidian Publish.</li>
 <li>Test!</li>
 </ol>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-js" data-lang="js"><span style="color:#66d9ef">var</span> <span style="color:#a6e22e">tinylyticsScript</span> <span style="color:#f92672">=</span> document.<span style="color:#a6e22e">createElement</span>(<span style="color:#e6db74">&#39;script&#39;</span>);
-<span style="color:#a6e22e">tinylyticsScript</span>.<span style="color:#a6e22e">defer</span> <span style="color:#f92672">=</span> <span style="color:#66d9ef">true</span>;
-<span style="color:#a6e22e">tinylyticsScript</span>.<span style="color:#a6e22e">src</span> <span style="color:#f92672">=</span> <span style="color:#e6db74">&#39;https://tinylytics.app/embed/YOUREMBEDCODE.js&#39;</span>;
-document.<span style="color:#a6e22e">head</span>.<span style="color:#a6e22e">appendChild</span>(<span style="color:#a6e22e">tinylyticsScript</span>);
-</code></pre></div>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-js" data-lang="js"><span style="display:flex;"><span><span style="color:#66d9ef">var</span> <span style="color:#a6e22e">tinylyticsScript</span> <span style="color:#f92672">=</span> document.<span style="color:#a6e22e">createElement</span>(<span style="color:#e6db74">&#39;script&#39;</span>);
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">tinylyticsScript</span>.<span style="color:#a6e22e">defer</span> <span style="color:#f92672">=</span> <span style="color:#66d9ef">true</span>;
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">tinylyticsScript</span>.<span style="color:#a6e22e">src</span> <span style="color:#f92672">=</span> <span style="color:#e6db74">&#39;https://tinylytics.app/embed/YOUREMBEDCODE.js&#39;</span>;
+</span></span><span style="display:flex;"><span>document.<span style="color:#a6e22e">head</span>.<span style="color:#a6e22e">appendChild</span>(<span style="color:#a6e22e">tinylyticsScript</span>);
+</span></span></code></pre></div>
 		</div>
 	  </div>
 	
@@ -718,23 +755,23 @@ document.<span style="color:#a6e22e">head</span>.<span style="color:#a6e22e">app
 <p>An ideal inhalation engages the entire rib cage and abdomen simultaneously.</p>
 <h2 id="mental-health">Mental Health</h2>
 <p>Investigate Dialectical Behavior Therapy (DBT), a therapeutic approach designed to help people process trauma. It can also be beneficial for those with less severe emotional health concerns. <sup id="fnref:4"><a href="#fn:4" class="footnote-ref" role="doc-noteref">4</a></sup></p>
-<section class="footnotes" role="doc-endnotes">
+<div class="footnotes" role="doc-endnotes">
 <hr>
 <ol>
-<li id="fn:1" role="doc-endnote">
+<li id="fn:1">
 <p><a href="https://www.youtube.com/watch?v=aYzWHsWz_Oo">Why strength &amp; stability are essential for longevity | Peter Attia, M.D. &amp; Beth Lewis</a>&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
-<li id="fn:2" role="doc-endnote">
+<li id="fn:2">
 <p><a href="https://www.youtube.com/watch?v=N2e9CVfC9cY">Dynamic Neuromuscular Stabilization (DNS) | Peter Attia, M.D. &amp; Beth Lewis</a>&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
-<li id="fn:3" role="doc-endnote">
+<li id="fn:3">
 <p><a href="https://youtu.be/orJa62raA4w?t=60">Why Diet WON’T Increase Your Lifespan! (LONGEVITY MYTHS) | Peter Attia</a>&#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
-<li id="fn:4" role="doc-endnote">
+<li id="fn:4">
 <p><a href="https://youtu.be/iQEurMdJtds">What a Dialectical Behavior Therapy (DBT) Session Looks Like</a>&#160;<a href="#fnref:4" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 </ol>
-</section>
+</div>
 
 		</div>
 	  </div>
@@ -832,7 +869,7 @@ document.<span style="color:#a6e22e">head</span>.<span style="color:#a6e22e">app
 
 		<div class="e-content">
 			 <p>The <a href="https://apps.apple.com/us/app/snipd-smart-podcast-player/id1557206126" title="Snipd">Snipd</a> podcast app has a snipping and AI component that makes it ideal for capturing and sharing the information you obtain from podcasts.</p>
-<p>You can even sync to Readwise and share to other services. I&rsquo;ve been capturing and saving to my bookmarks' manager, so I can reference clips later.</p>
+<p>You can even sync to Readwise and share to other services. I&rsquo;ve been capturing and saving to my bookmarks&rsquo; manager, so I can reference clips later.</p>
 
 		</div>
 	  </div>
@@ -1411,45 +1448,45 @@ document.<span style="color:#a6e22e">head</span>.<span style="color:#a6e22e">app
 <p>Hugo’s <a href="https://gohugo.io/functions/symdiff/">symdiff</a> function returns the symmetric difference between two collections. That’s just a fancy way to say: “give me the things that are in either of these collections but not in both.” - <a href="https://help.micro.blog/u/sod">@sod</a></p>
 </blockquote>
 <p>These lines handle the filtering. Replace “Micro Posts” with the name of the category you want to exclude.</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html">{{ $posts := where site.Pages &#34;Type&#34; &#34;post&#34; }}
-{{ $hidden_posts := where $posts &#34;Params.categories&#34; &#34;intersect&#34; (slice &#34;Micro Posts&#34;) }}
-{{ $posts = $posts | symdiff $hidden_posts }}
-</code></pre></div><p>Next, if we want to continue to use Pagination on the home page, we’ll need to call the Paginate function and pass in the $posts variable created above it.</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html">{{ $paginator := .Paginate $posts }}
-</code></pre></div><p>Then we pass the $paginator variable into the range function, which will iterate the posts.</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html">{{ $paginator := .Paginate $posts }}
-</code></pre></div><p>Here is the full code for my <strong>/layouts/index.html</strong> template.</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html">{{ define &#34;main&#34; }}
-&lt;<span style="color:#f92672">div</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;home h-feed&#34;</span>&gt;
-  &lt;<span style="color:#f92672">ul</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;post-list&#34;</span>&gt;
-    {{ $posts := where site.Pages &#34;Type&#34; &#34;post&#34; }}
-    {{ $hidden_posts := where $posts &#34;Params.categories&#34; &#34;intersect&#34; (slice &#34;Micro Posts&#34;) }}
-    {{ $posts = $posts | symdiff $hidden_posts }}
-    {{ $paginator := .Paginate $posts }}
-    {{ range $paginator.Pages }}
-    &lt;<span style="color:#f92672">li</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;post-list-item&#34;</span>&gt;
-      &lt;<span style="color:#f92672">div</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;post-list-item-title&#34;</span>&gt;&lt;<span style="color:#f92672">a</span> <span style="color:#a6e22e">href</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;{{ .Permalink }}&#34;</span>&gt;{{ .Title }}&lt;/<span style="color:#f92672">a</span>&gt;&lt;/<span style="color:#f92672">div</span>&gt;
-      &lt;<span style="color:#f92672">div</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;post-list-item-date&#34;</span>&gt;
-        &lt;<span style="color:#f92672">time</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;dt-published&#34;</span><span style="color:#a6e22e">datetime</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;{{ .Date.Format &#34;</span> <span style="color:#a6e22e">2006-01-02</span> <span style="color:#a6e22e">15:04:05</span> <span style="color:#a6e22e">-0700</span><span style="color:#960050;background-color:#1e0010">&#34;</span> <span style="color:#960050;background-color:#1e0010">}}&#34;</span>&gt;{{ .Date.Format &#34;Jan 2, 2006&#34;}}&lt;/<span style="color:#f92672">time</span>&gt;
-      &lt;/<span style="color:#f92672">div</span>&gt;
-      &lt;<span style="color:#f92672">div</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;post-list-item-content&#34;</span>&gt;
-        &lt;<span style="color:#f92672">p</span>&gt;{{ .Summary | truncate 300 }} &lt;<span style="color:#f92672">a</span> <span style="color:#a6e22e">href</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;{{ .Permalink }}&#34;</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;continue-link&#34;</span>&gt;read more&lt;/<span style="color:#f92672">a</span>&gt;&lt;/<span style="color:#f92672">p</span>&gt;
-      &lt;/<span style="color:#f92672">div</span>&gt;
-    &lt;/<span style="color:#f92672">li</span>&gt;
-  &lt;/<span style="color:#f92672">ul</span>&gt;
-
-&lt;/<span style="color:#f92672">div</span>&gt;
-&lt;<span style="color:#f92672">div</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;pagination&#34;</span>&gt;
-  {{ if .IsHome }}
-  {{ if .Site.Params.paginate_home }}
-  {{ partial &#34;pagination&#34; . }}
-  {{ end }}
-  {{ else if .Site.Params.paginate_categories }}
-  {{ partial &#34;pagination&#34; . }}
-  {{ end }}
-&lt;/<span style="color:#f92672">div</span>&gt;
-{{ end }}
-</code></pre></div>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>{{ $posts := where site.Pages &#34;Type&#34; &#34;post&#34; }}
+</span></span><span style="display:flex;"><span>{{ $hidden_posts := where $posts &#34;Params.categories&#34; &#34;intersect&#34; (slice &#34;Micro Posts&#34;) }}
+</span></span><span style="display:flex;"><span>{{ $posts = $posts | symdiff $hidden_posts }}
+</span></span></code></pre></div><p>Next, if we want to continue to use Pagination on the home page, we’ll need to call the Paginate function and pass in the $posts variable created above it.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>{{ $paginator := .Paginate $posts }}
+</span></span></code></pre></div><p>Then we pass the $paginator variable into the range function, which will iterate the posts.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>{{ $paginator := .Paginate $posts }}
+</span></span></code></pre></div><p>Here is the full code for my <strong>/layouts/index.html</strong> template.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>{{ define &#34;main&#34; }}
+</span></span><span style="display:flex;"><span>&lt;<span style="color:#f92672">div</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;home h-feed&#34;</span>&gt;
+</span></span><span style="display:flex;"><span>  &lt;<span style="color:#f92672">ul</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;post-list&#34;</span>&gt;
+</span></span><span style="display:flex;"><span>    {{ $posts := where site.Pages &#34;Type&#34; &#34;post&#34; }}
+</span></span><span style="display:flex;"><span>    {{ $hidden_posts := where $posts &#34;Params.categories&#34; &#34;intersect&#34; (slice &#34;Micro Posts&#34;) }}
+</span></span><span style="display:flex;"><span>    {{ $posts = $posts | symdiff $hidden_posts }}
+</span></span><span style="display:flex;"><span>    {{ $paginator := .Paginate $posts }}
+</span></span><span style="display:flex;"><span>    {{ range $paginator.Pages }}
+</span></span><span style="display:flex;"><span>    &lt;<span style="color:#f92672">li</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;post-list-item&#34;</span>&gt;
+</span></span><span style="display:flex;"><span>      &lt;<span style="color:#f92672">div</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;post-list-item-title&#34;</span>&gt;&lt;<span style="color:#f92672">a</span> <span style="color:#a6e22e">href</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;{{ .Permalink }}&#34;</span>&gt;{{ .Title }}&lt;/<span style="color:#f92672">a</span>&gt;&lt;/<span style="color:#f92672">div</span>&gt;
+</span></span><span style="display:flex;"><span>      &lt;<span style="color:#f92672">div</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;post-list-item-date&#34;</span>&gt;
+</span></span><span style="display:flex;"><span>        &lt;<span style="color:#f92672">time</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;dt-published&#34;</span><span style="color:#a6e22e">datetime</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;{{ .Date.Format &#34;</span> <span style="color:#a6e22e">2006-01-02</span> <span style="color:#a6e22e">15:04:05</span> <span style="color:#a6e22e">-0700</span><span style="color:#960050;background-color:#1e0010">&#34;</span> <span style="color:#960050;background-color:#1e0010">}}&#34;</span>&gt;{{ .Date.Format &#34;Jan 2, 2006&#34;}}&lt;/<span style="color:#f92672">time</span>&gt;
+</span></span><span style="display:flex;"><span>      &lt;/<span style="color:#f92672">div</span>&gt;
+</span></span><span style="display:flex;"><span>      &lt;<span style="color:#f92672">div</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;post-list-item-content&#34;</span>&gt;
+</span></span><span style="display:flex;"><span>        &lt;<span style="color:#f92672">p</span>&gt;{{ .Summary | truncate 300 }} &lt;<span style="color:#f92672">a</span> <span style="color:#a6e22e">href</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;{{ .Permalink }}&#34;</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;continue-link&#34;</span>&gt;read more&lt;/<span style="color:#f92672">a</span>&gt;&lt;/<span style="color:#f92672">p</span>&gt;
+</span></span><span style="display:flex;"><span>      &lt;/<span style="color:#f92672">div</span>&gt;
+</span></span><span style="display:flex;"><span>    &lt;/<span style="color:#f92672">li</span>&gt;
+</span></span><span style="display:flex;"><span>  &lt;/<span style="color:#f92672">ul</span>&gt;
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>&lt;/<span style="color:#f92672">div</span>&gt;
+</span></span><span style="display:flex;"><span>&lt;<span style="color:#f92672">div</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;pagination&#34;</span>&gt;
+</span></span><span style="display:flex;"><span>  {{ if .IsHome }}
+</span></span><span style="display:flex;"><span>  {{ if .Site.Params.paginate_home }}
+</span></span><span style="display:flex;"><span>  {{ partial &#34;pagination&#34; . }}
+</span></span><span style="display:flex;"><span>  {{ end }}
+</span></span><span style="display:flex;"><span>  {{ else if .Site.Params.paginate_categories }}
+</span></span><span style="display:flex;"><span>  {{ partial &#34;pagination&#34; . }}
+</span></span><span style="display:flex;"><span>  {{ end }}
+</span></span><span style="display:flex;"><span>&lt;/<span style="color:#f92672">div</span>&gt;
+</span></span><span style="display:flex;"><span>{{ end }}
+</span></span></code></pre></div>
 		</div>
 	  </div>
 	
@@ -1575,7 +1612,7 @@ document.<span style="color:#a6e22e">head</span>.<span style="color:#a6e22e">app
 		<div class="e-content">
 			 <p><a href="https://www.sahilbloom.com/newsletter/energy-calendars-how-to-negotiate-more">Ultimate Calendar Hack, How to Negotiate. &amp; More</a></p>
 <blockquote>
-<p>At the end of every weekday, I go through and color-code my calendar from the day that just finished. 
+<p>At the end of every weekday, I go through and color-code my calendar from the day that just finished.
 Green = Energy Creating Yellow = Neutral Red = Energy Draining. I don’t spend too much time thinking about which bucket each item fell into—I try to trust my gut.</p>
 </blockquote>
 <p>I like this idea of color coding the calendar to show what gives you energy vs. what drains your energy. It could be a great way to work on balancing things out. I&rsquo;m not sure I&rsquo;ll do it, but I&rsquo;ll keep it in mind.</p>
