@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://ericgregorich.micro.blog/2023/10/19/obsidian-importer-can.html",
+				"title": "Obsidian importer can confer your notes to local markdown",
+				"content_html": "<p>The <a href=\"https://help.obsidian.md/import\">Obsidian Importer</a> is an open-source tool that can convert notes from various applications into local markdown files.</p>\n<p>Apps currently supported include Notion, Evernote, Bear, Apple Notes, Google Keep, Microsoft OneNote, and Roam Research.</p>\n<p>Additional guides are provided for other apps.</p>\n",
+				"content_text": "The [Obsidian Importer](https://help.obsidian.md/import) is an open-source tool that can convert notes from various applications into local markdown files. \n\nApps currently supported include Notion, Evernote, Bear, Apple Notes, Google Keep, Microsoft OneNote, and Roam Research.  \n\nAdditional guides are provided for other apps. \n",
+				"date_published": "2023-10-19T18:51:48-04:00",
+				"url": "https://ericgregorich.com/2023/10/19/obsidian-importer-can.html"
+			},
+			{
 				"id": "http://ericgregorich.micro.blog/2023/10/14/smaller-rocks-matter.html",
 				"title": "Smaller Rocks Matter: Rethinking Time Blocking",
 				"content_html": "<p>When blocking time on our calendar, we often schedule our ideal day, incorporating ample time to handle the significant tasks we plan to complete.</p>\n<p>Scheduling these major tasks is a crucial aspect of time blocking, but we must not overlook the necessity of allocating time for checking emails, responding to messages, and performing other administrative tasks.</p>\n<p>If we don&rsquo;t set aside time for these admin tasks, they will either remain undone and accumulate, or they will become &ldquo;urgent&rdquo; matters that we end up addressing during the day instead of our scheduled tasks.</p>\n<p>As Stephen R. Covey stated, you should add your big rocks first, then the smaller rocks and the pebbles will fill what remains.</p>\n<p>If we forget about the smaller rocks, they tend become boulders .</p>\n",
