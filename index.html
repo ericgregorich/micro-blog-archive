@@ -25,6 +25,18 @@
 	  <div class="h-entry">
 		
 
+		<a href="https://blog.ericgregorich.com/2023/11/27/im-about-to.html" class="u-url"><time class="dt-published" datetime="2023-11-27 13:21:22 -0500">Nov 27, 2023</time></a>
+
+		<div class="e-content">
+			 <p>I&rsquo;m about to experiment with <a href="https://ktool.io/">KTool</a>, which will send my RSS, and newsletters to my Kindle for reading later. I just purchased a Kindle Scribe, so the timing is perfect.</p>
+<p>I have a couple of custom &ldquo;magazines&rdquo; setup with several blog feeds and forwarded newsleters. I should get a &ldquo;Daily Read&rdquo; for each.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
 		<a href="https://blog.ericgregorich.com/2023/11/26/cars-we-probably.html" class="u-url"><time class="dt-published" datetime="2023-11-26 15:16:14 -0500">Nov 26, 2023</time></a>
 
 		<div class="e-content">
@@ -1763,7 +1775,7 @@
 
 		<div class="e-content">
 			 <p>The temperature is in that zone where my house is either too hot or too cold, and we must switch between heat and air to make it bearable.</p>
-<p><img src="https://cdn.uploads.micro.blog/81720/2023/43629c6442.jpg" alt=""></p>
+<p><img src="https://blog.ericgregorich.com/uploads/2023/43629c6442.jpg" alt=""></p>
 
 		</div>
 	  </div>
@@ -2581,23 +2593,23 @@ https://{yourblogurl}.com/categories/{category}/feed.json
 <h2 id="example">Example</h2>
 <p>The following example involves setting up a new Power Automate workflow triggered when a user starts the workflow from the SharePoint list. The workflow will check if the &ldquo;President&rdquo; column is empty and update the &ldquo;Is Empty&rdquo; column with the result.  </p>
 <h3 id="create-a-sharepoint-list">Create a SharePoint List</h3>
-<p><img src="https://cdn.uploads.micro.blog/81720/2023/demo-list.png" alt="We can check the demo list with a column for an empty value and a column to show the result."></p>
+<p><img src="https://blog.ericgregorich.com/uploads/2023/demo-list.png" alt="We can check the demo list with a column for an empty value and a column to show the result."></p>
 <ul>
 <li>Create a new SharePoint list. This demo uses the default Title column and a choice column called <strong>President</strong> and a Boolean column called &ldquo;Is Empty.&rdquo; </li>
 <li>Add some sample data. Leave the President column blank for some items.</li>
 </ul>
 <h3 id="create-a-power-automate-flow">Create a Power Automate Flow</h3>
-<p><img src="https://cdn.uploads.micro.blog/81720/2023/power-automate-flow.png" alt="An overview of our workflow."></p>
+<p><img src="https://blog.ericgregorich.com/uploads/2023/power-automate-flow.png" alt="An overview of our workflow."></p>
 <ul>
 <li>Create a new Power Automate Automated Cloud Flow. Select <strong>For a selected item</strong> as the trigger action. Select your SharePoint site and list in this action.</li>
 <li>Add the <strong>Get Item</strong> action and configure it to retrieve the selected item from the list. This step is necessary to retrieve all the columns so we can use them in the workflow. Set the ID to the ID of the For a Selected Item trigger.</li>
 <li>Add the <strong>Initialize Variable</strong> action. We want to use the <strong>empty()</strong> function with our President column in the Value. The full expression is <strong>empty(outputs(&lsquo;Get_item&rsquo;)?[&lsquo;body/President/Value&rsquo;])</strong>. </li>
 </ul>
-<p><img src="https://cdn.uploads.micro.blog/81720/2023/overview-1.png" alt="The empty() expression in a variable."></p>
+<p><img src="https://blog.ericgregorich.com/uploads/2023/overview-1.png" alt="The empty() expression in a variable."></p>
 <ul>
 <li>Add an Update Item action that is pointed to your list and set the Is Empty column. </li>
 </ul>
-<p><img src="https://cdn.uploads.micro.blog/81720/2023/overview-2.png" alt="Set our Is Empty column to the variable that we created."></p>
+<p><img src="https://blog.ericgregorich.com/uploads/2023/overview-2.png" alt="Set our Is Empty column to the variable that we created."></p>
 <ul>
 <li>Save the workflow.</li>
 </ul>
@@ -2605,12 +2617,12 @@ https://{yourblogurl}.com/categories/{category}/feed.json
 <ul>
 <li>Now, go back to your list and select an item with an empty President value. Under the Automate menu, you should see your workflow listed (it may take a few seconds to load). Please select it and run the workflow.</li>
 </ul>
-<p><img src="https://cdn.uploads.micro.blog/81720/2023/test-workflow-1.png" alt="Run our Power Automate workflow after selecting an item."></p>
+<p><img src="https://blog.ericgregorich.com/uploads/2023/test-workflow-1.png" alt="Run our Power Automate workflow after selecting an item."></p>
 <ul>
 <li>Refresh your list after a few seconds; the <strong>Is Empty</strong> column should be <strong>checked</strong>. </li>
 <li>Try running the workflow on a row that has a President selected. The <strong>Is Empty</strong>should <strong>not be checked</strong>.</li>
 </ul>
-<p><img src="https://cdn.uploads.micro.blog/81720/2023/test-workflow-results.png" alt="Our Is Empty column is now checked."></p>
+<p><img src="https://blog.ericgregorich.com/uploads/2023/test-workflow-results.png" alt="Our Is Empty column is now checked."></p>
 <ul>
 <li>Open the workflow that you ran. You can see the variable we created resulted in <strong>True</strong> when the column was empty and <strong>False</strong> when it was not empty.</li>
 </ul>
@@ -3073,6 +3085,33 @@ https://{yourblogurl}.com/categories/{category}/feed.json
 	
 	  <div class="h-entry">
 		
+			<h1><a href="https://blog.ericgregorich.com/2022/12/01/adding-web-signin.html">Adding Web Sign-In to your Micro.blog site</a></h1>
+		
+
+		<a href="https://blog.ericgregorich.com/2022/12/01/adding-web-signin.html" class="u-url"><time class="dt-published" datetime="2022-12-01 09:00:00 -0500">Dec 1, 2022</time></a>
+
+		<div class="e-content">
+			 <p><a href="https://indieauth.com" title="IndieAuth">IndieAuth</a> allows you to log into supporting websites using your domain as authentication. It offers a decentralized authentication process, enabling you to sign in without creating a new account.</p>
+<p>If you use your domain for your Micro.blog site, you can set up <a href="https://indieweb.org/How_to_set_up_web_sign-in_on_your_own_domain" title="web sign-in">web sign-in</a> with it. This will allow you to log into websites that support IndieAuth.</p>
+<h2 id="configuring-your-links">Configuring your links</h2>
+<p>This consists of adding links to your themes layouts/partials/head.html page, each with a rel=“me” tag.</p>
+<p>Micro.blog handles Twitter, Github, and Instagram out of the box. You can update your username for these three default services from your <a href="https://micro.blog/account/apps">Micro.blog account</a>. Once added, if you look at the source of our blog, you’ll see the links as follows:</p>
+<pre><code>&lt;link rel=&quot;me&quot; href=&quot;https://twitter.com/yourusername”  /&gt;
+&lt;link rel=&quot;me&quot; href=&quot;https://github.com/yourusername&quot; /&gt; 
+</code></pre>
+<p>If you want to add more services, use the <a href="https://micro.blog/account/plugins/view/80" title="Meta tags">Meta tags plugin-in for Micro.blog</a> by <a href="https://micro.blog/manton">@manton</a>. Install the plug-in, open the settings, and add your custom links, as shown here. Add as many as you need, one per line.</p>
+<pre><code>&lt;link rel=&quot;me&quot; href=&quot;https://{the site url}&quot;/&gt;
+</code></pre>
+<h2 id="validate-your-links">Validate your links</h2>
+<p>Finally, validate on <a href="https://indiewebify.me/validate-rel-me">IndieWebify.me</a>. The validation will show you which URLs are set up on your site and if those URLs link back to your site.</p>
+<h2 id="testing-your-links">Testing your links</h2>
+<p>You can now go to <a href="https://indielogin.com/" title="Indielogin.com">IndieLogin.com</a> and enter your domain name to sign in. It will redirect you to the Micro.blog, where you’re prompted to approve the access request. You’ll be logged into the indieweb.org site using your domain if successful!</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
 
 		<a href="https://blog.ericgregorich.com/2022/11/28/i-finally-published.html" class="u-url"><time class="dt-published" datetime="2022-11-28 18:04:15 -0500">Nov 28, 2022</time></a>
 
@@ -3443,7 +3482,7 @@ https://{yourblogurl}.com/categories/{category}/feed.json
 		<div class="e-content">
 			 <p>I’m one to keep trying new phone cases to change things up (it drives my wife crazy). It’s better than buying a new phone. Right? My current phone case is by <a href="https://amzn.to/3TTzhoK" title="Peak Design">Peak Design</a>, and I’m enjoying it so far.</p>
 <p>A great feel, no fingerprints, a strong magnet, and decent protection.</p>
-<p><img src="https://cdn.uploads.micro.blog/81720/2022/b14cd334ba.jpg" alt="Peak Design iPhone Case"></p>
+<p><img src="https://blog.ericgregorich.com/uploads/2022/b14cd334ba.jpg" alt="Peak Design iPhone Case"></p>
 
 		</div>
 	  </div>
