@@ -1,11 +1,83 @@
 {
 	"version": "https://jsonfeed.org/version/1",
-	"title": "Eric's Blog",
+	"title": "Eric Gregorich",
 	"icon": "https://micro.blog/ericgregorich/avatar.jpg",
 	"home_page_url": "https://blog.ericgregorich.com/",
 	"feed_url": "https://blog.ericgregorich.com/feed.json",
 	"items": [
 		
+			{
+				"id": "http://ericgregorich.micro.blog/2023/12/10/dont-allow-ai.html",
+				"title": "Don’t allow AI to take over your knowledge management",
+				"content_html": "<p>Curtis Mchale writes about <a href=\"https://curtismchale.ca/2023/12/10/the-state-of-notetaking-for-2024-pkm-weekly-issue-100/?utm_source=mailpoet&amp;utm_medium=email&amp;utm_campaign=newsletter-post-title_35\">The State of Notetaking for 2024 – PKM Weekly Issue 100.</a></p>\n<blockquote>\n<p>I think that the appeal of AI hits the same chord for many people looking at their notes. They want to have neatly compiled notes with clearly thought-out ideas that resonate with others. They want to be done with the hard work of writing their ideas down poorly 20,000 times until they come up with a single good idea that they can run with.</p>\n</blockquote>\n<blockquote>\n<p>People figure AI will do this for them, but if your notes are crap to begin with, the output of any AI will also be crap.</p>\n</blockquote>\n<p>This is a good reminder that while many apps are gaining AI superpowers, the LLMs can’t replace our thinking and ideas. Sure, they can help spark ideas and maybe some other use cases, but they won’t do the hard work for you. Especially when it comes to personal knowledge management. What’s the point of handling over your learning to AI? The real learning comes from doing the work to understand something and how it relates to other things, not by letting some software do it for you.</p>\n",
+				"content_text": "Curtis Mchale writes about [The State of Notetaking for 2024 – PKM Weekly Issue 100.](https://curtismchale.ca/2023/12/10/the-state-of-notetaking-for-2024-pkm-weekly-issue-100/?utm_source=mailpoet&utm_medium=email&utm_campaign=newsletter-post-title_35) \n\n> I think that the appeal of AI hits the same chord for many people looking at their notes. They want to have neatly compiled notes with clearly thought-out ideas that resonate with others. They want to be done with the hard work of writing their ideas down poorly 20,000 times until they come up with a single good idea that they can run with.\n\n> People figure AI will do this for them, but if your notes are crap to begin with, the output of any AI will also be crap.\n\nThis is a good reminder that while many apps are gaining AI superpowers, the LLMs can’t replace our thinking and ideas. Sure, they can help spark ideas and maybe some other use cases, but they won’t do the hard work for you. Especially when it comes to personal knowledge management. What’s the point of handling over your learning to AI? The real learning comes from doing the work to understand something and how it relates to other things, not by letting some software do it for you. \n\n",
+				"date_published": "2023-12-10T15:25:35-05:00",
+				"url": "https://blog.ericgregorich.com/2023/12/10/dont-allow-ai.html",
+				"tags": ["Quotes"]
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2023/12/10/im-still-using.html",
+				"title": "I’m still using Ulysses for writing and notes",
+				"content_html": "<p>After giving iA Writer another brief go, I’m sticking with Ulysses.</p>\n<p>Ulysses has a customizable writing experience, handles images well, has built-in grammar tools, and, most importantly, has seamless publishing to Micro.blog, where my sites are hosted.</p>\n<p>These reasons make Ulysses the easiest to open up on mobile (which I’m doing now) or the Mac and start writing. If it’s something I want to share, I hit publish.</p>\n<p>I’ve also tried Obsidian, Typora, and Reflect. Each has some excellent features, but from a writing and publishing perspective, none are as simple and reliable as Ulysses.</p>\n<p>My biggest issue is that Ulysses is Mac and iOS only. If I want to write a blog post for <a href=\"https://thepowerarchitect.com\" title=\"The Power Architect\">The Power Architect</a>, I must do it from my Mac. Maybe that’s a better experience anyway.</p>\n<p>As far as notes go, I’ve been dumping private notes into Apple Notes and everything else into Ulysses. Much of it gets posted to my blog. I’m not a big note taker lately.</p>\n",
+				"content_text": "After giving iA Writer another brief go, I’m sticking with Ulysses. \n\nUlysses has a customizable writing experience, handles images well, has built-in grammar tools, and, most importantly, has seamless publishing to Micro.blog, where my sites are hosted. \n\nThese reasons make Ulysses the easiest to open up on mobile (which I’m doing now) or the Mac and start writing. If it’s something I want to share, I hit publish. \n\nI’ve also tried Obsidian, Typora, and Reflect. Each has some excellent features, but from a writing and publishing perspective, none are as simple and reliable as Ulysses. \n\nMy biggest issue is that Ulysses is Mac and iOS only. If I want to write a blog post for [The Power Architect](https://thepowerarchitect.com \"The Power Architect\"), I must do it from my Mac. Maybe that’s a better experience anyway. \n\nAs far as notes go, I’ve been dumping private notes into Apple Notes and everything else into Ulysses. Much of it gets posted to my blog. I’m not a big note taker lately. \n\n",
+				"date_published": "2023-12-10T15:08:37-05:00",
+				"url": "https://blog.ericgregorich.com/2023/12/10/im-still-using.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2023/12/10/i-tweaked-my.html",
+				"title": "I tweaked my blog theme (again)",
+				"content_html": "<p>My blog still uses my <a href=\"https://micro.blog/account/plugins/view/82\">Cards Theme</a>, but I made a copy of the CSS and made some tweaks to try a make my site a bit more unique.</p>\n<p>I love the look of the light grey background and the white and grey gradient of the cards. Looking back, I think it was inspired by iA Writer a bit.</p>\n<p>I minimized the shadow of the cards, tweaked the fonts to hopefully make it more legible, and I’m playing with a cursive font for the post headings.</p>\n<p>A change to the header would be nice, but I would rather not spend more time on it today.</p>\n<p>Any suggestions?</p>\n",
+				"content_text": "My blog still uses my [Cards Theme](https://micro.blog/account/plugins/view/82), but I made a copy of the CSS and made some tweaks to try a make my site a bit more unique.\n\nI love the look of the light grey background and the white and grey gradient of the cards. Looking back, I think it was inspired by iA Writer a bit.\n\nI minimized the shadow of the cards, tweaked the fonts to hopefully make it more legible, and I’m playing with a cursive font for the post headings.\n\nA change to the header would be nice, but I would rather not spend more time on it today.\n\nAny suggestions?\n\n",
+				"date_published": "2023-12-10T09:25:04-05:00",
+				"url": "https://blog.ericgregorich.com/2023/12/10/i-tweaked-my.html",
+				"tags": ["Updates"]
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2023/12/09/godzilla-minus-one.html",
+				
+				"content_html": "<p>🍿 <a href=\"https://www.themoviedb.org/movie/940721\">Godzilla Minus One (2023)</a> - ★★★★★</p>\n<p>Great movie. This time you feel for the humans and want to see Godzilla be defeated.</p>\n",
+				"content_text": "🍿 [Godzilla Minus One (2023)](https://www.themoviedb.org/movie/940721) - ★★★★★\r\n\r\nGreat movie. This time you feel for the humans and want to see Godzilla be defeated. \n",
+				"date_published": "2023-12-09T20:06:32-05:00",
+				"url": "https://blog.ericgregorich.com/2023/12/09/godzilla-minus-one.html",
+				"tags": ["Movies"]
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2023/12/08/mutt-a-textonly.html",
+				"title": "Mutt — A text-only email client",
+				"content_html": "<p>I don’t recall how I stumbled upon this. <a href=\"http://www.mutt.org/\" title=\"Mutt\">Mutt</a> is a text-based email client.</p>\n<p>Not for me, but I thought it was interesting nonetheless.</p>\n<p>There is a <a href=\"https://gitlab.com/muttmua/mutt/-/wikis/home\" title=\"Wiki\">Wiki</a> with additional information and guides for getting started.</p>\n<p><img src=\"http://www.mutt.org/screenshots/pager.gif\" alt=\"\"></p>\n",
+				"content_text": "I don’t recall how I stumbled upon this. [Mutt](http://www.mutt.org/ \"Mutt\") is a text-based email client. \n\nNot for me, but I thought it was interesting nonetheless.\n\nThere is a [Wiki](https://gitlab.com/muttmua/mutt/-/wikis/home \"Wiki\") with additional information and guides for getting started.\n\n![](http://www.mutt.org/screenshots/pager.gif)\n\n\n",
+				"date_published": "2023-12-08T17:59:12-05:00",
+				"url": "https://blog.ericgregorich.com/2023/12/08/mutt-a-textonly.html",
+				"tags": ["Links"]
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2023/12/08/ia-writer-paper.html",
+				"title": "iA Writer Paper Notebook?",
+				"content_html": "<p>If you love iA Writer but prefer to use paper, you may be in luck. The iA blog has a post about the <a href=\"https://ia.net/topics/ia-writer-in-paper\" title=\"iA Writer Notebook\">iA Writer notebook</a>, which is being introduced this holiday season.</p>\n<p>I can imagine this thing would be extremely expensive.</p>\n",
+				"content_text": "If you love iA Writer but prefer to use paper, you may be in luck. The iA blog has a post about the [iA Writer notebook](https://ia.net/topics/ia-writer-in-paper \"iA Writer Notebook\"), which is being introduced this holiday season.\n\nI can imagine this thing would be extremely expensive.\n\n",
+				"date_published": "2023-12-08T16:39:25-05:00",
+				"url": "https://blog.ericgregorich.com/2023/12/08/ia-writer-paper.html",
+				"tags": ["Links"]
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2023/12/07/avatars-in-pixels.html",
+				"title": "Avatars in Pixels",
+				"content_html": "<p><a href=\"https://www.avatarsinpixels.com/\">Avatars in Pixels</a> is a fun and free tool that lets you create pixel avatars that you can then save or use on the web. <sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup></p>\n<p><img src=\"https://cdn.uploads.micro.blog/81720/2023/pixel-avatar-.png\" alt=\"A screenshot from the Avatars in Pixels editor. \"></p>\n<div class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\">\n<p>I discovered this site from <a href=\"https://heyloura.com/2023/12/07/my-app-defaults.html\">heyloura</a>&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</div>\n",
+				"content_text": "[Avatars in Pixels](https://www.avatarsinpixels.com/) is a fun and free tool that lets you create pixel avatars that you can then save or use on the web. [^1]\n\n![A screenshot from the Avatars in Pixels editor. ](https://cdn.uploads.micro.blog/81720/2023/pixel-avatar-.png)\n\n[^1]: I discovered this site from [heyloura](https://heyloura.com/2023/12/07/my-app-defaults.html)\n",
+				"date_published": "2023-12-07T20:52:20-05:00",
+				"url": "https://blog.ericgregorich.com/2023/12/07/avatars-in-pixels.html",
+				"tags": ["Links"]
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2023/12/07/you-cant-hoard.html",
+				"title": "You can't hoard life - Oliver Burkeman",
+				"content_html": "<p><a href=\"https://ckarchive.com/b/68ueh8hkxrx6lukq88gqmtz7vxkkk\">You can&rsquo;t hoard life — Oliver Burkeman</a></p>\n<blockquote>\n<p>Perhaps you’ve had the experience of reaching the end of a day on which you’d been unusually successful in getting your work done, or sticking to your fitness routine, but then instead of thinking “What a great day!”, you think: “That’s the kind of day I’m aiming for, and now it’s my job to make sure I keep on having more and more of them!” The result: you turned a potential source of easy delight into a source of further stress.</p>\n</blockquote>\n<p>We obviously want to set up a life where we have more great days, but as Oliver points out, there is a line we can cross. It’s easy to get caught up in the pursuit of happiness rather than simply being happy.</p>\n",
+				"content_text": "[You can't hoard life — Oliver Burkeman](https://ckarchive.com/b/68ueh8hkxrx6lukq88gqmtz7vxkkk)\n\n> Perhaps you’ve had the experience of reaching the end of a day on which you’d been unusually successful in getting your work done, or sticking to your fitness routine, but then instead of thinking “What a great day!”, you think: “That’s the kind of day I’m aiming for, and now it’s my job to make sure I keep on having more and more of them!” The result: you turned a potential source of easy delight into a source of further stress.\n\nWe obviously want to set up a life where we have more great days, but as Oliver points out, there is a line we can cross. It’s easy to get caught up in the pursuit of happiness rather than simply being happy.\n\n",
+				"date_published": "2023-12-07T15:36:34-05:00",
+				"url": "https://blog.ericgregorich.com/2023/12/07/you-cant-hoard.html",
+				"tags": ["Quotes"]
+			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/12/07/there-is-something.html",
 				"title": "There is something magical about Things 3",
@@ -18,8 +90,8 @@
 			{
 				"id": "http://ericgregorich.micro.blog/2023/12/06/a-raindrop-to.html",
 				"title": "A Raindrop to Buttondown experiment",
-				"content_html": "<p>I&rsquo;ve been tinkering with Buttondown, thinking I could use it for my work-related newsletter. While I was at it, I experimented with RSS Automation. I had a clever idea to hook up an RSS feed from my Raindrop collections to see what it would look like. It turns out it worked pretty well.</p>\n<p>I created a Collection in Raindrop where I would drop in bookmarks that I wanted to share to my newsletter with Buttondown. In the settings of that collection, you can enable sharing, and Raindrop will give you an RSS feed link.</p>\n<p><img src=\"https://blog.ericgregorich.com/uploads/2023/draggedimage.png\" alt=\"Screenshot of Raindrop Shared Collection\"></p>\n<p>I took that RSS feed over to Buttondown and enabled the RSS Automation, which pulls in the RSS into a draft email. It successfully pulled in the Bookmark Title, Description, and even the thumbnail image.</p>\n<p>I then tweaked the CSS and, in the end, ended up with what you see <a href=\"https://newsletter.ericgregorich.com/archive/erics-weekly-cache-1\">here in Issue 1</a>.</p>\n<p><img src=\"https://blog.ericgregorich.com/uploads/2023/draggedimage-1.png\" alt=\"Screenshot of newsletter from Buttondown created from Raindrop RSS.\"></p>\n<p>Overall, it was a successful experiment. I hesitate to stick with this approach, though. It doesn&rsquo;t feel right, like I&rsquo;m cheating.</p>\n<p>What I prefer to do is create short posts directly to Micro.blog and then send my Micro.blog feed over to Buttondown for the weekly newsletter.</p>\n<p>But it was fun to try it out!</p>\n",
-				"content_text": "I've been tinkering with Buttondown, thinking I could use it for my work-related newsletter. While I was at it, I experimented with RSS Automation. I had a clever idea to hook up an RSS feed from my Raindrop collections to see what it would look like. It turns out it worked pretty well.\n\nI created a Collection in Raindrop where I would drop in bookmarks that I wanted to share to my newsletter with Buttondown. In the settings of that collection, you can enable sharing, and Raindrop will give you an RSS feed link.\n\n![Screenshot of Raindrop Shared Collection](https://blog.ericgregorich.com/uploads/2023/draggedimage.png)\n\nI took that RSS feed over to Buttondown and enabled the RSS Automation, which pulls in the RSS into a draft email. It successfully pulled in the Bookmark Title, Description, and even the thumbnail image.\n\nI then tweaked the CSS and, in the end, ended up with what you see [here in Issue 1](https://newsletter.ericgregorich.com/archive/erics-weekly-cache-1).\n\n![Screenshot of newsletter from Buttondown created from Raindrop RSS.](https://blog.ericgregorich.com/uploads/2023/draggedimage-1.png)\n\nOverall, it was a successful experiment. I hesitate to stick with this approach, though. It doesn't feel right, like I'm cheating.\n\nWhat I prefer to do is create short posts directly to Micro.blog and then send my Micro.blog feed over to Buttondown for the weekly newsletter.\n\nBut it was fun to try it out!\n\n",
+				"content_html": "<p>I&rsquo;ve been tinkering with Buttondown, thinking I could use it for my work-related newsletter. While I was at it, I experimented with RSS Automation. I had a clever idea to hook up an RSS feed from my Raindrop collections to see what it would look like. It turns out it worked pretty well.</p>\n<p>I created a Collection in Raindrop where I would drop in bookmarks that I wanted to share to my newsletter with Buttondown. In the settings of that collection, you can enable sharing, and Raindrop will give you an RSS feed link.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/81720/2023/draggedimage.png\" alt=\"Screenshot of Raindrop Shared Collection\"></p>\n<p>I took that RSS feed over to Buttondown and enabled the RSS Automation, which pulls in the RSS into a draft email. It successfully pulled in the Bookmark Title, Description, and even the thumbnail image.</p>\n<p>I then tweaked the CSS and, in the end, ended up with what you see <a href=\"https://newsletter.ericgregorich.com/archive/erics-weekly-cache-1\">here in Issue 1</a>.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/81720/2023/draggedimage-1.png\" alt=\"Screenshot of newsletter from Buttondown created from Raindrop RSS.\"></p>\n<p>Overall, it was a successful experiment. I hesitate to stick with this approach, though. It doesn&rsquo;t feel right, like I&rsquo;m cheating.</p>\n<p>What I prefer to do is create short posts directly to Micro.blog and then send my Micro.blog feed over to Buttondown for the weekly newsletter.</p>\n<p>But it was fun to try it out!</p>\n",
+				"content_text": "I've been tinkering with Buttondown, thinking I could use it for my work-related newsletter. While I was at it, I experimented with RSS Automation. I had a clever idea to hook up an RSS feed from my Raindrop collections to see what it would look like. It turns out it worked pretty well.\n\nI created a Collection in Raindrop where I would drop in bookmarks that I wanted to share to my newsletter with Buttondown. In the settings of that collection, you can enable sharing, and Raindrop will give you an RSS feed link.\n\n![Screenshot of Raindrop Shared Collection](https://cdn.uploads.micro.blog/81720/2023/draggedimage.png)\n\nI took that RSS feed over to Buttondown and enabled the RSS Automation, which pulls in the RSS into a draft email. It successfully pulled in the Bookmark Title, Description, and even the thumbnail image.\n\nI then tweaked the CSS and, in the end, ended up with what you see [here in Issue 1](https://newsletter.ericgregorich.com/archive/erics-weekly-cache-1).\n\n![Screenshot of newsletter from Buttondown created from Raindrop RSS.](https://cdn.uploads.micro.blog/81720/2023/draggedimage-1.png)\n\nOverall, it was a successful experiment. I hesitate to stick with this approach, though. It doesn't feel right, like I'm cheating.\n\nWhat I prefer to do is create short posts directly to Micro.blog and then send my Micro.blog feed over to Buttondown for the weekly newsletter.\n\nBut it was fun to try it out!\n\n",
 				"date_published": "2023-12-06T16:04:26-05:00",
 				"url": "https://blog.ericgregorich.com/2023/12/06/a-raindrop-to.html",
 				"tags": ["Notes"]
@@ -28,7 +100,7 @@
 				"id": "http://ericgregorich.micro.blog/2023/12/05/interesting-name-for.html",
 				
 				"content_html": "<p>Interesting name for a coffee.</p>\n<p><a href=\"https://cockpunchcoffee.com/\">Cockpunch Coffee</a> hints of lime, orange blossom honey, and vanilla. Affiliation with Tim Ferris.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Interesting name for a coffee. \n\n[Cockpunch Coffee](https://cockpunchcoffee.com/) hints of lime, orange blossom honey, and vanilla. Affiliation with Tim Ferris. \n\n<img src=\"uploads/2023/93ed73612d.jpg\" width=\"580\" height=\"600\" alt=\"A bag of “Cockpunch” whole bean coffee. \">\n",
+				"content_text": "Interesting name for a coffee. \n\n[Cockpunch Coffee](https://cockpunchcoffee.com/) hints of lime, orange blossom honey, and vanilla. Affiliation with Tim Ferris. \n\n<img src=\"https://cdn.uploads.micro.blog/81720/2023/93ed73612d.jpg\" width=\"580\" height=\"600\" alt=\"A bag of “Cockpunch” whole bean coffee. \">\n",
 				"date_published": "2023-12-05T18:46:47-05:00",
 				"url": "https://blog.ericgregorich.com/2023/12/05/interesting-name-for.html"
 			},
@@ -64,8 +136,7 @@
 				"content_html": "<p>I’m Eric, and this newsletter is where I share my latest blog posts and links to the awesome things I discover online. These can include great articles, apps, communities, and anything else I find interesting. <!-- raw HTML omitted -->Subscribe here<!-- raw HTML omitted --></p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
 				"content_text": "I’m Eric, and this newsletter is where I share my latest blog posts and links to the awesome things I discover online. These can include great articles, apps, communities, and anything else I find interesting. <a href=\"https://newsletter.ericgregorich.com\">Subscribe here</a>\n<div>\n<h3><a href=\"https://kagi.com\">Kagi Search - A Premium Search Engine</a></h3>\n<p><img src=\"https://assets.buttondown.email/images/2108b50b-9603-497f-a11a-423c667229fb.png?w=960&fit=max\" alt=\"Screenshot of the Kagi search engine.\" /><br />Kagi is a great search engine that has no ads. Of course, this means you need to pay for it. It turns out to be great for searching and also has some AI features built in!</p>\n</div>\n\n<div>\n<h3><a href=\"https://www.htmhell.dev/adventcalendar/2023/2/\">You don't need JavaScript for that - HTMHell</a></h3>\n<p><img src=\"https://assets.buttondown.email/images/cefac5df-c2d2-4fb9-a572-ecd1f73f1515.png?w=960&fit=max\" alt=\"HTMHell Screenshot\" /><br /> Explains why we should default to HTML and then CSS before using JavaScript in our web pages and applications.</p>\n</div>\n\n<div>\n<h3><a href=\"https://blogs.library.duke.edu/blog/2023/11/30/why-were-dropping-basecamp/\">Why We're Dropping Basecamp</a></h3>\n<p><img src=\"http://blogs.library.duke.edu/wp-content/uploads/2023/11/basecamp_calendar_reminder.png?w=960&fit=max\" alt=\"Screenshot of Basecampe article\" /><br /> An interesting read about why Duke University Libraries is dropping basecamp from 37signals. It comes down to disagreeing with ownership and the business culture.</p>\n</div>\n\n<div>\n<h3><a href=\"https://hemisphericviews.com/\">Hemispheric Views Podcast</a></h3>\n<p><img src=\"https://hemisphericviews.com/assets/images/share.jpg?v=0c411c98&w=960&fit=max\" alt=\"Hemispheric Views Podcast cover.\" /><br /> A fun podcast with the business-savvy Andrew Canion, tech-creative Jason Burk and podcast-researcher Martin Feld.</p>\n</div>\n\n<div>\n<h3><a href=\"https://arstechnica.com/google/2023/12/chromes-next-weapon-in-the-war-on-ad-blockers-slower-extension-updates/\">Chrome’s next weapon in the War on Ad Blockers: Slower extension updates</a></h3>\n<p><img src=\"https://rdl.ink/render/https%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2021%2F08%2FGoogle-Monopoly-800x450.jpg?w=960&fit=max\" alt=\"Screenshot of article.\" /><br /> When ad blocking is a cat-and-mouse game, make the mouse slower. Google is making updates to Chrome that will make ad-blocking extensions struggle to stay up to date. The only thing surprising about this is how long it’s taken Google to do it.</p>\n</div>\n\n<div>\n<h3><a href=\"https://buttondown.email/grubjournal\">The Grub Journal</a></h3>\n<p><img src=\"https://assets.buttondown.email/images/44007797-33e0-48ed-8306-0b9c42a92932.jpeg?w=960&fit=max\" alt=\"Grub Journal Logo\"/><br /> A newsletter containing one Grub (maybe) everyday from humdrum.</p>\n</div>\n\n<div>\n<h3><a href=\"https://pipilo.thanel.me\">Pipilo</a></h3>\n<p><img src=\"https://assets.buttondown.email/images/34560f37-cf72-41a3-b98a-4021c3560fc3.png?w=960&fit=max\" alt=\"Pipilo Logo\"/><br /> ‎Pipilo is an app that connects to your Fediverse accounts, like Mastadon, and provides a clean unique browsing experience. You navigate horizontally, which is quote refreshing.</p>\n</div>\n\n<div>\n<h3><a href=\"https://apps.apple.com/us/app/play-save-videos-watch-later/id1596506190\">‎Play: Save Videos Watch Later</a></h3>\n<p><img src=\"https://assets.buttondown.email/images/9793845b-d9e7-429d-9904-bc00f8539215.png?w=960&fit=max\" alt=\"Play Logo\"/><br /> ‎I've used Play 1.0 on and off, but a few days ago, they released Play 2.0, which has many great features. You can add all of your favorite YouTube channels and create your playlists. Watch YouTube without leaving the app! </p>\n</div>\n\n<div>\n<h3><a href=\"https://ktool.io/\">‎KTool</a></h3>\n<p><img src=\"https://rdl.ink/render/https%3A%2F%2Fktool.io%2Fimages%2Fktool-og-2.jpg?w=960&fit=max\" alt=\"KTool Logo\"/><br />KTool is a tool created by Daniel Nguyen that allows you to easily send articles, RSS, and newsletters directly to your Kindle for reading. I've been using KTool for a few weeks, which is pretty awesome!</p>\n</div>\n\n<div>\n<h3><a href=\"https://youtube.com/watch?v=XxOh12Uhg08&si=DEppPaIvCQHrtxPC\">‎Driving Tesla Cybertruck: Everything You Need to Know!</a></h3>\n<p><img src=\"https://rdl.ink/render/https%3A%2F%2Fi.ytimg.com%2Fvi%2FXxOh12Uhg08%2Fmaxresdefault.jpg?w=960&fit=max\" alt=\"Video thumbnail.\"/><br />Marques gives us a detailed tour of the new Tesla Cybertruck.</p>\n</div>\n",
 				"date_published": "2023-12-03T10:05:50-05:00",
-				"url": "https://blog.ericgregorich.com/2023/12/03/erics-weekly-cache.html",
-				"tags": ["Weekly Cache"]
+				"url": "https://blog.ericgregorich.com/2023/12/03/erics-weekly-cache.html"
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/12/02/im-done-no.html",
@@ -201,10 +272,10 @@
 				"id": "http://ericgregorich.micro.blog/2023/11/09/feed-your-creativity.html",
 				
 				"content_html": "<p><a href=\"https://nesslabs.com/creative-input-output-active-content-consumption\">Feed your Creativity: How to Escape the Algorithm with Active Content Consumption</a></p>\n<blockquote>\n<p>With an endless influx of information competing for our attention, our creative wells often run dry. To revive your imagination, you need to be more intentional about balancing your creative input with your creative output.</p>\n</blockquote>\n<p>I&rsquo;ve been feeling overwhelmed with my RSS consumption lately. I have been using Readwise and Reader, which are great; if anything, they make things worse. Everything is easy to highlight and take notes, the amount of content increases, which turns into a snake eating its own tail.</p>\n",
-				"content_text": " [Feed your Creativity: How to Escape the Algorithm with Active Content Consumption](https://nesslabs.com/creative-input-output-active-content-consumption)\r\n\r\n> With an endless influx of information competing for our attention, our creative wells often run dry. To revive your imagination, you need to be more intentional about balancing your creative input with your creative output.\r\n\r\nI've been feeling overwhelmed with my RSS consumption lately. I have been using Readwise and Reader, which are great; if anything, they make things worse. Everything is easy to highlight and take notes, the amount of content increases, which turns into a snake eating its own tail.\n",
+				"content_text": " [Feed your Creativity: How to Escape the Algorithm with Active Content Consumption](https://nesslabs.com/creative-input-output-active-content-consumption)\n\n> With an endless influx of information competing for our attention, our creative wells often run dry. To revive your imagination, you need to be more intentional about balancing your creative input with your creative output.\n\nI've been feeling overwhelmed with my RSS consumption lately. I have been using Readwise and Reader, which are great; if anything, they make things worse. Everything is easy to highlight and take notes, the amount of content increases, which turns into a snake eating its own tail.\n",
 				"date_published": "2023-11-09T13:45:13-05:00",
 				"url": "https://blog.ericgregorich.com/2023/11/09/feed-your-creativity.html",
-				"tags": ["Links"]
+				"tags": ["Quotes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/11/08/default-apps.html",
@@ -434,7 +505,7 @@
 				"content_text": "<p><a href=\"https://waitbutwhy.com/2014/06/taming-mammoth-let-peoples-opinions-run-life.html\">Why You Should Stop Caring What Other People Think (Taming the Mammoth) - Wait But Why</a></p>\n<blockquote>\n<p>Making this shift isn’t easy for anyone, but it’s worth obsessing over. Your Authentic Voice has been given one life—and it’s your job to make sure it gets the opportunity to live it.</p>\n</blockquote>\n",
 				"date_published": "2023-09-04T12:42:31-05:00",
 				"url": "https://blog.ericgregorich.com/2023/09/04/why-you-should.html",
-				"tags": ["Links"]
+				"tags": ["Quotes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/09/04/dumb-phones-are.html",
@@ -443,7 +514,7 @@
 				"content_text": "<p><a href=\"https://codemaclife.com/dumb-phones-are-not-the-answer-to-digital-minimalism/\">Dumb phones are not the answer to digital minimalism - Code.Mac.Life</a></p>\n<blockquote>\n<p>Dumb phones won’t address the problem within us. They can help us disconnect and re-evaluate what we are doing on smartphones. The feature phone breaks up our dependency on constant access to the internet. However, there are some drawbacks…</p>\n</blockquote>\n<p>It’s challenging to find the balance between balance between usefulness and distraction when using a smartphone—so many conveniences at the cost of many distractions (if you let it).</p>\n",
 				"date_published": "2023-09-04T09:44:24-05:00",
 				"url": "https://blog.ericgregorich.com/2023/09/04/dumb-phones-are.html",
-				"tags": ["Links"]
+				"tags": ["Quotes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/08/30/want-to-read.html",
@@ -469,7 +540,7 @@
 				"content_text": "<p><a href=\"https://www.wired.com/story/why-songs-get-stuck-in-your-head-how-to-stop-them/?ref=refind\">Why Songs Get Stuck in Your Head</a></p>\n<blockquote>\n<p>“Our brain is made up of a massive complex network of neurons that store information, and when the mind is free to wander, it may unwittingly land on a song that has been encoded through recency and repetition,”</p>\n</blockquote>\n<p>This article describes why we get those songs stuck in our head, often on repeat.</p>\n",
 				"date_published": "2023-08-28T11:42:33-05:00",
 				"url": "https://blog.ericgregorich.com/2023/08/28/why-songs-get.html",
-				"tags": ["Links"]
+				"tags": ["Quotes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/08/28/the-care-and.html",
@@ -478,7 +549,7 @@
 				"content_text": "[The care and training of your pet rock](https://archive.org/details/pet_rock_manual_original/page/n8/mode/1up)\n> Pet Rock is a collectible toy made in 1975 by advertising executive Gary Dahl. Pet Rocks are smooth stones from Mexico's Rosarito Beach. They were marketed like live pets, in custom cardboard boxes, complete with straw and breathing holes. The fad lasted about six months, ending after a short increase in sales during the Christmas season of December 1975.\n\nI stumbled up on this user manual about how to care and train your pet rock. All my problems are solved.\n",
 				"date_published": "2023-08-28T11:34:12-05:00",
 				"url": "https://blog.ericgregorich.com/2023/08/28/the-care-and.html",
-				"tags": ["Links"]
+				"tags": ["Quotes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/08/26/how-to-add.html",
@@ -520,7 +591,7 @@
 				"content_text": "<p><a href=\"https://nesslabs.com/the-paradox-of-goals\">The Paradox of Goals</a></p>\n<blockquote>\n<p>Growth loops are extremely simple: we simply need to commit to action, monitor our progress, and reflect on the results so we can keep on adding layers of learning through each cycle. There is no need to worry about the ultimate destination: success emerges as a result of the repeated experimentation and learning.</p>\n</blockquote>\n<p>Where I struggle with this is that it requires measuring and reflecting. I’ve yet to find a tool that I stick with (tried several the habit/goal apps).</p>\n<p>I should try paper. 🤔 Perhaps I’ll try logging something in my new planner.</p>\n",
 				"date_published": "2023-08-15T20:18:23-05:00",
 				"url": "https://blog.ericgregorich.com/2023/08/15/the-paradox-of.html",
-				"tags": ["Links"]
+				"tags": ["Quotes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/08/15/i-received-the.html",
@@ -570,6 +641,15 @@
 				"content_text": "<p>I’ve been reflecting on what I like about the <a href=\"https://reflect.app\">Reflect.app</a>. I’ve been using the app for a couple of weeks, experimenting with it to determine if it’s something I want to use long-term.</p>\n<p>I think the main thing is its simplicity. It feels like a minimal app. In fact, when I started using it, I thought it felt incomplete somehow. The lack of buttons and menus threw me off.</p>\n<p>Yet, as I used it, I felt as though it had just the right amount of features to make it a quite powerful tool for writing.</p>\n<p>At first glance, Reflect looks like an outliner, where each line is a block, similar to Roam Research or Logseq. However, Reflect is not an outliner. While the daily note page defaults to use bullets, they’re not required. In fact, when you create a new note, you start with a simple blank page with a title. I love this!</p>\n<p>The main features that attracted me to Reflect are the focus on speed and reliability, end-to-end encryption, and import and export capabilities. But, there are many more features, including templates, calendar integration, Kindle Sync, Readwise Integration, Tasks (beta), and they recently added very robust AI integration. They accomplished all of this without adding any clutter to the app, which I appreciate.</p>\n<p>I’ve also been trying the AI integration to see how I could use it. It works great for cleaning up meeting notes, creating lists, counterarguments, and even fixing grammar and spelling. I’m not a big AI user, but its helpful to be able to clean up my notes.</p>\n<p>There is also an iOS app in beta that is quite solid. It doesn’t have many features yet, but it works great for finding and editing notes.</p>\n<hr />\n<ul>\n<li><a href=\"https://reflect.academy\">Reflect Academy</a></li>\n<li><a href=\"https://reflect.app/changelog\">Changelog</a></li>\n<li><a href=\"https://roadmap.reflect.app\">Roadmap and Feature Requests</a></li>\n<li><a href=\"https://reflect.app/download\">Download Reflect</a></li>\n</ul>\n",
 				"date_published": "2023-08-10T07:28:04-05:00",
 				"url": "https://blog.ericgregorich.com/2023/08/10/first-impressions-of.html"
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2023/08/08/add-tinylytics-to.html",
+				"title": "Add Tinylytics to Obsidian Publish",
+				"content_html": "<ol>\n<li>Create a file named publish.js in your root directory.</li>\n<li>Add the following script to the file.</li>\n<li>Publish the file!</li>\n</ol>\n<div class=\"highlight\"><pre tabindex=\"0\" style=\"color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;\"><code class=\"language-javascript\" data-lang=\"javascript\"><span style=\"display:flex;\"><span>\t<span style=\"color:#66d9ef\">var</span> <span style=\"color:#a6e22e\">tinylyticsScript</span> <span style=\"color:#f92672\">=</span> document.<span style=\"color:#a6e22e\">createElement</span>(<span style=\"color:#e6db74\">&#39;script&#39;</span>);\n</span></span><span style=\"display:flex;\"><span>\t<span style=\"color:#a6e22e\">tinylyticsScript</span>.<span style=\"color:#a6e22e\">defer</span> <span style=\"color:#f92672\">=</span> <span style=\"color:#66d9ef\">true</span>;\n</span></span><span style=\"display:flex;\"><span>\t<span style=\"color:#a6e22e\">tinylyticsScript</span>.<span style=\"color:#a6e22e\">src</span> <span style=\"color:#f92672\">=</span> <span style=\"color:#e6db74\">&#39;https://tinylytics.app/embed/YOUREMBEDCODE.js&#39;</span>;\n</span></span><span style=\"display:flex;\"><span>\tdocument.<span style=\"color:#a6e22e\">head</span>.<span style=\"color:#a6e22e\">appendChild</span>(<span style=\"color:#a6e22e\">tinylyticsScript</span>);\n</span></span></code></pre></div>",
+				"content_text": "1. Create a file named publish.js in your root directory.\n2. Add the following script to the file.\n3. Publish the file!\n\n```javascript\n\tvar tinylyticsScript = document.createElement('script');\n\ttinylyticsScript.defer = true;\n\ttinylyticsScript.src = 'https://tinylytics.app/embed/YOUREMBEDCODE.js';\n\tdocument.head.appendChild(tinylyticsScript);\n```\n\n\n\n\n\n",
+				"date_published": "2023-08-08T18:00:00-05:00",
+				"url": "https://blog.ericgregorich.com/2023/08/08/add-tinylytics-to.html",
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/08/06/what-i-use.html",
@@ -629,7 +709,7 @@
 				"content_text": "<p><a href=\"https://www.cjchilvers.com/blog/rip-external-brain/\">RIP: The External 🧠</a></p>\n<blockquote>\n<p>If you’re a photographer, take more pictures. If you’re a writer, produce more text. The tools will work themselves out.</p>\n</blockquote>\n<p>I still capture things for “reference” but less than before. I find my notes app today is more for writing documentation and other content. It’s for creating not archiving.</p>\n",
 				"date_published": "2023-07-23T20:29:17-05:00",
 				"url": "https://blog.ericgregorich.com/2023/07/23/rip-the-external.html",
-				"tags": ["Links"]
+				"tags": ["Quotes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/07/22/the-water-is.html",
@@ -664,7 +744,7 @@
 				"content_text": "[New isn’t better, and you’re not the exception](https://curtismchale.ca/2023/07/22/new-isnt-better-and-youre-not-the-exception/) \n\n\n> The biggest problem with changing tools is that it feels like progress. You suddenly feel like you’re getting something done, but you’re not. You’re merely shuffling deck chairs, but it feels like you’re making progress.\n\n\nCurtis talks about how switching tools can feel productive. I’ve indeed fallen into this trap (and am still falling).\n\nFocus on the system and not the tools. Track your problems and only switch tools after evaluating and making an informed decision. \n",
 				"date_published": "2023-07-22T08:45:41-05:00",
 				"url": "https://blog.ericgregorich.com/2023/07/22/new-isnt-better.html",
-				"tags": ["Links"]
+				"tags": ["Quotes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/07/22/closedopen-this-is.html",
@@ -673,7 +753,7 @@
 				"content_text": "[Closed/Open](https://feeds.feedblitz.com/~/757239023/0/sethsblog~Closedopen/)\n\n> This is why emotional enrollment is the key to learning. No toddler learned to walk by insisting, again and again, that crawling was good enough. Or by trying to walk by simply crawling harder. - Seth Godin\n\nBeing emotionally invested in something is critical to learning something new. \n",
 				"date_published": "2023-07-22T08:25:09-05:00",
 				"url": "https://blog.ericgregorich.com/2023/07/22/closedopen-this-is.html",
-				"tags": ["Links"]
+				"tags": ["Quotes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/07/21/i-started-using.html",
@@ -743,7 +823,7 @@
 				"content_text": "<p><a href=\"https://www.theolognion.com/dev-builds-perfect-note-taking-system-which-only-stores-info-about-building-note-taking-systems/\">Dev builds perfect note-taking system which only stores info about building note-taking systems</a></p>\n<blockquote>\n<p>After many months of building, Miriam started to use her system in full-power mode only to realize that the only information she researches, stores and references is all about building note-taking systems. Moreover, the system, though flexible and extendable, seems to be tuned to store that type of information only. Any other kind of data makes the system unstable and finicky.</p>\n</blockquote>\n<p>This was me a couple years ago. 😂</p>\n",
 				"date_published": "2023-07-04T09:00:07-05:00",
 				"url": "https://blog.ericgregorich.com/2023/07/04/dev-builds-perfect.html",
-				"tags": ["Links"]
+				"tags": ["Quotes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/07/02/file-over-app.html",
@@ -752,7 +832,7 @@
 				"content_text": "<p><a href=\"https://stephanango.com/file-over-app\">File over app</a></p>\n<blockquote>\n<p>File over app is a philosophy: if you want to create digital artifacts that last, they must be files you can control, in formats that are easy to retrieve and read. Use tools that give you this freedom.</p>\n</blockquote>\n<p>Another vote for using local files that you can control when it comes to your apps.</p>\n",
 				"date_published": "2023-07-02T18:43:43-05:00",
 				"url": "https://blog.ericgregorich.com/2023/07/02/file-over-app.html",
-				"tags": ["Links"]
+				"tags": ["Quotes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/07/02/how-to-live.html",
@@ -813,7 +893,7 @@
 				"content_text": "<p><a title=\"Not active using knowledge from reading\" href=\"https://share.snipd.com/snip/b62843e9-5f90-4b3b-931e-b573045c0181\">Not actively using knowledge from reading</a></p>\n<blockquote>\n<p>And if they are reading books to learn things, they’re not doing anything with it. And when I say they’re not doing anything with it, they’re not actively adding it to a philosophy of practice, understanding it from an awareness of the evidence, the research, the basis of where it comes from. And I would argue many of them wouldn’t be able to have a solid argument with the points that they have consumed from whatever books they are.</p>\n</blockquote>\n<p>Danny and Jon argue that reading books is a waste of time. I don’t agree but they have some good points.</p>\n",
 				"date_published": "2023-06-25T08:06:22-05:00",
 				"url": "https://blog.ericgregorich.com/2023/06/25/not-actively-using.html",
-				"tags": ["Links"]
+				"tags": ["Quotes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/06/24/im-thinking-about.html",
@@ -856,7 +936,7 @@
 				"content_text": "<p><a href=\"https://nesslabs.com/creative-burnout\">Creative burnout: when the creativity tap runs dry</a></p>\n<blockquote>\n<p>Look at your past work. Because creative burnout often comes with self-doubt, it’s easy to forget all our past accomplishments and focus on our present challenges instead. Go browse your past work, both the good and the bad. If it’s good, remember how it wasn’t easy to produce. If it’s bad, look at how much progress you have made. Channel the feelings you experience while reviewing your past work to overcome your self-doubt.</p>\n</blockquote>\n<p>This is something i want to be better about. I’m always looking ahead and forget all the things I’ve accomplished.</p>\n",
 				"date_published": "2023-06-18T12:30:03-05:00",
 				"url": "https://blog.ericgregorich.com/2023/06/18/creative-burnout-when.html",
-				"tags": ["Links"]
+				"tags": ["Quotes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/06/18/my-daughter-had.html",
@@ -1125,8 +1205,7 @@
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p><a href=\"https://thesweetsetup.com/the-brain-vs-the-list/\">The Brain vs. The List</a></p>\n<blockquote>\n<p>“Your digital task manager and calendar help “collect” all the things you need to do, both today and for the future. Your analog notebook helps you sit down, take a deep breath, and think through what’s most important for this week and for today.\" (Chloe, The Brain vs. The List)</p>\n</blockquote>\n<p>I’ve been using this approach lately and enjoy it. I store everything digitally but work from paper. It helps me remove distractions, and processing my notes and even rewriting is a great way to prioritize.</p>\n",
 				"date_published": "2023-04-10T19:22:21-05:00",
-				"url": "https://blog.ericgregorich.com/2023/04/10/the-brain-vs.html",
-				"tags": ["Links"]
+				"url": "https://blog.ericgregorich.com/2023/04/10/the-brain-vs.html"
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/04/10/i-updated-my.html",
@@ -1175,7 +1254,7 @@
 				"content_text": "[HeyScottyJ - No PKM necessary](https://heyscottyj.com/2023/02/13/no-pkm-necessary.html \"No PKM Necessary\")\n\n> The concept of Personal Knowledge Management (PKM) is flawed in that it fails to recognize that there is more to knowledge management than simply collecting, storing, and organizing data. Rather, knowledge management is a process of transforming data into information and then into knowledge through the application of cognitive processes. \n\nWhile PKM tools can be helpful in collecting, organizing, and connecting the information you gather, it is up to you to do something with that information to turn it into knowledge.\n\n",
 				"date_published": "2023-04-02T09:13:14-05:00",
 				"url": "https://blog.ericgregorich.com/2023/04/02/heyscottyj-no-pkm.html",
-				"tags": ["Links"]
+				"tags": ["Quotes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/04/01/apps-im-using.html",
@@ -1206,10 +1285,10 @@
 				"id": "http://ericgregorich.micro.blog/2023/03/29/ultimate-calendar-hack.html",
 				
 				"content_html": "<p><a href=\"https://www.sahilbloom.com/newsletter/energy-calendars-how-to-negotiate-more\">Ultimate Calendar Hack, How to Negotiate. &amp; More</a></p>\n<blockquote>\n<p>At the end of every weekday, I go through and color-code my calendar from the day that just finished.\nGreen = Energy Creating Yellow = Neutral Red = Energy Draining. I don’t spend too much time thinking about which bucket each item fell into—I try to trust my gut.</p>\n</blockquote>\n<p>I like this idea of color coding the calendar to show what gives you energy vs. what drains your energy. It could be a great way to work on balancing things out. I&rsquo;m not sure I&rsquo;ll do it, but I&rsquo;ll keep it in mind.</p>\n",
-				"content_text": "[Ultimate Calendar Hack, How to Negotiate. & More](https://www.sahilbloom.com/newsletter/energy-calendars-how-to-negotiate-more)\r\n\r\n> At the end of every weekday, I go through and color-code my calendar from the day that just finished. \r\nGreen = Energy Creating Yellow = Neutral Red = Energy Draining. I don’t spend too much time thinking about which bucket each item fell into—I try to trust my gut.\r\n\r\nI like this idea of color coding the calendar to show what gives you energy vs. what drains your energy. It could be a great way to work on balancing things out. I'm not sure I'll do it, but I'll keep it in mind.\n",
+				"content_text": "[Ultimate Calendar Hack, How to Negotiate. & More](https://www.sahilbloom.com/newsletter/energy-calendars-how-to-negotiate-more)\n\n> At the end of every weekday, I go through and color-code my calendar from the day that just finished. \nGreen = Energy Creating Yellow = Neutral Red = Energy Draining. I don’t spend too much time thinking about which bucket each item fell into—I try to trust my gut.\n\nI like this idea of color coding the calendar to show what gives you energy vs. what drains your energy. It could be a great way to work on balancing things out. I'm not sure I'll do it, but I'll keep it in mind.\n",
 				"date_published": "2023-03-29T08:22:11-05:00",
 				"url": "https://blog.ericgregorich.com/2023/03/29/ultimate-calendar-hack.html",
-				"tags": ["Links"]
+				"tags": ["Quotes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/03/26/my-rocketbook-notebook.html",
@@ -1658,7 +1737,7 @@
 				"content_text": "<p>“<a href=\"https://every.to/superorganizers/the-end-of-organizing\">The End of Organizing</a>” by Dan Shipper argues that AI will be the best way to organize our notes in the future.</p>\n<blockquote>\n<p>So you rarely go back to use your old notes. It’s too cognitively expensive and not rewarding enough. For an old note to be helpful it needs to be presented to Future You in a way that clicks into what you’re working on instantly—with as little processing as possible.</p>\n</blockquote>\n<p>As you consume content and take generic notes, the AI can transform it into more meaningful text, autocomplete the thought, apply context, and organize it, making it easy to find again.</p>\n<p>As you create content, AI could show your notes as you type. Imagine typing about a topic, and the AI presents the notes to you as you type, as it applies to the current context.</p>\n<p>Many note and reading apps already incorporate AI, including Readwise, Mem, Mymind, Craft, and Notion. Some with plugins that add this, including Obsidian and Logseq. It should quickly evolve to the point envisioned in this essay.</p>\n<p>This essay does not account for the act of writing as a way to help you think and learn. If we let AI do the lifting for us, does that make us smarter, or do we lose the ability to think for ourselves? There is a fine line.</p>\n",
 				"date_published": "2023-01-14T09:35:45-05:00",
 				"url": "https://blog.ericgregorich.com/2023/01/14/the-end-of.html",
-				"tags": ["Links"]
+				"tags": ["Quotes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/01/13/check-for-a.html",
@@ -1742,7 +1821,7 @@
 				"content_text": "<p>A day full of meetings and emails can make things easier because we don’t have to decide what to do with our time. We have an excuse not to do real work.</p>\n<p>It’s a trap! An easy way to procrastinate.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/81720/2023/b82c831f76.jpg\" alt=\"\" width=\"600\" height=\"337\" /></p>\n",
 				"date_published": "2023-01-01T18:55:20-05:00",
 				"url": "https://blog.ericgregorich.com/2023/01/01/a-day-full.html",
-				"tags": ["Links"]
+				"tags": ["Quotes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/01/01/currently-reading-secret.html",
@@ -1894,7 +1973,7 @@
 				"content_text": "<p>This interesting essay explores the “Ghost in the Box” metaphor and how it applies to a Zettelkasten. The main idea (as I understand it) is that when you build a complex system of notes, they appear unfinished and confusing when others view them, but to you, they’re useful and full of insight. It is the time and effort that makes the system useful and increases your understanding. When you move your Zettelkasten from one tool to another or analog to digital, you’re potentially replacing the core piece of what made it special.</p>\n<blockquote>\n<p>We are now entering the paradox of the Ship of Theseus. Imagine a ship leaving the harbour with a certain set of parts. During the journey, parts break down and are replaced by new ones. When the ship returns home, all parts are replaced by new ones. Is the ship still the same? And if not: at which moment does the ship become another one? <a id=\"fnref:1\" class=\"footnote\" title=\"see footnote\" href=\"#fn:1\">[1]</a></p>\n</blockquote>\n<div class=\"footnotes\"><hr />\n<ol>\n<li id=\"fn:1\">\n<p><a href=\"https://zettelkasten.de/posts/ghost-in-the-box/\">Philosophy of Zettelkasten: What is the Ghost in the Box?</a> <a class=\"reversefootnote\" title=\"return to article\" href=\"#fnref:1\"> ↩</a></p>\n</li>\n</ol>\n</div>\n",
 				"date_published": "2022-12-11T15:10:49-05:00",
 				"url": "https://blog.ericgregorich.com/2022/12/11/this-interesting-essay.html",
-				"tags": ["Links"]
+				"tags": ["Quotes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/12/11/i-wonder-if.html",
@@ -1961,7 +2040,7 @@
 				"content_text": "<blockquote>\n<p>“How we spend our hours is how we spend our days. And, as the writer Annie Dillard so eloquently pointed out, “How we spend our days is . . . how we spend our lives.”” (Brad Stulberg, The Practice of Groundedness) 💬</p>\n</blockquote>\n",
 				"date_published": "2022-12-05T21:01:06-05:00",
 				"url": "https://blog.ericgregorich.com/2022/12/05/how-we-spend.html",
-				"tags": ["Links"]
+				"tags": ["Quotes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/12/03/i-watched-the.html",
@@ -2113,7 +2192,7 @@
 				"content_text": "<blockquote>\n<p>“It’s the stuff you <strong>leave</strong> out that matters. So constantly look for things to remove, simplify, and streamline. Be a curator. Stick to what’s truly essential. Pare things down until you’re left with only the most important stuff.” (Rework) 💬</p>\n</blockquote>\n",
 				"date_published": "2022-11-14T19:47:48-05:00",
 				"url": "https://blog.ericgregorich.com/2022/11/14/its-the-stuff.html",
-				"tags": ["Links"]
+				"tags": ["Quotes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/11/13/im-going-allin.html",
@@ -2130,7 +2209,7 @@
 				"content_text": "<p><a href=\"https://www.hanselman.com/blog/your-words-are-wasted\">Your words are wasted - Scott Hanselman’s Blog</a> Written in 2012.</p>\n<blockquote>\n<p>“Every developer should have a blog.” Put yourself out there and make it findable. And still, you tweet giving all your life’s precious remaining keystrokes to a company and a service that doesn’t love or care about you - to a service that can’t even find a tweet you wrote a month ago.</p>\n</blockquote>\n",
 				"date_published": "2022-11-13T08:28:17-05:00",
 				"url": "https://blog.ericgregorich.com/2022/11/13/your-words-are.html",
-				"tags": ["Links"]
+				"tags": ["Quotes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/11/12/i-just-finished.html",
@@ -2156,7 +2235,7 @@
 				"content_text": "<blockquote>\n<p>“Whoever best describes the problem is the one most likely to solve it. –.” — Josh Kaufman 💬</p>\n</blockquote>\n",
 				"date_published": "2022-11-11T18:52:58-05:00",
 				"url": "https://blog.ericgregorich.com/2022/11/11/whoever-best-describes.html",
-				"tags": ["Links"]
+				"tags": ["Quotes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/11/10/im-thinking-about.html",
@@ -2278,7 +2357,7 @@
 				"content_text": "<blockquote>\n<p>Change too often and you stand for nothing. You’re simply chasing a shadow you will never catch. Refuse to change and you’re likely to be overlooked. Somewhere in between is the posture of someone who has the maximum chance for success. - <a title=\"Seth Godin\" href=\"https://seths.blog/2022/10/caring-just-the-right-amount/\">Seth Godin</a> 💬</p>\n</blockquote>\n",
 				"date_published": "2022-10-29T18:32:40-05:00",
 				"url": "https://blog.ericgregorich.com/2022/10/29/change-too-often.html",
-				"tags": ["Links"]
+				"tags": ["Quotes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/10/29/stolen-focus-by.html",
@@ -2363,7 +2442,7 @@
 				"content_text": "<blockquote>\n<p>“The goal is the target we want to achieve, while the aim is the course we set to reach that target. A goal fixates on the finish line, while an aim considers the trajectory. When we focus on our aims, the process becomes the goal. And we’re more likely to reach our goal when we become fully aware of our aim.” (Anne-Laure Le Cunff, <a href=\"https://nesslabs.com/everything-is-aiming\">Everything Is Aiming: Forget the Target and Focus on Your Aim</a>)</p>\n</blockquote>\n",
 				"date_published": "2022-10-20T19:27:03-05:00",
 				"url": "https://blog.ericgregorich.com/2022/10/20/the-goal-is.html",
-				"tags": ["Links"]
+				"tags": ["Quotes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/10/20/front-matter-is.html",
@@ -2430,7 +2509,7 @@
 				"content_text": "<blockquote>\n<p>“The real measure of any time management technique is whether or not it helps you neglect the right things.” (Oliver Burkeman, Four Thousand Weeks) 💬</p>\n</blockquote>\n",
 				"date_published": "2022-10-12T07:00:00-05:00",
 				"url": "https://blog.ericgregorich.com/2022/10/12/the-real-measure.html",
-				"tags": ["Links"]
+				"tags": ["Quotes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/10/11/i-define-minimalism.html",
@@ -2439,7 +2518,7 @@
 				"content_text": "<blockquote>\n<p>“I define minimalism as ”the intentional promotion of the things we most value by removing anything that distracts us from them.“ … It isn’t primarily about decluttering or organizing; it’s about creating freedom.” (Joshua Becker, Things That Matter) 💬</p>\n</blockquote>\n",
 				"date_published": "2022-10-11T07:00:00-05:00",
 				"url": "https://blog.ericgregorich.com/2022/10/11/i-define-minimalism.html",
-				"tags": ["Links"]
+				"tags": ["Quotes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/10/10/weve-mistaken-doing.html",
@@ -2448,7 +2527,7 @@
 				"content_text": "<blockquote>\n<p>“We’ve mistaken doing things—being “productive”—as the measure of a day well spent, when really that’s just one of many by-products of living well.” (Madeleine Dore, I Didn’t Do the Thing Today) 💬</p>\n</blockquote>\n",
 				"date_published": "2022-10-10T07:00:00-05:00",
 				"url": "https://blog.ericgregorich.com/2022/10/10/weve-mistaken-doing.html",
-				"tags": ["Links"]
+				"tags": ["Quotes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/10/09/the-benefits-of.html",
@@ -2466,7 +2545,7 @@
 				"content_text": "<blockquote>\n<p>“I try to avoid having thoughts. They lead to other thoughts, and-if you’re not careful-those lead to actions. Actions make you tired. I have this on rather good authority from someone who once read it in a book.” (Brandon Sanderson, Warbreaker)</p>\n</blockquote>\n<p>💬 Hilarious!</p>\n",
 				"date_published": "2022-10-09T07:00:00-05:00",
 				"url": "https://blog.ericgregorich.com/2022/10/09/i-try-to.html",
-				"tags": ["Links"]
+				"tags": ["Quotes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/10/08/started-to-play.html",
@@ -2484,7 +2563,7 @@
 				"content_text": "<blockquote>\n<p>“Instead of wondering when your next vacation is, maybe you should set up a life you don’t need to escape from.” (Peter Voogd, 6 Months to 6 Figures)</p>\n</blockquote>\n<p>💬 I can’t imagine retiring in the traditional sense. I’ll always be coding, writing, and creating something.</p>\n",
 				"date_published": "2022-10-08T07:43:14-05:00",
 				"url": "https://blog.ericgregorich.com/2022/10/08/instead-of-wondering.html",
-				"tags": ["Links"]
+				"tags": ["Quotes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/10/07/i-have-started.html",
@@ -2566,10 +2645,10 @@
 				"id": "http://ericgregorich.micro.blog/2022/09/26/announcing-the-allnew.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><a href=\"https://on.substack.com/p/new-web-reader?r=1cnvs&amp;s=r&amp;utm_campaign=post&amp;utm_medium=web\">Announcing the all-new Substack Reader for web</a></p>\n<blockquote>\n<p>Want to add a publication from outside Substack? No problem—just select “Add RSS feed” from the left sidebar.</p>\n</blockquote>\n<p>I keep seeing on Twitter that Substack is finally going to replace what we lost in Google Reader all those years ago. What was special about Google Reader that has not already been replaced by Feedbin, Feedly, Inoreader, NetNewsWire, and the dozens of other RSS services out there?</p>\n",
+				"content_text": "<p><a href=\"https://on.substack.com/p/new-web-reader?r=1cnvs&s=r&utm_campaign=post&utm_medium=web\">Announcing the all-new Substack Reader for web</a></p>\n<blockquote>\n<p>Want to add a publication from outside Substack? No problem—just select “Add RSS feed” from the left sidebar.</p>\n</blockquote>\n<p>I keep seeing on Twitter that Substack is finally going to replace what we lost in Google Reader all those years ago. What was special about Google Reader that has not already been replaced by Feedbin, Feedly, Inoreader, NetNewsWire, and the dozens of other RSS services out there?</p>\n",
 				"date_published": "2022-09-26T18:12:23-05:00",
 				"url": "https://blog.ericgregorich.com/2022/09/26/announcing-the-allnew.html",
-				"tags": ["Links"]
+				"tags": ["Quotes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/09/25/ive-moved-all.html",
@@ -2624,10 +2703,10 @@
 				"id": "http://ericgregorich.micro.blog/2022/09/15/how-to-overwrite.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><a href=\"https://nesslabs.com/cognitive-scripts?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=cognitive-scripts\">How to overwrite your cognitive scripts - nesslabs.com</a></p>\n<blockquote>\n<p>Cognitive scripts are based on the semantic memory, or the knowledge we acquire throughout our lives. Semantic memory develops when we experience events in the everyday world, such as how to travel by public transport or the steps involved in eating in a restaurant. We organise our experiences into cognitive scripts that are personal to us, and these scripts may vary depending on our perception of a situation and the cultures we identify with. - Dr. Hannah England</p>\n</blockquote>\n<p>We can overwrite our cognitive scripts by journaling, reset the scripts that don’t work for us, and go off script and take risks.</p>\n<p>Cognitive scripts are based on our beliefs, created during our lifetime. Habits are more about the actions we take.</p>\n",
+				"content_text": "<p><a href=\"https://nesslabs.com/cognitive-scripts?utm_source=rss&utm_medium=rss&utm_campaign=cognitive-scripts\">How to overwrite your cognitive scripts - nesslabs.com</a></p>\n<blockquote>\n<p>Cognitive scripts are based on the semantic memory, or the knowledge we acquire throughout our lives. Semantic memory develops when we experience events in the everyday world, such as how to travel by public transport or the steps involved in eating in a restaurant. We organise our experiences into cognitive scripts that are personal to us, and these scripts may vary depending on our perception of a situation and the cultures we identify with. - Dr. Hannah England</p>\n</blockquote>\n<p>We can overwrite our cognitive scripts by journaling, reset the scripts that don’t work for us, and go off script and take risks.</p>\n<p>Cognitive scripts are based on our beliefs, created during our lifetime. Habits are more about the actions we take.</p>\n",
 				"date_published": "2022-09-15T07:54:17-05:00",
 				"url": "https://blog.ericgregorich.com/2022/09/15/how-to-overwrite.html",
-				"tags": ["Links"]
+				"tags": ["Quotes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/09/14/did-you-know.html",
@@ -2644,7 +2723,7 @@
 				"content_text": "<p><a href=\"https://blog.pragmaticengineer.com/how-to-become-a-full-time-creator\">Becoming a Full-Time Creator as a Software Engineer: Controversial Advice - The Pragmatic Engineer</a></p>\n<blockquote>\n<p>If you’re someone with years, or decades of experience working in tech, you can likely just sell your sawdust: things that are already in your head, like your past experience.</p>\n</blockquote>\n<p>This was a great article that talks about various ways to make a living as a creator.</p>\n",
 				"date_published": "2022-09-11T18:45:57-05:00",
 				"url": "https://blog.ericgregorich.com/2022/09/11/becoming-a-fulltime.html",
-				"tags": ["Links"]
+				"tags": ["Quotes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/09/11/loading-everyone-to.html",
@@ -2653,7 +2732,7 @@
 				"content_text": "<blockquote>\n<p>“Loading everyone to 100% of capacity has the same effect as loading a highway to 100% of capacity: No one can make any progress.” (Mike Cohn, Agile Estimating and Planning)</p>\n</blockquote>\n<p>I love this quote. So true!</p>\n",
 				"date_published": "2022-09-11T09:57:39-05:00",
 				"url": "https://blog.ericgregorich.com/2022/09/11/loading-everyone-to.html",
-				"tags": ["Links"]
+				"tags": ["Quotes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/09/11/i-didnt-do.html",
