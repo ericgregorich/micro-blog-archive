@@ -1,2 +1,2 @@
 # blog
-My public blog
+A backup of my blog over at Micro.blog.
