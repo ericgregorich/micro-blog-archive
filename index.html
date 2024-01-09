@@ -25,6 +25,215 @@
 	  <div class="h-entry">
 		
 
+		<a href="https://ericgregorich.com/2024/01/09/while-ive-been.html" class="u-url"><time class="dt-published" datetime="2024-01-09 17:22:46 -0500">Jan 9, 2024</time></a>
+
+		<div class="e-content">
+			 <p>While I’ve been trying out Hey email (and calendar) before my subscription runs out, I thought I would also take a look at Proton Mail.</p>
+<p>Proton Mail is quite boring and straightforward compared to Hey…</p>
+<p>…, and I like that. 😉</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://ericgregorich.com/2024/01/07/gran-turismo.html" class="u-url"><time class="dt-published" datetime="2024-01-07 11:55:54 -0500">Jan 7, 2024</time></a>
+
+		<div class="e-content">
+			 <p>🍿 <a href="https://www.themoviedb.org/movie/980489">Gran Turismo (2023)</a> - ★★★★★</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://ericgregorich.com/2024/01/07/working-with-checkbox.html">Working with Checkbox controls in a Power Apps Gallery</a></h1>
+		
+
+		<a href="https://ericgregorich.com/2024/01/07/working-with-checkbox.html" class="u-url"><time class="dt-published" datetime="2024-01-07 11:40:22 -0500">Jan 7, 2024</time></a>
+
+		<div class="e-content">
+			 <!-- raw HTML omitted -->
+<p>Handling checkboxes can be tricky and does not always work as expected. I find using a collection is a simple and robust solution. For this demo, let&rsquo;s set up a Gallery with checkbox controls to demonstrate various ways to interact with them.</p>
+<h2 id="load-the-data">Load the Data</h2>
+<p>Add a button and update the OnSelect property to create a data collection.</p>
+<pre tabindex="0"><code>ClearCollect(
+    colSampleFood,
+    {
+        Id: GUID(),
+        Title: &#34;Pizza&#34;,
+        SelectedFood: false
+    },
+    {
+        Id: GUID(),
+        Title: &#34;Hamburgers&#34;,
+        SelectedFood: false
+    },
+    {
+        Id: GUID(),
+        Title: &#34;Hotdogs&#34;,
+        SelectedFood: false
+    },
+    {
+        Id: GUID(),
+        Title: &#34;Chicken&#34;,
+        SelectedFood: false
+    }
+)
+</code></pre><h2 id="configure-your-gallery">Configure Your Gallery</h2>
+<p>Set the <strong>Gallery.Items</strong> property to the name of your collection.</p>
+<pre tabindex="0"><code>colSampleFood
+</code></pre><p>In your Gallery template, add a checkbox control. Set the Text property to the current title (<code>ThisItem.Title</code>). Set the Default property to <code>ThisItem.SelectedFood</code>. Adjust the size and layout of your template as needed. Your Gallery should display your data when you click the <code>Load Collection</code> button.</p>
+<h2 id="add-a-datatable-control-optional">Add a DataTable control (Optional)</h2>
+<p>To easily view the data in my collection without digging through the data sources or the formula bar, I add a DataTable control to the screen and delete it afterward. To do this, set the Items property of the DataTable control to your collection colSampleFood and add all fields to the control. This will give you a live preview of the data in your collection. See the screenshot above to see how mine looks for this demo.</p>
+<h2 id="save-your-gallery-checkbox-state">Save your Gallery Checkbox state</h2>
+<p>Add a Save button to your screen. Set the <code>OnSelect</code> property to the formula below. When the button is clicked, for each item in the Gallery, we will <a href="https://learn.microsoft.com/en-us/power-platform/power-fx/reference/function-patch?ref=thepowerarchitect.com">Patch</a> the <strong>colSampleFood</strong> collection with the value of the checkbox for that record.</p>
+<pre tabindex="0"><code>ForAll(
+    galDemo.AllItems,
+    Patch(
+        colSampleFood,
+        ThisRecord,
+        {SelectedFood: cbIsSelected.Value}
+    )
+)
+</code></pre><p>If you added the <strong>DataTable</strong> control above, then when you click Save, you should see the <strong>SelectedFood</strong> property update and match the selected values of your checkboxes.</p>
+<h2 id="select-all-checkboxes-in-the-gallery">Select all checkboxes in the Gallery</h2>
+<p>A common scenario is to have a button or link on the screen that, when clicked, checks all of the checkboxes in the Gallery.</p>
+<p>One way to do this is to immediately use the OnCheck and OnUnCheck properties of the Checkbox control and patch the current item in the collection. This usually works, but I&rsquo;ve had issues patching the collection from within the Gallery for other field types and larger collections, so I try to avoid it.</p>
+<p>I found an easy way to select all is to update the collection directly using the <a href="https://learn.microsoft.com/en-us/power-platform/power-fx/reference/function-update-updateif?ref=thepowerarchitect.com">UpdateIf</a> function. Add the code below in the OnSelect property of your Select All button. It will update the colSampleFood collection, setting all unchecked items to checked. Since your Gallery uses the collection as its data source, it will update automatically.</p>
+<pre tabindex="0"><code>UpdateIf( colSampleFood, Not(SelectedFood), {SelectedFood: true} )
+</code></pre><h2 id="unselect-all-checkboxes-in-the-gallery">Unselect all checkboxes in the Gallery</h2>
+<p>Unselecting all checkboxes, as you would expect, is similar to when we select them all. In the <strong>OnSelect</strong> property of the <strong>Unselect All</strong> button, add this code.</p>
+<pre tabindex="0"><code>UpdateIf(
+    colSampleFood,
+    SelectedFood,
+    {SelectedFood: false}
+)
+</code></pre>
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://ericgregorich.com/2024/01/07/i-got-tired.html" class="u-url"><time class="dt-published" datetime="2024-01-07 11:24:36 -0500">Jan 7, 2024</time></a>
+
+		<div class="e-content">
+			 <p>I got tired of seeing my face everywhere, so I updated the logo on my site and profiles. I created it in a few minutes using Adobe Express. It&rsquo;s a G (for my last name), but I like that it looks like an arrow. Maybe that represents something like me repeatedly changing things.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://ericgregorich.com/2024/01/06/website-is-visual.html" class="u-url"><time class="dt-published" datetime="2024-01-06 17:10:40 -0500">Jan 6, 2024</time></a>
+
+		<div class="e-content">
+			 <p><a href="https://we-b.site/">(we)bsite</a> is visual and interactive site full of letters where people share what they want from the internet. Some of these letters can be read directly on the site and others link to the blog post.</p>
+<p>I love these simple, interactive sites that make the web an interesting place.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://ericgregorich.com/2024/01/06/the-power-apps.html">The Power Apps With Function</a></h1>
+		
+
+		<a href="https://ericgregorich.com/2024/01/06/the-power-apps.html" class="u-url"><time class="dt-published" datetime="2024-01-06 16:38:01 -0500">Jan 6, 2024</time></a>
+
+		<div class="e-content">
+			 <p>The Power Apps With function is a powerful way to divide complex formulas into smaller pieces. It is useful when used within a ForAll since we can’t set variables within a ForAll. <!-- raw HTML omitted -->Since the With formula is contained, it is preferred over context variables created using UpdateContext or global variables created using Set.<!-- raw HTML omitted --></p>
+<p>The syntax looks like this:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-js" data-lang="js"><span style="display:flex;"><span><span style="color:#a6e22e">With</span>(
+</span></span><span style="display:flex;"><span>	{ 
+</span></span><span style="display:flex;"><span>		<span style="color:#a6e22e">myValue1</span><span style="color:#f92672">:</span> <span style="color:#75715e">//add some logic
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>	},
+</span></span><span style="display:flex;"><span>	<span style="color:#75715e">//Do something with the myValue1result
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>)
+</span></span></code></pre></div><p>You can also have nested With functions.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-js" data-lang="js"><span style="display:flex;"><span><span style="color:#a6e22e">With</span>(
+</span></span><span style="display:flex;"><span>	{ 
+</span></span><span style="display:flex;"><span>		<span style="color:#a6e22e">myValue1</span><span style="color:#f92672">:</span> <span style="color:#75715e">//add some logic
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>	},
+</span></span><span style="display:flex;"><span>	<span style="color:#a6e22e">With</span>(
+</span></span><span style="display:flex;"><span>	{
+</span></span><span style="display:flex;"><span>		<span style="color:#a6e22e">myValue2</span><span style="color:#f92672">:</span> <span style="color:#75715e">// do something with myValue1
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>	},
+</span></span><span style="display:flex;"><span>	<span style="color:#75715e">//Do something with myValue1 or myValue2
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>)
+</span></span></code></pre></div><p>Or even run the With function within a ForAll. You can also run ForEach within the With function itself.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-js" data-lang="js"><span style="display:flex;"><span><span style="color:#a6e22e">ForAll</span>(
+</span></span><span style="display:flex;"><span>	<span style="color:#a6e22e">galMyItems</span>.<span style="color:#a6e22e">AllItems</span> <span style="color:#a6e22e">As</span> <span style="color:#a6e22e">galSelectedItem</span>, 
+</span></span><span style="display:flex;"><span>	<span style="color:#a6e22e">With</span>(
+</span></span><span style="display:flex;"><span>	{
+</span></span><span style="display:flex;"><span>		<span style="color:#a6e22e">myValue1</span><span style="color:#f92672">:</span> <span style="color:#75715e">//add some logic using galSelectedItem
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>	},
+</span></span><span style="display:flex;"><span>	<span style="color:#75715e">//Do something with the myValue1
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>	)
+</span></span><span style="display:flex;"><span>)
+</span></span></code></pre></div>
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://ericgregorich.com/2024/01/05/disable-firefox-back.html">Disable Firefox back and forward navigation with the ALT and mousewheel</a></h1>
+		
+
+		<a href="https://ericgregorich.com/2024/01/05/disable-firefox-back.html" class="u-url"><time class="dt-published" datetime="2024-01-05 11:04:08 -0500">Jan 5, 2024</time></a>
+
+		<div class="e-content">
+			 <p>Using Firefox, if you hold down the ALT key and use the scroll wheel on your mouse, it will navigate you back or forward in your browser. This seems like a good idea, but I&rsquo;ve been having problems with doing this unintentionally.</p>
+<p>I have a unique scenario. I&rsquo;m developing Power Apps, and while in the editor, if you hold down your ALT key, it will change the app you editing to &ldquo;play&rdquo; mode so you can click around as if you were using the app.</p>
+<p>If I hold down the ALT key to go into Play mode but then want to scroll in my app&hellip; well, you see the problem. Firefox navigates back to a previous screen, which closes my app altogether, and I lose all my changes.</p>
+<p>Fortunately, I found a fix.</p>
+<ul>
+<li>Open Firefox.</li>
+<li>Type <code>about:config</code> in the address bar.</li>
+<li>Click the <code>Accept the Risk and Continue</code> button.</li>
+<li>Search for <code>mousewheel.with_alt.action</code></li>
+<li>Edit its value from <code>2</code> to <code>1</code>.</li>
+</ul>
+<p>This is all it took to fix my issue!</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://ericgregorich.com/2024/01/04/i-have-mixed.html" class="u-url"><time class="dt-published" datetime="2024-01-04 12:20:09 -0500">Jan 4, 2024</time></a>
+
+		<div class="e-content">
+			 <p>I have mixed feelings about including &ldquo;Kudos&rdquo; on my blog. While I appreciate the feedback, it feels too much like social media despite no algorithm involved.</p>
+<p>For now, I removed them from my site.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://ericgregorich.com/2024/01/04/the-impact-of.html">The impact of my blog in 2023</a></h1>
+		
+
+		<a href="https://ericgregorich.com/2024/01/04/the-impact-of.html" class="u-url"><time class="dt-published" datetime="2024-01-04 10:23:01 -0500">Jan 4, 2024</time></a>
+
+		<div class="e-content">
+			 <p>Looking back on 2023, I realize this blog has stuck around even as I jump from app to app and service to service. I attribute that to <a href="https://micro.blog/manton">@manton</a>&rsquo;s great work creating a solid platform and a fantastic community.</p>
+<p>While I&rsquo;ve changed things a bit, including the theme and domain, the foundation remains. This blog is where I can post my thoughts, no matter how brief. I can post <a href="https://ericgregorich.com/categories/notes/">notes</a>, <a href="https://ericgregorich.com/categories/quotes/">quotes</a> I enjoy, <a href="https://ericgregorich.com/categories/links/">links</a> I find interesting, <a href="https://ericgregorich.com/categories/photos/">photos</a> of things I&rsquo;ve experienced, and even <a href="https://ericgregorich.com/categories/books/">books</a> I&rsquo;m reading.</p>
+<p>I&rsquo;ll never go back to posting to social media or even creating a newsletter with the content starting here, where I own and control it.</p>
+<p>What&rsquo;s next?</p>
+<p>I&rsquo;m not one to share much online; I started to break out of that shell in 2023. I plan to do more and see where it goes. I go to this site to find past notes nearly as often as I go to my actual notes app. I may embrace that and keep adding more content that I find helpful in hopes others find the same.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
 		<a href="https://ericgregorich.com/2024/01/03/i-started-using.html" class="u-url"><time class="dt-published" datetime="2024-01-03 21:18:45 -0500">Jan 3, 2024</time></a>
 
 		<div class="e-content">
@@ -2589,19 +2798,6 @@ Green = Energy Creating Yellow = Neutral Red = Energy Draining. I don’t spend 
 	  <div class="h-entry">
 		
 
-		<a href="https://ericgregorich.com/2023/03/22/sharepoint-site-provisioning.html" class="u-url"><time class="dt-published" datetime="2023-03-22 16:19:16 -0500">Mar 22, 2023</time></a>
-
-		<div class="e-content">
-			 <p><a href="https://ericgregorich.com/sharepoint-site-provisioning-start-here">SharePoint Site Provisioning</a> I started a series of posts demonstrating how to use Power Automate to create and update SharePoint sites.</p>
-<p>It includes creating a new site, applying a template to the site, deleting a content type, setting up default folders, and more.</p>
-<!-- raw HTML omitted -->
-
-		</div>
-	  </div>
-	
-	  <div class="h-entry">
-		
-
 		<a href="https://ericgregorich.com/2023/03/21/logseq-has-been.html" class="u-url"><time class="dt-published" datetime="2023-03-21 17:19:02 -0500">Mar 21, 2023</time></a>
 
 		<div class="e-content">
@@ -4825,7 +5021,7 @@ https://{yourblogurl}.com/categories/{category}/feed.json
     
     <p><strong>What's Next?</strong></p>
 <p>
-Follow via <a href="/subscribe">RSS</a> or <a href="/subscribe">Email</a>.  You can explore the site by checking out some <a href="/surprise-me">random posts</a> or <a href="/search">search</a> for something specific. If I was helpful, you could buy me a <a href="https://ko-fi.com/ericgregorich">coffee</a>. 
+Follow via <a href="/subscribe">RSS</a>, <a href="/subscribe">Email</a>, <a href="https://micro.blog/ericgregorich" rel="me">Micro.blog</a> or <a href="https://social.lol/@ericgregorich" rel="me">Mastodon</a>.  Explore the site by checking out some <a href="/surprise-me">random posts</a>, <a href="/search-space">search</a>, or browse the <a href="/stats">stats</a>. Learn more <a href="/about">about me</a>. If I was helpful, you could buy me a <a href="https://ko-fi.com/ericgregorich">coffee</a>.  
 </p>
 
 <p>
@@ -4841,7 +5037,7 @@ Powered by <a href="https://micro.blog">Micro.blog</a> and the <a href="https://
         <span class="p-name">Eric Gregorich</span>
         <span class="p-given-name">Eric</span>
         <span class="p-family-name">Gregorich</span>
-        <img class="u-photo" src="https://ericgregorich.micro.blog/uploads/2022/11af85e9f7.png"/>
+        <img class="u-photo" src="https://ericgregorich.com/uploads/2024/avatar.png"/>
         <a class="u-url" href="https://ericgregorich.com">Website</a>,
         <div class="p-country-name">United States</div>
         <div class="p-note">I’m Eric, a software architect who loves building solutions that help people be more productive. I have over 20 years of experience developing web and mobile applications using Microsoft technologies such as Power Platform, SharePoint, Azure, and more. I also enjoy exploring new tools and trends in tech, including AI, static site generators, and microblogging.</div>
