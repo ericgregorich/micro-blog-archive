@@ -7,6 +7,87 @@
 	"items": [
 		
 			{
+				"id": "http://ericgregorich.micro.blog/2024/01/14/the-taste-of.html",
+				"title": "The taste of coffee",
+				"content_html": "<blockquote>\n<p>Sweet, Dark Chocolate with hints of citrus.</p>\n</blockquote>\n<p>Tastes like a good medium-roast coffee to me.</p>\n<blockquote>\n<p>Medium-dark roast with notes of oaky dry wine, dried raspberries, and brown sugar.</p>\n</blockquote>\n<p>This one also tastes like a good medium-roast coffee.</p>\n<blockquote>\n<p>This medium roast coffee is bright and expressive, like a Southern Jaquan after three shots of espresso. It sports a juicy body with lasting sweetness, reminiscent of summer flings and butterfly wings. Flavor notes sing of lime, orange blossom honey, and vanilla. For if not to sing, WTF are we doing here?</p>\n</blockquote>\n<p>I definitely get hints of butterfly wings. Not!\nBut still, it is a good medium-roast coffee.</p>\n<hr>\n<p>I enjoy my coffee.</p>\n<p>I drink it black and usually a darker roast. I use the pour-over method and fresh grounds.</p>\n<p>I can tell the difference between types of roasts. I tend to prefer the darker, smokier roasts.</p>\n<p>I&rsquo;m subscribed to Trade Coffee and get a new bag about every 10 days, which is convenient and gives me a chance to try a variety of beans.</p>\n<p>For the most part, they all taste the same to me. If I compare them side-by-side, I can tell slight differences, but to say one has a hint of dark chocolate, citrus, bacon, etc., seems to be simply marketing.</p>\n<p>Do you have a different opinion? Have a favorite coffee you would recommend?</p>\n",
+				"content_text": "> Sweet, Dark Chocolate with hints of citrus.\n\nTastes like a good medium-roast coffee to me. \n\n> Medium-dark roast with notes of oaky dry wine, dried raspberries, and brown sugar. \n\nThis one also tastes like a good medium-roast coffee. \n\n> This medium roast coffee is bright and expressive, like a Southern Jaquan after three shots of espresso. It sports a juicy body with lasting sweetness, reminiscent of summer flings and butterfly wings. Flavor notes sing of lime, orange blossom honey, and vanilla. For if not to sing, WTF are we doing here?\n\nI definitely get hints of butterfly wings. Not!\nBut still, it is a good medium-roast coffee. \n\n---\n\nI enjoy my coffee. \n\nI drink it black and usually a darker roast. I use the pour-over method and fresh grounds. \n\nI can tell the difference between types of roasts. I tend to prefer the darker, smokier roasts. \n\nI'm subscribed to Trade Coffee and get a new bag about every 10 days, which is convenient and gives me a chance to try a variety of beans. \n\nFor the most part, they all taste the same to me. If I compare them side-by-side, I can tell slight differences, but to say one has a hint of dark chocolate, citrus, bacon, etc., seems to be simply marketing. \n\nDo you have a different opinion? Have a favorite coffee you would recommend?\n\n",
+				"date_published": "2024-01-14T14:24:51-05:00",
+				"url": "https://ericgregorich.com/2024/01/14/the-taste-of.html",
+				"tags": ["Essays"]
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2024/01/14/my-review-of.html",
+				"title": "My review of the Hey Calendar",
+				"content_html": "<p>I had a few days to play around with the new Hey Calendar from 37signals. Here is a <!-- raw HTML omitted -->4-minute video<!-- raw HTML omitted --> of how it works.</p>\n<p>I give 37signals kudos for thinking outside the box. One thing they&rsquo;ve done well with Hey email, for better or worse, is try to be original. An original UI/UX and some original features.</p>\n<p>They&rsquo;ve coined the terms Imbox (for important email), The Feed (for newsletters), and Paper Trail (for receipts and paperwork you need to keep but don&rsquo;t need to read).</p>\n<p>While in reality, these features are arguably just cosmetic, they did get me thinking about email differently.</p>\n<p>Hey Calendar is more of the same. The designers tried to think about how they use a calendar and developed an experience that worked for them.</p>\n<p>Does this translate well to every other user outside of 37signals?</p>\n<p>That&rsquo;s debatable.</p>\n<p>When I go to Hey Email (and now Hey Calendar), I first think how nice and unique it is. The UI is clean and refreshing. But after using it for a few days, I tend to get frustrated and feel as if I&rsquo;m being forced into someone else point of view with awkward navigation and location and naming of features.</p>\n<p>When I return to another email client, whether Fastmail, Apple Mail, Apple Calendar, or even Outlook, I think, &ldquo;Wow, this is boring!&rdquo; But you know what? It still works just fine. With a few filters/rules applied, I can get the same benefits of the Screener, Papertrail, and The Feed in any other email client.</p>\n<p>I do appreciate the attempts to add Habits and Time Tracking features to the initial release of Hey Calendar. Those two features should be built into every calendar service as core functionality. However, I found the initial implementation in Hey Calendar very limited.</p>\n<p><!-- raw HTML omitted -->The Week view<!-- raw HTML omitted --> in Hey Calendar makes sense to me. I tend to manage my week. But if I want to see the month ahead, it&rsquo;s all right here; scroll a little.</p>\n<!-- raw HTML omitted -->\n<p><!-- raw HTML omitted -->The Day view<!-- raw HTML omitted --> takes some getting used to as it is horizontal. I had the Hey Calendar open on my small portable monitor below my primary monitor. It worked well as a dashboard showing my upcoming events. The screenshot below doesn&rsquo;t do it justice since I&rsquo;m not showing my actual calendar.</p>\n<!-- raw HTML omitted -->\n<p>The iOS app also questioned whether I could handle this unique look and functionality whenever I wanted to view my calendar. It would certainly take some adjustment.</p>\n<p>I had to reach out to <!-- raw HTML omitted -->Hey support<!-- raw HTML omitted --> once because I broke my Hey Calendar link when I tried to link my account with my Hey for Domains account. They responded within minutes and had my account fixed within a few hours. I feel like their support is top-notch. I could be wrong.</p>\n<p>Overall, I think both Hey email and calendar are interesting, but I don&rsquo;t know if it&rsquo;s worth paying for another year&rsquo;s subscription. I&rsquo;m on the fence, to be honest. I&rsquo;m not using the Hey service at all at the moment, but my subscription doesn&rsquo;t run out until March.</p>\n<p>If you love the UI and can deal with the very opinionated nature of the founders of 37signals, then Hey may be a great fit for you.</p>\n",
+				"content_text": "I had a few days to play around with the new Hey Calendar from 37signals. Here is a <a href=\"https://www.youtube.com/watch?v=iwTlm6UAFns\">4-minute video</a> of how it works. \n\nI give 37signals kudos for thinking outside the box. One thing they've done well with Hey email, for better or worse, is try to be original. An original UI/UX and some original features. \n\nThey've coined the terms Imbox (for important email), The Feed (for newsletters), and Paper Trail (for receipts and paperwork you need to keep but don't need to read).\n\nWhile in reality, these features are arguably just cosmetic, they did get me thinking about email differently. \n\nHey Calendar is more of the same. The designers tried to think about how they use a calendar and developed an experience that worked for them. \n\nDoes this translate well to every other user outside of 37signals? \n\nThat's debatable. \n\nWhen I go to Hey Email (and now Hey Calendar), I first think how nice and unique it is. The UI is clean and refreshing. But after using it for a few days, I tend to get frustrated and feel as if I'm being forced into someone else point of view with awkward navigation and location and naming of features. \n\nWhen I return to another email client, whether Fastmail, Apple Mail, Apple Calendar, or even Outlook, I think, \"Wow, this is boring!\" But you know what? It still works just fine. With a few filters/rules applied, I can get the same benefits of the Screener, Papertrail, and The Feed in any other email client.\n\nI do appreciate the attempts to add Habits and Time Tracking features to the initial release of Hey Calendar. Those two features should be built into every calendar service as core functionality. However, I found the initial implementation in Hey Calendar very limited. \n\n<strong>The Week view</strong> in Hey Calendar makes sense to me. I tend to manage my week. But if I want to see the month ahead, it's all right here; scroll a little.\n\n<img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://ericgregorich.com/uploads/2024/heycalendarweekview.png\" alt=\"A screenshot of the Hey Calendar Week View\" title=\"HeyCalendarWeekView.png\" border=\"0\" width=\"600\" height=\"334\" />\n\n<strong>The Day view</strong> takes some getting used to as it is horizontal. I had the Hey Calendar open on my small portable monitor below my primary monitor. It worked well as a dashboard showing my upcoming events. The screenshot below doesn't do it justice since I'm not showing my actual calendar. \n\n<img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://ericgregorich.com/uploads/2024/heycalendardayview.png\" alt=\"A screenshot of the Hey Calendar Day View\" title=\"HeyCalendarDayView.png\" border=\"0\" width=\"599\" height=\"462\" />\nI found both the Week and Day views feel very cluttered when full of events, habits, time tracking, photos, etc. This bothered me.\n\nThe iOS app also questioned whether I could handle this unique look and functionality whenever I wanted to view my calendar. It would certainly take some adjustment.\n\nI had to reach out to <strong>Hey support</strong> once because I broke my Hey Calendar link when I tried to link my account with my Hey for Domains account. They responded within minutes and had my account fixed within a few hours. I feel like their support is top-notch. I could be wrong.\n\nOverall, I think both Hey email and calendar are interesting, but I don't know if it's worth paying for another year's subscription. I'm on the fence, to be honest. I'm not using the Hey service at all at the moment, but my subscription doesn't run out until March. \n\nIf you love the UI and can deal with the very opinionated nature of the founders of 37signals, then Hey may be a great fit for you. \n",
+				"date_published": "2024-01-14T13:38:56-05:00",
+				"url": "https://ericgregorich.com/2024/01/14/my-review-of.html",
+				"tags": ["Essays"]
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2024/01/14/oohdirectory-a-place.html",
+				
+				"content_html": "<p>🔗 <a href=\"https://ooh.directory/\">ooh.directory: a place to find good blogs that interest you</a></p>\n<p>Ooh Directory is another great place to find good blogs.  The site was started in 2022 by <a href=\"https://www.gyford.com\">Phil Gyford</a>. <sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup></p>\n<div class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\">\n<p><a href=\"https://social.lol/@bixfrankonis/111751844134721094\">social.lol/@bixfrank&hellip;</a>&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</div>\n",
+				"content_text": "🔗 [ooh.directory: a place to find good blogs that interest you](https://ooh.directory/)\n\nOoh Directory is another great place to find good blogs.  The site was started in 2022 by [Phil Gyford](https://www.gyford.com). [^1]\n\n[^1]: [social.lol/@bixfrank...](https://social.lol/@bixfrankonis/111751844134721094)\n",
+				"date_published": "2024-01-14T12:07:58-05:00",
+				"url": "https://ericgregorich.com/2024/01/14/oohdirectory-a-place.html",
+				"tags": ["Links"]
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2024/01/14/inoreader-inoreaderive-enjoyed.html",
+				
+				"content_html": "<p>🔗 <a href=\"https://inoreader.com\">Inoreader</a>\nI&rsquo;ve enjoyed Inoreader as my one stop for all RSS, newsletters, YouTube, and even Micro.blog.</p>\n<p>I have turned off unread counts and have the All Articles view set to Cards. An excellent way to scroll through everything without jumping in and out.</p>\n",
+				"content_text": "🔗 [Inoreader](https://inoreader.com)\nI've enjoyed Inoreader as my one stop for all RSS, newsletters, YouTube, and even Micro.blog. \n\nI have turned off unread counts and have the All Articles view set to Cards. An excellent way to scroll through everything without jumping in and out. \n",
+				"date_published": "2024-01-14T08:36:03-05:00",
+				"url": "https://ericgregorich.com/2024/01/14/inoreader-inoreaderive-enjoyed.html",
+				"tags": ["Links"]
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2024/01/13/ye-olde-blogroll.html",
+				
+				"content_html": "<p>🔗 <a href=\"https://blogroll.org/\">Ye Olde Blogroll - Blogroll.org</a></p>\n<blockquote>\n<p>You are viewing a humanly curated list of fine personal &amp; independent blogs that are updated regularly. No algorithms ever!</p>\n</blockquote>\n<p>An excellent directory of curated blogs. No algorithms are to be found. Only great blogs and RSS feeds.</p>\n",
+				"content_text": "🔗 [Ye Olde Blogroll - Blogroll.org](https://blogroll.org/)\n> You are viewing a humanly curated list of fine personal & independent blogs that are updated regularly. No algorithms ever!\n\nAn excellent directory of curated blogs. No algorithms are to be found. Only great blogs and RSS feeds. \n",
+				"date_published": "2024-01-13T20:44:19-05:00",
+				"url": "https://ericgregorich.com/2024/01/13/ye-olde-blogroll.html",
+				"tags": ["Links"]
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2024/01/13/include-a-summary.html",
+				
+				"content_html": "<p>If you have a newsletter, please include a summary of who you are at the top, especially if you send infrequently.</p>\n<p>A new feature of newsletters could be to ask the user why they subscribed as they sign up. Then, include it in the newsletter itself as a helpful reminder. Maybe this could be done with Buttondown and other providers, using Tags.</p>\n",
+				"content_text": "If you have a newsletter, please include a summary of who you are at the top, especially if you send infrequently. \n\nA new feature of newsletters could be to ask the user why they subscribed as they sign up. Then, include it in the newsletter itself as a helpful reminder. Maybe this could be done with Buttondown and other providers, using Tags.\n",
+				"date_published": "2024-01-13T09:27:20-05:00",
+				"url": "https://ericgregorich.com/2024/01/13/include-a-summary.html",
+				"tags": ["Updates"]
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2024/01/11/how-to-really.html",
+				
+				"content_html": "<p><a href=\"https://www.youtube.com/watch?v=3cMDOBBjubk\">How to REALLY use Microsoft Word 2024</a></p>\n<p>Scott Hanselman is, to me, the <!-- raw HTML omitted -->Bob Ross<!-- raw HTML omitted --> of developers. Just listen to him in this video and you can see why. He&rsquo;s great at explaining things.</p>\n",
+				"content_text": "[How to REALLY use Microsoft Word 2024](https://www.youtube.com/watch?v=3cMDOBBjubk) \n\nScott Hanselman is, to me, the <strong>Bob Ross</strong> of developers. Just listen to him in this video and you can see why. He's great at explaining things.\n",
+				"date_published": "2024-01-11T15:04:42-05:00",
+				"url": "https://ericgregorich.com/2024/01/11/how-to-really.html",
+				"tags": ["Links"]
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2024/01/11/use-your-domain.html",
+				"title": "Use your domain for your email address",
+				"content_html": "<p>Your email address is an essential part of your identity. Your email address is used to log into your accounts, change your passwords, and more. Your email is also where you may have personal communication with others.</p>\n<p>I trust Google, Microsoft, and Apple enough to take your email security seriously. They&rsquo;re incredibly secure. <strong>But there is a difference between security and privacy.</strong> These companies can not only see your email but track how you use your email and share information about you with 3rd parties.</p>\n<blockquote>\n<p>We share your personal data with your consent or to complete any transaction or provide any product you have requested or authorized. We also share data with Microsoft-controlled affiliates and subsidiaries; with vendors working on our behalf; when required by law or to respond to legal process; to protect our customers; to protect lives; to maintain the security of our products; and to protect the rights and property of Microsoft and its customers. - <!-- raw HTML omitted -->Microsoft Privacy Statement<!-- raw HTML omitted --></p>\n</blockquote>\n<p>When you use your domain for your email address, you can use a dedicated email client or a service that specializes in email and is determined to take your privacy seriously. <!-- raw HTML omitted -->Fastmail<!-- raw HTML omitted -->, <!-- raw HTML omitted -->Protonmail<!-- raw HTML omitted -->, and <!-- raw HTML omitted -->Hey for Domains<!-- raw HTML omitted --> are a few I&rsquo;ve tried. </p>\n<p>Another advantage to using your domain for your email is you can easily change services or email clients without changing your email address. For example, I recently wanted to try Hey for Domains. I was using iCloud Domains. I went through the instructions to change my DNS settings for my domain, and a few minutes later, I was using Hey. A week later, I decided Hey may not be for me, and I switched to Protonmail. </p>\n<p><!-- raw HTML omitted -->The downside to switching is that you may have to leave your email history behind. Check if your email service allows you to do a full email export so you can take your email with you!<!-- raw HTML omitted --></p>\n<p>My main point to all of this is that a custom domain is a step in the right direction to take control of your email privacy.</p>\n<p>If you have any additional email services or privacy tips, please share!</p>\n",
+				"content_text": "Your email address is an essential part of your identity. Your email address is used to log into your accounts, change your passwords, and more. Your email is also where you may have personal communication with others.\n\nI trust Google, Microsoft, and Apple enough to take your email security seriously. They're incredibly secure. **But there is a difference between security and privacy.** These companies can not only see your email but track how you use your email and share information about you with 3rd parties.\n\n> We share your personal data with your consent or to complete any transaction or provide any product you have requested or authorized. We also share data with Microsoft-controlled affiliates and subsidiaries; with vendors working on our behalf; when required by law or to respond to legal process; to protect our customers; to protect lives; to maintain the security of our products; and to protect the rights and property of Microsoft and its customers. - <a href=\"https://privacy.microsoft.com/en-us/privacystatement\">Microsoft Privacy Statement</a>\n\nWhen you use your domain for your email address, you can use a dedicated email client or a service that specializes in email and is determined to take your privacy seriously. <a href=\"https://www.fastmail.com/\">Fastmail</a>, <a href=\"https://proton.me/mail\">Protonmail</a>, and <a href=\"https://www.hey.com/domains\">Hey for Domains</a> are a few I've tried. \n\nAnother advantage to using your domain for your email is you can easily change services or email clients without changing your email address. For example, I recently wanted to try Hey for Domains. I was using iCloud Domains. I went through the instructions to change my DNS settings for my domain, and a few minutes later, I was using Hey. A week later, I decided Hey may not be for me, and I switched to Protonmail. \n\n<strong>The downside to switching is that you may have to leave your email history behind. Check if your email service allows you to do a full email export so you can take your email with you!</strong>\n\nMy main point to all of this is that a custom domain is a step in the right direction to take control of your email privacy.\n\nIf you have any additional email services or privacy tips, please share!\n",
+				"date_published": "2024-01-11T11:15:53-05:00",
+				"url": "https://ericgregorich.com/2024/01/11/use-your-domain.html",
+				"tags": ["Essays"]
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2024/01/10/rss-anything-claims.html",
+				"title": "RSS Anything",
+				"content_html": "<p><!-- raw HTML omitted -->RSS Anything<!-- raw HTML omitted --> claims to take any site with a list of links and transform it into an RSS feed. This is great for those blogs and sites you like to follow but don&rsquo;t provide their own RSS feed. I have not yet tried it, but I wanted to add it to my arsenal of web tools.</p>\n<p>I discovered this through <!-- raw HTML omitted -->Sara<!-- raw HTML omitted -->.</p>\n",
+				"content_text": "<a href=\"https://rss.diffbot.com/\">RSS Anything</a> claims to take any site with a list of links and transform it into an RSS feed. This is great for those blogs and sites you like to follow but don't provide their own RSS feed. I have not yet tried it, but I wanted to add it to my arsenal of web tools.\n\nI discovered this through <a href=\"https://ablerism.micro.blog/2024/01/08/rss-anything.html\">Sara</a>.\n\n",
+				"date_published": "2024-01-10T17:30:34-05:00",
+				"url": "https://ericgregorich.com/2024/01/10/rss-anything-claims.html",
+				"tags": ["Links"]
+			},
+			{
 				"id": "http://ericgregorich.micro.blog/2024/01/09/while-ive-been.html",
 				
 				"content_html": "<p>While I’ve been trying out Hey email (and calendar) before my subscription runs out, I thought I would also take a look at Proton Mail.</p>\n<p>Proton Mail is quite boring and straightforward compared to Hey…</p>\n<p>…, and I like that. 😉</p>\n",
@@ -17,21 +98,12 @@
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2024/01/07/gran-turismo.html",
-				
+				"title": "Gran Turismo 2023",
 				"content_html": "<p>🍿 <a href=\"https://www.themoviedb.org/movie/980489\">Gran Turismo (2023)</a> - ★★★★★</p>\n",
-				"content_text": "🍿 [Gran Turismo (2023)](https://www.themoviedb.org/movie/980489) - ★★★★★\r\n",
+				"content_text": "🍿 [Gran Turismo (2023)](https://www.themoviedb.org/movie/980489) - ★★★★★\n",
 				"date_published": "2024-01-07T11:55:54-05:00",
 				"url": "https://ericgregorich.com/2024/01/07/gran-turismo.html",
 				"tags": ["Updates"]
-			},
-			{
-				"id": "http://ericgregorich.micro.blog/2024/01/07/working-with-checkbox.html",
-				"title": "Working with Checkbox controls in a Power Apps Gallery",
-				"content_html": "<!-- raw HTML omitted -->\n<p>Handling checkboxes can be tricky and does not always work as expected. I find using a collection is a simple and robust solution. For this demo, let&rsquo;s set up a Gallery with checkbox controls to demonstrate various ways to interact with them.</p>\n<h2 id=\"load-the-data\">Load the Data</h2>\n<p>Add a button and update the OnSelect property to create a data collection.</p>\n<pre tabindex=\"0\"><code>ClearCollect(\n    colSampleFood,\n    {\n        Id: GUID(),\n        Title: &#34;Pizza&#34;,\n        SelectedFood: false\n    },\n    {\n        Id: GUID(),\n        Title: &#34;Hamburgers&#34;,\n        SelectedFood: false\n    },\n    {\n        Id: GUID(),\n        Title: &#34;Hotdogs&#34;,\n        SelectedFood: false\n    },\n    {\n        Id: GUID(),\n        Title: &#34;Chicken&#34;,\n        SelectedFood: false\n    }\n)\n</code></pre><h2 id=\"configure-your-gallery\">Configure Your Gallery</h2>\n<p>Set the <strong>Gallery.Items</strong> property to the name of your collection.</p>\n<pre tabindex=\"0\"><code>colSampleFood\n</code></pre><p>In your Gallery template, add a checkbox control. Set the Text property to the current title (<code>ThisItem.Title</code>). Set the Default property to <code>ThisItem.SelectedFood</code>. Adjust the size and layout of your template as needed. Your Gallery should display your data when you click the <code>Load Collection</code> button.</p>\n<h2 id=\"add-a-datatable-control-optional\">Add a DataTable control (Optional)</h2>\n<p>To easily view the data in my collection without digging through the data sources or the formula bar, I add a DataTable control to the screen and delete it afterward. To do this, set the Items property of the DataTable control to your collection colSampleFood and add all fields to the control. This will give you a live preview of the data in your collection. See the screenshot above to see how mine looks for this demo.</p>\n<h2 id=\"save-your-gallery-checkbox-state\">Save your Gallery Checkbox state</h2>\n<p>Add a Save button to your screen. Set the <code>OnSelect</code> property to the formula below. When the button is clicked, for each item in the Gallery, we will <a href=\"https://learn.microsoft.com/en-us/power-platform/power-fx/reference/function-patch?ref=thepowerarchitect.com\">Patch</a> the <strong>colSampleFood</strong> collection with the value of the checkbox for that record.</p>\n<pre tabindex=\"0\"><code>ForAll(\n    galDemo.AllItems,\n    Patch(\n        colSampleFood,\n        ThisRecord,\n        {SelectedFood: cbIsSelected.Value}\n    )\n)\n</code></pre><p>If you added the <strong>DataTable</strong> control above, then when you click Save, you should see the <strong>SelectedFood</strong> property update and match the selected values of your checkboxes.</p>\n<h2 id=\"select-all-checkboxes-in-the-gallery\">Select all checkboxes in the Gallery</h2>\n<p>A common scenario is to have a button or link on the screen that, when clicked, checks all of the checkboxes in the Gallery.</p>\n<p>One way to do this is to immediately use the OnCheck and OnUnCheck properties of the Checkbox control and patch the current item in the collection. This usually works, but I&rsquo;ve had issues patching the collection from within the Gallery for other field types and larger collections, so I try to avoid it.</p>\n<p>I found an easy way to select all is to update the collection directly using the <a href=\"https://learn.microsoft.com/en-us/power-platform/power-fx/reference/function-update-updateif?ref=thepowerarchitect.com\">UpdateIf</a> function. Add the code below in the OnSelect property of your Select All button. It will update the colSampleFood collection, setting all unchecked items to checked. Since your Gallery uses the collection as its data source, it will update automatically.</p>\n<pre tabindex=\"0\"><code>UpdateIf( colSampleFood, Not(SelectedFood), {SelectedFood: true} )\n</code></pre><h2 id=\"unselect-all-checkboxes-in-the-gallery\">Unselect all checkboxes in the Gallery</h2>\n<p>Unselecting all checkboxes, as you would expect, is similar to when we select them all. In the <strong>OnSelect</strong> property of the <strong>Unselect All</strong> button, add this code.</p>\n<pre tabindex=\"0\"><code>UpdateIf(\n    colSampleFood,\n    SelectedFood,\n    {SelectedFood: false}\n)\n</code></pre>",
-				"content_text": "<img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://ericgregorich.com/uploads/2024/power-apps-sample-gallery-control-with-checkboxes.png\" alt=\"A screenshot of a Power Apps Gallery control with checkboxes. Half the checkboxes are checked. Below the gallery shows the results and the data that is saved to the collection.\" title=\"Power-Apps-Sample-Gallery-Control-with-Checkboxes.png\" border=\"0\" width=\"599\" height=\"482\" /> \n\nHandling checkboxes can be tricky and does not always work as expected. I find using a collection is a simple and robust solution. For this demo, let's set up a Gallery with checkbox controls to demonstrate various ways to interact with them.\n\n## Load the Data\n\nAdd a button and update the OnSelect property to create a data collection.\n\n```\nClearCollect(\n    colSampleFood,\n    {\n        Id: GUID(),\n        Title: \"Pizza\",\n        SelectedFood: false\n    },\n    {\n        Id: GUID(),\n        Title: \"Hamburgers\",\n        SelectedFood: false\n    },\n    {\n        Id: GUID(),\n        Title: \"Hotdogs\",\n        SelectedFood: false\n    },\n    {\n        Id: GUID(),\n        Title: \"Chicken\",\n        SelectedFood: false\n    }\n)\n```\n\n## Configure Your Gallery\n\nSet the **Gallery.Items** property to the name of your collection.\n\n```\ncolSampleFood\n```\n\nIn your Gallery template, add a checkbox control. Set the Text property to the current title (`ThisItem.Title`). Set the Default property to `ThisItem.SelectedFood`. Adjust the size and layout of your template as needed. Your Gallery should display your data when you click the `Load Collection` button.\n\n## Add a DataTable control (Optional)\n\nTo easily view the data in my collection without digging through the data sources or the formula bar, I add a DataTable control to the screen and delete it afterward. To do this, set the Items property of the DataTable control to your collection colSampleFood and add all fields to the control. This will give you a live preview of the data in your collection. See the screenshot above to see how mine looks for this demo.\n\n## Save your Gallery Checkbox state\n\nAdd a Save button to your screen. Set the `OnSelect` property to the formula below. When the button is clicked, for each item in the Gallery, we will [Patch](https://learn.microsoft.com/en-us/power-platform/power-fx/reference/function-patch?ref=thepowerarchitect.com) the **colSampleFood** collection with the value of the checkbox for that record.\n\n```\nForAll(\n    galDemo.AllItems,\n    Patch(\n        colSampleFood,\n        ThisRecord,\n        {SelectedFood: cbIsSelected.Value}\n    )\n)\n```\n\nIf you added the **DataTable** control above, then when you click Save, you should see the **SelectedFood** property update and match the selected values of your checkboxes.\n\n## Select all checkboxes in the Gallery\n\nA common scenario is to have a button or link on the screen that, when clicked, checks all of the checkboxes in the Gallery.\n\nOne way to do this is to immediately use the OnCheck and OnUnCheck properties of the Checkbox control and patch the current item in the collection. This usually works, but I've had issues patching the collection from within the Gallery for other field types and larger collections, so I try to avoid it.\n\nI found an easy way to select all is to update the collection directly using the [UpdateIf](https://learn.microsoft.com/en-us/power-platform/power-fx/reference/function-update-updateif?ref=thepowerarchitect.com) function. Add the code below in the OnSelect property of your Select All button. It will update the colSampleFood collection, setting all unchecked items to checked. Since your Gallery uses the collection as its data source, it will update automatically.\n\n```\nUpdateIf( colSampleFood, Not(SelectedFood), {SelectedFood: true} )\n```\n\n## Unselect all checkboxes in the Gallery\n\nUnselecting all checkboxes, as you would expect, is similar to when we select them all. In the **OnSelect** property of the **Unselect All** button, add this code.\n\n```\nUpdateIf(\n    colSampleFood,\n    SelectedFood,\n    {SelectedFood: false}\n)\n```\n",
-				"date_published": "2024-01-07T11:40:22-05:00",
-				"url": "https://ericgregorich.com/2024/01/07/working-with-checkbox.html",
-				"tags": ["Power Platform"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2024/01/07/i-got-tired.html",
@@ -50,15 +122,6 @@
 				"date_published": "2024-01-06T17:10:40-05:00",
 				"url": "https://ericgregorich.com/2024/01/06/website-is-visual.html",
 				"tags": ["Links"]
-			},
-			{
-				"id": "http://ericgregorich.micro.blog/2024/01/06/the-power-apps.html",
-				"title": "The Power Apps With Function",
-				"content_html": "<p>The Power Apps With function is a powerful way to divide complex formulas into smaller pieces. It is useful when used within a ForAll since we can’t set variables within a ForAll. <!-- raw HTML omitted -->Since the With formula is contained, it is preferred over context variables created using UpdateContext or global variables created using Set.<!-- raw HTML omitted --></p>\n<p>The syntax looks like this:</p>\n<div class=\"highlight\"><pre tabindex=\"0\" style=\"color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;\"><code class=\"language-js\" data-lang=\"js\"><span style=\"display:flex;\"><span><span style=\"color:#a6e22e\">With</span>(\n</span></span><span style=\"display:flex;\"><span>\t{ \n</span></span><span style=\"display:flex;\"><span>\t\t<span style=\"color:#a6e22e\">myValue1</span><span style=\"color:#f92672\">:</span> <span style=\"color:#75715e\">//add some logic\n</span></span></span><span style=\"display:flex;\"><span><span style=\"color:#75715e\"></span>\t},\n</span></span><span style=\"display:flex;\"><span>\t<span style=\"color:#75715e\">//Do something with the myValue1result\n</span></span></span><span style=\"display:flex;\"><span><span style=\"color:#75715e\"></span>)\n</span></span></code></pre></div><p>You can also have nested With functions.</p>\n<div class=\"highlight\"><pre tabindex=\"0\" style=\"color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;\"><code class=\"language-js\" data-lang=\"js\"><span style=\"display:flex;\"><span><span style=\"color:#a6e22e\">With</span>(\n</span></span><span style=\"display:flex;\"><span>\t{ \n</span></span><span style=\"display:flex;\"><span>\t\t<span style=\"color:#a6e22e\">myValue1</span><span style=\"color:#f92672\">:</span> <span style=\"color:#75715e\">//add some logic\n</span></span></span><span style=\"display:flex;\"><span><span style=\"color:#75715e\"></span>\t},\n</span></span><span style=\"display:flex;\"><span>\t<span style=\"color:#a6e22e\">With</span>(\n</span></span><span style=\"display:flex;\"><span>\t{\n</span></span><span style=\"display:flex;\"><span>\t\t<span style=\"color:#a6e22e\">myValue2</span><span style=\"color:#f92672\">:</span> <span style=\"color:#75715e\">// do something with myValue1\n</span></span></span><span style=\"display:flex;\"><span><span style=\"color:#75715e\"></span>\t},\n</span></span><span style=\"display:flex;\"><span>\t<span style=\"color:#75715e\">//Do something with myValue1 or myValue2\n</span></span></span><span style=\"display:flex;\"><span><span style=\"color:#75715e\"></span>)\n</span></span></code></pre></div><p>Or even run the With function within a ForAll. You can also run ForEach within the With function itself.</p>\n<div class=\"highlight\"><pre tabindex=\"0\" style=\"color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;\"><code class=\"language-js\" data-lang=\"js\"><span style=\"display:flex;\"><span><span style=\"color:#a6e22e\">ForAll</span>(\n</span></span><span style=\"display:flex;\"><span>\t<span style=\"color:#a6e22e\">galMyItems</span>.<span style=\"color:#a6e22e\">AllItems</span> <span style=\"color:#a6e22e\">As</span> <span style=\"color:#a6e22e\">galSelectedItem</span>, \n</span></span><span style=\"display:flex;\"><span>\t<span style=\"color:#a6e22e\">With</span>(\n</span></span><span style=\"display:flex;\"><span>\t{\n</span></span><span style=\"display:flex;\"><span>\t\t<span style=\"color:#a6e22e\">myValue1</span><span style=\"color:#f92672\">:</span> <span style=\"color:#75715e\">//add some logic using galSelectedItem\n</span></span></span><span style=\"display:flex;\"><span><span style=\"color:#75715e\"></span>\t},\n</span></span><span style=\"display:flex;\"><span>\t<span style=\"color:#75715e\">//Do something with the myValue1\n</span></span></span><span style=\"display:flex;\"><span><span style=\"color:#75715e\"></span>\t)\n</span></span><span style=\"display:flex;\"><span>)\n</span></span></code></pre></div>",
-				"content_text": "The Power Apps With function is a powerful way to divide complex formulas into smaller pieces. It is useful when used within a ForAll since we can’t set variables within a ForAll. <strong>Since the With formula is contained, it is preferred over context variables created using UpdateContext or global variables created using Set.</strong>\n\n\nThe syntax looks like this:\n\n```js\nWith(\n\t{ \n\t\tmyValue1: //add some logic\n\t},\n\t//Do something with the myValue1result\n)\n```\n\n\nYou can also have nested With functions.\n\n```js\nWith(\n\t{ \n\t\tmyValue1: //add some logic\n\t},\n\tWith(\n\t{\n\t\tmyValue2: // do something with myValue1\n\t},\n\t//Do something with myValue1 or myValue2\n)\n```\n\nOr even run the With function within a ForAll. You can also run ForEach within the With function itself.\n\n```js\nForAll(\n\tgalMyItems.AllItems As galSelectedItem, \n\tWith(\n\t{\n\t\tmyValue1: //add some logic using galSelectedItem\n\t},\n\t//Do something with the myValue1\n\t)\n)\n```\n",
-				"date_published": "2024-01-06T16:38:01-05:00",
-				"url": "https://ericgregorich.com/2024/01/06/the-power-apps.html",
-				"tags": ["Power Platform"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2024/01/05/disable-firefox-back.html",
@@ -98,12 +161,12 @@
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2024/01/01/rss-zero-isnt.html",
-				
+				"title": "RSS Zero isn't the path to RSS Joy",
 				"content_html": "<p><a href=\"https://danq.me/2023/07/29/rss-zero/\">RSS Zero isn&rsquo;t the path to RSS Joy</a></p>\n<blockquote>\n<p>But your RSS reader doesn’t (shouldn’t?) be there to add to your to-do list. Your RSS reader is a list of things you might like to read. In an ideal world, reaching “RSS Zero” would mean that you’ve seen everything on the Internet that you might enjoy. That’s not enlightened; that’s sad!</p>\n</blockquote>\n<p>A good point about how our RSS reader should not be treated the same as our email.</p>\n<p>It’s tough for me knowing I have things in the queue. I have to mark them as read to declare bankruptcy often. I need to get over that.</p>\n",
 				"content_text": "[RSS Zero isn't the path to RSS Joy](https://danq.me/2023/07/29/rss-zero/)\n\n> But your RSS reader doesn’t (shouldn’t?) be there to add to your to-do list. Your RSS reader is a list of things you might like to read. In an ideal world, reaching “RSS Zero” would mean that you’ve seen everything on the Internet that you might enjoy. That’s not enlightened; that’s sad!\n\n\nA good point about how our RSS reader should not be treated the same as our email. \n\nIt’s tough for me knowing I have things in the queue. I have to mark them as read to declare bankruptcy often. I need to get over that. \n",
 				"date_published": "2024-01-01T19:33:16-05:00",
 				"url": "https://ericgregorich.com/2024/01/01/rss-zero-isnt.html",
-				"tags": ["Quotes"]
+				"tags": ["Links"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2024/01/01/use-a-media.html",
@@ -127,7 +190,7 @@
 				"id": "http://ericgregorich.micro.blog/2023/12/31/previewing-the-new.html",
 				
 				"content_html": "<p><a href=\"https://youtu.be/SztU4232u_o?si=XEfJTJvU-fwUNKms\">Previewing the new HEY Calendar</a></p>\n<p>Jason introduces the upcoming Hey Calendar. It is more full-featured than I expected, including habits and time tracking. As expected, it has the UI twists you can expect from 37signals.</p>\n<p>You can import external calendars through ICS feeds, but there is no syncing.</p>\n",
-				"content_text": "[Previewing the new HEY Calendar](https://youtu.be/SztU4232u_o?si=XEfJTJvU-fwUNKms)\r\n\r\nJason introduces the upcoming Hey Calendar. It is more full-featured than I expected, including habits and time tracking. As expected, it has the UI twists you can expect from 37signals. \r\n\r\nYou can import external calendars through ICS feeds, but there is no syncing.\n",
+				"content_text": "[Previewing the new HEY Calendar](https://youtu.be/SztU4232u_o?si=XEfJTJvU-fwUNKms)\n\nJason introduces the upcoming Hey Calendar. It is more full-featured than I expected, including habits and time tracking. As expected, it has the UI twists you can expect from 37signals. \n\nYou can import external calendars through ICS feeds, but there is no syncing.\n",
 				"date_published": "2023-12-31T14:40:22-05:00",
 				"url": "https://ericgregorich.com/2023/12/31/previewing-the-new.html",
 				"tags": ["Links"]
@@ -300,7 +363,7 @@
 				"content_text": "Curtis Mchale writes about [The State of Notetaking for 2024 – PKM Weekly Issue 100.](https://curtismchale.ca/2023/12/10/the-state-of-notetaking-for-2024-pkm-weekly-issue-100/?utm_source=mailpoet&utm_medium=email&utm_campaign=newsletter-post-title_35) \n\n> I think that the appeal of AI hits the same chord for many people looking at their notes. They want to have neatly compiled notes with clearly thought-out ideas that resonate with others. They want to be done with the hard work of writing their ideas down poorly 20,000 times until they come up with a single good idea that they can run with.\n\n> People figure AI will do this for them, but if your notes are crap to begin with, the output of any AI will also be crap.\n\nThis is a good reminder that while many apps are gaining AI superpowers, the LLMs can’t replace our thinking and ideas. Sure, they can help spark ideas and maybe some other use cases, but they won’t do the hard work for you. Especially when it comes to personal knowledge management. What’s the point of handling over your learning to AI? The real learning comes from doing the work to understand something and how it relates to other things, not by letting some software do it for you. \n\n",
 				"date_published": "2023-12-10T15:25:35-05:00",
 				"url": "https://ericgregorich.com/2023/12/10/dont-allow-ai.html",
-				"tags": ["Quotes"]
+				"tags": ["Links"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/12/10/im-still-using.html",
@@ -363,7 +426,7 @@
 				"content_text": "[You can't hoard life — Oliver Burkeman](https://ckarchive.com/b/68ueh8hkxrx6lukq88gqmtz7vxkkk)\n\n> Perhaps you’ve had the experience of reaching the end of a day on which you’d been unusually successful in getting your work done, or sticking to your fitness routine, but then instead of thinking “What a great day!”, you think: “That’s the kind of day I’m aiming for, and now it’s my job to make sure I keep on having more and more of them!” The result: you turned a potential source of easy delight into a source of further stress.\n\nWe obviously want to set up a life where we have more great days, but as Oliver points out, there is a line we can cross. It’s easy to get caught up in the pursuit of happiness rather than simply being happy.\n\n",
 				"date_published": "2023-12-07T15:36:34-05:00",
 				"url": "https://ericgregorich.com/2023/12/07/you-cant-hoard.html",
-				"tags": ["Quotes"]
+				"tags": ["Links"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/12/07/there-is-something.html",
@@ -544,7 +607,7 @@
 				"content_text": " [Feed your Creativity: How to Escape the Algorithm with Active Content Consumption](https://nesslabs.com/creative-input-output-active-content-consumption)\n\n> With an endless influx of information competing for our attention, our creative wells often run dry. To revive your imagination, you need to be more intentional about balancing your creative input with your creative output.\n\nI've been feeling overwhelmed with my RSS consumption lately. I have been using Readwise and Reader, which are great; if anything, they make things worse. Everything is easy to highlight and take notes, the amount of content increases, which turns into a snake eating its own tail.\n",
 				"date_published": "2023-11-09T13:45:13-05:00",
 				"url": "https://ericgregorich.com/2023/11/09/feed-your-creativity.html",
-				"tags": ["Quotes"]
+				"tags": ["Links"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/11/08/default-apps.html",
@@ -774,7 +837,7 @@
 				"content_text": "<p><a href=\"https://waitbutwhy.com/2014/06/taming-mammoth-let-peoples-opinions-run-life.html\">Why You Should Stop Caring What Other People Think (Taming the Mammoth) - Wait But Why</a></p>\n<blockquote>\n<p>Making this shift isn’t easy for anyone, but it’s worth obsessing over. Your Authentic Voice has been given one life—and it’s your job to make sure it gets the opportunity to live it.</p>\n</blockquote>\n",
 				"date_published": "2023-09-04T12:42:31-05:00",
 				"url": "https://ericgregorich.com/2023/09/04/why-you-should.html",
-				"tags": ["Quotes"]
+				"tags": ["Links"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/09/04/dumb-phones-are.html",
@@ -783,7 +846,7 @@
 				"content_text": "<p><a href=\"https://codemaclife.com/dumb-phones-are-not-the-answer-to-digital-minimalism/\">Dumb phones are not the answer to digital minimalism - Code.Mac.Life</a></p>\n<blockquote>\n<p>Dumb phones won’t address the problem within us. They can help us disconnect and re-evaluate what we are doing on smartphones. The feature phone breaks up our dependency on constant access to the internet. However, there are some drawbacks…</p>\n</blockquote>\n<p>It’s challenging to find the balance between balance between usefulness and distraction when using a smartphone—so many conveniences at the cost of many distractions (if you let it).</p>\n",
 				"date_published": "2023-09-04T09:44:24-05:00",
 				"url": "https://ericgregorich.com/2023/09/04/dumb-phones-are.html",
-				"tags": ["Quotes"]
+				"tags": ["Links"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/08/30/want-to-read.html",
@@ -809,7 +872,7 @@
 				"content_text": "<p><a href=\"https://www.wired.com/story/why-songs-get-stuck-in-your-head-how-to-stop-them/?ref=refind\">Why Songs Get Stuck in Your Head</a></p>\n<blockquote>\n<p>“Our brain is made up of a massive complex network of neurons that store information, and when the mind is free to wander, it may unwittingly land on a song that has been encoded through recency and repetition,”</p>\n</blockquote>\n<p>This article describes why we get those songs stuck in our head, often on repeat.</p>\n",
 				"date_published": "2023-08-28T11:42:33-05:00",
 				"url": "https://ericgregorich.com/2023/08/28/why-songs-get.html",
-				"tags": ["Quotes"]
+				"tags": ["Links"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/08/28/the-care-and.html",
@@ -818,7 +881,7 @@
 				"content_text": "[The care and training of your pet rock](https://archive.org/details/pet_rock_manual_original/page/n8/mode/1up)\n> Pet Rock is a collectible toy made in 1975 by advertising executive Gary Dahl. Pet Rocks are smooth stones from Mexico's Rosarito Beach. They were marketed like live pets, in custom cardboard boxes, complete with straw and breathing holes. The fad lasted about six months, ending after a short increase in sales during the Christmas season of December 1975.\n\nI stumbled up on this user manual about how to care and train your pet rock. All my problems are solved.\n",
 				"date_published": "2023-08-28T11:34:12-05:00",
 				"url": "https://ericgregorich.com/2023/08/28/the-care-and.html",
-				"tags": ["Quotes"]
+				"tags": ["Links"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/08/26/how-to-add.html",
@@ -860,7 +923,7 @@
 				"content_text": "<p><a href=\"https://nesslabs.com/the-paradox-of-goals\">The Paradox of Goals</a></p>\n<blockquote>\n<p>Growth loops are extremely simple: we simply need to commit to action, monitor our progress, and reflect on the results so we can keep on adding layers of learning through each cycle. There is no need to worry about the ultimate destination: success emerges as a result of the repeated experimentation and learning.</p>\n</blockquote>\n<p>Where I struggle with this is that it requires measuring and reflecting. I’ve yet to find a tool that I stick with (tried several the habit/goal apps).</p>\n<p>I should try paper. 🤔 Perhaps I’ll try logging something in my new planner.</p>\n",
 				"date_published": "2023-08-15T20:18:23-05:00",
 				"url": "https://ericgregorich.com/2023/08/15/the-paradox-of.html",
-				"tags": ["Quotes"]
+				"tags": ["Links"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/08/15/i-received-the.html",
@@ -877,15 +940,6 @@
 				"content_text": " [Michael Tsai - Blog  -  GrammarlyGO Training on User Content With Questionable Opt Out](https://mjtsai.com/blog/2023/08/14/grammarlygo-training-on-user-content-with-questionable-opt-out/)\n\n> [W]e use Microsoft Azure as our LLM provider and don’t allow Azure, or any third party, to use our customers’ data to train their models—this is contractually mandated. For text analyzed by Grammarly to provide revision suggestions ..., we may retain randomly sampled, anonymized, and de-identified data to improve the product. This data is disassociated from user accounts and ONLY used in aggregate.\n\nA statement from Grammarly’s CISO about how they use your data.\n",
 				"date_published": "2023-08-15T14:00:57-05:00",
 				"url": "https://ericgregorich.com/2023/08/15/michael-tsai-blog.html"
-			},
-			{
-				"id": "http://ericgregorich.micro.blog/2023/08/13/check-your-environment.html",
-				"title": "Check your environment for invalid Power Automate Licenses",
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p>Microsoft has provided some PowerShell that allows admins to check their Power Platform environment for invalid Power Automate Licenses. </p>\n<blockquote>\n<p>Unlicensed Power Automate Flows will be turned off. Microsoft is enforcing licensing on all Power Automate flows. The flow owner will be notified if any of your flows do not meet licensing requirements. The flow will turn off if not compliant after x days. Read the <a href=\"https://learn.microsoft.com/en-us/power-platform/admin/power-automate-licensing/faqs\">FAQ</a> for licensing details.</p>\n</blockquote>\n<h2 id=\"openpowershell\">Open PowerShell</h2>\n<p>First, open PowerShell on your machine (search for PowerShell), then open it as an administrator.</p>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" title=\"blank-powershell-terminal.png\" src=\"https://ericgregorich.micro.blog/uploads/2023/blank-powershell-terminal.png\" alt=\"A blank PowerShell Terminal\" width=\"595\" height=\"89\" border=\"0\" /></p>\n<h2 id=\"browsetoalocationtosavetheoutput\">Browse to a location to save the output</h2>\n<p>Next, enter <code>CD</code> and then the path to where you want to export the results. For me, my path is <code>C:\\Local\\Licensing</code>. Click Enter to see your directory change in your PowerShell prompt.</p>\n<h2 id=\"installthemodules\">Install the modules</h2>\n<p>We need to install the PowerShell modules required to run our command.</p>\n<p>Copy the following into your PowerShell terminal and click Enter.</p>\n<pre>Install-Module -Name Microsoft.PowerApps.Administration.PowerShell -Force<br />Install-Module -Name Microsoft.PowerApps.PowerShell -AllowClobber -Force</pre>\n<h2 id=\"runtheget-adminflowatriskofsuspension\">Run the Get-AdminFlowAtRiskOfSuspension</h2>\n<p>Now, we can run our command. The command will check if any Power Automate flows in this environment are at risk and download to the CSV file you specify.</p>\n<p>Please copy the following PowerShell, but change the Environment Name and, optionally, the Path before running it. I’d do this in Notepad first, then copy the results into the PowerShell terminal.</p>\n<blockquote>\n<p>Find your Environment Name You can find your environment by visiting the <a href=\"https://admin.powerplatform.microsoft.com/environments\">Environments</a> page in the Power Platform Admin Center. I always click into the environment and use the Environment ID provided on the summary screen.</p>\n</blockquote>\n<pre><br />Get-AdminFlowAtRiskOfSuspension -EnvironmentName <ENV_NAME> -ApiVersion ‘2016–11–01’ | Export-Csv -Path suspensionList.csv -NoTypeInformation</pre>\n<p>When you run this command, it will open a window that asks you to authenticate to your SharePoint tenant.</p>\n<p>After logging in, the results should be exported to a CSV file in the path you navigated earlier.</p>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" title=\"powershell-example-running.png\" src=\"https://ericgregorich.micro.blog/uploads/2023/powershell-example-running.png\" alt=\"Example PowerShell command as it executes.\" width=\"600\" height=\"320\" border=\"0\" /></p>\n<h2 id=\"readyourresults\">Read your results</h2>\n<p>If your CSV file is empty, you should be good to go. <strong>Remember to check all your environments!</strong></p>\n<p>If you have results in your CSV, unfortunately, that means you have some invalid licenses to deal with.</p>\n<p>Your CSV file will have all the details you need to identify the flow, why it was flagged, and recommendations to resolve the licensing issue.</p>\n<h2 id=\"howtoresolvelicensingissues\">How to resolve licensing issues</h2>\n<p>The best option is to read the <a href=\"https://learn.microsoft.com/en-us/power-platform/admin/power-automate-licensing/faqs\">FAQ</a> provided by Microsoft.</p>\n<p>If your Flow is created to support your Power App, you can <a href=\"https://learn.microsoft.com/en-us/power-automate/associate-flow-to-app\">Associate Your Flow</a> with your Power App. This assumes your flow runs in the app’s context and uses the same data sources for triggers or actions. Scheduled and automated cloud flows must be linked to the app through <a href=\"https://learn.microsoft.com/en-us/power-platform/admin/powerapps-powershell#associate-in-context-flows-to-an-app\">PowerShell</a>, but others can be connected directly from the flow details page (see bottom right corner).</p>\n<ol>\n<li><a href=\"https://learn.microsoft.com/en-us/power-platform/admin/power-automate-licensing/faqs\">Frequently asked questions about Power Automate licensing - Power Platform | Microsoft Learn</a></li>\n</ol>\n",
-				"date_published": "2023-08-13T12:31:06-05:00",
-				"url": "https://ericgregorich.com/2023/08/13/check-your-environment.html",
-				"tags": ["Power Platform"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/08/12/finished-reading-the.html",
@@ -915,8 +969,8 @@
 			{
 				"id": "http://ericgregorich.micro.blog/2023/08/08/add-tinylytics-to.html",
 				"title": "Add Tinylytics to Obsidian Publish",
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<ol>\n<li>Create a file named publish.js in your root directory.</li>\n<li>Add the following script to the file.</li>\n<li>Publish the file!</li>\n</ol>\n<pre><code class=\"javascript\">    var tinylyticsScript = document.createElement('script');\n    tinylyticsScript.defer = true;\n    tinylyticsScript.src = '[tinylytics.app/embed/YOU...](https://tinylytics.app/embed/YOUREMBEDCODE.js';)\n    document.head.appendChild(tinylyticsScript);\n</code></pre>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<div class=\"highlight\"><pre tabindex=\"0\" style=\"color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;\"><code class=\"language-js\" data-lang=\"js\"><span style=\"display:flex;\"><span><span style=\"color:#f92672\">&lt;</span><span style=\"color:#a6e22e\">script</span> <span style=\"color:#a6e22e\">src</span><span style=\"color:#f92672\">=</span><span style=\"color:#e6db74\">&#34;https://tinylytics.app/embed/{your embed code}&#34;</span> <span style=\"color:#a6e22e\">defer</span><span style=\"color:#f92672\">&gt;&lt;</span><span style=\"color:#960050;background-color:#1e0010\">/script&gt;</span>\n</span></span></code></pre></div><!-- raw HTML omitted -->\n<div class=\"highlight\"><pre tabindex=\"0\" style=\"color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;\"><code class=\"language-js\" data-lang=\"js\"><span style=\"display:flex;\"><span><span style=\"color:#66d9ef\">let</span> <span style=\"color:#a6e22e\">script</span> <span style=\"color:#f92672\">=</span> document.<span style=\"color:#a6e22e\">createElement</span>(<span style=\"color:#e6db74\">&#34;script&#34;</span>);\n</span></span><span style=\"display:flex;\"><span><span style=\"color:#a6e22e\">script</span>.<span style=\"color:#a6e22e\">type</span> <span style=\"color:#f92672\">=</span> <span style=\"color:#e6db74\">&#34;text/javascript&#34;</span>;\n</span></span><span style=\"display:flex;\"><span><span style=\"color:#a6e22e\">script</span>.<span style=\"color:#a6e22e\">defer</span> <span style=\"color:#f92672\">=</span> <span style=\"color:#66d9ef\">true</span>;\n</span></span><span style=\"display:flex;\"><span><span style=\"color:#a6e22e\">script</span>.<span style=\"color:#a6e22e\">src</span> <span style=\"color:#f92672\">=</span> <span style=\"color:#e6db74\">&#34;https://tinylytics.app/embed/YOUR_UNIQUE_SITE_CODE.js&#34;</span>;\n</span></span><span style=\"display:flex;\"><span>document.<span style=\"color:#a6e22e\">body</span>.<span style=\"color:#a6e22e\">appendChild</span>(<span style=\"color:#a6e22e\">script</span>);\n</span></span></code></pre></div><p>More documentation can be found on the <!-- raw HTML omitted -->Tinylytics site<!-- raw HTML omitted -->.</p>\n",
+				"content_text": "<p><a href=\"https://obsidian.md/publish\">Obsidian Publish</a> allows adding JavaScript, which means you can add a <a href=\"https://tinylytics.app\">Tinylytics</a> tracking code to your site.</p>\n<h2 id=\"configure-tinylytics\">Configure Tinylytics</h2>\n<ol>\n<li>Add your Obsidian Publish site to your Tinylytics account.</li>\n<li>View your tracking code. It should look similar to this:</li>\n</ol>\n\n```js\n<script src=\"https://tinylytics.app/embed/{your embed code}\" defer></script>\n```\n\n<h2 id=\"configure-obsidian-publish\">Configure Obsidian Publish</h2>\n<ol>\n<li>Create a file named publish.js in the root of your Obsidian vault. Create this file from file explorer, not from within Obsidian!</li>\n<li>Copy the below script to the publish.js file.</li>\n<li>Update the `src` value with your own unique site code.</li>\n<li>Save and publish the publish.js file to your Obsidian Publish site!</li>\n<li>Open your Tinylytics page and refresh your Obsidian Publish page. Tinylytics should recognize an active visitor to the site.</li>\n</ol>\n\n```js\nlet script = document.createElement(\"script\");\nscript.type = \"text/javascript\";\nscript.defer = true;\nscript.src = \"https://tinylytics.app/embed/YOUR_UNIQUE_SITE_CODE.js\";\ndocument.body.appendChild(script);\n\n```\n\nMore documentation can be found on the <a href=\"https://tinylytics.app/docs/embedding_your_script\">Tinylytics site</a>.\n",
 				"date_published": "2023-08-08T18:00:00-05:00",
 				"url": "https://ericgregorich.com/2023/08/08/add-tinylytics-to.html",
 				"tags": ["Notes"]
@@ -979,7 +1033,7 @@
 				"content_text": "<p><a href=\"https://www.cjchilvers.com/blog/rip-external-brain/\">RIP: The External 🧠</a></p>\n<blockquote>\n<p>If you’re a photographer, take more pictures. If you’re a writer, produce more text. The tools will work themselves out.</p>\n</blockquote>\n<p>I still capture things for “reference” but less than before. I find my notes app today is more for writing documentation and other content. It’s for creating not archiving.</p>\n",
 				"date_published": "2023-07-23T20:29:17-05:00",
 				"url": "https://ericgregorich.com/2023/07/23/rip-the-external.html",
-				"tags": ["Quotes"]
+				"tags": ["Links"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/07/22/the-water-is.html",
@@ -1014,7 +1068,7 @@
 				"content_text": "[New isn’t better, and you’re not the exception](https://curtismchale.ca/2023/07/22/new-isnt-better-and-youre-not-the-exception/) \n\n\n> The biggest problem with changing tools is that it feels like progress. You suddenly feel like you’re getting something done, but you’re not. You’re merely shuffling deck chairs, but it feels like you’re making progress.\n\n\nCurtis talks about how switching tools can feel productive. I’ve indeed fallen into this trap (and am still falling).\n\nFocus on the system and not the tools. Track your problems and only switch tools after evaluating and making an informed decision. \n",
 				"date_published": "2023-07-22T08:45:41-05:00",
 				"url": "https://ericgregorich.com/2023/07/22/new-isnt-better.html",
-				"tags": ["Quotes"]
+				"tags": ["Links"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/07/22/closedopen-this-is.html",
@@ -1023,7 +1077,7 @@
 				"content_text": "[Closed/Open](https://feeds.feedblitz.com/~/757239023/0/sethsblog~Closedopen/)\n\n> This is why emotional enrollment is the key to learning. No toddler learned to walk by insisting, again and again, that crawling was good enough. Or by trying to walk by simply crawling harder. - Seth Godin\n\nBeing emotionally invested in something is critical to learning something new. \n",
 				"date_published": "2023-07-22T08:25:09-05:00",
 				"url": "https://ericgregorich.com/2023/07/22/closedopen-this-is.html",
-				"tags": ["Quotes"]
+				"tags": ["Links"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/07/21/i-started-using.html",
@@ -1093,7 +1147,7 @@
 				"content_text": "<p><a href=\"https://www.theolognion.com/dev-builds-perfect-note-taking-system-which-only-stores-info-about-building-note-taking-systems/\">Dev builds perfect note-taking system which only stores info about building note-taking systems</a></p>\n<blockquote>\n<p>After many months of building, Miriam started to use her system in full-power mode only to realize that the only information she researches, stores and references is all about building note-taking systems. Moreover, the system, though flexible and extendable, seems to be tuned to store that type of information only. Any other kind of data makes the system unstable and finicky.</p>\n</blockquote>\n<p>This was me a couple years ago. 😂</p>\n",
 				"date_published": "2023-07-04T09:00:07-05:00",
 				"url": "https://ericgregorich.com/2023/07/04/dev-builds-perfect.html",
-				"tags": ["Quotes"]
+				"tags": ["Links"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/07/02/file-over-app.html",
@@ -1102,7 +1156,7 @@
 				"content_text": "<p><a href=\"https://stephanango.com/file-over-app\">File over app</a></p>\n<blockquote>\n<p>File over app is a philosophy: if you want to create digital artifacts that last, they must be files you can control, in formats that are easy to retrieve and read. Use tools that give you this freedom.</p>\n</blockquote>\n<p>Another vote for using local files that you can control when it comes to your apps.</p>\n",
 				"date_published": "2023-07-02T18:43:43-05:00",
 				"url": "https://ericgregorich.com/2023/07/02/file-over-app.html",
-				"tags": ["Quotes"]
+				"tags": ["Links"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/07/02/how-to-live.html",
@@ -1163,7 +1217,7 @@
 				"content_text": "<p><a title=\"Not active using knowledge from reading\" href=\"https://share.snipd.com/snip/b62843e9-5f90-4b3b-931e-b573045c0181\">Not actively using knowledge from reading</a></p>\n<blockquote>\n<p>And if they are reading books to learn things, they’re not doing anything with it. And when I say they’re not doing anything with it, they’re not actively adding it to a philosophy of practice, understanding it from an awareness of the evidence, the research, the basis of where it comes from. And I would argue many of them wouldn’t be able to have a solid argument with the points that they have consumed from whatever books they are.</p>\n</blockquote>\n<p>Danny and Jon argue that reading books is a waste of time. I don’t agree but they have some good points.</p>\n",
 				"date_published": "2023-06-25T08:06:22-05:00",
 				"url": "https://ericgregorich.com/2023/06/25/not-actively-using.html",
-				"tags": ["Quotes"]
+				"tags": ["Links"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/06/24/im-thinking-about.html",
@@ -1206,7 +1260,7 @@
 				"content_text": "<p><a href=\"https://nesslabs.com/creative-burnout\">Creative burnout: when the creativity tap runs dry</a></p>\n<blockquote>\n<p>Look at your past work. Because creative burnout often comes with self-doubt, it’s easy to forget all our past accomplishments and focus on our present challenges instead. Go browse your past work, both the good and the bad. If it’s good, remember how it wasn’t easy to produce. If it’s bad, look at how much progress you have made. Channel the feelings you experience while reviewing your past work to overcome your self-doubt.</p>\n</blockquote>\n<p>This is something i want to be better about. I’m always looking ahead and forget all the things I’ve accomplished.</p>\n",
 				"date_published": "2023-06-18T12:30:03-05:00",
 				"url": "https://ericgregorich.com/2023/06/18/creative-burnout-when.html",
-				"tags": ["Quotes"]
+				"tags": ["Links"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/06/18/my-daughter-had.html",
@@ -1524,7 +1578,7 @@
 				"content_text": "[HeyScottyJ - No PKM necessary](https://heyscottyj.com/2023/02/13/no-pkm-necessary.html \"No PKM Necessary\")\n\n> The concept of Personal Knowledge Management (PKM) is flawed in that it fails to recognize that there is more to knowledge management than simply collecting, storing, and organizing data. Rather, knowledge management is a process of transforming data into information and then into knowledge through the application of cognitive processes. \n\nWhile PKM tools can be helpful in collecting, organizing, and connecting the information you gather, it is up to you to do something with that information to turn it into knowledge.\n\n",
 				"date_published": "2023-04-02T09:13:14-05:00",
 				"url": "https://ericgregorich.com/2023/04/02/heyscottyj-no-pkm.html",
-				"tags": ["Quotes"]
+				"tags": ["Links"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/04/01/apps-im-using.html",
@@ -1558,7 +1612,7 @@
 				"content_text": "[Ultimate Calendar Hack, How to Negotiate. & More](https://www.sahilbloom.com/newsletter/energy-calendars-how-to-negotiate-more)\n\n> At the end of every weekday, I go through and color-code my calendar from the day that just finished. \nGreen = Energy Creating Yellow = Neutral Red = Energy Draining. I don’t spend too much time thinking about which bucket each item fell into—I try to trust my gut.\n\nI like this idea of color coding the calendar to show what gives you energy vs. what drains your energy. It could be a great way to work on balancing things out. I'm not sure I'll do it, but I'll keep it in mind.\n",
 				"date_published": "2023-03-29T08:22:11-05:00",
 				"url": "https://ericgregorich.com/2023/03/29/ultimate-calendar-hack.html",
-				"tags": ["Quotes"]
+				"tags": ["Links"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/03/26/my-rocketbook-notebook.html",
@@ -2008,16 +2062,7 @@
 				"content_text": "<p>“<a href=\"https://every.to/superorganizers/the-end-of-organizing\">The End of Organizing</a>” by Dan Shipper argues that AI will be the best way to organize our notes in the future.</p>\n<blockquote>\n<p>So you rarely go back to use your old notes. It’s too cognitively expensive and not rewarding enough. For an old note to be helpful it needs to be presented to Future You in a way that clicks into what you’re working on instantly—with as little processing as possible.</p>\n</blockquote>\n<p>As you consume content and take generic notes, the AI can transform it into more meaningful text, autocomplete the thought, apply context, and organize it, making it easy to find again.</p>\n<p>As you create content, AI could show your notes as you type. Imagine typing about a topic, and the AI presents the notes to you as you type, as it applies to the current context.</p>\n<p>Many note and reading apps already incorporate AI, including Readwise, Mem, Mymind, Craft, and Notion. Some with plugins that add this, including Obsidian and Logseq. It should quickly evolve to the point envisioned in this essay.</p>\n<p>This essay does not account for the act of writing as a way to help you think and learn. If we let AI do the lifting for us, does that make us smarter, or do we lose the ability to think for ourselves? There is a fine line.</p>\n",
 				"date_published": "2023-01-14T09:35:45-05:00",
 				"url": "https://ericgregorich.com/2023/01/14/the-end-of.html",
-				"tags": ["Quotes"]
-			},
-			{
-				"id": "http://ericgregorich.micro.blog/2023/01/13/check-for-a.html",
-				"title": "Check for a null or blank SharePoint Field value in Power Automate",
-				"content_html": "<p>If you use Microsoft Power Automate with Microsoft SharePoint Online list or library data and need to check if a field is empty or null, you can use the <code>@empty</code> function in an expression.</p>\n<h2 id=\"example\">Example</h2>\n<p>The following example involves setting up a new Power Automate workflow triggered when a user starts the workflow from the SharePoint list. The workflow will check if the &ldquo;President&rdquo; column is empty and update the &ldquo;Is Empty&rdquo; column with the result.  </p>\n<h3 id=\"create-a-sharepoint-list\">Create a SharePoint List</h3>\n<p><img src=\"https://ericgregorich.micro.blog/uploads/2023/demo-list.png\" alt=\"We can check the demo list with a column for an empty value and a column to show the result.\"></p>\n<ul>\n<li>Create a new SharePoint list. This demo uses the default Title column and a choice column called <strong>President</strong> and a Boolean column called &ldquo;Is Empty.&rdquo; </li>\n<li>Add some sample data. Leave the President column blank for some items.</li>\n</ul>\n<h3 id=\"create-a-power-automate-flow\">Create a Power Automate Flow</h3>\n<p><img src=\"https://ericgregorich.micro.blog/uploads/2023/power-automate-flow.png\" alt=\"An overview of our workflow.\"></p>\n<ul>\n<li>Create a new Power Automate Automated Cloud Flow. Select <strong>For a selected item</strong> as the trigger action. Select your SharePoint site and list in this action.</li>\n<li>Add the <strong>Get Item</strong> action and configure it to retrieve the selected item from the list. This step is necessary to retrieve all the columns so we can use them in the workflow. Set the ID to the ID of the For a Selected Item trigger.</li>\n<li>Add the <strong>Initialize Variable</strong> action. We want to use the <strong>empty()</strong> function with our President column in the Value. The full expression is <strong>empty(outputs(&lsquo;Get_item&rsquo;)?[&lsquo;body/President/Value&rsquo;])</strong>. </li>\n</ul>\n<p><img src=\"https://ericgregorich.micro.blog/uploads/2023/overview-1.png\" alt=\"The empty() expression in a variable.\"></p>\n<ul>\n<li>Add an Update Item action that is pointed to your list and set the Is Empty column. </li>\n</ul>\n<p><img src=\"https://ericgregorich.micro.blog/uploads/2023/overview-2.png\" alt=\"Set our Is Empty column to the variable that we created.\"></p>\n<ul>\n<li>Save the workflow.</li>\n</ul>\n<h3 id=\"test-your-workflow\">Test your workflow</h3>\n<ul>\n<li>Now, go back to your list and select an item with an empty President value. Under the Automate menu, you should see your workflow listed (it may take a few seconds to load). Please select it and run the workflow.</li>\n</ul>\n<p><img src=\"https://ericgregorich.micro.blog/uploads/2023/test-workflow-1.png\" alt=\"Run our Power Automate workflow after selecting an item.\"></p>\n<ul>\n<li>Refresh your list after a few seconds; the <strong>Is Empty</strong> column should be <strong>checked</strong>. </li>\n<li>Try running the workflow on a row that has a President selected. The <strong>Is Empty</strong>should <strong>not be checked</strong>.</li>\n</ul>\n<p><img src=\"https://ericgregorich.micro.blog/uploads/2023/test-workflow-results.png\" alt=\"Our Is Empty column is now checked.\"></p>\n<ul>\n<li>Open the workflow that you ran. You can see the variable we created resulted in <strong>True</strong> when the column was empty and <strong>False</strong> when it was not empty.</li>\n</ul>\n",
-				"content_text": "If you use Microsoft Power Automate with Microsoft SharePoint Online list or library data and need to check if a field is empty or null, you can use the `@empty` function in an expression.\n\n## Example\nThe following example involves setting up a new Power Automate workflow triggered when a user starts the workflow from the SharePoint list. The workflow will check if the \"President\" column is empty and update the \"Is Empty\" column with the result.  \n\n### Create a SharePoint List\n![We can check the demo list with a column for an empty value and a column to show the result.](https://ericgregorich.micro.blog/uploads/2023/demo-list.png)\n\n- Create a new SharePoint list. This demo uses the default Title column and a choice column called **President** and a Boolean column called \"Is Empty.\" \n- Add some sample data. Leave the President column blank for some items.\n\n### Create a Power Automate Flow\n![An overview of our workflow.](https://ericgregorich.micro.blog/uploads/2023/power-automate-flow.png)\n\n- Create a new Power Automate Automated Cloud Flow. Select **For a selected item** as the trigger action. Select your SharePoint site and list in this action.\n- Add the **Get Item** action and configure it to retrieve the selected item from the list. This step is necessary to retrieve all the columns so we can use them in the workflow. Set the ID to the ID of the For a Selected Item trigger.\n- Add the **Initialize Variable** action. We want to use the **empty()** function with our President column in the Value. The full expression is **empty(outputs('Get\\_item')?['body/President/Value'])**. \n\n![The empty() expression in a variable.](https://ericgregorich.micro.blog/uploads/2023/overview-1.png)\n\n- Add an Update Item action that is pointed to your list and set the Is Empty column. \n\n![Set our Is Empty column to the variable that we created.](https://ericgregorich.micro.blog/uploads/2023/overview-2.png)\n\n- Save the workflow.\n\n### Test your workflow\n- Now, go back to your list and select an item with an empty President value. Under the Automate menu, you should see your workflow listed (it may take a few seconds to load). Please select it and run the workflow.\n\n![Run our Power Automate workflow after selecting an item.](https://ericgregorich.micro.blog/uploads/2023/test-workflow-1.png)\n\n- Refresh your list after a few seconds; the **Is Empty** column should be **checked**. \n- Try running the workflow on a row that has a President selected. The **Is Empty**should **not be checked**.\n\n![Our Is Empty column is now checked.](https://ericgregorich.micro.blog/uploads/2023/test-workflow-results.png)\n\n- Open the workflow that you ran. You can see the variable we created resulted in **True** when the column was empty and **False** when it was not empty.\n\n",
-				"date_published": "2023-01-13T16:00:00-05:00",
-				"url": "https://ericgregorich.com/2023/01/13/check-for-a.html",
-				"tags": ["Power Platform"]
+				"tags": ["Links"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/01/13/readwise-reader-is.html",
@@ -2084,7 +2129,7 @@
 				"content_text": "<p>A day full of meetings and emails can make things easier because we don’t have to decide what to do with our time. We have an excuse not to do real work.</p>\n<p>It’s a trap! An easy way to procrastinate.</p>\n<p><img src=\"https://ericgregorich.micro.blog/uploads/2023/b82c831f76.jpg\" alt=\"\" width=\"600\" height=\"337\" /></p>\n",
 				"date_published": "2023-01-01T18:55:20-05:00",
 				"url": "https://ericgregorich.com/2023/01/01/a-day-full.html",
-				"tags": ["Quotes"]
+				"tags": ["Links"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/01/01/currently-reading-secret.html",
@@ -2236,7 +2281,7 @@
 				"content_text": "<p>This interesting essay explores the “Ghost in the Box” metaphor and how it applies to a Zettelkasten. The main idea (as I understand it) is that when you build a complex system of notes, they appear unfinished and confusing when others view them, but to you, they’re useful and full of insight. It is the time and effort that makes the system useful and increases your understanding. When you move your Zettelkasten from one tool to another or analog to digital, you’re potentially replacing the core piece of what made it special.</p>\n<blockquote>\n<p>We are now entering the paradox of the Ship of Theseus. Imagine a ship leaving the harbour with a certain set of parts. During the journey, parts break down and are replaced by new ones. When the ship returns home, all parts are replaced by new ones. Is the ship still the same? And if not: at which moment does the ship become another one? <a id=\"fnref:1\" class=\"footnote\" title=\"see footnote\" href=\"#fn:1\">[1]</a></p>\n</blockquote>\n<div class=\"footnotes\"><hr />\n<ol>\n<li id=\"fn:1\">\n<p><a href=\"https://zettelkasten.de/posts/ghost-in-the-box/\">Philosophy of Zettelkasten: What is the Ghost in the Box?</a> <a class=\"reversefootnote\" title=\"return to article\" href=\"#fnref:1\"> ↩</a></p>\n</li>\n</ol>\n</div>\n",
 				"date_published": "2022-12-11T15:10:49-05:00",
 				"url": "https://ericgregorich.com/2022/12/11/this-interesting-essay.html",
-				"tags": ["Quotes"]
+				"tags": ["Links"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/12/11/i-wonder-if.html",
@@ -2303,7 +2348,7 @@
 				"content_text": "<blockquote>\n<p>“How we spend our hours is how we spend our days. And, as the writer Annie Dillard so eloquently pointed out, “How we spend our days is . . . how we spend our lives.”” (Brad Stulberg, The Practice of Groundedness) 💬</p>\n</blockquote>\n",
 				"date_published": "2022-12-05T21:01:06-05:00",
 				"url": "https://ericgregorich.com/2022/12/05/how-we-spend.html",
-				"tags": ["Quotes"]
+				"tags": ["Links"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/12/03/i-watched-the.html",
@@ -2455,7 +2500,7 @@
 				"content_text": "<blockquote>\n<p>“It’s the stuff you <strong>leave</strong> out that matters. So constantly look for things to remove, simplify, and streamline. Be a curator. Stick to what’s truly essential. Pare things down until you’re left with only the most important stuff.” (Rework) 💬</p>\n</blockquote>\n",
 				"date_published": "2022-11-14T19:47:48-05:00",
 				"url": "https://ericgregorich.com/2022/11/14/its-the-stuff.html",
-				"tags": ["Quotes"]
+				"tags": ["Links"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/11/13/im-going-allin.html",
@@ -2472,7 +2517,7 @@
 				"content_text": "<p><a href=\"https://www.hanselman.com/blog/your-words-are-wasted\">Your words are wasted - Scott Hanselman’s Blog</a> Written in 2012.</p>\n<blockquote>\n<p>“Every developer should have a blog.” Put yourself out there and make it findable. And still, you tweet giving all your life’s precious remaining keystrokes to a company and a service that doesn’t love or care about you - to a service that can’t even find a tweet you wrote a month ago.</p>\n</blockquote>\n",
 				"date_published": "2022-11-13T08:28:17-05:00",
 				"url": "https://ericgregorich.com/2022/11/13/your-words-are.html",
-				"tags": ["Quotes"]
+				"tags": ["Links"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/11/12/i-just-finished.html",
@@ -2498,7 +2543,7 @@
 				"content_text": "<blockquote>\n<p>“Whoever best describes the problem is the one most likely to solve it. –.” — Josh Kaufman 💬</p>\n</blockquote>\n",
 				"date_published": "2022-11-11T18:52:58-05:00",
 				"url": "https://ericgregorich.com/2022/11/11/whoever-best-describes.html",
-				"tags": ["Quotes"]
+				"tags": ["Links"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/11/10/im-thinking-about.html",
@@ -2620,7 +2665,7 @@
 				"content_text": "<blockquote>\n<p>Change too often and you stand for nothing. You’re simply chasing a shadow you will never catch. Refuse to change and you’re likely to be overlooked. Somewhere in between is the posture of someone who has the maximum chance for success. - <a title=\"Seth Godin\" href=\"https://seths.blog/2022/10/caring-just-the-right-amount/\">Seth Godin</a> 💬</p>\n</blockquote>\n",
 				"date_published": "2022-10-29T18:32:40-05:00",
 				"url": "https://ericgregorich.com/2022/10/29/change-too-often.html",
-				"tags": ["Quotes"]
+				"tags": ["Links"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/10/29/stolen-focus-by.html",
@@ -2705,7 +2750,7 @@
 				"content_text": "<blockquote>\n<p>“The goal is the target we want to achieve, while the aim is the course we set to reach that target. A goal fixates on the finish line, while an aim considers the trajectory. When we focus on our aims, the process becomes the goal. And we’re more likely to reach our goal when we become fully aware of our aim.” (Anne-Laure Le Cunff, <a href=\"https://nesslabs.com/everything-is-aiming\">Everything Is Aiming: Forget the Target and Focus on Your Aim</a>)</p>\n</blockquote>\n",
 				"date_published": "2022-10-20T19:27:03-05:00",
 				"url": "https://ericgregorich.com/2022/10/20/the-goal-is.html",
-				"tags": ["Quotes"]
+				"tags": ["Links"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/10/20/front-matter-is.html",
@@ -2772,7 +2817,7 @@
 				"content_text": "<blockquote>\n<p>“The real measure of any time management technique is whether or not it helps you neglect the right things.” (Oliver Burkeman, Four Thousand Weeks) 💬</p>\n</blockquote>\n",
 				"date_published": "2022-10-12T07:00:00-05:00",
 				"url": "https://ericgregorich.com/2022/10/12/the-real-measure.html",
-				"tags": ["Quotes"]
+				"tags": ["Links"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/10/11/i-define-minimalism.html",
@@ -2781,7 +2826,7 @@
 				"content_text": "<blockquote>\n<p>“I define minimalism as ”the intentional promotion of the things we most value by removing anything that distracts us from them.“ … It isn’t primarily about decluttering or organizing; it’s about creating freedom.” (Joshua Becker, Things That Matter) 💬</p>\n</blockquote>\n",
 				"date_published": "2022-10-11T07:00:00-05:00",
 				"url": "https://ericgregorich.com/2022/10/11/i-define-minimalism.html",
-				"tags": ["Quotes"]
+				"tags": ["Links"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/10/10/weve-mistaken-doing.html",
@@ -2790,7 +2835,7 @@
 				"content_text": "<blockquote>\n<p>“We’ve mistaken doing things—being “productive”—as the measure of a day well spent, when really that’s just one of many by-products of living well.” (Madeleine Dore, I Didn’t Do the Thing Today) 💬</p>\n</blockquote>\n",
 				"date_published": "2022-10-10T07:00:00-05:00",
 				"url": "https://ericgregorich.com/2022/10/10/weve-mistaken-doing.html",
-				"tags": ["Quotes"]
+				"tags": ["Links"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/10/09/the-benefits-of.html",
@@ -2808,7 +2853,7 @@
 				"content_text": "<blockquote>\n<p>“I try to avoid having thoughts. They lead to other thoughts, and-if you’re not careful-those lead to actions. Actions make you tired. I have this on rather good authority from someone who once read it in a book.” (Brandon Sanderson, Warbreaker)</p>\n</blockquote>\n<p>💬 Hilarious!</p>\n",
 				"date_published": "2022-10-09T07:00:00-05:00",
 				"url": "https://ericgregorich.com/2022/10/09/i-try-to.html",
-				"tags": ["Quotes"]
+				"tags": ["Links"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/10/08/started-to-play.html",
@@ -2826,7 +2871,7 @@
 				"content_text": "<blockquote>\n<p>“Instead of wondering when your next vacation is, maybe you should set up a life you don’t need to escape from.” (Peter Voogd, 6 Months to 6 Figures)</p>\n</blockquote>\n<p>💬 I can’t imagine retiring in the traditional sense. I’ll always be coding, writing, and creating something.</p>\n",
 				"date_published": "2022-10-08T07:43:14-05:00",
 				"url": "https://ericgregorich.com/2022/10/08/instead-of-wondering.html",
-				"tags": ["Quotes"]
+				"tags": ["Links"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/10/07/i-have-started.html",
@@ -2911,7 +2956,7 @@
 				"content_text": "<p><a href=\"https://on.substack.com/p/new-web-reader?r=1cnvs&s=r&utm_campaign=post&utm_medium=web\">Announcing the all-new Substack Reader for web</a></p>\n<blockquote>\n<p>Want to add a publication from outside Substack? No problem—just select “Add RSS feed” from the left sidebar.</p>\n</blockquote>\n<p>I keep seeing on Twitter that Substack is finally going to replace what we lost in Google Reader all those years ago. What was special about Google Reader that has not already been replaced by Feedbin, Feedly, Inoreader, NetNewsWire, and the dozens of other RSS services out there?</p>\n",
 				"date_published": "2022-09-26T18:12:23-05:00",
 				"url": "https://ericgregorich.com/2022/09/26/announcing-the-allnew.html",
-				"tags": ["Quotes"]
+				"tags": ["Links"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/09/25/ive-moved-all.html",
@@ -2969,7 +3014,7 @@
 				"content_text": "<p><a href=\"https://nesslabs.com/cognitive-scripts?utm_source=rss&utm_medium=rss&utm_campaign=cognitive-scripts\">How to overwrite your cognitive scripts - nesslabs.com</a></p>\n<blockquote>\n<p>Cognitive scripts are based on the semantic memory, or the knowledge we acquire throughout our lives. Semantic memory develops when we experience events in the everyday world, such as how to travel by public transport or the steps involved in eating in a restaurant. We organise our experiences into cognitive scripts that are personal to us, and these scripts may vary depending on our perception of a situation and the cultures we identify with. - Dr. Hannah England</p>\n</blockquote>\n<p>We can overwrite our cognitive scripts by journaling, reset the scripts that don’t work for us, and go off script and take risks.</p>\n<p>Cognitive scripts are based on our beliefs, created during our lifetime. Habits are more about the actions we take.</p>\n",
 				"date_published": "2022-09-15T07:54:17-05:00",
 				"url": "https://ericgregorich.com/2022/09/15/how-to-overwrite.html",
-				"tags": ["Quotes"]
+				"tags": ["Links"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/09/14/did-you-know.html",
@@ -2986,7 +3031,7 @@
 				"content_text": "<p><a href=\"https://blog.pragmaticengineer.com/how-to-become-a-full-time-creator\">Becoming a Full-Time Creator as a Software Engineer: Controversial Advice - The Pragmatic Engineer</a></p>\n<blockquote>\n<p>If you’re someone with years, or decades of experience working in tech, you can likely just sell your sawdust: things that are already in your head, like your past experience.</p>\n</blockquote>\n<p>This was a great article that talks about various ways to make a living as a creator.</p>\n",
 				"date_published": "2022-09-11T18:45:57-05:00",
 				"url": "https://ericgregorich.com/2022/09/11/becoming-a-fulltime.html",
-				"tags": ["Quotes"]
+				"tags": ["Links"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/09/11/loading-everyone-to.html",
@@ -2995,7 +3040,7 @@
 				"content_text": "<blockquote>\n<p>“Loading everyone to 100% of capacity has the same effect as loading a highway to 100% of capacity: No one can make any progress.” (Mike Cohn, Agile Estimating and Planning)</p>\n</blockquote>\n<p>I love this quote. So true!</p>\n",
 				"date_published": "2022-09-11T09:57:39-05:00",
 				"url": "https://ericgregorich.com/2022/09/11/loading-everyone-to.html",
-				"tags": ["Quotes"]
+				"tags": ["Links"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/09/11/i-didnt-do.html",
@@ -3085,8 +3130,8 @@
 			{
 				"id": "http://ericgregorich.micro.blog/2022/08/05/add-plausible-analytics.html",
 				"title": "Add Plausible Analytics to your Obsidian Publish site",
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><a href=\"https://obsidian.md/publish\">Obsidian Publish</a> allows adding JavaScript, which means you can add a <a href=\"http://plausible.io/\">Plausible Analytics</a> tracking code to your site.</p>\n<h2 id=\"configure-plausible-analytics\">Configure Plausible Analytics</h2>\n<ol>\n<li>Create your Obsidian Publish site in your Plausible Analytics account.</li>\n<li>View your tracking code.</li>\n</ol>\n<h2 id=\"configure-obsidian-publish\">Configure Obsidian Publish</h2>\n<ol>\n<li>Create a file named publish.js in the root of your Obsidian vault. Create this file from file explorer, not from within Obsidian!</li>\n<li>Copy the below script to the publish.js file.</li>\n<li>Update the  with your Obsidian Publish URL.</li>\n<li>Update <strong>Your Plausible JavaScript URL</strong> with the JavaScript URL that Plausible Analytics provides to you.</li>\n<li>Save and publish the publish.js file to your Obsidian Publish site!</li>\n<li>Open your Plausible Analytics page and refresh your Obsidian Publish page. Plausible Analytics should recognize an active visitor to the site.</li>\n</ol>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<div class=\"highlight\"><pre tabindex=\"0\" style=\"color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;\"><code class=\"language-js\" data-lang=\"js\"><span style=\"display:flex;\"><span><span style=\"color:#f92672\">&lt;</span><span style=\"color:#a6e22e\">script</span> <span style=\"color:#a6e22e\">defer</span> <span style=\"color:#a6e22e\">data</span><span style=\"color:#f92672\">-</span><span style=\"color:#a6e22e\">domain</span><span style=\"color:#f92672\">=</span><span style=\"color:#e6db74\">&#34;yourdomain.com&#34;</span> <span style=\"color:#a6e22e\">src</span><span style=\"color:#f92672\">=</span><span style=\"color:#e6db74\">&#34;https://plausible.io/js/script.js&#34;</span><span style=\"color:#f92672\">&gt;&lt;</span><span style=\"color:#960050;background-color:#1e0010\">/script&gt;</span>\n</span></span></code></pre></div><!-- raw HTML omitted -->\n<div class=\"highlight\"><pre tabindex=\"0\" style=\"color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;\"><code class=\"language-js\" data-lang=\"js\"><span style=\"display:flex;\"><span><span style=\"color:#66d9ef\">var</span> <span style=\"color:#a6e22e\">analyticsScript</span> <span style=\"color:#f92672\">=</span> document.<span style=\"color:#a6e22e\">createElement</span>(<span style=\"color:#e6db74\">&#39;script&#39;</span>);\n</span></span><span style=\"display:flex;\"><span><span style=\"color:#a6e22e\">analyticsScript</span>.<span style=\"color:#a6e22e\">defer</span> <span style=\"color:#f92672\">=</span> <span style=\"color:#66d9ef\">true</span>;\n</span></span><span style=\"display:flex;\"><span><span style=\"color:#a6e22e\">analyticsScript</span>.<span style=\"color:#a6e22e\">data</span><span style=\"color:#f92672\">-</span><span style=\"color:#a6e22e\">domain</span> <span style=\"color:#f92672\">=</span> <span style=\"color:#e6db74\">&#34;yourdomain.com&#34;</span>;\n</span></span><span style=\"display:flex;\"><span><span style=\"color:#a6e22e\">analyticsScript</span>.<span style=\"color:#a6e22e\">src</span> <span style=\"color:#f92672\">=</span> <span style=\"color:#e6db74\">&#39;https://plausible.io/js/script.js&#39;</span>;\n</span></span><span style=\"display:flex;\"><span>document.<span style=\"color:#a6e22e\">head</span>.<span style=\"color:#a6e22e\">appendChild</span>(<span style=\"color:#a6e22e\">analyticsScript</span>);\n</span></span></code></pre></div>",
+				"content_text": "<p><a href=\"https://obsidian.md/publish\">Obsidian Publish</a> allows adding JavaScript, which means you can add a <a href=\"http://plausible.io/\">Plausible Analytics</a> tracking code to your site.</p>\n<h2 id=\"configure-plausible-analytics\">Configure Plausible Analytics</h2>\n<ol>\n<li>Create your Obsidian Publish site in your Plausible Analytics account.</li>\n<li>View your tracking code. It should look similar to this:</li>\n</ol>\n\n```js\n<script defer data-domain=\"yourdomain.com\" src=\"https://plausible.io/js/script.js\"></script>\n```\n\n<h2 id=\"configure-obsidian-publish\">Configure Obsidian Publish</h2>\n<ol>\n<li>Create a file named publish.js in the root of your Obsidian vault. Create this file from file explorer, not from within Obsidian!</li>\n<li>Copy the below script to the publish.js file.</li>\n<li>Update the `data-domain` and `src` to the values provided in the Plausible script.</li>\n<li>Save and publish the publish.js file to your Obsidian Publish site!</li>\n<li>Open your Plausible Analytics page and refresh your Obsidian Publish page. Plausible Analytics should recognize an active visitor to the site.</li>\n</ol>\n\n```js\nvar analyticsScript = document.createElement('script');\nanalyticsScript.defer = true;\nanalyticsScript.data-domain = \"yourdomain.com\";\nanalyticsScript.src = 'https://plausible.io/js/script.js';\ndocument.head.appendChild(analyticsScript);\n\n```\n",
 				"date_published": "2022-08-05T19:00:00-05:00",
 				"url": "https://ericgregorich.com/2022/08/05/add-plausible-analytics.html",
 				"tags": ["Notes"]
