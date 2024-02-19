@@ -24,6 +24,76 @@
 	
 	  <div class="h-entry">
 		
+			<h1><a href="https://ericgregorich.com/2024/02/19/bypass-first-access.html">Bypass first access consent dialog in Power Apps</a></h1>
+		
+
+		<a href="https://ericgregorich.com/2024/02/19/bypass-first-access.html" class="u-url"><time class="dt-published" datetime="2024-02-19 08:00:00 -0500">Feb 19, 2024</time></a>
+
+		<div class="e-content">
+			 <p>How to use PowerShell to disable the consent dialog showing when a user opens Power Apps for the first time or when a new connection is added.</p>
+<h2 id="set-consent-bypass">Set Consent Bypass</h2>
+<p>PowerShell can disable the consent dialog when the user opens the Power App for the first time or when a new connection is added.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-shell" data-lang="shell"><span style="display:flex;"><span>Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Force
+</span></span><span style="display:flex;"><span>dir . | Unblock-File
+</span></span><span style="display:flex;"><span>Install-Module -Name Microsoft.PowerApps.Administration.PowerShell
+</span></span><span style="display:flex;"><span>Install-Module -Name Microsoft.PowerApps.PowerShell -AllowClobber
+</span></span><span style="display:flex;"><span>Import-Module Microsoft.Online.SharePoint.Powershell -Verbose
+</span></span><span style="display:flex;"><span>Connect-SPOService -Url <span style="color:#f92672">{</span>Your SharePoint Admin Tenant URL<span style="color:#f92672">}</span>
+</span></span><span style="display:flex;"><span>Set-AdminPowerAppApisToBypassConsent -AppName <span style="color:#f92672">{</span>Your App ID<span style="color:#f92672">}</span>
+</span></span></code></pre></div><p>When prompted, enter your Environment ID in the URL or the Power Platform Admin center in the selected Environment.</p>
+<h2 id="clear-consent-bypass">Clear Consent Bypass</h2>
+<p>The following PowerShell clears the consent bypass that is set. The users will again be prompted for consent when they open the app for the first time or if a new connection is added.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-shell" data-lang="shell"><span style="display:flex;"><span>Clear-AdminPowerAppApisToBypassConsent -AppName <span style="color:#f92672">{</span>Your App Id<span style="color:#f92672">}</span>
+</span></span></code></pre></div>
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://ericgregorich.com/2024/02/18/what-is-a.html">What is a GUID and how do I create one?</a></h1>
+		
+
+		<a href="https://ericgregorich.com/2024/02/18/what-is-a.html" class="u-url"><time class="dt-published" datetime="2024-02-18 09:46:42 -0500">Feb 18, 2024</time></a>
+
+		<div class="e-content">
+			 <p>The GUID is created using the computer’s network address, generating the GUID, the current date and time, and a random number.  GUIDs are often used as unique identifiers.</p>
+<p>It is technically possible to have more than one GUID be the same, but it must be generated from the same computer simultaneously, so it is very unlikely.</p>
+<p>You can create your own GUID using an <a href="https://guidgenerator.com">online tool</a>, or your local development tools. You likely have a GUID function in your preferred development tool that will generate one for you.</p>
+<h2 id="how-to-create-a-guid-using-powershell">How to create a GUID using PowerShell</h2>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-powershell" data-lang="powershell"><span style="display:flex;"><span>[<span style="color:#66d9ef">guid</span>]::NewGuid()
+</span></span></code></pre></div><h2 id="how-to-create-a-guid-using-cmd">How to create a GUID using CMD</h2>
+<p>Open the CMD as an administrator.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-PowerShell" data-lang="PowerShell"><span style="display:flex;"><span>powershell -command <span style="color:#e6db74">&#34;Write-Output ([guid]::NewGuid())&#34;</span>
+</span></span></code></pre></div>
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://ericgregorich.com/2024/02/18/microsoft-power-automate.html">Microsoft Power Automate Approval Types</a></h1>
+		
+
+		<a href="https://ericgregorich.com/2024/02/18/microsoft-power-automate.html" class="u-url"><time class="dt-published" datetime="2024-02-18 08:00:00 -0500">Feb 18, 2024</time></a>
+
+		<div class="e-content">
+			 <p>Microsoft Power Automate has two main Approval Types.</p>
+<ol>
+<li>Everyone must approve - All approvers must approve.</li>
+<li>First to respond - Requires approval from one approver.</li>
+</ol>
+<h2 id="first-to-respond">First to respond</h2>
+<p><img src="https://ericgregorich.com/uploads/2024/microsoft-power-automate-approval-types-20231127112149691.webp" alt="First to Respond"></p>
+<p>When one approver approves (or rejects), their approval task is marked as Approved (or Rejected) and moved to history. The approval tasks for the other Approvers are also marked as Approved (or Rejected) and moved to history. If any approvers look at that approval task, it will show a message saying the task has already been completed. No notification is sent.</p>
+<p>Only one approver must approve (or Reject).</p>
+<h2 id="everyone-must-approve">Everyone must approve</h2>
+<p><img src="https://ericgregorich.com/uploads/2024/microsoft-power-automate-approval-types-20231127112217916.webp" alt="Everyone must approve"></p>
+<p>When one approver approves, their approval task is marked as Approved and moved to history. The other approval tasks remain pending. All tasks must be approved before the workflow continues to the following action. However, if any approvers reject their task, all of the approval tasks are marked as Rejected and moved to history. Then, the following action in the workflow is triggered.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
 
 		<a href="https://ericgregorich.com/2024/02/17/i-like-the.html" class="u-url"><time class="dt-published" datetime="2024-02-17 17:14:25 -0500">Feb 17, 2024</time></a>
 
@@ -38,15 +108,15 @@
 	
 	  <div class="h-entry">
 		
-			<h1><a href="https://ericgregorich.com/2024/02/17/tools-i-use.html">Tools I use</a></h1>
+			<h1><a href="https://ericgregorich.com/2024/02/17/tools-i-use.html">Tools I use Page</a></h1>
 		
 
 		<a href="https://ericgregorich.com/2024/02/17/tools-i-use.html" class="u-url"><time class="dt-published" datetime="2024-02-17 15:48:31 -0500">Feb 17, 2024</time></a>
 
 		<div class="e-content">
-			 <p>While moving things around on my sites a few weeks ago, I realize I lost the &ldquo;<a href="https://notes.ericgregorich.com/Lists/Tools+I+Use">Tools I Use</a>&rdquo; page that I had setup. This is one of the downsides to changing things too often.</p>
-<p>Anyway, I created a new page. I decided to use my Obsidian Publish account since I still have an ongoing subscription. I think pages like this would be very easy to update from Obsidian. I may add more pages to that site, including a list of search engines, static site generators, favorite newsletters, podcasts, etc. Obsidian Publish should work well for &ldquo;static&rdquo; pages that are updated over time and independent from the chronological order of a blog.</p>
-<p>Here is my current <a href="https://notes.ericgregorich.com/Lists/Tools+I+Use">Tools I use</a> page.</p>
+			 <p>While moving things around on my sites a few weeks ago, I realized I lost the &ldquo;<a href="https://notes.ericgregorich.com/Lists/Tools+I+Use">Tools I Use</a>&rdquo; page that I had set up. This is one of the downsides to changing things too often.</p>
+<p>Anyway, I created a new page. I decided to use my Obsidian Publish account since I still have an ongoing subscription. I think pages like this would be effortless to update from Obsidian. I may add more pages to that site, including a list of search engines, static site generators, favorite newsletters, podcasts, etc. Obsidian Publish should work well for &ldquo;static&rdquo; pages that are updated over time and independent of the chronological order of a blog.</p>
+<p>Here is my current <a href="https://ericgregorich.com/tools-i-use/">Tools I use</a> page.</p>
 
 		</div>
 	  </div>
@@ -971,51 +1041,6 @@ I&rsquo;ve enjoyed Inoreader as my one stop for all RSS, newsletters, YouTube, a
 	  <div class="h-entry">
 		
 
-		<a href="https://ericgregorich.com/2023/12/31/here-are-a.html" class="u-url"><time class="dt-published" datetime="2023-12-31 23:09:57 -0500">Dec 31, 2023</time></a>
-
-		<div class="e-content">
-			 <p>📚 Here are a few of the books I read in 2023. No goals for 2024 other than trying to read more fiction and biographies.</p>
-
-
-
-  <div class="bookgoals">
-    
-      <a href=""><img src="https://cdn.micro.blog/photos/300x/https%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3D04eIA3RwGbwC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D5%26source%3Dgbs_api" alt="The Ocean at the End of the Lane" width="100" height="120" class="cover"></a>
-    
-      <a href=""><img src="https://cdn.micro.blog/photos/300x/https%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DKGthEAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D5%26source%3Dgbs_api" alt="Smart Brevity" width="100" height="120" class="cover"></a>
-    
-      <a href=""><img src="https://cdn.micro.blog/photos/300x/https%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DNEqlEAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D5%26source%3Dgbs_api" alt="Clear Thinking" width="100" height="120" class="cover"></a>
-    
-      <a href=""><img src="https://cdn.micro.blog/photos/300x/https%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3Dxa7MDwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D5%26source%3Dgbs_api" alt="Fundamentals of Software Architecture" width="100" height="120" class="cover"></a>
-    
-      <a href=""><img src="https://cdn.micro.blog/photos/300x/https%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DZ5PpkQadm5EC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D5%26source%3Dgbs_api" alt="How to Read a Book (A Touchstone Book)" width="100" height="120" class="cover"></a>
-    
-      <a href=""><img src="https://cdn.micro.blog/photos/300x/https%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3D28L3DwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D5%26source%3Dgbs_api" alt="The Comfort Crisis" width="100" height="120" class="cover"></a>
-    
-      <a href=""><img src="https://cdn.micro.blog/photos/300x/https%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DPTBQEAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D5%26source%3Dgbs_api" alt="The Lost Metal" width="100" height="120" class="cover"></a>
-    
-      <a href=""><img src="https://cdn.micro.blog/photos/300x/https%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DCspvEAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D5%26source%3Dgbs_api" alt="Outlive" width="100" height="120" class="cover"></a>
-    
-      <a href=""><img src="https://cdn.micro.blog/photos/300x/https%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DuluPEAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D5%26source%3Dgbs_api" alt="How to Calm Your Mind" width="100" height="120" class="cover"></a>
-    
-      <a href=""><img src="https://cdn.micro.blog/photos/300x/https%3A%2F%2Fimages.isbndb.com%2Fcovers%2F52%2F43%2F9780374715243.jpg" alt="Four Thousand Weeks: Time Management for Mortals" width="100" height="120" class="cover"></a>
-    
-      <a href=""><img src="https://cdn.micro.blog/photos/300x/https%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DNXLPzgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D5%26source%3Dgbs_api" alt="The Staff Engineer&#39;s Path" width="100" height="120" class="cover"></a>
-    
-      <a href=""><img src="https://cdn.micro.blog/photos/300x/https%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3Du7FYEAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D5%26source%3Dgbs_api" alt="Tranquility by Tuesday" width="100" height="120" class="cover"></a>
-    
-      <a href=""><img src="https://cdn.micro.blog/photos/300x/https%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3Dw-1DEAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D5%26source%3Dgbs_api" alt="The Gap and The Gain" width="100" height="120" class="cover"></a>
-    
-  </div>
-
-
-
-		</div>
-	  </div>
-	
-	  <div class="h-entry">
-		
-
 		<a href="https://ericgregorich.com/2023/12/31/previewing-the-new.html" class="u-url"><time class="dt-published" datetime="2023-12-31 14:40:22 -0500">Dec 31, 2023</time></a>
 
 		<div class="e-content">
@@ -1492,29 +1517,6 @@ I’m starting to get into it. It’s a great pick.</p>
 			 <p>I sent out the first issue of a new <a href="https://newsletter.ericgregorich.com/archive/erics-weekly-cache-1">newsletter</a> I&rsquo;m experimenting with. The idea is to share some of my favorite articles, apps, and other interesting links that I discover during the week.</p>
 <p>I&rsquo;d appreciate any feedback!</p>
 <p><a href="https://newsletter.ericgregorich.com/archive/erics-weekly-cache-1/">Eric&rsquo;s Weekly Cache # 1</a></p>
-
-		</div>
-	  </div>
-	
-	  <div class="h-entry">
-		
-			<h1><a href="https://ericgregorich.com/2023/12/03/erics-weekly-cache.html">Eric’s Weekly Cache #1</a></h1>
-		
-
-		<a href="https://ericgregorich.com/2023/12/03/erics-weekly-cache.html" class="u-url"><time class="dt-published" datetime="2023-12-03 10:05:50 -0500">Dec 3, 2023</time></a>
-
-		<div class="e-content">
-			 <p>I’m Eric, and this newsletter is where I share my latest blog posts and links to the awesome things I discover online. These can include great articles, apps, communities, and anything else I find interesting. <!-- raw HTML omitted -->Subscribe here<!-- raw HTML omitted --></p>
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
 
 		</div>
 	  </div>
