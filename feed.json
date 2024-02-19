@@ -7,22 +7,48 @@
 	"items": [
 		
 			{
+				"id": "http://ericgregorich.micro.blog/2024/02/19/bypass-first-access.html",
+				"title": "Bypass first access consent dialog in Power Apps",
+				"content_html": "<p>How to use PowerShell to disable the consent dialog showing when a user opens Power Apps for the first time or when a new connection is added.</p>\n<h2 id=\"set-consent-bypass\">Set Consent Bypass</h2>\n<p>PowerShell can disable the consent dialog when the user opens the Power App for the first time or when a new connection is added.</p>\n<div class=\"highlight\"><pre tabindex=\"0\" style=\"color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;\"><code class=\"language-shell\" data-lang=\"shell\"><span style=\"display:flex;\"><span>Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Force\n</span></span><span style=\"display:flex;\"><span>dir . | Unblock-File\n</span></span><span style=\"display:flex;\"><span>Install-Module -Name Microsoft.PowerApps.Administration.PowerShell\n</span></span><span style=\"display:flex;\"><span>Install-Module -Name Microsoft.PowerApps.PowerShell -AllowClobber\n</span></span><span style=\"display:flex;\"><span>Import-Module Microsoft.Online.SharePoint.Powershell -Verbose\n</span></span><span style=\"display:flex;\"><span>Connect-SPOService -Url <span style=\"color:#f92672\">{</span>Your SharePoint Admin Tenant URL<span style=\"color:#f92672\">}</span>\n</span></span><span style=\"display:flex;\"><span>Set-AdminPowerAppApisToBypassConsent -AppName <span style=\"color:#f92672\">{</span>Your App ID<span style=\"color:#f92672\">}</span>\n</span></span></code></pre></div><p>When prompted, enter your Environment ID in the URL or the Power Platform Admin center in the selected Environment.</p>\n<h2 id=\"clear-consent-bypass\">Clear Consent Bypass</h2>\n<p>The following PowerShell clears the consent bypass that is set. The users will again be prompted for consent when they open the app for the first time or if a new connection is added.</p>\n<div class=\"highlight\"><pre tabindex=\"0\" style=\"color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;\"><code class=\"language-shell\" data-lang=\"shell\"><span style=\"display:flex;\"><span>Clear-AdminPowerAppApisToBypassConsent -AppName <span style=\"color:#f92672\">{</span>Your App Id<span style=\"color:#f92672\">}</span>\n</span></span></code></pre></div>",
+				"content_text": "How to use PowerShell to disable the consent dialog showing when a user opens Power Apps for the first time or when a new connection is added.\n## Set Consent Bypass\n\nPowerShell can disable the consent dialog when the user opens the Power App for the first time or when a new connection is added.\n\n```shell\nSet-ExecutionPolicy -ExecutionPolicy RemoteSigned -Force\ndir . | Unblock-File\nInstall-Module -Name Microsoft.PowerApps.Administration.PowerShell\nInstall-Module -Name Microsoft.PowerApps.PowerShell -AllowClobber\nImport-Module Microsoft.Online.SharePoint.Powershell -Verbose\nConnect-SPOService -Url {Your SharePoint Admin Tenant URL}\nSet-AdminPowerAppApisToBypassConsent -AppName {Your App ID}\n```\n\nWhen prompted, enter your Environment ID in the URL or the Power Platform Admin center in the selected Environment.\n\n## Clear Consent Bypass\n\nThe following PowerShell clears the consent bypass that is set. The users will again be prompted for consent when they open the app for the first time or if a new connection is added. \n\n```shell\nClear-AdminPowerAppApisToBypassConsent -AppName {Your App Id}\n```\n",
+				"date_published": "2024-02-19T08:00:00-05:00",
+				"url": "https://ericgregorich.com/2024/02/19/bypass-first-access.html",
+				"tags": ["Power Platform"]
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2024/02/18/what-is-a.html",
+				"title": "What is a GUID and how do I create one?",
+				"content_html": "<p>The GUID is created using the computer’s network address, generating the GUID, the current date and time, and a random number.  GUIDs are often used as unique identifiers.</p>\n<p>It is technically possible to have more than one GUID be the same, but it must be generated from the same computer simultaneously, so it is very unlikely.</p>\n<p>You can create your own GUID using an <a href=\"https://guidgenerator.com\">online tool</a>, or your local development tools. You likely have a GUID function in your preferred development tool that will generate one for you.</p>\n<h2 id=\"how-to-create-a-guid-using-powershell\">How to create a GUID using PowerShell</h2>\n<div class=\"highlight\"><pre tabindex=\"0\" style=\"color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;\"><code class=\"language-powershell\" data-lang=\"powershell\"><span style=\"display:flex;\"><span>[<span style=\"color:#66d9ef\">guid</span>]::NewGuid()\n</span></span></code></pre></div><h2 id=\"how-to-create-a-guid-using-cmd\">How to create a GUID using CMD</h2>\n<p>Open the CMD as an administrator.</p>\n<div class=\"highlight\"><pre tabindex=\"0\" style=\"color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;\"><code class=\"language-PowerShell\" data-lang=\"PowerShell\"><span style=\"display:flex;\"><span>powershell -command <span style=\"color:#e6db74\">&#34;Write-Output ([guid]::NewGuid())&#34;</span>\n</span></span></code></pre></div>",
+				"content_text": "\nThe GUID is created using the computer’s network address, generating the GUID, the current date and time, and a random number.  GUIDs are often used as unique identifiers. \n\nIt is technically possible to have more than one GUID be the same, but it must be generated from the same computer simultaneously, so it is very unlikely.\n\nYou can create your own GUID using an [online tool](https://guidgenerator.com), or your local development tools. You likely have a GUID function in your preferred development tool that will generate one for you.\n\n## How to create a GUID using PowerShell\n\n```powershell\n[guid]::NewGuid()\n```\n\n## How to create a GUID using CMD\nOpen the CMD as an administrator.\n\n```PowerShell\npowershell -command \"Write-Output ([guid]::NewGuid())\"\n```\n",
+				"date_published": "2024-02-18T09:46:42-05:00",
+				"url": "https://ericgregorich.com/2024/02/18/what-is-a.html",
+				"tags": ["Architect"]
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2024/02/18/microsoft-power-automate.html",
+				"title": "Microsoft Power Automate Approval Types",
+				"content_html": "<p>Microsoft Power Automate has two main Approval Types.</p>\n<ol>\n<li>Everyone must approve - All approvers must approve.</li>\n<li>First to respond - Requires approval from one approver.</li>\n</ol>\n<h2 id=\"first-to-respond\">First to respond</h2>\n<p><img src=\"https://ericgregorich.com/uploads/2024/microsoft-power-automate-approval-types-20231127112149691.webp\" alt=\"First to Respond\"></p>\n<p>When one approver approves (or rejects), their approval task is marked as Approved (or Rejected) and moved to history. The approval tasks for the other Approvers are also marked as Approved (or Rejected) and moved to history. If any approvers look at that approval task, it will show a message saying the task has already been completed. No notification is sent.</p>\n<p>Only one approver must approve (or Reject).</p>\n<h2 id=\"everyone-must-approve\">Everyone must approve</h2>\n<p><img src=\"https://ericgregorich.com/uploads/2024/microsoft-power-automate-approval-types-20231127112217916.webp\" alt=\"Everyone must approve\"></p>\n<p>When one approver approves, their approval task is marked as Approved and moved to history. The other approval tasks remain pending. All tasks must be approved before the workflow continues to the following action. However, if any approvers reject their task, all of the approval tasks are marked as Rejected and moved to history. Then, the following action in the workflow is triggered.</p>\n",
+				"content_text": "\nMicrosoft Power Automate has two main Approval Types.\n\n1. Everyone must approve - All approvers must approve.\n2. First to respond - Requires approval from one approver. \n\n## First to respond\n   \n   ![First to Respond](https://ericgregorich.com/uploads/2024/microsoft-power-automate-approval-types-20231127112149691.webp)\n\n\nWhen one approver approves (or rejects), their approval task is marked as Approved (or Rejected) and moved to history. The approval tasks for the other Approvers are also marked as Approved (or Rejected) and moved to history. If any approvers look at that approval task, it will show a message saying the task has already been completed. No notification is sent.\n\nOnly one approver must approve (or Reject).\n\n## Everyone must approve\n\n![Everyone must approve](https://ericgregorich.com/uploads/2024/microsoft-power-automate-approval-types-20231127112217916.webp)\n\nWhen one approver approves, their approval task is marked as Approved and moved to history. The other approval tasks remain pending. All tasks must be approved before the workflow continues to the following action. However, if any approvers reject their task, all of the approval tasks are marked as Rejected and moved to history. Then, the following action in the workflow is triggered.\n",
+				"date_published": "2024-02-18T08:00:00-05:00",
+				"url": "https://ericgregorich.com/2024/02/18/microsoft-power-automate.html",
+				"tags": ["Power Platform"]
+			},
+			{
 				"id": "http://ericgregorich.micro.blog/2024/02/17/i-like-the.html",
 				
 				"content_html": "<p>I like the idea of creating static pages that I can continuously update over time.</p>\n<p>This type of content does not fit as well in a chronological blog since they are always updated and are not relevant to a specific date.</p>\n<p>I created a <a href=\"https://notes.ericgregorich.com/tools+I+use\">Tools I use</a> page and a <a href=\"https://notes.ericgregorich.com/search+engines\">Search Engines</a> page to start.</p>\n<p>I can imagine a wide variety of use cases for this.</p>\n",
 				"content_text": "I like the idea of creating static pages that I can continuously update over time. \n\nThis type of content does not fit as well in a chronological blog since they are always updated and are not relevant to a specific date. \n\nI created a [Tools I use](https://notes.ericgregorich.com/tools+I+use) page and a [Search Engines](https://notes.ericgregorich.com/search+engines) page to start.\n\nI can imagine a wide variety of use cases for this.\n",
 				"date_published": "2024-02-17T17:14:25-05:00",
 				"url": "https://ericgregorich.com/2024/02/17/i-like-the.html",
-				"tags": ["Updates"]
+				"tags": ["Life Updates"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2024/02/17/tools-i-use.html",
-				"title": "Tools I use",
-				"content_html": "<p>While moving things around on my sites a few weeks ago, I realize I lost the &ldquo;<a href=\"https://notes.ericgregorich.com/Lists/Tools+I+Use\">Tools I Use</a>&rdquo; page that I had setup. This is one of the downsides to changing things too often.</p>\n<p>Anyway, I created a new page. I decided to use my Obsidian Publish account since I still have an ongoing subscription. I think pages like this would be very easy to update from Obsidian. I may add more pages to that site, including a list of search engines, static site generators, favorite newsletters, podcasts, etc. Obsidian Publish should work well for &ldquo;static&rdquo; pages that are updated over time and independent from the chronological order of a blog.</p>\n<p>Here is my current <a href=\"https://notes.ericgregorich.com/Lists/Tools+I+Use\">Tools I use</a> page.</p>\n",
-				"content_text": "While moving things around on my sites a few weeks ago, I realize I lost the \"[Tools I Use](https://notes.ericgregorich.com/Lists/Tools+I+Use)\" page that I had setup. This is one of the downsides to changing things too often.\n\nAnyway, I created a new page. I decided to use my Obsidian Publish account since I still have an ongoing subscription. I think pages like this would be very easy to update from Obsidian. I may add more pages to that site, including a list of search engines, static site generators, favorite newsletters, podcasts, etc. Obsidian Publish should work well for \"static\" pages that are updated over time and independent from the chronological order of a blog.\n\nHere is my current [Tools I use](https://notes.ericgregorich.com/Lists/Tools+I+Use) page.\n",
+				"title": "Tools I use Page",
+				"content_html": "<p>While moving things around on my sites a few weeks ago, I realized I lost the &ldquo;<a href=\"https://notes.ericgregorich.com/Lists/Tools+I+Use\">Tools I Use</a>&rdquo; page that I had set up. This is one of the downsides to changing things too often.</p>\n<p>Anyway, I created a new page. I decided to use my Obsidian Publish account since I still have an ongoing subscription. I think pages like this would be effortless to update from Obsidian. I may add more pages to that site, including a list of search engines, static site generators, favorite newsletters, podcasts, etc. Obsidian Publish should work well for &ldquo;static&rdquo; pages that are updated over time and independent of the chronological order of a blog.</p>\n<p>Here is my current <a href=\"https://ericgregorich.com/tools-i-use/\">Tools I use</a> page.</p>\n",
+				"content_text": "\nWhile moving things around on my sites a few weeks ago, I realized I lost the \"[Tools I Use](https://notes.ericgregorich.com/Lists/Tools+I+Use)\" page that I had set up. This is one of the downsides to changing things too often.\n\nAnyway, I created a new page. I decided to use my Obsidian Publish account since I still have an ongoing subscription. I think pages like this would be effortless to update from Obsidian. I may add more pages to that site, including a list of search engines, static site generators, favorite newsletters, podcasts, etc. Obsidian Publish should work well for \"static\" pages that are updated over time and independent of the chronological order of a blog.\n\nHere is my current [Tools I use](https://ericgregorich.com/tools-i-use/) page.\n",
 				"date_published": "2024-02-17T15:48:31-05:00",
-				"url": "https://ericgregorich.com/2024/02/17/tools-i-use.html",
-				"tags": ["Updates"]
+				"url": "https://ericgregorich.com/2024/02/17/tools-i-use.html"
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2024/02/17/my-apple-vision.html",
@@ -76,7 +102,7 @@
 				"content_text": "<p>Finished reading: <a href=\"https://micro.blog/books/9780062388797\">Reader, Come Home: The Reading Brain in a Digital World</a> by Maryanne Wolf 📚</p>\n<p>I really enjoyed the first half of this book. I admittedly lost interest in the second half.</p>\n",
 				"date_published": "2024-02-11T09:40:32-05:00",
 				"url": "https://ericgregorich.com/2024/02/11/finished-reading-reader.html",
-				"tags": ["Books","Reading","Thinking"]
+				"tags": ["Updates","Reading","Thinking"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2024/02/10/loosing-the-ability.html",
@@ -191,7 +217,7 @@
 				"content_text": "<p>Want to read: <a href=\"https://micro.blog/books/9780374605964\">The Mountain in the Sea</a> by Ray Nayler 📚</p>\n",
 				"date_published": "2024-02-02T12:03:46-05:00",
 				"url": "https://ericgregorich.com/2024/02/02/want-to-read.html",
-				"tags": ["Books"]
+				"tags": ["Updates"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2024/02/02/i-was-able.html",
@@ -460,15 +486,6 @@
 				"url": "https://ericgregorich.com/2024/01/01/use-a-media.html"
 			},
 			{
-				"id": "http://ericgregorich.micro.blog/2023/12/31/here-are-a.html",
-				
-				"content_html": "<p>📚 Here are a few of the books I read in 2023. No goals for 2024 other than trying to read more fiction and biographies.</p>\n\n\n\n  <div class=\"bookgoals\">\n    \n      <a href=\"\"><img src=\"https://cdn.micro.blog/photos/300x/https%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3D04eIA3RwGbwC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D5%26source%3Dgbs_api\" alt=\"The Ocean at the End of the Lane\" width=\"100\" height=\"120\" class=\"cover\"></a>\n    \n      <a href=\"\"><img src=\"https://cdn.micro.blog/photos/300x/https%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DKGthEAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D5%26source%3Dgbs_api\" alt=\"Smart Brevity\" width=\"100\" height=\"120\" class=\"cover\"></a>\n    \n      <a href=\"\"><img src=\"https://cdn.micro.blog/photos/300x/https%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DNEqlEAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D5%26source%3Dgbs_api\" alt=\"Clear Thinking\" width=\"100\" height=\"120\" class=\"cover\"></a>\n    \n      <a href=\"\"><img src=\"https://cdn.micro.blog/photos/300x/https%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3Dxa7MDwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D5%26source%3Dgbs_api\" alt=\"Fundamentals of Software Architecture\" width=\"100\" height=\"120\" class=\"cover\"></a>\n    \n      <a href=\"\"><img src=\"https://cdn.micro.blog/photos/300x/https%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DZ5PpkQadm5EC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D5%26source%3Dgbs_api\" alt=\"How to Read a Book (A Touchstone Book)\" width=\"100\" height=\"120\" class=\"cover\"></a>\n    \n      <a href=\"\"><img src=\"https://cdn.micro.blog/photos/300x/https%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3D28L3DwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D5%26source%3Dgbs_api\" alt=\"The Comfort Crisis\" width=\"100\" height=\"120\" class=\"cover\"></a>\n    \n      <a href=\"\"><img src=\"https://cdn.micro.blog/photos/300x/https%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DPTBQEAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D5%26source%3Dgbs_api\" alt=\"The Lost Metal\" width=\"100\" height=\"120\" class=\"cover\"></a>\n    \n      <a href=\"\"><img src=\"https://cdn.micro.blog/photos/300x/https%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DCspvEAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D5%26source%3Dgbs_api\" alt=\"Outlive\" width=\"100\" height=\"120\" class=\"cover\"></a>\n    \n      <a href=\"\"><img src=\"https://cdn.micro.blog/photos/300x/https%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DuluPEAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D5%26source%3Dgbs_api\" alt=\"How to Calm Your Mind\" width=\"100\" height=\"120\" class=\"cover\"></a>\n    \n      <a href=\"\"><img src=\"https://cdn.micro.blog/photos/300x/https%3A%2F%2Fimages.isbndb.com%2Fcovers%2F52%2F43%2F9780374715243.jpg\" alt=\"Four Thousand Weeks: Time Management for Mortals\" width=\"100\" height=\"120\" class=\"cover\"></a>\n    \n      <a href=\"\"><img src=\"https://cdn.micro.blog/photos/300x/https%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DNXLPzgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D5%26source%3Dgbs_api\" alt=\"The Staff Engineer&#39;s Path\" width=\"100\" height=\"120\" class=\"cover\"></a>\n    \n      <a href=\"\"><img src=\"https://cdn.micro.blog/photos/300x/https%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3Du7FYEAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D5%26source%3Dgbs_api\" alt=\"Tranquility by Tuesday\" width=\"100\" height=\"120\" class=\"cover\"></a>\n    \n      <a href=\"\"><img src=\"https://cdn.micro.blog/photos/300x/https%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3Dw-1DEAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D5%26source%3Dgbs_api\" alt=\"The Gap and The Gain\" width=\"100\" height=\"120\" class=\"cover\"></a>\n    \n  </div>\n\n\n",
-				"content_text": "📚 Here are a few of the books I read in 2023. No goals for 2024 other than trying to read more fiction and biographies. \n\n{{< bookgoals 2023 >}}\n",
-				"date_published": "2023-12-31T23:09:57-05:00",
-				"url": "https://ericgregorich.com/2023/12/31/here-are-a.html",
-				"tags": ["Books"]
-			},
-			{
 				"id": "http://ericgregorich.micro.blog/2023/12/31/previewing-the-new.html",
 				
 				"content_html": "<p><a href=\"https://youtu.be/SztU4232u_o?si=XEfJTJvU-fwUNKms\">Previewing the new HEY Calendar</a></p>\n<p>Jason introduces the upcoming Hey Calendar. It is more full-featured than I expected, including habits and time tracking. As expected, it has the UI twists you can expect from 37signals.</p>\n<p>You can import external calendars through ICS feeds, but there is no syncing.</p>\n",
@@ -542,7 +559,7 @@
 				"content_text": "Currently reading: [Feel-Good Productivity](https://micro.blog/books/9781250865052) by Ali Abdaal 📚\n",
 				"date_published": "2023-12-26T11:27:43-05:00",
 				"url": "https://ericgregorich.com/2023/12/26/currently-reading-feelgood.html",
-				"tags": ["Books"]
+				"tags": ["Updates"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/12/26/ive-seen-several.html",
@@ -559,7 +576,7 @@
 				"content_text": "I finished reading: [The Ocean at the End of the Lane](https://micro.blog/books/9780062255679) by Neil Gaiman 📚\n\nI thought it was an imaginative story that was relatively easy to follow and not too long. The pace kept me interested all the way through. \n\nThe Ocean at the End of the Lane may be my first Neil Gaiman book. I’ll be reading more, for sure. \n",
 				"date_published": "2023-12-25T22:47:11-05:00",
 				"url": "https://ericgregorich.com/2023/12/25/i-finished-reading.html",
-				"tags": ["Books"]
+				"tags": ["Updates"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/12/25/zoey-loves-tearing.html",
@@ -616,7 +633,7 @@
 				"content_text": "Currently reading: [The Ocean at the End of the Lane](https://micro.blog/books/9780062255679) by Neil Gaiman 📚\n\nI saw this book recommendation from [@manton](https://micro.blog/manton).    \nI’m starting to get into it. It’s a great pick. \n",
 				"date_published": "2023-12-13T12:19:26-05:00",
 				"url": "https://ericgregorich.com/2023/12/13/currently-reading-the.html",
-				"tags": ["Books"]
+				"tags": ["Updates"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/12/12/blogtrottr-send-rss.html",
@@ -734,14 +751,6 @@
 				"url": "https://ericgregorich.com/2023/12/03/i-sent-out.html"
 			},
 			{
-				"id": "http://ericgregorich.micro.blog/2023/12/03/erics-weekly-cache.html",
-				"title": "Eric’s Weekly Cache #1",
-				"content_html": "<p>I’m Eric, and this newsletter is where I share my latest blog posts and links to the awesome things I discover online. These can include great articles, apps, communities, and anything else I find interesting. <!-- raw HTML omitted -->Subscribe here<!-- raw HTML omitted --></p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "I’m Eric, and this newsletter is where I share my latest blog posts and links to the awesome things I discover online. These can include great articles, apps, communities, and anything else I find interesting. <a href=\"https://newsletter.ericgregorich.com\">Subscribe here</a>\n<div>\n<h3><a href=\"https://kagi.com\">Kagi Search - A Premium Search Engine</a></h3>\n<p><img src=\"https://assets.buttondown.email/images/2108b50b-9603-497f-a11a-423c667229fb.png?w=960&fit=max\" alt=\"Screenshot of the Kagi search engine.\" /><br />Kagi is a great search engine that has no ads. Of course, this means you need to pay for it. It turns out to be great for searching and also has some AI features built in!</p>\n</div>\n\n<div>\n<h3><a href=\"https://www.htmhell.dev/adventcalendar/2023/2/\">You don't need JavaScript for that - HTMHell</a></h3>\n<p><img src=\"https://assets.buttondown.email/images/cefac5df-c2d2-4fb9-a572-ecd1f73f1515.png?w=960&fit=max\" alt=\"HTMHell Screenshot\" /><br /> Explains why we should default to HTML and then CSS before using JavaScript in our web pages and applications.</p>\n</div>\n\n<div>\n<h3><a href=\"https://blogs.library.duke.edu/blog/2023/11/30/why-were-dropping-basecamp/\">Why We're Dropping Basecamp</a></h3>\n<p><img src=\"http://blogs.library.duke.edu/wp-content/uploads/2023/11/basecamp_calendar_reminder.png?w=960&fit=max\" alt=\"Screenshot of Basecampe article\" /><br /> An interesting read about why Duke University Libraries is dropping basecamp from 37signals. It comes down to disagreeing with ownership and the business culture.</p>\n</div>\n\n<div>\n<h3><a href=\"https://hemisphericviews.com/\">Hemispheric Views Podcast</a></h3>\n<p><img src=\"https://hemisphericviews.com/assets/images/share.jpg?v=0c411c98&w=960&fit=max\" alt=\"Hemispheric Views Podcast cover.\" /><br /> A fun podcast with the business-savvy Andrew Canion, tech-creative Jason Burk and podcast-researcher Martin Feld.</p>\n</div>\n\n<div>\n<h3><a href=\"https://arstechnica.com/google/2023/12/chromes-next-weapon-in-the-war-on-ad-blockers-slower-extension-updates/\">Chrome’s next weapon in the War on Ad Blockers: Slower extension updates</a></h3>\n<p><img src=\"https://rdl.ink/render/https%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2021%2F08%2FGoogle-Monopoly-800x450.jpg?w=960&fit=max\" alt=\"Screenshot of article.\" /><br /> When ad blocking is a cat-and-mouse game, make the mouse slower. Google is making updates to Chrome that will make ad-blocking extensions struggle to stay up to date. The only thing surprising about this is how long it’s taken Google to do it.</p>\n</div>\n\n<div>\n<h3><a href=\"https://buttondown.email/grubjournal\">The Grub Journal</a></h3>\n<p><img src=\"https://assets.buttondown.email/images/44007797-33e0-48ed-8306-0b9c42a92932.jpeg?w=960&fit=max\" alt=\"Grub Journal Logo\"/><br /> A newsletter containing one Grub (maybe) everyday from humdrum.</p>\n</div>\n\n<div>\n<h3><a href=\"https://pipilo.thanel.me\">Pipilo</a></h3>\n<p><img src=\"https://assets.buttondown.email/images/34560f37-cf72-41a3-b98a-4021c3560fc3.png?w=960&fit=max\" alt=\"Pipilo Logo\"/><br /> ‎Pipilo is an app that connects to your Fediverse accounts, like Mastadon, and provides a clean unique browsing experience. You navigate horizontally, which is quote refreshing.</p>\n</div>\n\n<div>\n<h3><a href=\"https://apps.apple.com/us/app/play-save-videos-watch-later/id1596506190\">‎Play: Save Videos Watch Later</a></h3>\n<p><img src=\"https://assets.buttondown.email/images/9793845b-d9e7-429d-9904-bc00f8539215.png?w=960&fit=max\" alt=\"Play Logo\"/><br /> ‎I've used Play 1.0 on and off, but a few days ago, they released Play 2.0, which has many great features. You can add all of your favorite YouTube channels and create your playlists. Watch YouTube without leaving the app! </p>\n</div>\n\n<div>\n<h3><a href=\"https://ktool.io/\">‎KTool</a></h3>\n<p><img src=\"https://rdl.ink/render/https%3A%2F%2Fktool.io%2Fimages%2Fktool-og-2.jpg?w=960&fit=max\" alt=\"KTool Logo\"/><br />KTool is a tool created by Daniel Nguyen that allows you to easily send articles, RSS, and newsletters directly to your Kindle for reading. I've been using KTool for a few weeks, which is pretty awesome!</p>\n</div>\n\n<div>\n<h3><a href=\"https://youtube.com/watch?v=XxOh12Uhg08&si=DEppPaIvCQHrtxPC\">‎Driving Tesla Cybertruck: Everything You Need to Know!</a></h3>\n<p><img src=\"https://rdl.ink/render/https%3A%2F%2Fi.ytimg.com%2Fvi%2FXxOh12Uhg08%2Fmaxresdefault.jpg?w=960&fit=max\" alt=\"Video thumbnail.\"/><br />Marques gives us a detailed tour of the new Tesla Cybertruck.</p>\n</div>\n",
-				"date_published": "2023-12-03T10:05:50-05:00",
-				"url": "https://ericgregorich.com/2023/12/03/erics-weekly-cache.html"
-			},
-			{
 				"id": "http://ericgregorich.micro.blog/2023/12/02/im-done-no.html",
 				
 				"content_html": "<p>I’m done!</p>\n<p>No more messing with my websites (for a while). I now have a <a href=\"https://ericgregorich.com\">profile page</a>, my <a href=\"https://blog.ericgregorich.com\">personal blog</a>, and two new newsletters, <a href=\"https://newsletter.ericgregorich.com\">Eric’s Weekly Cache</a> and <a href=\"https://newsletter.thepowerarchitect.com\">The Power Architect</a>.</p>\n<p>The newsletters will be where I share my posts plus the cool links I discover.</p>\n<p>Now, I need to focus on content!</p>\n",
@@ -788,7 +797,7 @@
 				"content_text": "<p>Finished reading: <a href=\"https://micro.blog/books/9781523520121\">Smart Brevity</a> by Jim VandeHei, Mike Allen, and Roy Schwartz 📚</p>\n<p>It is a book about transforming your writing to convey your meaning in as few words as possible.</p>\n<p>It’s a pretty good book you can crank through in less than 2 hours.</p>\n",
 				"date_published": "2023-11-25T14:08:26-05:00",
 				"url": "https://ericgregorich.com/2023/11/25/finished-reading-smart.html",
-				"tags": ["Books"]
+				"tags": ["Updates"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/11/22/a-great-directory.html",
@@ -854,7 +863,7 @@
 				"content_text": "Finished reading: [Clear Thinking](https://micro.blog/books/9780735238725) by Shane Parrish 📚\n\nI think thought this was a great book. Easy to read, as all books from Shane Parrish are. It is chalked full of insights. \n\nThis book is to Decision Making as Atomic Habits is to Habits. Perhaps the definitive guide for beginners. \n",
 				"date_published": "2023-11-11T10:52:05-05:00",
 				"url": "https://ericgregorich.com/2023/11/11/finished-reading-clear.html",
-				"tags": ["Books"]
+				"tags": ["Updates"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/11/09/feed-your-creativity.html",
@@ -904,7 +913,7 @@
 				"content_text": "Finished reading: [Fundamentals of Software Architecture](https://micro.blog/books/9781492043423) by Mark Richards 📚\n\nA solid book about software architecture that covers high-level rules and concepts for software construction, as well as various soft skills and responsibilities that an architect should have to be successful.\n",
 				"date_published": "2023-10-29T13:49:46-05:00",
 				"url": "https://ericgregorich.com/2023/10/29/finished-reading-fundamentals.html",
-				"tags": ["Books","Architect"]
+				"tags": ["Updates","Architect"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/10/28/as-i-get.html",
@@ -945,7 +954,7 @@
 				"content_text": "<p>Imagine using ChatGPT or a read-later service like Matter or Readwise, and instead of just reading in one of a few preselected voices, it reads in the author’s voice!</p>\n<p>We could add some metadata to our site that gives these services instructions for how to sound and even what tone is appropriate.</p>\n",
 				"date_published": "2023-10-23T21:28:34-05:00",
 				"url": "https://ericgregorich.com/2023/10/23/imagine-using-chatgpt.html",
-				"tags": ["Readwise","AI"]
+				"tags": ["Apps and Services","AI"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/10/19/obsidian-importer-can.html",
@@ -987,7 +996,7 @@
 				"content_text": "Finished reading: [How to Read a Book (A Touchstone Book)](https://micro.blog/books/9781439144831) by Charles Van Doren 📚\r\n\r\nDetailed guidance for how to read effectively and have a conversation with the author.\r\n\r\nI admit this was hard for me to read and ironically,  I skimmed a lot of it. \r\n\r\nI lost interest, but still go a few ideas.\n",
 				"date_published": "2023-10-02T07:12:47-05:00",
 				"url": "https://ericgregorich.com/2023/10/02/finished-reading-how.html",
-				"tags": ["Books"]
+				"tags": ["Updates"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/10/01/ive-been-using.html",
@@ -1103,7 +1112,7 @@
 				"content_text": "Want to read: [How to Be Miserable](https://micro.blog/books/9781626254084) by Randy J. Paterson 📚\n\nThis was talked about on the Focused podcast episode 185. It sounds like a fun read if you’re tired of the typical self development books. \n",
 				"date_published": "2023-08-30T20:22:02-05:00",
 				"url": "https://ericgregorich.com/2023/08/30/want-to-read.html",
-				"tags": ["Books"]
+				"tags": ["Updates"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/08/30/documentation-using-azure.html",
@@ -1153,7 +1162,7 @@
 				"content_text": "Currently reading: [The Extended Mind: The Power of Thinking Outside the Brain](https://micro.blog/books/9780544947665) by Annie Murphy Paul 📚\n",
 				"date_published": "2023-08-20T20:03:48-05:00",
 				"url": "https://ericgregorich.com/2023/08/20/currently-reading-the.html",
-				"tags": ["Books"]
+				"tags": ["Updates"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/08/20/what-ai-teaches.html",
@@ -1194,7 +1203,7 @@
 				"content_text": "Finished reading: [The Comfort Crisis](https://micro.blog/books/9780593138779) by Michael Easter 📚\n\nIt is a nice blend of story and scientific evidence stating how we have grown too comfortable in our day-to-day lives. \n\nNo big surprises were revealed. Yet an interesting story made it enjoyable to read. It was inspiring but depressing knowing how much healthier I could be with significant lifestyle changes. \n",
 				"date_published": "2023-08-12T19:21:59-05:00",
 				"url": "https://ericgregorich.com/2023/08/12/finished-reading-the.html",
-				"tags": ["Books"]
+				"tags": ["Updates"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/08/12/the-comfort-crisis.html",
@@ -1252,7 +1261,7 @@
 				"content_text": "Want to read: [The Comfort Crisis](https://micro.blog/books/9780593138779) by Michael Easter 📚\n",
 				"date_published": "2023-08-03T20:25:37-05:00",
 				"url": "https://ericgregorich.com/2023/08/03/want-to-read.html",
-				"tags": ["Books"]
+				"tags": ["Updates"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/07/27/obsidians-insider-build.html",
@@ -1294,7 +1303,7 @@
 				"content_text": "<p>By utilizing these simple formatting tricks, you can easily organize and categorize your highlights in Readwise, making reviewing and retaining important information from your sources easier.</p>\n<p>You can do this by simply formatting a note to your highlight. </p>\n<p>My favorites include:</p>\n<p><strong><a href=\"https://blog.readwise.io/tag-your-highlights-while-you-read/\">Inline tagging</a></strong></p>\n<p>Add a tag to your source highlight to tag it when imported into Readwise automatically. </p>\n<p>Add a note with a period (.) followed by the name of your tag. </p>\n<p><code>.tag1</code></p>\n<p><code>.tag2</code></p>\n<p><code>.tag3</code></p>\n<p><strong><a href=\"https://blog.readwise.io/combine-highlights-on-the-fly/\">Concatenate highlights</a></strong></p>\n<p>Combine multiple highlights from the source into one highlight in Readwise. </p>\n<p>Add a note with a period (.) followed by the letter “c” and then an incrementing number. </p>\n<p><code>.c1</code></p>\n<p><code>.c2</code></p>\n<p><code>.c3</code></p>\n<p><strong><a href=\"https://blog.readwise.io/add-chapters-to-highlights/\">Add headings</a></strong></p>\n<p>This is handy, especially for books where you want to separate your highlights by chapter. </p>\n<p>Add a note with a period (.) followed by the letter “h” and the heading level you want.</p>\n<p><code>.h1</code></p>\n<p><code>.h2</code></p>\n<p><code>.h3</code></p>\n<p>These tricks make Readwise even more powerful and valuable.</p>\n",
 				"date_published": "2023-07-22T12:21:49-05:00",
 				"url": "https://ericgregorich.com/2023/07/22/readwise-advanced-tagging.html",
-				"tags": ["Readwise"]
+				"tags": ["Apps and Services"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/07/22/currently-reading-fundamentals.html",
@@ -1303,7 +1312,7 @@
 				"content_text": "Currently reading: [Fundamentals of Software Architecture](https://micro.blog/books/9781492043423) by Mark Richards 📚\n",
 				"date_published": "2023-07-22T11:26:09-05:00",
 				"url": "https://ericgregorich.com/2023/07/22/currently-reading-fundamentals.html",
-				"tags": ["Books"]
+				"tags": ["Updates"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/07/22/new-isnt-better.html",
@@ -1336,7 +1345,7 @@
 				"content_text": "Finished reading: [The Lost Metal: A Mistborn Novel](https://micro.blog/books/9780765391209) by Brandon Sanderson 📚\n\nAs expected, this book was a lot of fun!\n",
 				"date_published": "2023-07-19T11:37:30-05:00",
 				"url": "https://ericgregorich.com/2023/07/19/finished-reading-the.html",
-				"tags": ["Books"]
+				"tags": ["Updates"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/07/19/i-dont-often.html",
@@ -1410,7 +1419,7 @@
 				"content_text": "Currently reading: [Tomorrow, and Tomorrow, and Tomorrow](https://micro.blog/books/9780735243354) by Gabrielle Zevin 📚\n",
 				"date_published": "2023-07-02T12:23:14-05:00",
 				"url": "https://ericgregorich.com/2023/07/02/currently-reading-tomorrow.html",
-				"tags": ["Books"]
+				"tags": ["Updates"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/07/02/i-updated-my.html",
@@ -1468,7 +1477,7 @@
 				"content_text": "<p>The <a title=\"Snipd\" href=\"https://apps.apple.com/us/app/snipd-smart-podcast-player/id1557206126\">Snipd</a> podcast app has a snipping and AI component that makes it ideal for capturing and sharing the information you obtain from podcasts.</p>\n<p>You can even sync to Readwise and share to other services. I’ve been capturing and saving to my bookmarks’ manager, so I can reference clips later.</p>\n",
 				"date_published": "2023-06-23T14:45:04-05:00",
 				"url": "https://ericgregorich.com/2023/06/23/the-snipd-podcast.html",
-				"tags": ["Readwise"]
+				"tags": ["Apps and Services"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/06/23/back-to-the.html",
@@ -1486,7 +1495,7 @@
 				"content_text": "Currently reading: [The Song of Significance](https://micro.blog/books/9780593715543) by Seth Godin 📚\n",
 				"date_published": "2023-06-18T17:34:25-05:00",
 				"url": "https://ericgregorich.com/2023/06/18/currently-reading-the.html",
-				"tags": ["Books"]
+				"tags": ["Updates"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/06/18/creative-burnout-when.html",
@@ -1591,13 +1600,13 @@
 				"content_text": "<p>Currently reading: <a href=\"https://micro.blog/books/9781401964368\">The Gap and The Gain</a> by Dan Sullivan 📚</p>\n",
 				"date_published": "2023-05-28T15:12:05-05:00",
 				"url": "https://ericgregorich.com/2023/05/28/currently-reading-the.html",
-				"tags": ["Books"]
+				"tags": ["Updates"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/05/28/i-bit-the.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p>I bit the bullet and purchased a new iPhone case (that barely qualifies as a case) called the <a href=\"https://arc.cc/products/arc-pulse-for-iphone-14-pro\">Arc Pulse</a>.</p>\n<p>It only covers the corners and camera and provides solid protection in those areas, but the rest of the phone is exposed.</p>\n<p>I actually love it because it doesn’t feel like using a case at all!</p>\n<p><img src=\"uploads/2023/e461a94fe4.jpg\" alt=\"iPhone 14 Pro with Arc Pulse Case\" width=\"421\" height=\"600\" /></p>\n",
+				"content_text": "<p>I bit the bullet and purchased a new iPhone case (that barely qualifies as a case) called the <a href=\"https://arc.cc/products/arc-pulse-for-iphone-14-pro\">Arc Pulse</a>.</p>\n<p>It only covers the corners and camera and provides solid protection in those areas, but the rest of the phone is exposed.</p>\n<p>I actually love it because it doesn’t feel like using a case at all!</p>\n<p><img src=\"https://ericgregorich.micro.blog/uploads/2023/e461a94fe4.jpg\" alt=\"iPhone 14 Pro with Arc Pulse Case\" width=\"421\" height=\"600\" /></p>\n",
 				"date_published": "2023-05-28T15:10:02-05:00",
 				"url": "https://ericgregorich.com/2023/05/28/i-bit-the.html",
 				"tags": ["Hardware"]
@@ -1741,7 +1750,7 @@
 				"content_text": "Want to read: [Shareware Heroes](https://micro.blog/books/9781800181106) by Richard Moss 📚\n",
 				"date_published": "2023-04-13T21:41:24-05:00",
 				"url": "https://ericgregorich.com/2023/04/13/want-to-read.html",
-				"tags": ["Books"]
+				"tags": ["Updates"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/04/13/ive-been-busy.html",
@@ -1887,7 +1896,7 @@
 				"content_text": "[Four Thousand Weeks: Time Management for Mortals](https://micro.blog/books/9780374715243) by Oliver Burkeman 📚\n\nOliver recommends having 3 main tasks you can currently work on. When one task is complete, you can determine which task from your backlog to insert into the empty slot. You can also drop a task from the three if necessary. \n",
 				"date_published": "2023-03-25T11:08:30-05:00",
 				"url": "https://ericgregorich.com/2023/03/25/four-thousand-weeks.html",
-				"tags": ["Books"]
+				"tags": ["Updates"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/03/25/im-trying-out.html",
@@ -1904,7 +1913,7 @@
 				"content_text": "Discarded: [The Future Is Analog](https://micro.blog/books/9781541701571) by David Sax 📚I just couldn’t get into this book. It’s all about the pandemic with an “I told you so” attitude. \n",
 				"date_published": "2023-03-24T17:01:56-05:00",
 				"url": "https://ericgregorich.com/2023/03/24/discarded-the-future.html",
-				"tags": ["Books"]
+				"tags": ["Updates"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/03/23/dateful-is-a.html",
@@ -1930,7 +1939,7 @@
 				"content_text": "Currently reading: [THINK STRAIGHT](https://micro.blog/books/9789083023847) by Darius Foroux 📚\n",
 				"date_published": "2023-03-15T20:32:04-05:00",
 				"url": "https://ericgregorich.com/2023/03/15/currently-reading-think.html",
-				"tags": ["Books"]
+				"tags": ["Updates"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/03/12/i-finished-the.html",
@@ -2028,7 +2037,7 @@
 				"content_text": "<p>Currently reading: <a href=\"https://micro.blog/books/9781541701571\">The Future Is Analog</a> by David Sax 📚</p>\n",
 				"date_published": "2023-02-18T09:33:05-05:00",
 				"url": "https://ericgregorich.com/2023/02/18/currently-reading-the.html",
-				"tags": ["Books"]
+				"tags": ["Updates"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/02/17/craft-has-replaced.html",
@@ -2125,7 +2134,7 @@
 				"content_text": "<p>Currently reading: <a href=\"https://micro.blog/books/9780358573838\">Move The Body, Heal The Mind</a> by Jennifer Heisz 📚</p>\n<p><img src=\"https://ericgregorich.micro.blog/uploads/2023/2df2be68c6.jpg\" alt=\"\" width=\"600\" height=\"542\" /></p>\n",
 				"date_published": "2023-02-02T17:16:16-05:00",
 				"url": "https://ericgregorich.com/2023/02/02/currently-reading-move.html",
-				"tags": ["Books"]
+				"tags": ["Updates"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/02/02/use-an-index.html",
@@ -2280,7 +2289,7 @@
 				"content_text": "<p>Readwise Reader is growing on me.</p>\n<p>I spent some time learning how to configure it to my liking and learned some shortcuts. I removed most of the views, updated the swipe commands, and changed my Library Commands to only Later and Archive. Also, I cleaned up my feed.</p>\n<p><img src=\"https://ericgregorich.micro.blog/uploads/2023/7266561d81.png\" alt=\"\" width=\"536\" height=\"548\" /></p>\n",
 				"date_published": "2023-01-13T09:31:01-05:00",
 				"url": "https://ericgregorich.com/2023/01/13/readwise-reader-is.html",
-				"tags": ["Readwise"]
+				"tags": ["Apps and Services"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/01/11/from-problem-to.html",
@@ -2348,7 +2357,7 @@
 				"content_text": "<p>Currently reading: <a href=\"https://micro.blog/books/9781938570346\">Secret Project #1</a> by Brandon Sanderson 📚</p>\n",
 				"date_published": "2023-01-01T18:45:14-05:00",
 				"url": "https://ericgregorich.com/2023/01/01/currently-reading-secret.html",
-				"tags": ["Books"]
+				"tags": ["Updates"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/01/01/the-microblog-cards.html",
@@ -2398,7 +2407,7 @@
 				"content_text": "<p>Currently reading: <a href=\"https://micro.blog/books/ISBN139798986862613\">Antinet Zettelkasten</a> by Scott P. Scheper 📚</p>\n<p>If you are interested in analog note-taking, this is the book to read—the book details the analog Zettelkasten system and how and why it works.</p>\n",
 				"date_published": "2022-12-26T08:49:18-05:00",
 				"url": "https://ericgregorich.com/2022/12/26/currently-reading-antinet.html",
-				"tags": ["Books"]
+				"tags": ["Updates"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/12/26/you-wont-succeed.html",
@@ -2449,7 +2458,7 @@
 				"content_text": "<p>Currently reading: <a href=\"https://micro.blog/books/9781098118730\">The Staff Engineer’s Path</a> by Tanya Reilly 📚</p>\n",
 				"date_published": "2022-12-15T22:54:25-05:00",
 				"url": "https://ericgregorich.com/2022/12/15/currently-reading-the.html",
-				"tags": ["Books"]
+				"tags": ["Updates"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/12/15/finished-reading-the.html",
@@ -2458,7 +2467,7 @@
 				"content_text": "<p>Finished reading: <a href=\"https://micro.blog/books/9781943623389\">The Laws of Creativity</a> by Joey Cofone 📚</p>\n",
 				"date_published": "2022-12-15T22:53:01-05:00",
 				"url": "https://ericgregorich.com/2022/12/15/finished-reading-the.html",
-				"tags": ["Books"]
+				"tags": ["Updates"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/12/15/add-reading-time.html",
@@ -2690,7 +2699,7 @@
 				"content_text": "<p>Currently reading: <a href=\"https://micro.blog/books/9780765391209\">The Lost Metal: A Mistborn Novel</a> by Brandon Sanderson 📚</p>\n",
 				"date_published": "2022-11-15T07:39:43-05:00",
 				"url": "https://ericgregorich.com/2022/11/15/currently-reading-the.html",
-				"tags": ["Books"]
+				"tags": ["Updates"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/11/15/finished-reading-king.html",
@@ -2699,7 +2708,7 @@
 				"content_text": "<p>Finished reading: <a href=\"https://micro.blog/books/9781399705417\">King: Fairy Tale</a> by Stephen King 📚. A character-driven and realistic adventure into another world where many of our fairy tales began.</p>\n<p>I’d love to see this book made into a movie!</p>\n",
 				"date_published": "2022-11-15T07:36:25-05:00",
 				"url": "https://ericgregorich.com/2022/11/15/finished-reading-king.html",
-				"tags": ["Books"]
+				"tags": ["Updates"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/11/14/its-the-stuff.html",
@@ -2716,7 +2725,7 @@
 				"content_text": "<p>I’m going all-in with the Readwise Reader app for a while. I’ll see if it is enough to make me switch from Feedbin.</p>\n<p>I’ll need some time to <strong>adjust</strong>.</p>\n<p>Readwise has a great reading and highlighting experience with the ability to subscribe to RSS, Newsletters, and Twitter.</p>\n",
 				"date_published": "2022-11-13T21:25:23-05:00",
 				"url": "https://ericgregorich.com/2022/11/13/im-going-allin.html",
-				"tags": ["Readwise"]
+				"tags": ["Apps and Services"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/11/13/your-words-are.html",
@@ -2887,7 +2896,7 @@
 				"content_text": "<p>Currently reading: <a href=\"https://micro.blog/books/9781943623389\">The Laws of Creativity</a> by Joey Cofone 📚</p>\n",
 				"date_published": "2022-10-28T21:25:15-05:00",
 				"url": "https://ericgregorich.com/2022/10/28/currently-reading-the.html",
-				"tags": ["Books"]
+				"tags": ["Updates"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/10/28/microblog-a-blog.html",
@@ -2968,7 +2977,7 @@
 				"content_text": "<p>I imported my Readwise collection into my Obsidian vault. The graph view looks like a mess, but I can start seeing where some knowledge is clustered together. I’m thinking the local graph will be more useful day-to-day.</p>\n<p><img src=\"https://ericgregorich.micro.blog/uploads/2022/32520b564e.png\" alt=\"Eric Gregorich Obsidian Graph 2022-10-20\" width=\"600\" height=\"418\" /></p>\n",
 				"date_published": "2022-10-20T15:37:29-05:00",
 				"url": "https://ericgregorich.com/2022/10/20/i-imported-my.html",
-				"tags": ["Obsidian","Readwise"]
+				"tags": ["Apps and Services"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/10/16/what-im-reading.html",
@@ -2977,7 +2986,7 @@
 				"content_text": "<p>I’ve been jumping between 3 books this week.</p>\n<p>The first is <a title=\"Fairy Tale, by Stephen King\" href=\"https://amzn.to/3s0YZeE\">Fairy Tale, by Stephen King</a>. I’m about 3/4 of the way through and have to say it’s excellent. I highly recommend the audiobook.</p>\n<p>The next is <a title=\"Stolen Focus by Johann Hari\" href=\"https://amzn.to/3rZMRuj\">Stolen Focus by Johann Hari</a>. Another book is about how the distractions from today’s technology are harming us.</p>\n<p>The last is <a title=\"Where Good Ideas Come From\" href=\"https://amzn.to/3eAJ6bC\">Where Good Ideas Come From by Steven Johnson</a>. This book discusses how our mind makes connections that form ideas. This book may interest you if you’re interested in PKM and all the new apps like Roam Research, Obsidian, Tana, Scrintal, Napkin, etc.</p>\n",
 				"date_published": "2022-10-16T07:28:37-05:00",
 				"url": "https://ericgregorich.com/2022/10/16/what-im-reading.html",
-				"tags": ["Books"]
+				"tags": ["Updates"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/10/15/i-made-some.html",
@@ -2994,7 +3003,7 @@
 				"content_text": "<p>The <a title=\"Readwise Reader\" href=\"https://readwise.io/read\">Readwise Reader</a> app is a great way to keep up with your Twitter feed.</p>\n<ul>\n<li>Create lists in your Twitter account.</li>\n<li>Subscribe to those lists in Reader.</li>\n<li>Receive a digest of each Twitter list twice daily.</li>\n</ul>\n<p>It’s a great way to keep up with what’s happening without going to Twitter!</p>\n",
 				"date_published": "2022-10-15T09:34:32-05:00",
 				"url": "https://ericgregorich.com/2022/10/15/the-readwise-reader.html",
-				"tags": ["Readwise"]
+				"tags": ["Apps and Services"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/10/14/the-ability-to.html",
@@ -3115,7 +3124,7 @@
 				"content_text": "<p>Currently reading: <a title=\"Stolen Focus\" href=\"https://micro.blog/books/9780593138526\">Stolen Focus</a> by Johann Hari 📚</p>\n<blockquote>\n<p>It’s when you set aside your distractions, he said, that you begin to see what you were distracting yourself from. - Stolen Focus p27 💬</p>\n</blockquote>\n",
 				"date_published": "2022-10-03T07:27:18-05:00",
 				"url": "https://ericgregorich.com/2022/10/03/082718.html",
-				"tags": ["Books"]
+				"tags": ["Updates"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/10/03/currently-reading-stolen.html",
@@ -3124,7 +3133,7 @@
 				"content_text": "<p>Currently reading: <a title=\"Stolen Focus\" href=\"https://micro.blog/books/9780593138526\">Stolen Focus</a> by Johann Hari 📚</p>\n<p>As a kid, I’ve always struggled with focus and attention, even without digital distractions. I’m a daydreamer. Today’s digital tools have made our lives simpler, yet at a cost. Even as I read the introduction to this book, I noticed I picked up my phone at least twice.</p>\n<p>Staying focused becomes more manageable when working on something I enjoy—writing code, building something, solving a problem. It’s easy to get into focus during those times. We can’t always be in deep focus. What do we do when we’re not?</p>\n<p>I’m hoping this book is not only about scare tactics. I’m not expecting some miracle cure, but perhaps a guide through my own thoughts to help figure out what works for me.</p>\n<p>I hope I can stay focused enough to read through the nearly 300 pages in this book. :)</p>\n",
 				"date_published": "2022-10-03T07:11:48-05:00",
 				"url": "https://ericgregorich.com/2022/10/03/currently-reading-stolen.html",
-				"tags": ["Books"]
+				"tags": ["Updates"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/10/02/airshow-podcast-app.html",
@@ -3181,7 +3190,7 @@
 				"content_text": "<p>Just received my physical copy of <a href=\"https://micro.blog/books/9781728256665\">Daily Creative: A Practical Guide for Staying Prolific, Brilliant, and Healthy</a> by Todd Henry 📚</p>\n<p>This book was highly recommended. I’ll try to take my time and read it as intended, one day at a time.</p>\n<p><img src=\"https://ericgregorich.micro.blog/uploads/2022/24084bae76.jpg\" alt=\"\" width=\"600\" height=\"450\" /></p>\n",
 				"date_published": "2022-09-16T16:00:07-05:00",
 				"url": "https://ericgregorich.com/2022/09/16/just-received-my.html",
-				"tags": ["Books"]
+				"tags": ["Updates"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/09/16/im-looking-forward.html",
@@ -3262,7 +3271,7 @@
 				"content_text": "<p>Currently reading: <a href=\"https://micro.blog/books/9780134494326\">Clean Architecture: A Craftsman’s Guide to Software Structure and Design (Robert C. Martin Series)</a> by Martin Robert C. 📚</p>\n",
 				"date_published": "2022-09-09T22:49:30-05:00",
 				"url": "https://ericgregorich.com/2022/09/09/currently-reading-clean.html",
-				"tags": ["Books","Architect"]
+				"tags": ["Updates","Architect"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/09/09/the-readwise-reader.html",
@@ -3271,7 +3280,7 @@
 				"content_text": "<p>The <a href=\"https://readwise.io/read\">Readwise Reader</a> app has come a long way over the past year. With built-in RSS, Email, and Twitter support, it has replaced many of my other apps. It’s also just a great reading experience. Powerful on desktop, simple on mobile!</p>\n",
 				"date_published": "2022-09-09T07:14:00-05:00",
 				"url": "https://ericgregorich.com/2022/09/09/the-readwise-reader.html",
-				"tags": ["RSS","Readwise"]
+				"tags": ["Apps and Services","RSS"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/09/08/why-do-applications.html",
@@ -3295,7 +3304,8 @@
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>As we all know, staring at a screen causes eye strain. When you do this too long and too often, your eyes may not recover. This eye strain is often called computer vision syndrome (CVS) and can cause headaches, fatigue, dry eyes, and long-term damage.</p>\n<h2 id=\"what-is-the-20-20-20-rule\"><strong>What is the 20–20–20 Rule?</strong></h2>\n<p>Every 20 minutes you spend using a screen, look away at something 20 feet away for 20 seconds. 20 feet for 20 seconds is the optimal distance and time to allow your eyes to relax.</p>\n<h2 id=\"how-to-do-it\"><strong>How to do it</strong></h2>\n<ul>\n<li>Set a timer for 20 minutes.</li>\n<li>When the timer goes off, look away from your screen and at something for 20 seconds.</li>\n<li>Repeat.</li>\n</ul>\n<h2 id=\"what-can-we-do-for-20-seconds\"><strong>What can we do for 20 seconds?</strong></h2>\n<p>20 seconds is not very long. But there are some healthy things we can do during this time.</p>\n<ul>\n<li>Continue thinking about what you are working on without losing focus. I’ve found that stepping away for a few seconds can help me think through a problem.</li>\n<li>Stretch your body.</li>\n<li>Do some burpees or something to get the blood flowing.</li>\n<li>Take a drink of water.</li>\n<li>A time check is helpful when you lose focus on a particular task. Are you spending too much time? Do you need to wrap things up?</li>\n</ul>\n<h2 id=\"additional-reading\">Additional Reading</h2>\n<ul>\n<li><a href=\"https://www.aao.org/eye-health/tips-prevention/computer-usage\">Computers, Digital Devices, and Eye Strain</a></li>\n<li><a href=\"https://www.nepjol.info/index.php/NEPJOPH/article/view/8707\">Computer vision syndrome: a study of knowledge and practices in university students</a></li>\n</ul>\n",
 				"date_published": "2022-09-05T10:24:05-05:00",
-				"url": "https://ericgregorich.com/2022/09/05/take-care-of.html"
+				"url": "https://ericgregorich.com/2022/09/05/take-care-of.html",
+				"tags": ["Productivity"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/08/28/the-true-purpose.html",
@@ -3337,7 +3347,8 @@
 				"content_html": "<p>NVM allows you to install multiple versions of Node.js onto your machine, allowing you to switch between Node.js versions without reinstalling quickly.</p>\n<h2 id=\"why-do-you-need-multiple-versions-of-nodejs\">Why do you need multiple versions of Node.js?</h2>\n<p>You may have specific dependencies if you work with different types of apps. For example, I had to pull code for an SPFx web part to package and deploy it. The application’s dependencies required me to use a different version of Node.js than what I had installed.</p>\n<h2 id=\"get-nvm\">Get NVM</h2>\n<ul>\n<li><a href=\"https://github.com/creationix/nvm\">NVM for MacOS</a></li>\n<li><a href=\"https://github.com/coreybutler/nvm-windows\">NVM for Windows</a></li>\n</ul>\n<h2 id=\"common-commands\">Common Commands</h2>\n<ul>\n<li><code>nvm list available</code> Get a list of available Node.js versions</li>\n<li><code>nvm list</code> Get a list of installed versions of Node.js</li>\n<li><code>nvm install {version number}</code> to install a new version</li>\n<li><code>nvm uninstall {version number}</code> to uninstall a version.</li>\n<li><code>nvm use {version number}</code> to switch to an installed version of Node.js</li>\n</ul>\n",
 				"content_text": "NVM allows you to install multiple versions of Node.js onto your machine, allowing you to switch between Node.js versions without reinstalling quickly.\n\n## Why do you need multiple versions of Node.js?\nYou may have specific dependencies if you work with different types of apps. For example, I had to pull code for an SPFx web part to package and deploy it. The application’s dependencies required me to use a different version of Node.js than what I had installed.\n\n## Get NVM\n* [NVM for MacOS](https://github.com/creationix/nvm)\n* [NVM for Windows](https://github.com/coreybutler/nvm-windows)\n\n## Common Commands\n* `nvm list available` Get a list of available Node.js versions\n* `nvm list` Get a list of installed versions of Node.js\n* `nvm install {version number}` to install a new version\n* `nvm uninstall {version number}` to uninstall a version.\n* `nvm use {version number}` to switch to an installed version of Node.js\n",
 				"date_published": "2022-06-30T20:51:54-05:00",
-				"url": "https://ericgregorich.com/2022/06/30/use-nvm-to.html"
+				"url": "https://ericgregorich.com/2022/06/30/use-nvm-to.html",
+				"tags": ["Architect"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/06/30/tot-pocket.html",
