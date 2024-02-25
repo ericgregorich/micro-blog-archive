@@ -6,7 +6,7 @@
 
   <title>
       
-      Eric Gregorich
+      Eric&#39;s Blog
       
   </title>
 
@@ -24,27 +24,56 @@
 	
 	  <div class="h-entry">
 		
-			<h1><a href="https://ericgregorich.com/2024/02/19/bypass-first-access.html">Bypass first access consent dialog in Power Apps</a></h1>
+			<h1><a href="https://ericgregorich.com/2024/02/23/i-split-my.html">I split my blog into 3 sites</a></h1>
 		
 
-		<a href="https://ericgregorich.com/2024/02/19/bypass-first-access.html" class="u-url"><time class="dt-published" datetime="2024-02-19 08:00:00 -0500">Feb 19, 2024</time></a>
+		<a href="https://ericgregorich.com/2024/02/23/i-split-my.html" class="u-url"><time class="dt-published" datetime="2024-02-23 16:42:44 -0500">Feb 23, 2024</time></a>
 
 		<div class="e-content">
-			 <p>How to use PowerShell to disable the consent dialog showing when a user opens Power Apps for the first time or when a new connection is added.</p>
-<h2 id="set-consent-bypass">Set Consent Bypass</h2>
-<p>PowerShell can disable the consent dialog when the user opens the Power App for the first time or when a new connection is added.</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-shell" data-lang="shell"><span style="display:flex;"><span>Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Force
-</span></span><span style="display:flex;"><span>dir . | Unblock-File
-</span></span><span style="display:flex;"><span>Install-Module -Name Microsoft.PowerApps.Administration.PowerShell
-</span></span><span style="display:flex;"><span>Install-Module -Name Microsoft.PowerApps.PowerShell -AllowClobber
-</span></span><span style="display:flex;"><span>Import-Module Microsoft.Online.SharePoint.Powershell -Verbose
-</span></span><span style="display:flex;"><span>Connect-SPOService -Url <span style="color:#f92672">{</span>Your SharePoint Admin Tenant URL<span style="color:#f92672">}</span>
-</span></span><span style="display:flex;"><span>Set-AdminPowerAppApisToBypassConsent -AppName <span style="color:#f92672">{</span>Your App ID<span style="color:#f92672">}</span>
-</span></span></code></pre></div><p>When prompted, enter your Environment ID in the URL or the Power Platform Admin center in the selected Environment.</p>
-<h2 id="clear-consent-bypass">Clear Consent Bypass</h2>
-<p>The following PowerShell clears the consent bypass that is set. The users will again be prompted for consent when they open the app for the first time or if a new connection is added.</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-shell" data-lang="shell"><span style="display:flex;"><span>Clear-AdminPowerAppApisToBypassConsent -AppName <span style="color:#f92672">{</span>Your App Id<span style="color:#f92672">}</span>
-</span></span></code></pre></div>
+			 <p>Thanks to the latest Micro.blog <a href="https://www.manton.org/2024/02/21/simplified-pricing-in.html">subscription changes</a>, I decided to split my blog into 3 sites.</p>
+<ul>
+<li>My main <a href="https://ericgregorich.com">blog</a> will remain as is.</li>
+<li>The <a href="https://cards.ericgregorich.com">Cards Theme</a> now has its own blog. Updates are still posted to my main timeline. It has its own <a href="https://cards.ericgregorich.com/feed.xml">RSS feed</a> and <a href="https://cards.ericgregorich.com/newsletter/">newsletter</a>.</li>
+<li>The <a href="https://thepowerarchitect.com">Power Architect</a> is where I post about the Microsoft Power Platform. Updates are posted to my other account <a href="https://micro.blog/thepowerarchitect">@thepowerarchitect</a>. This allows me to post freely with niche content without cluttering up my main feed. It has its own <a href="https://thepowerarchitect.com/feed.json">RSS feed</a> and <a href="https://thepowerarchitect.com/newsletter/">newsletter</a>.</li>
+</ul>
+<p>Something always nagged at me when trying to combine everything into one site. I didn&rsquo;t want to have different services for different things (it gets expensive). This solves that problem by allowing me to have everything under one account, but still separate the content. Thanks, <a href="https://micro.blog/manton">@manton</a>!</p>
+<p>Now that everything is in its place, I hope to start posting more content soon.</p>
+<p>Please let me know if you have any suggestions!</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://ericgregorich.com/2024/02/21/every-book-should.html" class="u-url"><time class="dt-published" datetime="2024-02-21 08:29:26 -0500">Feb 21, 2024</time></a>
+
+		<div class="e-content">
+			 <p>“Every book should be read no more slowly than it deserves, and no more quickly than you can read it with satisfaction and comprehension.” — Mortimer J. Adler</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://ericgregorich.com/2024/02/20/finished-reading-a.html" class="u-url"><time class="dt-published" datetime="2024-02-20 08:42:47 -0500">Feb 20, 2024</time></a>
+
+		<div class="e-content">
+			 <p>Finished reading: <a href="https://micro.blog/books/9781732102200">A Philosophy of Software Design</a> by John Ousterhout 📚</p>
+<p>A good book that explains how to recognize the complexity of software design and provides many recommendations for how to overcome it, by making it obvious, using modular design, abstraction, comments, and naming conventions.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://ericgregorich.com/2024/02/20/currently-reading-driving.html" class="u-url"><time class="dt-published" datetime="2024-02-20 08:36:50 -0500">Feb 20, 2024</time></a>
+
+		<div class="e-content">
+			 <p>Currently reading: <a href="https://micro.blog/books/9780137381920">Driving Value with Sprint Goals</a> by Maarten Dalmijn 📚</p>
+
 		</div>
 	  </div>
 	
@@ -65,30 +94,6 @@
 <p>Open the CMD as an administrator.</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-PowerShell" data-lang="PowerShell"><span style="display:flex;"><span>powershell -command <span style="color:#e6db74">&#34;Write-Output ([guid]::NewGuid())&#34;</span>
 </span></span></code></pre></div>
-		</div>
-	  </div>
-	
-	  <div class="h-entry">
-		
-			<h1><a href="https://ericgregorich.com/2024/02/18/microsoft-power-automate.html">Microsoft Power Automate Approval Types</a></h1>
-		
-
-		<a href="https://ericgregorich.com/2024/02/18/microsoft-power-automate.html" class="u-url"><time class="dt-published" datetime="2024-02-18 08:00:00 -0500">Feb 18, 2024</time></a>
-
-		<div class="e-content">
-			 <p>Microsoft Power Automate has two main Approval Types.</p>
-<ol>
-<li>Everyone must approve - All approvers must approve.</li>
-<li>First to respond - Requires approval from one approver.</li>
-</ol>
-<h2 id="first-to-respond">First to respond</h2>
-<p><img src="https://ericgregorich.com/uploads/2024/microsoft-power-automate-approval-types-20231127112149691.webp" alt="First to Respond"></p>
-<p>When one approver approves (or rejects), their approval task is marked as Approved (or Rejected) and moved to history. The approval tasks for the other Approvers are also marked as Approved (or Rejected) and moved to history. If any approvers look at that approval task, it will show a message saying the task has already been completed. No notification is sent.</p>
-<p>Only one approver must approve (or Reject).</p>
-<h2 id="everyone-must-approve">Everyone must approve</h2>
-<p><img src="https://ericgregorich.com/uploads/2024/microsoft-power-automate-approval-types-20231127112217916.webp" alt="Everyone must approve"></p>
-<p>When one approver approves, their approval task is marked as Approved and moved to history. The other approval tasks remain pending. All tasks must be approved before the workflow continues to the following action. However, if any approvers reject their task, all of the approval tasks are marked as Rejected and moved to history. Then, the following action in the workflow is triggered.</p>
-
 		</div>
 	  </div>
 	
@@ -227,65 +232,11 @@ static int AddNumbers(int a, int b)
 	
 	  <div class="h-entry">
 		
-			<h1><a href="https://ericgregorich.com/2024/02/14/validate-your-power.html">Validate your Power Automate Licenses</a></h1>
-		
-
-		<a href="https://ericgregorich.com/2024/02/14/validate-your-power.html" class="u-url"><time class="dt-published" datetime="2024-02-14 08:52:06 -0500">Feb 14, 2024</time></a>
-
-		<div class="e-content">
-			 <p>Microsoft has provided some PowerShell that allows admins to check their Power Platform Environments for invalid Microsoft Power Automate Licenses before it becomes an issue.</p>
-<blockquote>
-<p>Unlicensed Power Automate Flows will be turned off. Microsoft is enforcing licensing on all Power Automate flows. The flow owner will be notified if any of your flows do not meet licensing requirements. The flow will turn off if not compliant after x days. Read the <a href="https://learn.microsoft.com/en-us/power-platform/admin/power-automate-licensing/faqs">FAQ</a> for licensing details.</p>
-</blockquote>
-<h2 id="open-powershell">Open PowerShell</h2>
-<p>First, open PowerShell on your machine (search for PowerShell), then open it as an administrator.</p>
-<h2 id="browse-to-a-location-to-save-the-output">Browse to a location to save the output</h2>
-<p>Next, enter <code>CD</code> and then the path to where you want to export the results. For me, my path is <code>C:\Local\Licensing</code>. Click Enter to see your directory change in your PowerShell prompt.</p>
-<h2 id="install-the-modules">Install the modules</h2>
-<p>We need to install the PowerShell modules required to run our command.</p>
-<p>Copy the following into your PowerShell terminal and click Enter.</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-shell" data-lang="shell"><span style="display:flex;"><span>Install-Module -Name Microsoft.PowerApps.Administration.PowerShell -Force  
-</span></span><span style="display:flex;"><span>Install-Module -Name Microsoft.PowerApps.PowerShell -AllowClobber -Force
-</span></span></code></pre></div><h2 id="run-get-adminflowatriskofsuspension">Run Get-AdminFlowAtRiskOfSuspension</h2>
-<p>Now, we can run our command. The command will check if any Power Automate flows in this environment are at risk and download the CSV file you specify.</p>
-<p>Please copy the following PowerShell, but change the Environment Name and, optionally, the Path before running it. I’d do this in Notepad first, then copy the results into the PowerShell terminal.</p>
-<blockquote>
-<p>Find your Environment Name You can find your environment by visiting the <a href="https://admin.powerplatform.microsoft.com/environments">Environments</a> page in the Power Platform Admin Center. I always click into the environment and use the Environment ID provided on the summary screen.</p>
-</blockquote>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-shell" data-lang="shell"><span style="display:flex;"><span>Get-AdminFlowAtRiskOfSuspension -EnvironmentName &lt;ENV_NAME&gt; -ApiVersion <span style="color:#e6db74">&#39;2016-11-01&#39;</span> | Export-Csv -Path suspensionList.csv -NoTypeInformation
-</span></span></code></pre></div><p>When you run this command, it will open a window that asks you to authenticate to your SharePoint tenant.</p>
-<p>After logging in, the results should be exported to a CSV file in the path you navigated earlier.</p>
-<h2 id="read-your-results">Read your results</h2>
-<p>If your CSV file is empty, you should be good to go. <strong>Remember to check each of your environments!</strong></p>
-<p>If you have results in your CSV, unfortunately, that means you have some invalid licenses to deal with.</p>
-<p>Your CSV file will have all the details you need to identify the flow, why it was flagged, and recommendations to resolve the licensing issue.</p>
-<h2 id="how-to-resolve-licensing-issues">How to resolve licensing issues</h2>
-<p>The best option is to read the <a href="https://learn.microsoft.com/en-us/power-platform/admin/power-automate-licensing/faqs">FAQ</a> provided by Microsoft.</p>
-<p>If your Flow is created to support your Power App, you can <a href="https://learn.microsoft.com/en-us/power-automate/associate-flow-to-app">Associate Your Flow</a>, with your Power App. This assumes your flow runs in the app’s context and uses the same data sources for triggers or actions. Scheduled and automated cloud flows must be linked to the app through <a href="https://learn.microsoft.com/en-us/power-platform/admin/powerapps-powershell#associate-in-context-flows-to-an-app">PowerShell</a>, but others can be connected directly from the flow details page (see bottom-right corner).</p>
-
-		</div>
-	  </div>
-	
-	  <div class="h-entry">
-		
 
 		<a href="https://ericgregorich.com/2024/02/12/currently-reading-the.html" class="u-url"><time class="dt-published" datetime="2024-02-12 21:15:14 -0500">Feb 12, 2024</time></a>
 
 		<div class="e-content">
 			 <p>Currently reading: <a href="https://micro.blog/books/9780374605964">The Mountain in the Sea</a> by Ray Nayler 📚</p>
-
-		</div>
-	  </div>
-	
-	  <div class="h-entry">
-		
-			<h1><a href="https://ericgregorich.com/2024/02/11/experimenting-with-related.html">Experimenting with Related Posts</a></h1>
-		
-
-		<a href="https://ericgregorich.com/2024/02/11/experimenting-with-related.html" class="u-url"><time class="dt-published" datetime="2024-02-11 13:01:14 -0500">Feb 11, 2024</time></a>
-
-		<div class="e-content">
-			 <!-- raw HTML omitted -->
 
 		</div>
 	  </div>
@@ -329,21 +280,6 @@ static int AddNumbers(int a, int b)
 	
 	  <div class="h-entry">
 		
-			<h1><a href="https://ericgregorich.com/2024/02/09/cards-theme-version.html">Cards Theme Version 1.8.3</a></h1>
-		
-
-		<a href="https://ericgregorich.com/2024/02/09/cards-theme-version.html" class="u-url"><time class="dt-published" datetime="2024-02-09 18:12:17 -0500">Feb 9, 2024</time></a>
-
-		<div class="e-content">
-			 <p>The Micro.blog Cards Theme has been updated to version 1.8.3.</p>
-<p>We now have separate options (again) for displaying categories on various page types, such as Home, Categories, Archive, and the Post itself. Special thanks to <a href="https://micro.blog/lostinhaste">@lostinhate</a> for the pull request!</p>
-<p>Additionally, when the &ldquo;Show RSS Link on category page?&rdquo; feature is enabled, the position of the RSS icon has been adjusted to appear next to the header text instead of below it.</p>
-
-		</div>
-	  </div>
-	
-	  <div class="h-entry">
-		
 			<h1><a href="https://ericgregorich.com/2024/02/07/post-to-microblog.html">Post to Micro.blog from Drafts (With Categories!)</a></h1>
 		
 
@@ -364,69 +300,6 @@ static int AddNumbers(int a, int b)
 
 		<div class="e-content">
 			 <!-- raw HTML omitted -->
-
-		</div>
-	  </div>
-	
-	  <div class="h-entry">
-		
-			<h1><a href="https://ericgregorich.com/2024/02/05/the-story-behind.html">The story behind the Cards Theme</a></h1>
-		
-
-		<a href="https://ericgregorich.com/2024/02/05/the-story-behind.html" class="u-url"><time class="dt-published" datetime="2024-02-05 09:49:37 -0500">Feb 5, 2024</time></a>
-
-		<div class="e-content">
-			 <p>As many of you know, I&rsquo;m the creator of the <a href="https://cards.ericgregorich.com">Cards Theme</a> for Micro.blog. I thought I would share a little bit of history about me and why I decided to create a theme in the first place.</p>
-<p>Around 2001, I got my first job in IT working as the sole helpdesk employee at a remote office. It was a piece of cake, so much so that I had nothing to do most of the day. So, I started dabbling in web design and development to keep me busy.</p>
-<p>My first sites were garbage. Eventually, I created a website for a customer that allowed people to sell their Koi fish to others across the country. I custom-built an auction component into the site, similar to what you would see on eBay. Yes, this was to sell fish! There was a photo gallery, auction, buy now, and other crazy features. I thought this was extreme, but then I later created another site that did the same for carrier pigeons. It&rsquo;s crazy what people do for a living.</p>
-<p>Anyway, a few years later, I got more into development, .NET programming, and eventually SharePoint Development. Long story short, today I&rsquo;m a software architect and work with Microsoft Platforms like SharePoint, Power Apps, and Azure.</p>
-<p>During this time, I always had something driving me towards web design, although I actually do less and less design over the years.</p>
-<p>After about a year using Micro.blog, I started tweaking the default themes, trying to make them look a bit different.</p>
-<p>I then realized I could, with relatively low effort, create my own theme and even publish it to the Micro.blog plugin directory. So, I did! That was back around November 2022.</p>
-<p>Today, I continue to maintain the Cards Theme. I enjoy getting into the code and making tweaks. The other aspect I enjoy is sharing the theme with others. I receive feedback and issues, and it&rsquo;s a lot of fun.</p>
-<p>What&rsquo;s next for the Cards Theme? I&rsquo;m continuing to refine the theme, and make it as simple and light as possible. Ideally, it would be configurable enough that it can be useful for more people. I&rsquo;ve also seen what fellow theme developer Matt, has done with <a href="https://mattlangford.com/2024/02/02/new-tiny-theme.html">Tiny Theme 2.0</a> and find it a very interesting approach.</p>
-<p>I&rsquo;ve considered creating other themes, not only for Micro.blog but perhaps for other platforms as well, like Bear, Blot, etc. Perhaps even Ghost. I may play with this idea and see where it goes. I don&rsquo;t want to lose the joy of the creation process.</p>
-
-		</div>
-	  </div>
-	
-	  <div class="h-entry">
-		
-			<h1><a href="https://ericgregorich.com/2024/02/04/154401.html">Cards Theme Version 1.8 - A new RSS icon!</a></h1>
-		
-
-		<a href="https://ericgregorich.com/2024/02/04/154401.html" class="u-url"><time class="dt-published" datetime="2024-02-04 15:44:01 -0500">Feb 4, 2024</time></a>
-
-		<div class="e-content">
-			 <p>The Micro.blog <!-- raw HTML omitted -->Cards Theme<!-- raw HTML omitted --> has been updated to version 1.8, introducing a new RSS feature!</p>
-<p>Micro.blog automatically generates an RSS feed for each category you create. To enhance usability, I have added a new setting in the Cards Theme. When enabled, an RSS icon will be displayed below your category name and above your posts. Clicking on the icon will direct you to the RSS feed for the current category.</p>
-<p>To make it more obvious (an not lost at the bottom of a long page), I have placed the icon above the post list.</p>
-<p>You can view an example here: <a href="https://ericgregorich.com/cards-theme/">https://ericgregorich.com/cards-theme/</a>.</p>
-<p>What do you think?</p>
-
-		</div>
-	  </div>
-	
-	  <div class="h-entry">
-		
-			<h1><a href="https://ericgregorich.com/2024/02/04/cards-theme-version.html">Cards Theme Version 1.7</a></h1>
-		
-
-		<a href="https://ericgregorich.com/2024/02/04/cards-theme-version.html" class="u-url"><time class="dt-published" datetime="2024-02-04 15:35:34 -0500">Feb 4, 2024</time></a>
-
-		<div class="e-content">
-			 <p>The Micro.blog <!-- raw HTML omitted -->Cards Theme<!-- raw HTML omitted --> has been updated to version 1.7. A ton of fixes and cleanup.</p>
-<ul>
-<li>Images in a post are now centered.</li>
-<li>Fixed a small datetime formatting issue on the post page.</li>
-<li>Adjustments to the Date and Time logic.</li>
-<li>A tone of CSS clean up and fixes.</li>
-<li>Categories are now more consistent looking.</li>
-<li>Spacing between elements (header rows, navigation, categories, etc.) should be more consistent.</li>
-<li>Response buttons (Reply, Conversation, etc.) should look more consistent.</li>
-<li>Response buttons should now stack when in mobile view.</li>
-<li>Time and Reading time should now stack when in mobile view.</li>
-</ul>
 
 		</div>
 	  </div>
@@ -534,40 +407,6 @@ static int AddNumbers(int a, int b)
 	  <div class="h-entry">
 		
 
-		<a href="https://ericgregorich.com/2024/01/28/i-updated-the.html" class="u-url"><time class="dt-published" datetime="2024-01-28 15:20:39 -0500">Jan 28, 2024</time></a>
-
-		<div class="e-content">
-			 <p>I updated the new <a href="https://cards.ericgregorich.com">Cards Theme landing page</a> with more information about the theme, how to install, upgrade, reach out for support, and even a change log.</p>
-<p>As always, I&rsquo;ll tweak it over time. Let me know if you have any questions or feedback about what should be included.</p>
-
-		</div>
-	  </div>
-	
-	  <div class="h-entry">
-		
-			<h1><a href="https://ericgregorich.com/2024/01/28/cards-theme-v.html">Cards Theme v1.6</a></h1>
-		
-
-		<a href="https://ericgregorich.com/2024/01/28/cards-theme-v.html" class="u-url"><time class="dt-published" datetime="2024-01-28 13:44:18 -0500">Jan 28, 2024</time></a>
-
-		<div class="e-content">
-			 <p>The Micro.blog <a href="https://cards.ericgregorich.com">Cards Theme</a> has been updated to v1.6.</p>
-<ul>
-<li>Several CSS updates fixes.</li>
-<li>Updated Categories to look a little nicer.</li>
-<li>Added support for the Reply by Mastodon plugin.</li>
-<li>Updated the default dark theme.</li>
-<li>Added a new configuration parameter to set the border color.</li>
-<li>Fixed an issue with embedded content on mobile.</li>
-</ul>
-<p>Thanks <a href="https://micro.blog/numericcitizen">@numericcitizen</a> for bring up some minor issues. Let me know if you see any problems.</p>
-
-		</div>
-	  </div>
-	
-	  <div class="h-entry">
-		
-
 		<a href="https://ericgregorich.com/2024/01/27/i-rearranged-some.html" class="u-url"><time class="dt-published" datetime="2024-01-27 17:08:54 -0500">Jan 27, 2024</time></a>
 
 		<div class="e-content">
@@ -612,46 +451,6 @@ static int AddNumbers(int a, int b)
 		<div class="e-content">
 			 <!-- raw HTML omitted -->
 
-		</div>
-	  </div>
-	
-	  <div class="h-entry">
-		
-			<h1><a href="https://ericgregorich.com/2024/01/16/the-power-apps.html">The Power Apps With Function</a></h1>
-		
-
-		<a href="https://ericgregorich.com/2024/01/16/the-power-apps.html" class="u-url"><time class="dt-published" datetime="2024-01-16 08:35:00 -0500">Jan 16, 2024</time></a>
-
-		<div class="e-content">
-			 <p>The Microsoft Power Apps <a href="https://learn.microsoft.com/en-us/power-platform/power-fx/reference/function-with">With function</a> is a powerful way to divide complex formulas into smaller pieces. It is useful when used within a ForAll, since we can’t set variables within a ForAll. Since the formula is contained, it is preferred over context variables created using UpdateContext or global variables created using Set.</p>
-<p>The syntax looks like this:</p>
-<pre tabindex="0"><code>With(
- { 
-   myValue1: //add some logic
- },
- //Do something with the myValue1result
-)
-</code></pre><p>You can also have nested With functions.</p>
-<pre tabindex="0"><code>With(
- { 
-   myValue1: //add some logic
- },
-  With(
-  {
-   myValue2: // do something with myValue1
-  },
-  //Do something with myValue2
-)
-</code></pre><p>Or even run the With function within a ForAll. You can also run ForEach within the With function itself.</p>
-<pre tabindex="0"><code>ForAll(galMyItems.AllItems As galSelectedItem, 
- With(
- {
-   myValue1: //add some logic with galSelectedItem
- },
- //Do something with the myValue1result
- )
-)
-</code></pre>
 		</div>
 	  </div>
 	
@@ -783,46 +582,6 @@ I&rsquo;ve enjoyed Inoreader as my one stop for all RSS, newsletters, YouTube, a
 			 <p>If you have a newsletter, please include a summary of who you are at the top, especially if you send infrequently.</p>
 <p>A new feature of newsletters could be to ask the user why they subscribed as they sign up. Then, include it in the newsletter itself as a helpful reminder. Maybe this could be done with Buttondown and other providers, using Tags.</p>
 
-		</div>
-	  </div>
-	
-	  <div class="h-entry">
-		
-			<h1><a href="https://ericgregorich.com/2024/01/12/validate-email-addresses.html">Validate Email Addresses in Power Apps</a></h1>
-		
-
-		<a href="https://ericgregorich.com/2024/01/12/validate-email-addresses.html" class="u-url"><time class="dt-published" datetime="2024-01-12 08:32:00 -0500">Jan 12, 2024</time></a>
-
-		<div class="e-content">
-			 <p>A common request when building Power Apps is to validate the email address of a textbox. This can be done easily using the <a href="https://learn.microsoft.com/en-us/power-platform/power-fx/reference/function-ismatch?ref=thepowerarchitect.com">IsMatch</a> function. The function also does all kinds of validation using regular expressions. The Match.Email property can be used to check if it’s a valid email automatically.</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-js" data-lang="js"><span style="display:flex;"><span><span style="color:#a6e22e">If</span>(
-</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">IsMatch</span>(
-</span></span><span style="display:flex;"><span>        <span style="color:#a6e22e">txtValidationEmail</span>.<span style="color:#a6e22e">Text</span>,
-</span></span><span style="display:flex;"><span>        <span style="color:#a6e22e">Match</span>.<span style="color:#a6e22e">Email</span>
-</span></span><span style="display:flex;"><span>    ),
-</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">true</span> <span style="color:#75715e">// The email address is valid
-</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>    <span style="color:#66d9ef">false</span> <span style="color:#75715e">// The email address is not valid
-</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>)
-</span></span></code></pre></div><p>Here is an example of a TextInput and Icon control on the screen. The icon control shows a red error icon if the email is invalid and a green checkbox if it is valid.</p>
-<!-- raw HTML omitted -->
-<p>The text is not a valid email address and shows the red error icon.</p>
-<!-- raw HTML omitted -->
-<p>In the Icons <code>Icon</code> property, add the following.</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-js" data-lang="js"><span style="display:flex;"><span><span style="color:#a6e22e">If</span>(
-</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">IsMatch</span>(
-</span></span><span style="display:flex;"><span>        <span style="color:#a6e22e">txtValidationEmail</span>.<span style="color:#a6e22e">Text</span>,
-</span></span><span style="display:flex;"><span>        <span style="color:#a6e22e">Match</span>.<span style="color:#a6e22e">Email</span>
-</span></span><span style="display:flex;"><span>    ),
-</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">Icon</span>.<span style="color:#a6e22e">CheckBadge</span>,
-</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">Icon</span>.Error
-</span></span><span style="display:flex;"><span>)
-</span></span></code></pre></div><p>Now, in the Icon’s <code>Color</code> property, add the following.</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-js" data-lang="js"><span style="display:flex;"><span><span style="color:#a6e22e">If</span>(
-</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">Self</span>.<span style="color:#a6e22e">Icon</span><span style="color:#f92672">=</span><span style="color:#a6e22e">Icon</span>.Error,
-</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">RGBA</span>(<span style="color:#ae81ff">168</span>,<span style="color:#ae81ff">0</span>,<span style="color:#ae81ff">0</span>,<span style="color:#ae81ff">1</span>),
-</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">RGBA</span>(<span style="color:#ae81ff">141</span>,<span style="color:#ae81ff">198</span>,<span style="color:#ae81ff">63</span>,<span style="color:#ae81ff">1</span>)
-</span></span><span style="display:flex;"><span>)
-</span></span></code></pre></div>
 		</div>
 	  </div>
 	
@@ -1075,19 +834,6 @@ I&rsquo;ve enjoyed Inoreader as my one stop for all RSS, newsletters, YouTube, a
 <p>If I could go back in time and talk to my former self, I would tell him to keep going and learning but not dwell on things that don&rsquo;t work. Move on.</p>
 <p>Also, being productive requires a healthy foundation. Get plenty of sleep, exercise, and family time. These things are more critical than I realized back then. They&rsquo;ve changed the way I work and help me be more productive overall.</p>
 <p>The journey continues.</p>
-
-		</div>
-	  </div>
-	
-	  <div class="h-entry">
-		
-
-		<a href="https://ericgregorich.com/2023/12/31/the-cards-theme.html" class="u-url"><time class="dt-published" datetime="2023-12-31 11:21:03 -0500">Dec 31, 2023</time></a>
-
-		<div class="e-content">
-			 <p>The <a href="https://micro.blog/account/plugins/view/82">Cards Theme</a> has been updated to v1.5!</p>
-<p>Removed the manual theme toggle as it will now automatically use dark mode based on the users system settings. This allowed me to remove a lot of JavaScript and CSS from the theme.</p>
-<p>Dates now look like links and the time is shown with the date by default.</p>
 
 		</div>
 	  </div>
@@ -1352,23 +1098,6 @@ I’m starting to get into it. It’s a great pick.</p>
 <p>I’ve also tried Obsidian, Typora, and Reflect. Each has some excellent features, but from a writing and publishing perspective, none are as simple and reliable as Ulysses.</p>
 <p>My biggest issue is that Ulysses is Mac and iOS only. If I want to write a blog post for <a href="https://thepowerarchitect.com" title="The Power Architect">The Power Architect</a>, I must do it from my Mac. Maybe that’s a better experience anyway.</p>
 <p>As far as notes go, I’ve been dumping private notes into Apple Notes and everything else into Ulysses. Much of it gets posted to my blog. I’m not a big note taker lately.</p>
-
-		</div>
-	  </div>
-	
-	  <div class="h-entry">
-		
-			<h1><a href="https://ericgregorich.com/2023/12/10/i-tweaked-my.html">I tweaked my blog theme (again)</a></h1>
-		
-
-		<a href="https://ericgregorich.com/2023/12/10/i-tweaked-my.html" class="u-url"><time class="dt-published" datetime="2023-12-10 09:25:04 -0500">Dec 10, 2023</time></a>
-
-		<div class="e-content">
-			 <p>My blog still uses my <a href="https://micro.blog/account/plugins/view/82">Cards Theme</a>, but I made a copy of the CSS and made some tweaks to try a make my site a bit more unique.</p>
-<p>I love the look of the light grey background and the white and grey gradient of the cards. Looking back, I think it was inspired by iA Writer a bit.</p>
-<p>I minimized the shadow of the cards, tweaked the fonts to hopefully make it more legible, and I’m playing with a cursive font for the post headings.</p>
-<p>A change to the header would be nice, but I would rather not spend more time on it today.</p>
-<p>Any suggestions?</p>
 
 		</div>
 	  </div>
@@ -1657,18 +1386,6 @@ I’m starting to get into it. It’s a great pick.</p>
 	  <div class="h-entry">
 		
 
-		<a href="https://ericgregorich.com/2023/11/12/i-updated-the.html" class="u-url"><time class="dt-published" datetime="2023-11-12 15:16:19 -0500">Nov 12, 2023</time></a>
-
-		<div class="e-content">
-			 <p>I updated the <a href="https://micro.blog/account/plugins/view/82">Cards theme</a> to v1.4.0, which includes a new setting to allow sorting your categories alphabetically. Thanks, <a href="https://micro.blog/lostinhaste">@lostinhaste</a>, for the pull request!</p>
-<p>The update should be available within the hour.</p>
-
-		</div>
-	  </div>
-	
-	  <div class="h-entry">
-		
-
 		<a href="https://ericgregorich.com/2023/11/12/i-was-frustrated.html" class="u-url"><time class="dt-published" datetime="2023-11-12 10:55:21 -0500">Nov 12, 2023</time></a>
 
 		<div class="e-content">
@@ -1775,17 +1492,6 @@ I’m starting to get into it. It’s a great pick.</p>
 		
 
 		<a href="https://ericgregorich.com/2023/11/06/i-tidied-up.html" class="u-url"><time class="dt-published" datetime="2023-11-06 09:28:37 -0500">Nov 6, 2023</time></a>
-
-		<div class="e-content">
-			 <!-- raw HTML omitted -->
-
-		</div>
-	  </div>
-	
-	  <div class="h-entry">
-		
-
-		<a href="https://ericgregorich.com/2023/11/06/the-cards-theme.html" class="u-url"><time class="dt-published" datetime="2023-11-06 09:22:21 -0500">Nov 6, 2023</time></a>
 
 		<div class="e-content">
 			 <!-- raw HTML omitted -->
@@ -2092,19 +1798,6 @@ I’m starting to get into it. It’s a great pick.</p>
 		
 
 		<a href="https://ericgregorich.com/2023/09/10/how-im-using.html" class="u-url"><time class="dt-published" datetime="2023-09-10 10:18:15 -0500">Sep 10, 2023</time></a>
-
-		<div class="e-content">
-			 <!-- raw HTML omitted -->
-
-		</div>
-	  </div>
-	
-	  <div class="h-entry">
-		
-			<h1><a href="https://ericgregorich.com/2023/09/09/testing-updates-to.html">Testing updates to the Micro.blog Cards Theme</a></h1>
-		
-
-		<a href="https://ericgregorich.com/2023/09/09/testing-updates-to.html" class="u-url"><time class="dt-published" datetime="2023-09-09 18:23:10 -0500">Sep 9, 2023</time></a>
 
 		<div class="e-content">
 			 <!-- raw HTML omitted -->
@@ -2710,17 +2403,6 @@ I’m starting to get into it. It’s a great pick.</p>
 
 		<div class="e-content">
 			 <p>Currently reading: <a href="https://micro.blog/books/9780735243354">Tomorrow, and Tomorrow, and Tomorrow</a> by Gabrielle Zevin 📚</p>
-
-		</div>
-	  </div>
-	
-	  <div class="h-entry">
-		
-
-		<a href="https://ericgregorich.com/2023/07/02/i-updated-my.html" class="u-url"><time class="dt-published" datetime="2023-07-02 09:57:46 -0500">Jul 2, 2023</time></a>
-
-		<div class="e-content">
-			 <!-- raw HTML omitted -->
 
 		</div>
 	  </div>
@@ -4046,19 +3728,6 @@ https://{yourblogurl}.com/categories/{category}/feed.json
 	
 	  <div class="h-entry">
 		
-			<h1><a href="https://ericgregorich.com/2023/01/07/the-microblog-cards.html">The Micro.blog Cards Theme has been updated to v1.1.9.</a></h1>
-		
-
-		<a href="https://ericgregorich.com/2023/01/07/the-microblog-cards.html" class="u-url"><time class="dt-published" datetime="2023-01-07 10:03:33 -0500">Jan 7, 2023</time></a>
-
-		<div class="e-content">
-			 <!-- raw HTML omitted -->
-
-		</div>
-	  </div>
-	
-	  <div class="h-entry">
-		
 
 		<a href="https://ericgregorich.com/2023/01/06/i-finally-completed.html" class="u-url"><time class="dt-published" datetime="2023-01-06 16:24:20 -0500">Jan 6, 2023</time></a>
 
@@ -4107,17 +3776,6 @@ https://{yourblogurl}.com/categories/{category}/feed.json
 		
 
 		<a href="https://ericgregorich.com/2023/01/01/currently-reading-secret.html" class="u-url"><time class="dt-published" datetime="2023-01-01 18:45:14 -0500">Jan 1, 2023</time></a>
-
-		<div class="e-content">
-			 <!-- raw HTML omitted -->
-
-		</div>
-	  </div>
-	
-	  <div class="h-entry">
-		
-
-		<a href="https://ericgregorich.com/2023/01/01/the-microblog-cards.html" class="u-url"><time class="dt-published" datetime="2023-01-01 10:26:18 -0500">Jan 1, 2023</time></a>
 
 		<div class="e-content">
 			 <!-- raw HTML omitted -->
@@ -4234,19 +3892,6 @@ https://{yourblogurl}.com/categories/{category}/feed.json
 	
 	  <div class="h-entry">
 		
-			<h1><a href="https://ericgregorich.com/2022/12/16/microblog-cards-theme.html">Micro.blog Cards Theme 1.1.5 - Reading Time</a></h1>
-		
-
-		<a href="https://ericgregorich.com/2022/12/16/microblog-cards-theme.html" class="u-url"><time class="dt-published" datetime="2022-12-16 08:22:55 -0500">Dec 16, 2022</time></a>
-
-		<div class="e-content">
-			 <!-- raw HTML omitted -->
-
-		</div>
-	  </div>
-	
-	  <div class="h-entry">
-		
 
 		<a href="https://ericgregorich.com/2022/12/15/currently-reading-the.html" class="u-url"><time class="dt-published" datetime="2022-12-15 22:54:25 -0500">Dec 15, 2022</time></a>
 
@@ -4260,19 +3905,6 @@ https://{yourblogurl}.com/categories/{category}/feed.json
 		
 
 		<a href="https://ericgregorich.com/2022/12/15/finished-reading-the.html" class="u-url"><time class="dt-published" datetime="2022-12-15 22:53:01 -0500">Dec 15, 2022</time></a>
-
-		<div class="e-content">
-			 <!-- raw HTML omitted -->
-
-		</div>
-	  </div>
-	
-	  <div class="h-entry">
-		
-			<h1><a href="https://ericgregorich.com/2022/12/15/add-reading-time.html">Add Reading Time to your Micro.blog template</a></h1>
-		
-
-		<a href="https://ericgregorich.com/2022/12/15/add-reading-time.html" class="u-url"><time class="dt-published" datetime="2022-12-15 18:08:40 -0500">Dec 15, 2022</time></a>
 
 		<div class="e-content">
 			 <!-- raw HTML omitted -->
@@ -4335,32 +3967,6 @@ https://{yourblogurl}.com/categories/{category}/feed.json
 		
 
 		<a href="https://ericgregorich.com/2022/12/11/i-just-purchased.html" class="u-url"><time class="dt-published" datetime="2022-12-11 10:23:57 -0500">Dec 11, 2022</time></a>
-
-		<div class="e-content">
-			 <!-- raw HTML omitted -->
-
-		</div>
-	  </div>
-	
-	  <div class="h-entry">
-		
-			<h1><a href="https://ericgregorich.com/2022/12/10/showing-conversation-or.html">Micro.blog Cards Theme 1.1.4 Enable the Conversation or Reply By Email plugins</a></h1>
-		
-
-		<a href="https://ericgregorich.com/2022/12/10/showing-conversation-or.html" class="u-url"><time class="dt-published" datetime="2022-12-10 14:50:34 -0500">Dec 10, 2022</time></a>
-
-		<div class="e-content">
-			 <!-- raw HTML omitted -->
-
-		</div>
-	  </div>
-	
-	  <div class="h-entry">
-		
-			<h1><a href="https://ericgregorich.com/2022/12/09/microblog-cards-theme.html">Micro.blog Cards Theme 1.1.1 - New Dark Mode Toggle</a></h1>
-		
-
-		<a href="https://ericgregorich.com/2022/12/09/microblog-cards-theme.html" class="u-url"><time class="dt-published" datetime="2022-12-09 17:07:59 -0500">Dec 9, 2022</time></a>
 
 		<div class="e-content">
 			 <!-- raw HTML omitted -->
@@ -4436,19 +4042,6 @@ https://{yourblogurl}.com/categories/{category}/feed.json
 	
 	  <div class="h-entry">
 		
-			<h1><a href="https://ericgregorich.com/2022/12/03/microblog-cards-theme.html">Micro.blog Cards Theme 1.0.8</a></h1>
-		
-
-		<a href="https://ericgregorich.com/2022/12/03/microblog-cards-theme.html" class="u-url"><time class="dt-published" datetime="2022-12-03 11:03:34 -0500">Dec 3, 2022</time></a>
-
-		<div class="e-content">
-			 <!-- raw HTML omitted -->
-
-		</div>
-	  </div>
-	
-	  <div class="h-entry">
-		
 			<h1><a href="https://ericgregorich.com/2022/12/02/i-am-trying.html">Using a working memory file to stay productive during the day</a></h1>
 		
 
@@ -4483,17 +4076,6 @@ https://{yourblogurl}.com/categories/{category}/feed.json
 <p>Finally, validate on <a href="https://indiewebify.me/validate-rel-me">IndieWebify.me</a>. The validation will show you which URLs are set up on your site and if those URLs link back to your site.</p>
 <h2 id="testing-your-links">Testing your links</h2>
 <p>You can now go to <a href="https://indielogin.com/" title="Indielogin.com">IndieLogin.com</a> and enter your domain name to sign in. It will redirect you to the Micro.blog, where you’re prompted to approve the access request. You’ll be logged into the indieweb.org site using your domain if successful!</p>
-
-		</div>
-	  </div>
-	
-	  <div class="h-entry">
-		
-
-		<a href="https://ericgregorich.com/2022/11/28/i-finally-published.html" class="u-url"><time class="dt-published" datetime="2022-11-28 18:04:15 -0500">Nov 28, 2022</time></a>
-
-		<div class="e-content">
-			 <!-- raw HTML omitted -->
 
 		</div>
 	  </div>
@@ -4536,34 +4118,12 @@ https://{yourblogurl}.com/categories/{category}/feed.json
 	  <div class="h-entry">
 		
 
-		<a href="https://ericgregorich.com/2022/11/24/ive-been-making.html" class="u-url"><time class="dt-published" datetime="2022-11-24 09:08:03 -0500">Nov 24, 2022</time></a>
-
-		<div class="e-content">
-			 <!-- raw HTML omitted -->
-
-		</div>
-	  </div>
-	
-	  <div class="h-entry">
-		
-
 		<a href="https://ericgregorich.com/2022/11/17/the-goal-is.html" class="u-url"><time class="dt-published" datetime="2022-11-17 22:19:31 -0500">Nov 17, 2022</time></a>
 
 		<div class="e-content">
 			 <blockquote>
 <p>The goal is the target we want to achieve, while the aim is the course we set to reach that target. A goal fixates on the finish line, while an aim considers the trajectory. When we focus on our aims, the process becomes the goal. And we’re more likely to reach our goal when we become fully aware of our aim. (Anne-Laure Le Cunff, Everything Is Aiming: Forget the Target and Focus on Your Aim) 💬</p>
 </blockquote>
-
-		</div>
-	  </div>
-	
-	  <div class="h-entry">
-		
-
-		<a href="https://ericgregorich.com/2022/11/17/i-dont-know.html" class="u-url"><time class="dt-published" datetime="2022-11-17 14:14:56 -0500">Nov 17, 2022</time></a>
-
-		<div class="e-content">
-			 <!-- raw HTML omitted -->
 
 		</div>
 	  </div>
