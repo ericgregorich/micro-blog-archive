@@ -7,6 +7,32 @@
 	"items": [
 		
 			{
+				"id": "http://ericgregorich.micro.blog/2024/03/14/my-inoreader-subscription.html",
+				
+				"content_html": "<p>My Inoreader subscription expires today. I didn’t auto-renew. I’ve grown to truly enjoy Inoreader in many ways. On the other hand, I’ve enjoyed Feedbin in the past, and it’s cheaper. I started a Feedbin 30-day trial to give it another go. The countdown begins.</p>\n",
+				"content_text": "My Inoreader subscription expires today. I didn’t auto-renew. I’ve grown to truly enjoy Inoreader in many ways. On the other hand, I’ve enjoyed Feedbin in the past, and it’s cheaper. I started a Feedbin 30-day trial to give it another go. The countdown begins.\n\n",
+				"date_published": "2024-03-14T08:38:11-04:00",
+				"url": "https://blog.ericgregorich.com/2024/03/14/my-inoreader-subscription.html",
+				"tags": ["thoughts"]
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2024/03/12/a-purpose-for.html",
+				"title": "A purpose for Obsidian",
+				"content_html": "<p>I&rsquo;ve had an off and on relationship with Obsidian for some time now. I want to love the app, but after using it for a period, I always end up frustrated, and I move to something else.</p>\n<p>I&rsquo;ve started to use Obsidian in a way that works for me. More on that in a minute. First some venting.</p>\n<p>I don&rsquo;t know exactly what it is that I don&rsquo;t like about Obsidian.</p>\n<p>I think it&rsquo;s the way you interact with files. It&rsquo;s also the ugly search, file presentation, backlinks, and so many other things that irritate me. It all seems to work okay, but not for me. If I were to try to pinpoint a part of Obsidian that I don&rsquo;t like, it&rsquo;s the Organization of my content. It all makes sense in theory, but execution is where it gets me.</p>\n<p>Obsidian has failed me when I tried to use it as a Notes application. When I attempt to use it as a Capture tool, then make connections between notes, etc. All of that PKM jargon I&rsquo;ve come to find pretty useless for me.</p>\n<p>The other thing that I have a love/hate relationship with is the Plugins. On one hand, Obsidian can be very overwhelming with everything that&rsquo;s possible. On the other hand, I can make Obsidian work the way I want it to, by enabling or disabling third-party and core plugins.</p>\n<p>Now that the venting is out of the way, I&rsquo;ll talk about how I started to use Obsidian and make it work for me.</p>\n<p>What I do love about Obsidian is that it is local-first. My files are simple Markdown text files that live on my computer. I can take them anywhere, and use them with other applications.</p>\n<p>I also like the writing experience in Obsidian, mostly. The Live Preview Markdown mode can be weird sometimes, but for simple writing, it&rsquo;s pretty good.</p>\n<p>The other thing I&rsquo;ve come to quite enjoy is how I can write something and publish to Micro.blog using the Micro Publish plugin. It&rsquo;s pretty seamless. I can&rsquo;t wait for image support!</p>\n<p>I now open Obsidian to a blank screen, which creates a new note in the Drafts folder. I use CTRL-N to create a new note. Then I write. When it&rsquo;s ready, I publish. Then I drag that file to a folder named Posts, where I store my published content. I also have a Pages folder where I can keep Pages on my blog updated.</p>\n<p>If I need to find an existing note that I need to update, I use the built-in Quick Switcher (CTRL-O).</p>\n<p>That&rsquo;s mostly it. I&rsquo;m using Obsidian solely as a writing tool. And I find I&rsquo;m truly enjoying it now.</p>\n<p>I have a few plugins that help me accomplish this:</p>\n<ul>\n<li><a href=\"obsidian://show-plugin?id=microblog-publish-plugin\">Micro Publish</a> : Post to Micro.blog.</li>\n<li><a href=\"obsidian://show-plugin?id=obsidian-focus-mode\">Focus Mode</a>: To toggle into focus mode where I only see the note itself</li>\n<li><a href=\"obsidian://show-plugin?id=obsidian-languagetool-plugin\">Language Tools</a>: Built in Grammar checking.</li>\n<li><a href=\"https://github.com/Akifyss/obsidian-border\">Border theme</a>: My favorite theme at the moment.</li>\n<li><a href=\"obsidian://show-plugin?id=obsidian-style-settings\">Style Settings</a>: For tweaking the Border theme to my liking.</li>\n</ul>\n<p><img src=\"https://blog.ericgregorich.com/uploads/2024/myobsidianplugins.png\" alt=\"My Obsidian Plugins\"></p>\n<p>Here is a screenshot of what Obsidian looks like when not in Focus Mode.</p>\n<p><img src=\"https://blog.ericgregorich.com/uploads/2024/obsidian-with-focusmode-disabled.png\" alt=\"My Obsidian with Focus Mode Disabled\"></p>\n<p>And here with Focus Mode enabled.</p>\n<p><img src=\"https://blog.ericgregorich.com/uploads/2024/obsidian-with-focusmode-enabled.png\" alt=\"Obsidian with Focus Mode enabled\"></p>\n<p>I&rsquo;m sure I&rsquo;ll keep tweaking things now and then. That&rsquo;s how I work. But overall, I&rsquo;m loving the simplicity of this setup.</p>\n",
+				"content_text": "I've had an off and on relationship with Obsidian for some time now. I want to love the app, but after using it for a period, I always end up frustrated, and I move to something else. \n\nI've started to use Obsidian in a way that works for me. More on that in a minute. First some venting. \n\nI don't know exactly what it is that I don't like about Obsidian.\n\nI think it's the way you interact with files. It's also the ugly search, file presentation, backlinks, and so many other things that irritate me. It all seems to work okay, but not for me. If I were to try to pinpoint a part of Obsidian that I don't like, it's the Organization of my content. It all makes sense in theory, but execution is where it gets me. \n\nObsidian has failed me when I tried to use it as a Notes application. When I attempt to use it as a Capture tool, then make connections between notes, etc. All of that PKM jargon I've come to find pretty useless for me. \n\nThe other thing that I have a love/hate relationship with is the Plugins. On one hand, Obsidian can be very overwhelming with everything that's possible. On the other hand, I can make Obsidian work the way I want it to, by enabling or disabling third-party and core plugins.\n\nNow that the venting is out of the way, I'll talk about how I started to use Obsidian and make it work for me. \n\nWhat I do love about Obsidian is that it is local-first. My files are simple Markdown text files that live on my computer. I can take them anywhere, and use them with other applications.\n\nI also like the writing experience in Obsidian, mostly. The Live Preview Markdown mode can be weird sometimes, but for simple writing, it's pretty good. \n\nThe other thing I've come to quite enjoy is how I can write something and publish to Micro.blog using the Micro Publish plugin. It's pretty seamless. I can't wait for image support!\n\nI now open Obsidian to a blank screen, which creates a new note in the Drafts folder. I use CTRL-N to create a new note. Then I write. When it's ready, I publish. Then I drag that file to a folder named Posts, where I store my published content. I also have a Pages folder where I can keep Pages on my blog updated. \n\nIf I need to find an existing note that I need to update, I use the built-in Quick Switcher (CTRL-O).\n\nThat's mostly it. I'm using Obsidian solely as a writing tool. And I find I'm truly enjoying it now.\n\nI have a few plugins that help me accomplish this:\n- [Micro Publish](obsidian://show-plugin?id=microblog-publish-plugin) : Post to Micro.blog.\n- [Focus Mode](obsidian://show-plugin?id=obsidian-focus-mode): To toggle into focus mode where I only see the note itself\n- [Language Tools](obsidian://show-plugin?id=obsidian-languagetool-plugin): Built in Grammar checking.\n- [Border theme](https://github.com/Akifyss/obsidian-border): My favorite theme at the moment.\n- [Style Settings](obsidian://show-plugin?id=obsidian-style-settings): For tweaking the Border theme to my liking.\n\n![My Obsidian Plugins](https://blog.ericgregorich.com/uploads/2024/myobsidianplugins.png)\n\nHere is a screenshot of what Obsidian looks like when not in Focus Mode.\n\n![My Obsidian with Focus Mode Disabled](https://blog.ericgregorich.com/uploads/2024/obsidian-with-focusmode-disabled.png)\n\nAnd here with Focus Mode enabled.\n\n![Obsidian with Focus Mode enabled](https://blog.ericgregorich.com/uploads/2024/obsidian-with-focusmode-enabled.png)\n\nI'm sure I'll keep tweaking things now and then. That's how I work. But overall, I'm loving the simplicity of this setup.\n",
+				"date_published": "2024-03-12T19:03:14-04:00",
+				"url": "https://blog.ericgregorich.com/2024/03/12/a-purpose-for.html",
+				"tags": ["thoughts"]
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2024/03/12/blogroll.html",
+				"title": "Blogroll",
+				"content_html": "<p>I added a new <a href=\"https://blog.ericgregorich.com/blogroll/\">Blogroll</a> page after support for “Recommendations” was added to Micro.blog. I only added a few recommendations to get things started.</p>\n<p>This is a great feature. I’ll likely incorporate it into the <a href=\"https://cards.ericgregorich.com/\">Cards Theme</a>, but I’m considering how. You can already add your Recommendations to a new page using a simple shortcode. See the <a href=\"https://help.micro.blog/t/recommendations/2671\">documentation</a> for details. Perhaps it would be a side menu if enabled. I’m not certain yet.</p>\n",
+				"content_text": "\nI added a new [Blogroll](https://blog.ericgregorich.com/blogroll/) page after support for “Recommendations” was added to Micro.blog. I only added a few recommendations to get things started.\n\nThis is a great feature. I’ll likely incorporate it into the [Cards Theme](https://cards.ericgregorich.com/), but I’m considering how. You can already add your Recommendations to a new page using a simple shortcode. See the [documentation](https://help.micro.blog/t/recommendations/2671) for details. Perhaps it would be a side menu if enabled. I’m not certain yet.\n",
+				"date_published": "2024-03-12T14:30:03-04:00",
+				"url": "https://blog.ericgregorich.com/2024/03/12/blogroll.html"
+			},
+			{
 				"id": "http://ericgregorich.micro.blog/2024/03/09/currently-reading-chatter.html",
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780525575245\">Chatter</a> by Ethan Kross 📚</p>\n<p>I&rsquo;m hoping this book will help me learn from the voices in my head.</p>\n",
@@ -28,7 +54,7 @@
 				"id": "http://ericgregorich.micro.blog/2024/03/09/john-lockes-commonplace.html",
 				"title": "John Locke's Commonplace Book Indexing System",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p>John Locke had a unique approach to <a href=\"https://kagi.com/search?q=john+locke+commonplace+index&amp;r=us&amp;sh=ke4Rkh8OUy-WyHFR5iIRcA\">indexing his commonplace notebooks</a>. He would determine one or more keywords for an entry, then, in his index, find the first letter of the keyword, followed by the first vowel of the keyword. Then he would write the page number in the corresponding block.</p>\n<p>If a word started with a vowel and only contained one vowel, the first letter would be used in both instances. For example, “owl” would map to (O-O). </p>\n<p>I would think this approach would work well if keywords were obvious, as you would need to know the keyword to be able to look up the page(s) referencing it.</p>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" title=\"JohnLockeDigitalIndexSystem.png\" src=\"https://blog.ericgregorich.com/uploads/2024/johnlockedigitalindexsystem.png\" alt=\"A digital example of the system John Locked used to index his commonplace books.\" width=\"475\" height=\"600\" border=\"0\" /></p>\n",
+				"content_text": "<p>John Locke had a unique approach to <a href=\"https://kagi.com/search?q=john+locke+commonplace+index&amp;r=us&amp;sh=ke4Rkh8OUy-WyHFR5iIRcA\">indexing his commonplace notebooks</a>. He would determine one or more keywords for an entry, then, in his index, find the first letter of the keyword, followed by the first vowel of the keyword. Then he would write the page number in the corresponding block.</p>\n<p>If a word started with a vowel and only contained one vowel, the first letter would be used in both instances. For example, “owl” would map to (O-O). </p>\n<p>I would think this approach would work well if keywords were obvious, as you would need to know the keyword to be able to look up the page(s) referencing it.</p>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" title=\"JohnLockeDigitalIndexSystem.png\" src=\"https://cdn.uploads.micro.blog/81720/2024/johnlockedigitalindexsystem.png\" alt=\"A digital example of the system John Locked used to index his commonplace books.\" width=\"475\" height=\"600\" border=\"0\" /></p>\n",
 				"date_published": "2024-03-09T11:57:04-04:00",
 				"url": "https://blog.ericgregorich.com/2024/03/09/john-lockes-commonplace.html",
 				"tags": ["notes"]
@@ -45,7 +71,7 @@
 				"id": "http://ericgregorich.micro.blog/2024/03/05/221657.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2024/the-mountain-in-the-sea.png\" width=\"600\" height=\"337\" alt=\"A quote using Readwise.\">\n",
+				"content_text": "<img src=\"https://cdn.uploads.micro.blog/81720/2024/the-mountain-in-the-sea.png\" width=\"600\" height=\"337\" alt=\"A quote using Readwise.\">\n",
 				"date_published": "2024-03-05T23:16:57-04:00",
 				"url": "https://blog.ericgregorich.com/2024/03/05/221657.html",
 				"tags": ["quotes"]
@@ -66,7 +92,7 @@
 				"content_text": "🍿 [Dune: Part Two (2024)](https://www.themoviedb.org/movie/693134) - ★★★★★\r\n\r\nA great sci-fi classic. I still don't know who's who half the time or what’s going on but still a great experience. \n",
 				"date_published": "2024-03-03T20:35:09-04:00",
 				"url": "https://blog.ericgregorich.com/2024/03/03/dune-part-two.html",
-				"tags": ["Movies"]
+				"tags": ["movies"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2024/03/02/consolidating-my-notes.html",
@@ -91,7 +117,7 @@
 				"content_text": "<img src=\"https://ericgregorich.micro.blog/uploads/2024/bef1873a40.png\" width=\"600\" height=\"337\" alt=\"Learn to distinguish between events and interpretations. Events themselves do not upset us. Rather, it’s the stories we tell ourselves about those events.\">\n",
 				"date_published": "2024-02-29T20:01:39-04:00",
 				"url": "https://blog.ericgregorich.com/2024/02/29/190139.html",
-				"tags": ["Quotes"]
+				"tags": ["quotes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2024/02/27/teuxduex-adds-a.html",
@@ -116,7 +142,7 @@
 				"content_text": "📷 Our last softball season has started. We have a tournament most weekends where they play at least 4 games. It’s fun and a great way to get me out of the house. \n\n<img src=\"https://ericgregorich.micro.blog/uploads/2024/8333b86f53.jpg\" width=\"400\" height=\"600\" alt=\"My daughter playing as catcher. \">\n",
 				"date_published": "2024-02-25T14:52:08-04:00",
 				"url": "https://blog.ericgregorich.com/2024/02/25/our-last-softball.html",
-				"tags": ["Photos"]
+				"tags": ["photos"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2024/02/23/i-split-my.html",
@@ -438,7 +464,7 @@
 				"content_text": "🍿 [Gran Turismo (2023)](https://www.themoviedb.org/movie/980489) - ★★★★★\n",
 				"date_published": "2024-01-07T12:55:54-04:00",
 				"url": "https://blog.ericgregorich.com/2024/01/07/gran-turismo.html",
-				"tags": ["Movies"]
+				"tags": ["movies"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2024/01/07/i-got-tired.html",
@@ -556,7 +582,7 @@
 				"id": "http://ericgregorich.micro.blog/2023/12/26/i-received-my.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p>I received my Nuphy Air75 V2 keyboard today! It is easy to type on, looks great, and sounds excellent. I feel like it’s going to be a keeper.</p>\n<p><img src=\"uploads/2023/c50ff32a-d91c-4862-aec5-28d9ae07b465-1-201-a.jpg\" alt=\"A photo of the Nuphy Air 75 V2 Keyboard.\" width=\"600\" height=\"306\" /></p>\n",
+				"content_text": "<p>I received my Nuphy Air75 V2 keyboard today! It is easy to type on, looks great, and sounds excellent. I feel like it’s going to be a keeper.</p>\n<p><img src=\"https://ericgregorich.micro.blog/uploads/2023/c50ff32a-d91c-4862-aec5-28d9ae07b465-1-201-a.jpg\" alt=\"A photo of the Nuphy Air 75 V2 Keyboard.\" width=\"600\" height=\"306\" /></p>\n",
 				"date_published": "2023-12-26T17:47:49-04:00",
 				"url": "https://blog.ericgregorich.com/2023/12/26/i-received-my.html",
 				"tags": ["photos"]
@@ -591,7 +617,7 @@
 				"id": "http://ericgregorich.micro.blog/2023/12/25/zoey-loves-tearing.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<figure><img src=\"uploads/2023/349f75d0-25dd-42e8-82cf-86cb2f1a27ed.jpg\" alt=\"A dog with tan fur sits on a carpet, facing upwards with an attentive expression. In the background, a decorated Christmas tree and gifts create a festive atmosphere.\" />\n<figcaption>A dog with tan fur sits on a carpet, facing upwards with an attentive expression. In the background, a decorated Christmas tree and gifts create a festive atmosphere.</figcaption>\n</figure>\n<p>Zoey loves tearing into the wrapping paper on Christmas morning. She won’t touch it until it’s time. We get a kick out of it every year.</p>\n",
+				"content_text": "<figure><img src=\"https://ericgregorich.micro.blog/uploads/2023/349f75d0-25dd-42e8-82cf-86cb2f1a27ed.jpg\" alt=\"A dog with tan fur sits on a carpet, facing upwards with an attentive expression. In the background, a decorated Christmas tree and gifts create a festive atmosphere.\" />\n<figcaption>A dog with tan fur sits on a carpet, facing upwards with an attentive expression. In the background, a decorated Christmas tree and gifts create a festive atmosphere.</figcaption>\n</figure>\n<p>Zoey loves tearing into the wrapping paper on Christmas morning. She won’t touch it until it’s time. We get a kick out of it every year.</p>\n",
 				"date_published": "2023-12-25T22:33:44-04:00",
 				"url": "https://blog.ericgregorich.com/2023/12/25/zoey-loves-tearing.html",
 				"tags": ["photos"]
@@ -600,7 +626,7 @@
 				"id": "http://ericgregorich.micro.blog/2023/12/25/merry-christmas.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<figure><img src=\"uploads/2023/0aed40c2-0e34-43da-99a5-4996b03dc180.jpg\" alt=\"A festive Christmas scene with a decorated tree on the right, stockings hung on the mantel, gifts wrapped in various papers, and two large fabric sacks alongside the fireplace.\" />\n<figcaption>A festive Christmas scene with a decorated tree on the right, stockings hung on the mantel, gifts wrapped in various papers, and two large fabric sacks alongside the fireplace.</figcaption>\n</figure>\n<p>Merry Christmas!</p>\n",
+				"content_text": "<figure><img src=\"https://ericgregorich.micro.blog/uploads/2023/0aed40c2-0e34-43da-99a5-4996b03dc180.jpg\" alt=\"A festive Christmas scene with a decorated tree on the right, stockings hung on the mantel, gifts wrapped in various papers, and two large fabric sacks alongside the fireplace.\" />\n<figcaption>A festive Christmas scene with a decorated tree on the right, stockings hung on the mantel, gifts wrapped in various papers, and two large fabric sacks alongside the fireplace.</figcaption>\n</figure>\n<p>Merry Christmas!</p>\n",
 				"date_published": "2023-12-25T09:48:26-04:00",
 				"url": "https://blog.ericgregorich.com/2023/12/25/merry-christmas.html",
 				"tags": ["photos"]
@@ -677,7 +703,7 @@
 				"content_text": "🍿 [Godzilla Minus One (2023)](https://www.themoviedb.org/movie/940721) - ★★★★★\n\nGreat movie. This time you feel for the humans and want to see Godzilla be defeated. \n",
 				"date_published": "2023-12-09T21:06:32-04:00",
 				"url": "https://blog.ericgregorich.com/2023/12/09/godzilla-minus-one.html",
-				"tags": ["Movies"]
+				"tags": ["movies"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/12/08/mutt-a-textonly.html",
@@ -734,7 +760,7 @@
 				"content_text": "🍿 [The Hunger Games: The Ballad of Songbirds & Snakes (2023)](https://www.themoviedb.org/movie/695721) - ★★★★★\n",
 				"date_published": "2023-12-03T18:20:52-04:00",
 				"url": "https://blog.ericgregorich.com/2023/12/03/the-hunger-games.html",
-				"tags": ["Movies"]
+				"tags": ["movies"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/12/03/i-ordered-a.html",
@@ -783,7 +809,7 @@
 				"content_text": "🍿 [Cars (2006)](https://www.themoviedb.org/movie/920)\n\n![Cars poster](https://image.tmdb.org/t/p/w780/abW5AzHDaIK1n9C36VdAeOwORRA.jpg)\n\nWe probably watched this hundreds of times when my kids were little. It still holds up as one of my favorite movies. ⭐️⭐️⭐️⭐️⭐️\n \n",
 				"date_published": "2023-11-26T16:16:14-04:00",
 				"url": "https://blog.ericgregorich.com/2023/11/26/cars-we-probably.html",
-				"tags": ["Movies"]
+				"tags": ["movies"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/11/26/this-is-why.html",
@@ -890,7 +916,7 @@
 				"content_text": "<p>🍿 <a href=\"https://www.themoviedb.org/movie/507089\">Five Nights at Freddy’s (2023)</a></p>\n<p>A fun movie. A few jump scare attempts. Pretty good story. Definitely sets up for a sequal. it was worth seeing in the theaters.</p>\n<p>There is a huge following for FNAF that i was not aware of. Some games and stories. Here is a <a href=\"https://youtu.be/gWOXSh4-Iuc?si=rbQHjrqzaCQQNKKq\">timeline</a> if your interested.</p>\n<figure><img src=\"https://image.tmdb.org/t/p/w780/A4j8S6moJS2zNtRR8oWF08gRnL5.jpg\" alt=\"Five Nights at Freddys poster\" />\n<figcaption>Five Nights at Freddy’s poster</figcaption>\n</figure>\n",
 				"date_published": "2023-11-05T20:09:48-04:00",
 				"url": "https://blog.ericgregorich.com/2023/11/05/five-nights-at.html",
-				"tags": ["Movies"]
+				"tags": ["movies"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/10/29/finished-reading-fundamentals.html",
@@ -965,7 +991,7 @@
 				"content_text": "<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" title=\"IMG_1396.jpeg\" src=\"https://ericgregorich.micro.blog/uploads/2023/img-1396.jpeg\" alt=\"A sign post at the farm\" width=\"450\" height=\"600\" border=\"0\" /></p>\n<p style=\"text-align: center;\">An evening at the local farm. They had excellent funnel cakes and apple cider!</p>\n",
 				"date_published": "2023-10-08T16:42:46-04:00",
 				"url": "https://blog.ericgregorich.com/2023/10/08/an-evening-at.html",
-				"tags": ["Photos"]
+				"tags": ["photos"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/10/08/the-four-levels.html",
@@ -1000,7 +1026,7 @@
 				"content_text": "<p>🍿 <a href=\"https://www.themoviedb.org/movie/670292\">The Creator (2023)</a></p>\n<p>A great looking sci-fi movie. I loved the look of the movie. CGI blended in and felt real. The world felt lived in.</p>\n<p>There were moments that deserved more of a build up, instead were just brief moments of dialog that explain key aspects if the story.</p>\n<p>Still, I really enjoyed it!</p>\n",
 				"date_published": "2023-10-01T16:23:07-04:00",
 				"url": "https://blog.ericgregorich.com/2023/10/01/the-creator-a.html",
-				"tags": ["Movies"]
+				"tags": ["movies"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/10/01/meeting-agendas-should.html",
@@ -1017,7 +1043,7 @@
 				"content_text": "<p>I finally invested in a standing desk as well as a walking treadmill and some weights. It’s been quite convenient to walk while working. I also have some nice cable management going on under the desk that hides most of the clutter.</p>\n<p><img src=\"https://ericgregorich.micro.blog/uploads/2023/my-workspace-with-standing-desk.jpeg\" alt=\"My standing desk setup.\" width=\"600\" height=\"450\" /></p>\n",
 				"date_published": "2023-10-01T08:54:59-04:00",
 				"url": "https://blog.ericgregorich.com/2023/10/01/i-fininally-invested.html",
-				"tags": ["Photos"]
+				"tags": ["photos"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/09/24/my-first-impressions.html",
@@ -1034,7 +1060,7 @@
 				"content_text": "<p>A beautiful morning of softball at Georgia Southern.</p>\n<p><img src=\"https://ericgregorich.micro.blog/uploads/2023/81ede3c43c.jpg\" alt=\"The Georgia Southern softball field early morning. \" width=\"600\" height=\"450\" /></p>\n",
 				"date_published": "2023-09-23T08:26:48-04:00",
 				"url": "https://blog.ericgregorich.com/2023/09/23/i-beautiful-morning.html",
-				"tags": ["Photos"]
+				"tags": ["photos"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/09/17/back-to-physical.html",
@@ -1100,7 +1126,7 @@
 				"content_text": "<p>My company and I decided to use Azure DevOps for shared documentation of our best practices, standards, deployment steps, and other SOPs.</p>\n<p>What I like about it is that anyone in the team can easily view and edit the documentation online. But for those inclined, we can use Git and keep the files locally and use our favor markdown editor to make updates.</p>\n<p>I’ve been using Obsidian to update documentation and the Obsidian Git plugin to easily sync the updates to the Wiki in DevOps.</p>\n<p>It’s pretty sweet!</p>\n",
 				"date_published": "2023-08-30T17:05:11-04:00",
 				"url": "https://blog.ericgregorich.com/2023/08/30/documentation-using-azure.html",
-				"tags": ["Notes"]
+				"tags": ["notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/08/28/why-songs-get.html",
@@ -1125,7 +1151,7 @@
 				"content_text": "<p>An <a href=\"https://microformats.org/wiki/h-card\">h-card</a> is an open microformat standard for embedding data in HTML that is often used to establish identity online.</p>\n<p>However, you can easily add your own H-Card to your <a href=\"Micro.blog\">Micro.blog</a> site by editing your site footer from your account. Log into your <a href=\"Micro.blog\">Micro.blog</a> account and click Design &gt; Edit Footer. Add the below html snippet, and customize it as much as you like.</p>\n<p>You can add many additional <a href=\"https://microformats.org/wiki/h-card#Properties\">custom h-card properties</a>.</p>\n<p>Once configured and saved, you can test your h-card from the <a href=\"https://indiewebify.me/validate-h-card/\">indiewebify.me</a> site.</p>\n<p>Here is an example based on what is on my site. Obviously, you’ll want to add your own content.</p>\n<pre><code class=\"html\">&lt;div class=\"h-card vcard\" style=\"display:none\"&gt; \n    &lt;span class=\"p-name\"&gt;Your full name&lt;/span&gt;\n    &lt;span class=\"p-given-name\"&gt;Your given name&lt;/span&gt;\n    &lt;abbr class=\"p-additional-name\"&gt;Your additional name&lt;/abbr&gt;\n    &lt;span class=\"p-family-name\"&gt;Your family. name&lt;/span&gt;\n    &lt;img class=\"u-photo\" src=\"url to your profile picture\"/&gt;\n    &lt;a class=\"u-url\" href=\"url to your website\"&gt;Website&lt;/a&gt;,\n    &lt;a class=\"u-email\" href=\"mailto:your email address\"&gt;Email&lt;/a&gt;\n    &lt;div class=\"p-country-name\"&gt;Your country&lt;/div&gt;\n    &lt;div class=\"p-note\"&gt;A brief bio about you.&lt;/div&gt;\n&lt;/div&gt;\n</code></pre>\n<p>The key is to define the class values and nest them inside the h-card class. Notice the display: none means my h-card is hidden on the page. You can remove this if you want to display it and change the HTML and CSS to your liking.</p>\n",
 				"date_published": "2023-08-26T17:43:23-04:00",
 				"url": "https://blog.ericgregorich.com/2023/08/26/how-to-add.html",
-				"tags": ["Notes"]
+				"tags": ["notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/08/26/quick-links.html",
@@ -1273,7 +1299,7 @@
 				"content_text": "<p>The water is perfect today!</p>\n<p><img src=\"https://ericgregorich.micro.blog/uploads/2023/06ef97f489.jpg\" alt=\"Calm waters at Panama City Beach. \" width=\"600\" height=\"450\" /></p>\n",
 				"date_published": "2023-07-22T19:19:18-04:00",
 				"url": "https://blog.ericgregorich.com/2023/07/22/the-water-is.html",
-				"tags": ["Photos"]
+				"tags": ["photos"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/07/22/readwise-advanced-tagging.html",
@@ -1332,7 +1358,7 @@
 				"content_text": "<p>I don’t often take or share pictures of food, but there is something about this dish that always catches my attention. It was delicious!</p>\n<p>“The Bodhi” from Shaka Sushi and Cocktail Bar, Panama City Beach.</p>\n<p><img src=\"https://ericgregorich.micro.blog/uploads/2023/8f981aa831.jpg\" alt=\"“The Bodhi” from Shaka Sushi and Cocktail Bar, Panama City Beach. \" width=\"600\" height=\"450\" /></p>\n",
 				"date_published": "2023-07-19T11:35:27-04:00",
 				"url": "https://blog.ericgregorich.com/2023/07/19/i-dont-often.html",
-				"tags": ["Photos"]
+				"tags": ["photos"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/07/16/the-water-has.html",
@@ -1341,7 +1367,7 @@
 				"content_text": "<p>The water has been cutting away at the sand connecting to the lake.</p>\n<p><img src=\"https://ericgregorich.micro.blog/uploads/2023/7f06b10c27.jpg\" alt=\"The water has been cutting away at the sand connecting to the lake. \" width=\"600\" height=\"450\" /></p>\n",
 				"date_published": "2023-07-16T19:16:05-04:00",
 				"url": "https://blog.ericgregorich.com/2023/07/16/the-water-has.html",
-				"tags": ["Photos"]
+				"tags": ["photos"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/07/16/a-storm-was.html",
@@ -1350,7 +1376,7 @@
 				"content_text": "<p><img id=\"rss_item_586241345088592310\" src=\"https://pxscdn.com/public/m/_v2/586238346283623690/bf0f52ff2-92677b/gjGY4w4uSYGb/kNIaecwi9s8ak7lqkvKcPiWox73uecyZYrfcYeVA.jpg\" alt=\"A storm is coming in at Panama City Beach.\" /></p>\n<p style=\"padding: 10px;\">A storm was coming in at Panama City Beach.</p>\n",
 				"date_published": "2023-07-16T13:13:48-04:00",
 				"url": "https://blog.ericgregorich.com/2023/07/16/a-storm-was.html",
-				"tags": ["Photos"]
+				"tags": ["photos"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/07/15/this-will-be.html",
@@ -1359,7 +1385,7 @@
 				"content_text": "<p>This will be my view for a few days, right from the bedroom balcony. Hopefully, the weather holds out, and I can drink a few coffees and read some books! Panama City Beach.</p>\n<p><img src=\"https://ericgregorich.micro.blog/uploads/2023/63ccf0b412.jpg\" alt=\"My view of Panama City Beach from the bedroom balcony. \" width=\"600\" height=\"450\" /></p>\n",
 				"date_published": "2023-07-15T17:16:15-04:00",
 				"url": "https://blog.ericgregorich.com/2023/07/15/this-will-be.html",
-				"tags": ["Photos"]
+				"tags": ["photos"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/07/04/immersion-reading-helps.html",
@@ -1410,7 +1436,7 @@
 				"content_text": "<p>🍿 <a href=\"https://www.themoviedb.org/movie/569094\">Spider-Man: Across the Spider-Verse (2023)</a> ⭐️⭐️⭐️⭐️⭐️</p>\n<figure><img src=\"https://image.tmdb.org/t/p/w780/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg\" alt=\"Spider-Man: Across the Spider-Verse poster\" />\n<figcaption>Spider-Man: Across the Spider-Verse poster</figcaption>\n</figure>\n",
 				"date_published": "2023-07-01T21:24:21-04:00",
 				"url": "https://blog.ericgregorich.com/2023/07/01/spiderman-across-the.html",
-				"tags": ["Movies"]
+				"tags": ["movies"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/07/01/i-finished-setting.html",
@@ -1484,7 +1510,7 @@
 				"content_text": "<p>My daughter had a great Day of softball yesterday. She had three diving catches, one of them prevented us from losing the game.</p>\n<p>She also hit an in the park home run. She’s so fast she’s like a blur going around the bases.</p>\n<p>So proud of her.</p>\n<p><img src=\"https://ericgregorich.micro.blog/uploads/2023/image.jpg\" alt=\"Hailey's diving catch. \" width=\"457\" height=\"377\" /></p>\n",
 				"date_published": "2023-06-18T09:33:31-04:00",
 				"url": "https://blog.ericgregorich.com/2023/06/18/my-daughter-had.html",
-				"tags": ["Photos"]
+				"tags": ["photos"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/06/17/rethinking-my-use.html",
@@ -1509,7 +1535,7 @@
 				"content_text": "<figure><img src=\"https://ericgregorich.micro.blog/uploads/2023/a4b3b30c-8cd2-49de-a839-598cb2ac9cb9-1-105-c.jpeg\" alt=\"A view from Panama City Beach. \" />\n<figcaption>A view from Panama City Beach.</figcaption>\n</figure>\n<p>I took a day off a while ago to hang out at home and do whatever I wanted. Today is that day! My weekends are usually packed with softball, travel, and family activities, so I rarely have the chance to relax and do whatever I feel like. It’s important to take a step back sometimes.</p>\n",
 				"date_published": "2023-06-16T09:58:17-04:00",
 				"url": "https://blog.ericgregorich.com/2023/06/16/i-took-a.html",
-				"tags": ["Photos"]
+				"tags": ["photos"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/06/09/driving-through-alabama.html",
@@ -1518,7 +1544,7 @@
 				"content_text": "<p>Driving through Alabama to get to a softball tournament. We got stuck waiting for some construction but had a great view.</p>\n<p><img src=\"https://ericgregorich.micro.blog/uploads/2023/00717f521c.jpg\" alt=\"Field in Alabama \" width=\"600\" height=\"450\" /></p>\n",
 				"date_published": "2023-06-09T23:01:01-04:00",
 				"url": "https://blog.ericgregorich.com/2023/06/09/driving-through-alabama.html",
-				"tags": ["Photos"]
+				"tags": ["photos"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/06/08/ghost-now-has.html",
@@ -1762,7 +1788,7 @@
 				"content_text": "<p>Please, document your work! I’m speaking from the context of a software developer/architect, but this also applies elsewhere.</p>\n<p>In the moment, it may feel like a waste of time. You may think, “I’ll remember this.” or “I’ll never do this again.” I’ve been there (and still think this). However, documenting has so many advantages. I’m pushing myself to do better at it constantly. More documentation with less effort.</p>\n<p>Creating documentation is a great way to go through whatever it is in greater detail and ensure you don’t miss anything. I can’t count how many times I thought I was finished with a task but then found something I missed while writing out what I did.</p>\n<p>Writing, in general, helps to ensure you understand a topic. If you can’t write about it, perhaps you don’t understand it as thoroughly as you thought you did.</p>\n<p>Referring to a document to complete a task can dramatically speed up the execution time and improve quality. You spend a little more time upfront to save time in the future.</p>\n<p>One of my favorite reasons to document my work is so that I can give it to others to do next time. I can send them the documentation and allow them to complete the task independently. Better still, when your team has access to all your documentation, they’ll learn they don’t need to come to you in the first place!</p>\n<p>It’s an awesome feeling when someone asks you a question, and rather than taking time to answer it now, you can send them a link to the documentation. It may be an official Word Document, a OneNote page, or even a blog post. If you don’t have the answer documented by someone, add the answer to the documentation now! I don’t know how many times I’ve answered the same question multiple times when I could have documented it. (I’m trying to be better about this.)</p>\n<p>My “work” documentation is either in OneNote or other Office documents. I’m doing this because these destinations are shared with my team and easily discovered in the Microsoft 365 universe. My personal documentation resides in markdown files tucked neatly inside my favorite notes app, and some are published as blog posts.</p>\n<p>Where do you keep your documentation, and how detailed do you get with it?</p>\n",
 				"date_published": "2023-04-10T17:29:21-04:00",
 				"url": "https://blog.ericgregorich.com/2023/04/10/document-your-work.html",
-				"tags": ["Notes"]
+				"tags": ["notes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/04/09/i-tried-the.html",
@@ -1803,7 +1829,7 @@
 				"content_text": "<p>The temperature is in that zone where my house is either too hot or too cold, and we must switch between heat and air to make it bearable.</p>\n<figure><img src=\"https://ericgregorich.micro.blog/uploads/2023/43629c6442.jpg\" alt=\"\" /></figure>\n",
 				"date_published": "2023-03-31T08:19:45-04:00",
 				"url": "https://blog.ericgregorich.com/2023/03/31/the-temperature-is.html",
-				"tags": ["Photos"]
+				"tags": ["photos"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/03/29/raindrop-released-native.html",
@@ -1959,7 +1985,7 @@
 				"content_text": "<p>It’s softball season again!</p>\n<p><img src=\"https://ericgregorich.micro.blog/uploads/2023/e5a51e28c9.jpg\" alt=\"\" width=\"600\" height=\"450\" /></p>\n",
 				"date_published": "2023-03-07T21:03:15-04:00",
 				"url": "https://blog.ericgregorich.com/2023/03/07/its-softball-season.html",
-				"tags": ["Photos"]
+				"tags": ["photos"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/03/07/ive-been-quite.html",
@@ -2049,7 +2075,7 @@
 				"content_text": "<p><img src=\"https://ericgregorich.micro.blog/uploads/2022/e0f26646c9.jpg\" alt=\"\" width=\"903\" height=\"602\" /></p>\n<p>Flowers at Gibbs Gardens, GA.</p>\n",
 				"date_published": "2023-02-11T16:14:20-04:00",
 				"url": "https://blog.ericgregorich.com/2023/02/11/flowers-at-gibbs.html",
-				"tags": ["Photos"]
+				"tags": ["photos"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/02/11/ive-used-raycast.html",
@@ -2285,7 +2311,7 @@
 				"content_text": "<p>📷I finally completed my Christmas gift. The Razor Crest from The Mandalorian.</p>\n<p><img src=\"https://ericgregorich.micro.blog/uploads/2023/ef74ac9c51.jpg\" alt=\"The Mandalorian Razor Crest Legos\" width=\"900px\" /></p>\n",
 				"date_published": "2023-01-06T17:24:20-04:00",
 				"url": "https://blog.ericgregorich.com/2023/01/06/i-finally-completed.html",
-				"tags": ["Photos"]
+				"tags": ["photos"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/01/04/kill-the-newsletter.html",
@@ -2302,7 +2328,7 @@
 				"content_text": "<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" title=\"Eric Gregorich Bullet Journal 2023-01-03.jpeg\" src=\"https://ericgregorich.micro.blog/uploads/2023/1406b6101a.jpg\" alt=\"IMG 0634\" width=\"900\" height=\"637\" border=\"0\" /></p>\n<p>I felt like going analog today, so I dusted off my Bullet Journal and started using it. I have wanted to start journaling more in 2023 and have always enjoyed writing on paper, so it felt like it was time to give it another go.</p>\n",
 				"date_published": "2023-01-03T19:16:27-04:00",
 				"url": "https://blog.ericgregorich.com/2023/01/03/i-felt-like.html",
-				"tags": ["Photos"]
+				"tags": ["photos"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/01/01/a-day-full.html",
@@ -2484,7 +2510,7 @@
 				"content_text": "<blockquote>\n<p>“How we spend our hours is how we spend our days. And, as the writer Annie Dillard so eloquently pointed out, “How we spend our days is . . . how we spend our lives.”” (Brad Stulberg, The Practice of Groundedness) 💬</p>\n</blockquote>\n",
 				"date_published": "2022-12-05T22:01:06-04:00",
 				"url": "https://blog.ericgregorich.com/2022/12/05/how-we-spend.html",
-				"tags": ["Quotes"]
+				"tags": ["quotes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/12/03/i-watched-the.html",
@@ -2549,7 +2575,7 @@
 				"content_text": "> The goal is the target we want to achieve, while the aim is the course we set to reach that target. A goal fixates on the finish line, while an aim considers the trajectory. When we focus on our aims, the process becomes the goal. And we’re more likely to reach our goal when we become fully aware of our aim. (Anne-Laure Le Cunff, Everything Is Aiming: Forget the Target and Focus on Your Aim) 💬\n",
 				"date_published": "2022-11-17T23:19:31-04:00",
 				"url": "https://blog.ericgregorich.com/2022/11/17/the-goal-is.html",
-				"tags": ["Quotes"]
+				"tags": ["quotes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/11/17/bending-spoon-purchased.html",
@@ -2600,7 +2626,7 @@
 				"content_text": "<blockquote>\n<p>“It’s the stuff you <strong>leave</strong> out that matters. So constantly look for things to remove, simplify, and streamline. Be a curator. Stick to what’s truly essential. Pare things down until you’re left with only the most important stuff.” (Rework) 💬</p>\n</blockquote>\n",
 				"date_published": "2022-11-14T20:47:48-04:00",
 				"url": "https://blog.ericgregorich.com/2022/11/14/its-the-stuff.html",
-				"tags": ["Quotes"]
+				"tags": ["quotes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/11/13/im-going-allin.html",
@@ -2641,7 +2667,7 @@
 				"content_text": "<blockquote>\n<p>“Whoever best describes the problem is the one most likely to solve it. –.” — Josh Kaufman 💬</p>\n</blockquote>\n",
 				"date_published": "2022-11-11T19:52:58-04:00",
 				"url": "https://blog.ericgregorich.com/2022/11/11/whoever-best-describes.html",
-				"tags": ["Quotes"]
+				"tags": ["quotes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/11/10/im-thinking-about.html",
@@ -2762,7 +2788,7 @@
 				"content_text": "<blockquote>\n<p>Change too often and you stand for nothing. You’re simply chasing a shadow you will never catch. Refuse to change and you’re likely to be overlooked. Somewhere in between is the posture of someone who has the maximum chance for success. - <a title=\"Seth Godin\" href=\"https://seths.blog/2022/10/caring-just-the-right-amount/\">Seth Godin</a> 💬</p>\n</blockquote>\n",
 				"date_published": "2022-10-29T19:32:40-04:00",
 				"url": "https://blog.ericgregorich.com/2022/10/29/change-too-often.html",
-				"tags": ["Quotes"]
+				"tags": ["quotes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/10/29/stolen-focus-by.html",
@@ -2821,7 +2847,7 @@
 				"content_text": "<p>It’s a beautiful day to sit outside and read.</p>\n<p><img src=\"https://ericgregorich.micro.blog/uploads/2022/16fb41ff01.jpg\" alt=\"\" width=\"600\" height=\"450\" /></p>\n",
 				"date_published": "2022-10-23T13:06:07-04:00",
 				"url": "https://blog.ericgregorich.com/2022/10/23/its-a-beautiful.html",
-				"tags": ["Photos"]
+				"tags": ["photos"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/10/21/i-renewed-my.html",
@@ -2894,7 +2920,7 @@
 				"content_text": "<blockquote>\n<p>The ability to perform deep work is becoming increasingly rare at exactly the same time it is becoming increasingly valuable in our economy. As a consequence, the few who cultivate this skill, and then make it the core of their working life, will thrive. (Cal Newport) 💬</p>\n</blockquote>\n",
 				"date_published": "2022-10-14T17:28:08-04:00",
 				"url": "https://blog.ericgregorich.com/2022/10/14/the-ability-to.html",
-				"tags": ["Quotes"]
+				"tags": ["quotes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/10/13/its-pm-est.html",
@@ -2911,7 +2937,7 @@
 				"content_text": "<blockquote>\n<p>“The real measure of any time management technique is whether or not it helps you neglect the right things.” (Oliver Burkeman, Four Thousand Weeks) 💬</p>\n</blockquote>\n",
 				"date_published": "2022-10-12T08:00:00-04:00",
 				"url": "https://blog.ericgregorich.com/2022/10/12/the-real-measure.html",
-				"tags": ["Quotes"]
+				"tags": ["quotes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/10/11/i-define-minimalism.html",
@@ -2920,7 +2946,7 @@
 				"content_text": "<blockquote>\n<p>“I define minimalism as ”the intentional promotion of the things we most value by removing anything that distracts us from them.“ … It isn’t primarily about decluttering or organizing; it’s about creating freedom.” (Joshua Becker, Things That Matter) 💬</p>\n</blockquote>\n",
 				"date_published": "2022-10-11T08:00:00-04:00",
 				"url": "https://blog.ericgregorich.com/2022/10/11/i-define-minimalism.html",
-				"tags": ["Quotes"]
+				"tags": ["quotes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/10/10/weve-mistaken-doing.html",
@@ -2929,7 +2955,7 @@
 				"content_text": "<blockquote>\n<p>“We’ve mistaken doing things—being “productive”—as the measure of a day well spent, when really that’s just one of many by-products of living well.” (Madeleine Dore, I Didn’t Do the Thing Today) 💬</p>\n</blockquote>\n",
 				"date_published": "2022-10-10T08:00:00-04:00",
 				"url": "https://blog.ericgregorich.com/2022/10/10/weve-mistaken-doing.html",
-				"tags": ["Quotes"]
+				"tags": ["quotes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/10/09/the-benefits-of.html",
@@ -2947,7 +2973,7 @@
 				"content_text": "<blockquote>\n<p>“I try to avoid having thoughts. They lead to other thoughts, and-if you’re not careful-those lead to actions. Actions make you tired. I have this on rather good authority from someone who once read it in a book.” (Brandon Sanderson, Warbreaker)</p>\n</blockquote>\n<p>💬 Hilarious!</p>\n",
 				"date_published": "2022-10-09T08:00:00-04:00",
 				"url": "https://blog.ericgregorich.com/2022/10/09/i-try-to.html",
-				"tags": ["Quotes"]
+				"tags": ["quotes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/10/08/started-to-play.html",
@@ -2965,7 +2991,7 @@
 				"content_text": "<blockquote>\n<p>“Instead of wondering when your next vacation is, maybe you should set up a life you don’t need to escape from.” (Peter Voogd, 6 Months to 6 Figures)</p>\n</blockquote>\n<p>💬 I can’t imagine retiring in the traditional sense. I’ll always be coding, writing, and creating something.</p>\n",
 				"date_published": "2022-10-08T08:43:14-04:00",
 				"url": "https://blog.ericgregorich.com/2022/10/08/instead-of-wondering.html",
-				"tags": ["Quotes"]
+				"tags": ["quotes"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/10/07/i-have-started.html",
@@ -3006,7 +3032,7 @@
 				"content_text": "<p>I added a vertical monitor to my workspace. I like having the extra space to stick my Teams video calls, calendar, and other static things.</p>\n<p><img src=\"https://ericgregorich.micro.blog/uploads/2022/8057798399.jpg\" alt=\"\" width=\"600\" height=\"450\" /></p>\n",
 				"date_published": "2022-10-03T17:45:01-04:00",
 				"url": "https://blog.ericgregorich.com/2022/10/03/i-just-added.html",
-				"tags": ["Photos"]
+				"tags": ["photos"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/10/03/082718.html",
@@ -3015,7 +3041,7 @@
 				"content_text": "<p>Currently reading: <a title=\"Stolen Focus\" href=\"https://micro.blog/books/9780593138526\">Stolen Focus</a> by Johann Hari 📚</p>\n<blockquote>\n<p>It’s when you set aside your distractions, he said, that you begin to see what you were distracting yourself from. - Stolen Focus p27 💬</p>\n</blockquote>\n",
 				"date_published": "2022-10-03T08:27:18-04:00",
 				"url": "https://blog.ericgregorich.com/2022/10/03/082718.html",
-				"tags": ["Quotes","books"]
+				"tags": ["quotes","books"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/10/03/currently-reading-stolen.html",
