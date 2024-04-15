@@ -7,6 +7,42 @@
 	"items": [
 		
 			{
+				"id": "http://ericgregorich.micro.blog/2024/04/14/i-just-purchased.html",
+				
+				"content_html": "<p>I just purchased an overpriced <a href=\"https://cottonbureau.com/p/7ZQC7C/shirt/atp-windows#/20137198/tee-men-standard-tee-vintage-navy-tri-blend-s\">T-Shirt</a> from the <a href=\"https://atp.fm\">ATP</a> podcast to show my support.</p>\n<p>It&rsquo;s easy to forget how much effort goes into podcasts, newsletters, and other content that we consume for free.</p>\n",
+				"content_text": "I just purchased an overpriced [T-Shirt](https://cottonbureau.com/p/7ZQC7C/shirt/atp-windows#/20137198/tee-men-standard-tee-vintage-navy-tri-blend-s) from the [ATP](https://atp.fm) podcast to show my support. \r\n\r\nIt's easy to forget how much effort goes into podcasts, newsletters, and other content that we consume for free. \n",
+				"date_published": "2024-04-14T15:43:37-04:00",
+				"url": "https://blog.ericgregorich.com/2024/04/14/i-just-purchased.html",
+				"tags": ["links"]
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2024/04/13/a-simple-search.html",
+				
+				"content_html": "<p>🔗 <a href=\"https://garrit.xyz/posts/2024-04-11-a-simple-search-bar\">A simple search bar</a></p>\n<p>Garrit shows how to add a simple search form to your site that will redirect you to DuckDuckGo with your search terms. A great way to add search to your site.</p>\n",
+				"content_text": "\n🔗 [A simple search bar](https://garrit.xyz/posts/2024-04-11-a-simple-search-bar)\n\nGarrit shows how to add a simple search form to your site that will redirect you to DuckDuckGo with your search terms. A great way to add search to your site.\n",
+				"date_published": "2024-04-13T11:48:04-04:00",
+				"url": "https://blog.ericgregorich.com/2024/04/13/a-simple-search.html",
+				"tags": ["links"]
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2024/04/11/publish-quote-shortcut.html",
+				
+				"content_html": "<p>🔗 <!-- raw HTML omitted -->Publish Quote shortcut - HeyDingus // Jarrod Blundy // <em>heydingus.net</em><!-- raw HTML omitted --></p>\n<blockquote>\n<p>Use Apple Shortcuts to publish a copied blockquote, with or without commentary, to Micro.blog.</p>\n</blockquote>\n<p>Testing the Publish Quote shortcut to quickly post to Micro.blog.</p>\n",
+				"content_text": "🔗 <a href=\"https://heydingus.net/shortcuts/publish-quote\" class=\"u-in-reply-to\">Publish Quote shortcut - HeyDingus // Jarrod Blundy // *heydingus.net*</a>\r\n\r\n> Use Apple Shortcuts to publish a copied blockquote, with or without commentary, to Micro.blog.\r\n\r\nTesting the Publish Quote shortcut to quickly post to Micro.blog. \n",
+				"date_published": "2024-04-11T19:45:04-04:00",
+				"url": "https://blog.ericgregorich.com/2024/04/11/publish-quote-shortcut.html",
+				"tags": ["links"]
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2024/04/09/what-about-anonymous.html",
+				
+				"content_html": "<p><a href=\"https://kevquirk.com/what-about-anonymous-blogging\">What About Anonymous Blogging? | Kev Quirk</a></p>\n<blockquote>\n<p>Anyway, I&rsquo;ve been thinking recently about blogging anonymously. I&rsquo;m not thinking about doing it, but wondering why folk might want to do it, and whether any of my fellow site owners, who write under their real name, have considered the same?</p>\n</blockquote>\n<p>I thought about posting anonymously for a long time. I think I would post more of what&rsquo;s on my mind if I did. As Kev points out, you have to go through quite a bit to be truly anonymous. It obviously wasn&rsquo;t worth it for me. Or was it? Maybe I have another anonymous account out there nobody knows about.</p>\n",
+				"content_text": " [What About Anonymous Blogging? | Kev Quirk](https://kevquirk.com/what-about-anonymous-blogging)\r\n\r\n> Anyway, I've been thinking recently about blogging anonymously. I'm not thinking about doing it, but wondering why folk might want to do it, and whether any of my fellow site owners, who write under their real name, have considered the same?\r\n\r\nI thought about posting anonymously for a long time. I think I would post more of what's on my mind if I did. As Kev points out, you have to go through quite a bit to be truly anonymous. It obviously wasn't worth it for me. Or was it? Maybe I have another anonymous account out there nobody knows about.\n",
+				"date_published": "2024-04-09T20:31:36-04:00",
+				"url": "https://blog.ericgregorich.com/2024/04/09/what-about-anonymous.html",
+				"tags": ["links"]
+			},
+			{
 				"id": "http://ericgregorich.micro.blog/2024/04/06/godzilla-x-kong.html",
 				
 				"content_html": "<p>🍿 <a href=\"https://www.themoviedb.org/movie/823464\">Godzilla x Kong: The New Empire (2024)</a> - ★★☆☆☆</p>\n<p>Unfortunately, the theater we happened to be at was tiny with bad sound which deteriorated the best parts of the movie, the monster fights.</p>\n<p>If I felt I could suffer through the dumb plot again i would go see it again in a good theater. Not likely.</p>\n",
@@ -35,16 +71,17 @@
 			{
 				"id": "http://ericgregorich.micro.blog/2024/04/04/103821.html",
 				
-				"content_html": "<p>We had an interesting visitor in our neighborhood yesterday.\n<!-- raw HTML omitted --></p>\n",
-				"content_text": "We had an interesting visitor in our neighborhood yesterday.\r\n<img src=\"uploads/2024/0be310ed772.jpg\" alt=\"A cow in our neighborhood standing in the middle of the street.\">\n",
+				"content_html": "<p>📷 We had an interesting visitor in our neighborhood yesterday.\n<!-- raw HTML omitted --></p>\n",
+				"content_text": "📷 We had an interesting visitor in our neighborhood yesterday.\n<img src=\"uploads/2024/0be310ed772.jpg\" alt=\"A cow in our neighborhood standing in the middle of the street.\">\n",
 				"date_published": "2024-04-04T10:38:21-04:00",
-				"url": "https://blog.ericgregorich.com/2024/04/04/103821.html"
+				"url": "https://blog.ericgregorich.com/2024/04/04/103821.html",
+				"tags": ["photos"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2024/03/30/we-spent-the.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p>📷 We spent the afternoon kayaking on the lake today. It was a beautiful day for it. The water was ice-cold. Far too much pollen, though.</p>\n<p><img src=\"uploads/2024/c865b59bd0.jpg\" alt=\"Kayaking on the lake for the afternoon. \" width=\"600\" height=\"450\" /></p>\n",
+				"content_text": "<p>📷 We spent the afternoon kayaking on the lake today. It was a beautiful day for it. The water was ice-cold. Far too much pollen, though.</p>\n<p><img src=\"https://ericgregorich.micro.blog/uploads/2024/c865b59bd0.jpg\" alt=\"Kayaking on the lake for the afternoon. \" width=\"600\" height=\"450\" /></p>\n",
 				"date_published": "2024-03-30T19:10:21-04:00",
 				"url": "https://blog.ericgregorich.com/2024/03/30/we-spent-the.html",
 				"tags": ["photos"]
