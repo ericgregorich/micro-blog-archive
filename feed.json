@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://ericgregorich.micro.blog/2024/05/02/i-added-the.html",
+				
+				"content_html": "<p>I added the archive page back to my blog, and it shows my categories as well as search, thanks to the <a href=\"https://micro.blog/account/plugins/view/122\">Search Partial</a> plugin by <a href=\"https://micro.blog/gregmorris\">@gregmorris</a>. I also highly recommend the <a href=\"https://micro.blog/account/plugins/view/39\">Suprise Me</a> plugin by <a href=\"https://micro.blog/sod\">@sod</a> which gives you a way to load random posts. It&rsquo;s a great way to reminisce.</p>\n",
+				"content_text": "I added the archive page back to my blog, and it shows my categories as well as search, thanks to the [Search Partial](https://micro.blog/account/plugins/view/122) plugin by [@gregmorris](https://micro.blog/gregmorris). I also highly recommend the [Suprise Me](https://micro.blog/account/plugins/view/39) plugin by [@sod](https://micro.blog/sod) which gives you a way to load random posts. It's a great way to reminisce.\n",
+				"date_published": "2024-05-02T08:50:14-04:00",
+				"url": "https://ericgregorich.com/2024/05/02/i-added-the.html",
+				"tags": ["updates"]
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2024/04/28/proton-and-standard.html",
+				
+				"content_html": "<p>🔗 <!-- raw HTML omitted -->Proton and Standard Notes are joining forces | Proton -  <em>proton.me</em><!-- raw HTML omitted --></p>\n<blockquote>\n<p>In the coming months, we hope to find ways to make Standard Notes more easily accessible to the Proton community. This way, in addition to protecting your email, calendar, files, passwords, and online activity, you can also protect your notes.</p>\n</blockquote>\n<p>I’ve been using Proton Mail and Proton Pass as well as dabbling with Standard Notes. I’m interested to see what Proton does with Standard Notes over time.</p>\n",
+				"content_text": "🔗 <a href=\"https://proton.me/blog/proton-standard-notes-join-forces\" class=\"u-in-reply-to\">Proton and Standard Notes are joining forces | Proton -  *proton.me*</a>\n\n> In the coming months, we hope to find ways to make Standard Notes more easily accessible to the Proton community. This way, in addition to protecting your email, calendar, files, passwords, and online activity, you can also protect your notes.\n\nI’ve been using Proton Mail and Proton Pass as well as dabbling with Standard Notes. I’m interested to see what Proton does with Standard Notes over time. \n",
+				"date_published": "2024-04-28T15:24:25-04:00",
+				"url": "https://ericgregorich.com/2024/04/28/proton-and-standard.html",
+				"tags": ["links","apps"]
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2024/04/27/cortex-workplace-therapy.html",
+				
+				"content_html": "<p><a href=\"https://overcast.fm/+E7b4qooA8\">Cortex 154: Workplace Therapy with Grey</a></p>\n<p>I&rsquo;m listening to Cortex 154, and they talk about email and Apple&rsquo;s Focus Modes. They have the same <a href=\"https://overcast.fm/+E7b4qooA8/55:10\">grip I have with Focus Modes</a>. I would rather not see the preview showing me what I&rsquo;m missing. Show me when I leave the focus mode, not during!</p>\n",
+				"content_text": "\n[Cortex 154: Workplace Therapy with Grey](https://overcast.fm/+E7b4qooA8)\n\nI'm listening to Cortex 154, and they talk about email and Apple's Focus Modes. They have the same [grip I have with Focus Modes](https://overcast.fm/+E7b4qooA8/55:10). I would rather not see the preview showing me what I'm missing. Show me when I leave the focus mode, not during!\n",
+				"date_published": "2024-04-27T11:04:25-04:00",
+				"url": "https://ericgregorich.com/2024/04/27/cortex-workplace-therapy.html",
+				"tags": ["links","productivity"]
+			},
+			{
 				"id": "http://ericgregorich.micro.blog/2024/04/27/is-the-web.html",
 				"title": "Is the web falling apart?",
 				"content_html": "<p>Everywhere I look, I see negative posts about how the web is falling apart. Either by AI, politics, big corporations and a dozen other reasons.</p>\n<p>And everyone who hates seeing this happen seems to constantly write it. How they hate what the internet has become and miss what it once was. This seems to feed into the negativity.</p>\n<p>I hope things settle soon. I hope we get back to smaller, stronger communities where we can have civilized discussions about our concerns but still have fun and share interesting things.</p>\n<p>These communities certainly exist. I feel like I&rsquo;m a part of one here at Micro.blog and Mastodon.</p>\n",
@@ -1967,14 +1994,6 @@
 				"content_text": "<p>I tried the <a href=\"https://beta.bear.app/t/the-bear-2-beta-is-here/9115\">Bear 2 Beta</a>. What a beautiful app! I’m tempted to use it for my personal Knowledge Base.</p>\n<p>I’ve tried using one app (Obsidian), but finding separate apps for specific purposes seems to work better.</p>\n<ul>\n<li>Rocketbook = Capture</li>\n<li>Readwise = Collection</li>\n<li>Bear = Knowledge</li>\n<li>Raindrop = Bookmarks</li>\n<li>Ulysses = Long-form writing</li>\n<li>Mars Edit = Blog posts</li>\n<li>Things 3 = Tasks</li>\n<li>Apple Notes = Miscellaneous and shared notes</li>\n</ul>\n",
 				"date_published": "2023-04-09T09:55:53-04:00",
 				"url": "https://ericgregorich.com/2023/04/09/i-tried-the.html"
-			},
-			{
-				"id": "http://ericgregorich.micro.blog/2023/04/08/filter-the-posts.html",
-				"title": "Filter the posts on the Micro.blog home page by category",
-				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p>With some <a href=\"https://help.micro.blog/t/excluding-a-category-from-the-blog-homepage/1316/5\">help</a> from the community, I figured out how to filter the home page of my Micro.blog site to exclude “Micro Posts, “ a category I created for the short posts without a title.</p>\n<p>Why? In my case, I want only to show the full articles on my home page. I have a separate page for all my “Micro Posts.” I think this will make my home page more presentable to visitors to the site.</p>\n<p><strong>Every theme could differ; mine is based on the default theme.</strong></p>\n<p>The trick to filtering the posts by category is to use Hugo’s <a href=\"https://gohugo.io/functions/symdiff/\">symdiff</a> function.</p>\n<blockquote>\n<p>Hugo’s <a href=\"https://gohugo.io/functions/symdiff/\">symdiff</a> function returns the symmetric difference between two collections. That’s just a fancy way to say: “give me the things that are in either of these collections but not in both.” - <a href=\"https://help.micro.blog/u/sod\">@sod</a></p>\n</blockquote>\n<p>These lines handle the filtering. Replace “Micro Posts” with the name of the category you want to exclude.</p>\n<pre><code class=\"html\">{{ $posts := where site.Pages \"Type\" \"post\" }}\n{{ $hidden_posts := where $posts \"Params.categories\" \"intersect\" (slice \"Micro Posts\") }}\n{{ $posts = $posts | symdiff $hidden_posts }}\n</code></pre>\n<p>Next, if we want to continue to use Pagination on the home page, we’ll need to call the Paginate function and pass in the $posts variable created above it.</p>\n<pre><code class=\"html\">{{ $paginator := .Paginate $posts }}\n</code></pre>\n<p>Then we pass the $paginator variable into the range function, which will iterate the posts.</p>\n<pre><code class=\"html\">{{ $paginator := .Paginate $posts }}\n</code></pre>\n<p>Here is the full code for my <strong>/layouts/index.html</strong> template.</p>\n<pre><code class=\"html\">{{ define \"main\" }}\n<div class=\"home h-feed\">\n  <ul class=\"post-list\">\n    {{ $posts := where site.Pages \"Type\" \"post\" }}\n    {{ $hidden_posts := where $posts \"Params.categories\" \"intersect\" (slice \"Micro Posts\") }}\n    {{ $posts = $posts | symdiff $hidden_posts }}\n    {{ $paginator := .Paginate $posts }}\n    {{ range $paginator.Pages }}\n    <li class=\"post-list-item\">\n      <div class=\"post-list-item-title\"><a href=\"{{ .Permalink }}\">{{ .Title }}</a></div>\n      <div class=\"post-list-item-date\">\n        <time class=\"dt-published\"datetime=\"{{ .Date.Format \" 2006-01-02 15:04:05 -0700\" }}\">{{ .Date.Format \"Jan 2, 2006\"}}</time>\n      </div>\n      <div class=\"post-list-item-content\">\n        <p>{{ .Summary | truncate 300 }} <a href=\"{{ .Permalink }}\" class=\"continue-link\">read more</a></p>\n      </div>\n    </li>\n  </ul>\n\n</div>\n<div class=\"pagination\">\n  {{ if .IsHome }}\n  {{ if .Site.Params.paginate_home }}\n  {{ partial \"pagination\" . }}\n  {{ end }}\n  {{ else if .Site.Params.paginate_categories }}\n  {{ partial \"pagination\" . }}\n  {{ end }}\n</div>\n{{ end }}\n</code></pre>\n",
-				"date_published": "2023-04-08T10:46:37-04:00",
-				"url": "https://ericgregorich.com/2023/04/08/filter-the-posts.html"
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/04/02/heyscottyj-no-pkm.html",
