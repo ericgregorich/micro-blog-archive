@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://ericgregorich.micro.blog/2024/05/11/currently-reading-anxious.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781501160851\">Anxious People</a> by Fredrik Backman 📚</p>\n<blockquote>\n<p>Anyone can nurture a myth about their life if they have enough manure, so if the grass looks greener on the other side of the fence, that’s probably because it’s full of shit.</p>\n</blockquote>\n",
+				"content_text": "Currently reading: [Anxious People](https://micro.blog/books/9781501160851) by Fredrik Backman 📚\n\n> Anyone can nurture a myth about their life if they have enough manure, so if the grass looks greener on the other side of the fence, that’s probably because it’s full of shit.\n",
+				"date_published": "2024-05-11T13:19:46-04:00",
+				"url": "https://ericgregorich.com/2024/05/11/currently-reading-anxious.html",
+				"tags": ["books"]
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2024/05/10/we-were-able.html",
+				
+				"content_html": "<p>📷 We were able to see the Northern Lights from our front porch. Pretty cool!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "📷 We were able to see the Northern Lights from our front porch. Pretty cool! \n\n<img src=\"uploads/2024/9db5d2176e.jpg\" width=\"450\" height=\"600\" alt=\"Northern Lights from Atlanta Ga. \">\n",
+				"date_published": "2024-05-10T23:07:58-04:00",
+				"url": "https://ericgregorich.com/2024/05/10/we-were-able.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2024/05/10/why-you-need.html",
+				
+				"content_html": "<p><a href=\"https://www.simplermachines.com/why-you-need-a-wtf-notebook/\">Why you need a &ldquo;WTF Notebook&rdquo;</a></p>\n<blockquote>\n<p>For two weeks, that&rsquo;s all I do. I just write it down. I don&rsquo;t tell the team everything that I think they&rsquo;re doing wrong. I don&rsquo;t show up at retro with all the stuff I think they need to change. I just watch, and listen, and I write down everything that seems deeply weird.</p>\n</blockquote>\n<p>For a couple of weeks, you observe and write down anything that makes you think &ldquo;WTF&rdquo; in your notebook. You are accumulating a list of things that are unusual from your outsider perspective. Later, you can meet with the team or group and review what you noted. An interesting approach.</p>\n",
+				"content_text": "[Why you need a \"WTF Notebook\"](https://www.simplermachines.com/why-you-need-a-wtf-notebook/)\n\n> For two weeks, that's all I do. I just write it down. I don't tell the team everything that I think they're doing wrong. I don't show up at retro with all the stuff I think they need to change. I just watch, and listen, and I write down everything that seems deeply weird. \n\nFor a couple of weeks, you observe and write down anything that makes you think \"WTF\" in your notebook. You are accumulating a list of things that are unusual from your outsider perspective. Later, you can meet with the team or group and review what you noted. An interesting approach.\n",
+				"date_published": "2024-05-10T17:37:50-04:00",
+				"url": "https://ericgregorich.com/2024/05/10/why-you-need.html",
+				"tags": ["links","development"]
+			},
+			{
 				"id": "http://ericgregorich.micro.blog/2024/05/05/the-fall-guy.html",
 				
 				"content_html": "<p>🍿 <a href=\"https://www.themoviedb.org/movie/746036\">The Fall Guy (2024)</a> - ★★★★★</p>\n<p>A fun action-comedy that pays tribute to stunt doubles.</p>\n",
