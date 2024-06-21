@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://ericgregorich.micro.blog/2024/06/19/im-slowly-moving.html",
+				
+				"content_html": "<p>I&rsquo;m slowly moving my domains from Cloudflare and Hover over to <a href=\"https://porkbun.com/\">porkbun</a>. My main domain was successful. Now for the rest. I&rsquo;ve heard good things about porkbun. Simple and affordable. Hopefully, it&rsquo;s worth it.</p>\n",
+				"content_text": "I'm slowly moving my domains from Cloudflare and Hover over to [porkbun](https://porkbun.com/). My main domain was successful. Now for the rest. I've heard good things about porkbun. Simple and affordable. Hopefully, it's worth it.\n",
+				"date_published": "2024-06-19T09:43:59-04:00",
+				"url": "https://blog.ericgregorich.com/2024/06/19/im-slowly-moving.html",
+				"tags": ["apps","web"]
+			},
+			{
 				"id": "http://ericgregorich.micro.blog/2024/06/09/im-seriously-considering.html",
 				
 				"content_html": "<p>I&rsquo;m seriously considering installing Linux on my Surface Laptop 3 to try it out again. If it sticks, I’d buy a new laptop.</p>\n<p>Most of the apps I use already run on Linux, so I don’t think I would lose much on the software side.</p>\n",
