@@ -7,6 +7,41 @@
 	"items": [
 		
 			{
+				"id": "http://ericgregorich.micro.blog/2024/08/20/clew-is-a.html",
+				
+				"content_html": "<p><a href=\"https://clew.se/\">Clew </a>is a web search engine focused content from independent creators. Only about 223k results indexed currently, but that&rsquo;s a good start if you&rsquo;re looking for focused content by individuals.</p>\n",
+				"content_text": "[Clew ](https://clew.se/ )is a web search engine focused content from independent creators. Only about 223k results indexed currently, but that's a good start if you're looking for focused content by individuals.\n",
+				"date_published": "2024-08-20T07:45:21-04:00",
+				"url": "https://ericgregorich.com/2024/08/20/clew-is-a.html",
+				"tags": ["Apps","Links"]
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2024/08/18/i-finally-installed.html",
+				
+				"content_html": "<p>I finally installed the iOS 18 beta. I hear battery is decent and it’s pretty stable. Frankly, I’m surprised I waited so long. I usually jump right on the betas.</p>\n",
+				"content_text": "I finally installed the iOS 18 beta. I hear battery is decent and it’s pretty stable. Frankly, I’m surprised I waited so long. I usually jump right on the betas. \n",
+				"date_published": "2024-08-18T15:35:08-04:00",
+				"url": "https://ericgregorich.com/2024/08/18/i-finally-installed.html"
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2024/08/17/ive-been-using.html",
+				
+				"content_html": "<p>I’ve been using a Lamy Safari Fountain Pen for about 2 weeks. I think I’m hooked. While I don’t have a beautiful notebook to go with it, I do have a large hardcover, spiral-bound notebook that works well for me.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I’ve been using a Lamy Safari Fountain Pen for about 2 weeks. I think I’m hooked. While I don’t have a beautiful notebook to go with it, I do have a large hardcover, spiral-bound notebook that works well for me. \n\n<img src=\"uploads/2024/d31d144739.jpg\" width=\"450\" height=\"600\" alt=\"A Lamy Safari Fountain Pen on a large, spiral-bound notebook. \">\n",
+				"date_published": "2024-08-17T13:21:34-04:00",
+				"url": "https://ericgregorich.com/2024/08/17/ive-been-using.html",
+				"tags": ["Hardware","Photos"]
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2024/08/17/on-hobbies-side.html",
+				
+				"content_html": "<p><a href=\"https://manuelmoreale.com/on-hobbies-side-projects-and-money\">On hobbies, side projects, and money – Manu</a></p>\n<blockquote>\n<p>We need to accept that in order for the open, non hyper-commercial web to stay alive, we all have to do our part and we have to contribute something to it. Because running the sites you enjoy takes time and effort. And it costs money. We can’t expect everyone to do everything for free, forever. And we also can’t complain about the endless proliferation of ads and paywalls if we’re not willing to contribute even as little as 1$ ourselves.</p>\n</blockquote>\n<p>I’ve been trying to contribute here and there. But, there are so many good things to pay for, it adds up quick.</p>\n",
+				"content_text": "[On hobbies, side projects, and money – Manu](https://manuelmoreale.com/on-hobbies-side-projects-and-money)\n\n> We need to accept that in order for the open, non hyper-commercial web to stay alive, we all have to do our part and we have to contribute something to it. Because running the sites you enjoy takes time and effort. And it costs money. We can’t expect everyone to do everything for free, forever. And we also can’t complain about the endless proliferation of ads and paywalls if we’re not willing to contribute even as little as 1$ ourselves.\n\nI’ve been trying to contribute here and there. But, there are so many good things to pay for, it adds up quick. \n",
+				"date_published": "2024-08-17T08:36:15-04:00",
+				"url": "https://ericgregorich.com/2024/08/17/on-hobbies-side.html",
+				"tags": ["Links"]
+			},
+			{
 				"id": "http://ericgregorich.micro.blog/2024/08/10/i-moved-our.html",
 				
 				"content_html": "<p>I moved our company development Wiki from Azure DevOps into Obsidian Publish. With local markdown and one-click publishing, it&rsquo;s been the solution that stuck with us. My company gladly paid for the commercial license and the Publish service.</p>\n",
@@ -73,7 +108,7 @@
 				"id": "http://ericgregorich.micro.blog/2024/07/24/spent-last-week.html",
 				
 				"content_html": "<p>Spent last week near the beach.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Spent last week near the beach. \n\n<img src=\"uploads/2024/image.jpg\" width=\"450\" height=\"600\" alt=\"Gentle waves wash ashore on a sandy beach under a cloudy sky at sunset.\">\n",
+				"content_text": "Spent last week near the beach. \n\n<img src=\"https://cdn.uploads.micro.blog/171686/2024/image.jpg\" width=\"450\" height=\"600\" alt=\"Gentle waves wash ashore on a sandy beach under a cloudy sky at sunset.\">\n",
 				"date_published": "2024-07-24T20:57:32-04:00",
 				"url": "https://ericgregorich.com/2024/07/24/spent-last-week.html",
 				"tags": ["Photos"]
@@ -186,8 +221,8 @@
 			{
 				"id": "http://ericgregorich.micro.blog/2024/06/06/the-new-mutants.html",
 				
-				"content_html": "<p>🍿 <a href=\"https://letterboxd.com/egregorich/film/the-new-mutants/\">The New Mutants, 2020 - ★★★</a></p>\n<p><img src=\"https://ericgregorich.com/uploads/2024/72e1b6266c.jpg\" alt=\"\"></p>\n<p>Watched on Monday June 3, 2024.</p>\n",
-				"content_text": "🍿 [The New Mutants, 2020 - ★★★](https://letterboxd.com/egregorich/film/the-new-mutants/)\r\n\r\n![](https://ericgregorich.com/uploads/2024/72e1b6266c.jpg)\n\nWatched on Monday June 3, 2024.\n",
+				"content_html": "<p>🍿 <a href=\"https://letterboxd.com/egregorich/film/the-new-mutants/\">The New Mutants, 2020 - ★★★</a></p>\n<p><img src=\"https://cdn.uploads.micro.blog/171686/2024/72e1b6266c.jpg\" alt=\"\"></p>\n<p>Watched on Monday June 3, 2024.</p>\n",
+				"content_text": "🍿 [The New Mutants, 2020 - ★★★](https://letterboxd.com/egregorich/film/the-new-mutants/)\r\n\r\n![](https://cdn.uploads.micro.blog/171686/2024/72e1b6266c.jpg)\n\nWatched on Monday June 3, 2024.\n",
 				"date_published": "2024-06-06T13:16:25-04:00",
 				"url": "https://ericgregorich.com/2024/06/06/the-new-mutants.html",
 				"tags": ["Movies"]
@@ -195,8 +230,8 @@
 			{
 				"id": "http://ericgregorich.micro.blog/2024/06/06/the-beekeeper-watched.html",
 				
-				"content_html": "<p>🍿 <a href=\"https://letterboxd.com/egregorich/film/the-beekeeper-2024/\">The Beekeeper, 2024 - ★★★</a></p>\n<p><img src=\"https://ericgregorich.com/uploads/2024/2786fdc774.jpg\" alt=\"\"></p>\n<p>Watched on Tuesday June 4, 2024.</p>\n",
-				"content_text": "🍿 [The Beekeeper, 2024 - ★★★](https://letterboxd.com/egregorich/film/the-beekeeper-2024/)\r\n\r\n![](https://ericgregorich.com/uploads/2024/2786fdc774.jpg)\n\nWatched on Tuesday June 4, 2024.\n",
+				"content_html": "<p>🍿 <a href=\"https://letterboxd.com/egregorich/film/the-beekeeper-2024/\">The Beekeeper, 2024 - ★★★</a></p>\n<p><img src=\"https://cdn.uploads.micro.blog/171686/2024/2786fdc774.jpg\" alt=\"\"></p>\n<p>Watched on Tuesday June 4, 2024.</p>\n",
+				"content_text": "🍿 [The Beekeeper, 2024 - ★★★](https://letterboxd.com/egregorich/film/the-beekeeper-2024/)\r\n\r\n![](https://cdn.uploads.micro.blog/171686/2024/2786fdc774.jpg)\n\nWatched on Tuesday June 4, 2024.\n",
 				"date_published": "2024-06-06T13:12:04-04:00",
 				"url": "https://ericgregorich.com/2024/06/06/the-beekeeper-watched.html",
 				"tags": ["Movies"]
@@ -1140,7 +1175,7 @@
 				"id": "http://ericgregorich.micro.blog/2023/12/08/mutt-a-textonly.html",
 				"title": "Mutt — A text-only email client",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p>I don’t recall how I stumbled upon this. <a title=\"Mutt\" href=\"http://www.mutt.org/\">Mutt</a> is a text-based email client.</p>\n<p>Not for me, but I thought it was interesting nonetheless.</p>\n<p>There is a <a title=\"Wiki\" href=\"https://gitlab.com/muttmua/mutt/-/wikis/home\">Wiki</a> with additional information and guides for getting started.</p>\n<figure><img src=\"uploads/2024/5079f304bc.jpg\" alt=\"\" /></figure>\n",
+				"content_text": "<p>I don’t recall how I stumbled upon this. <a title=\"Mutt\" href=\"http://www.mutt.org/\">Mutt</a> is a text-based email client.</p>\n<p>Not for me, but I thought it was interesting nonetheless.</p>\n<p>There is a <a title=\"Wiki\" href=\"https://gitlab.com/muttmua/mutt/-/wikis/home\">Wiki</a> with additional information and guides for getting started.</p>\n<figure><img src=\"https://cdn.uploads.micro.blog/171686/2024/5079f304bc.jpg\" alt=\"\" /></figure>\n",
 				"date_published": "2023-12-08T18:59:12-04:00",
 				"url": "https://ericgregorich.com/2023/12/08/mutt-a-textonly.html"
 			},
@@ -1229,7 +1264,7 @@
 				"id": "http://ericgregorich.micro.blog/2023/11/26/cars-cars-poster.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p>🍿 <a href=\"https://www.themoviedb.org/movie/920\">Cars (2006)</a></p>\n<figure><img src=\"uploads/2024/1d3600b749.jpg\" alt=\"Cars poster\" />\n<figcaption>Cars poster</figcaption>\n</figure>\n<p>We probably watched this hundreds of times when my kids were little. It still holds up as one of my favorite movies. ⭐️⭐️⭐️⭐️⭐️</p>\n",
+				"content_text": "<p>🍿 <a href=\"https://www.themoviedb.org/movie/920\">Cars (2006)</a></p>\n<figure><img src=\"https://cdn.uploads.micro.blog/171686/2024/1d3600b749.jpg\" alt=\"Cars poster\" />\n<figcaption>Cars poster</figcaption>\n</figure>\n<p>We probably watched this hundreds of times when my kids were little. It still holds up as one of my favorite movies. ⭐️⭐️⭐️⭐️⭐️</p>\n",
 				"date_published": "2023-11-26T16:16:14-04:00",
 				"url": "https://ericgregorich.com/2023/11/26/cars-cars-poster.html",
 				"tags": ["Movies"]
@@ -1336,7 +1371,7 @@
 				"id": "http://ericgregorich.micro.blog/2023/11/06/five-nights-at.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p>🍿 <a href=\"https://www.themoviedb.org/movie/507089\">Five Nights at Freddy’s (2023)</a></p>\n<p>A fun movie. A few jump scare attempts. Pretty good story. Definitely sets up for a sequal. it was worth seeing in the theaters.</p>\n<p>There is a huge following for FNAF that i was not aware of. Some games and stories. Here is a <a href=\"https://youtu.be/gWOXSh4-Iuc?si=rbQHjrqzaCQQNKKq\">timeline</a> if your interested.</p>\n<figure><img src=\"uploads/2024/5add69a8b4.jpg\" alt=\"Five Nights at Freddys poster\" />\n<figcaption>Five Nights at Freddy’s poster</figcaption>\n</figure>\n",
+				"content_text": "<p>🍿 <a href=\"https://www.themoviedb.org/movie/507089\">Five Nights at Freddy’s (2023)</a></p>\n<p>A fun movie. A few jump scare attempts. Pretty good story. Definitely sets up for a sequal. it was worth seeing in the theaters.</p>\n<p>There is a huge following for FNAF that i was not aware of. Some games and stories. Here is a <a href=\"https://youtu.be/gWOXSh4-Iuc?si=rbQHjrqzaCQQNKKq\">timeline</a> if your interested.</p>\n<figure><img src=\"https://cdn.uploads.micro.blog/171686/2024/5add69a8b4.jpg\" alt=\"Five Nights at Freddys poster\" />\n<figcaption>Five Nights at Freddy’s poster</figcaption>\n</figure>\n",
 				"date_published": "2023-11-05T20:09:48-04:00",
 				"url": "https://ericgregorich.com/2023/11/05/five-nights-at.html",
 				"tags": ["Movies"]
@@ -1787,7 +1822,7 @@
 				"id": "http://ericgregorich.micro.blog/2023/07/16/a-storm-was.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img id=\"rss_item_586241345088592310\" src=\"https://ericgregorich.com/uploads/2024/05410da55e.jpg\" alt=\"A storm is coming in at Panama City Beach.\" /></p>\n<p style=\"padding: 10px;\">A storm was coming in at Panama City Beach.</p>\n",
+				"content_text": "<p><img id=\"rss_item_586241345088592310\" src=\"https://cdn.uploads.micro.blog/171686/2024/05410da55e.jpg\" alt=\"A storm is coming in at Panama City Beach.\" /></p>\n<p style=\"padding: 10px;\">A storm was coming in at Panama City Beach.</p>\n",
 				"date_published": "2023-07-16T13:13:48-04:00",
 				"url": "https://ericgregorich.com/2023/07/16/a-storm-was.html"
 			},
@@ -1844,7 +1879,7 @@
 				"id": "http://ericgregorich.micro.blog/2023/07/02/spiderman-across-the.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p>🍿 <a href=\"https://www.themoviedb.org/movie/569094\">Spider-Man: Across the Spider-Verse (2023)</a> ⭐️⭐️⭐️⭐️⭐️</p>\n<figure><img src=\"uploads/2024/5d4fb6e811.jpg\" alt=\"Spider-Man: Across the Spider-Verse poster\" />\n<figcaption>Spider-Man: Across the Spider-Verse poster</figcaption>\n</figure>\n",
+				"content_text": "<p>🍿 <a href=\"https://www.themoviedb.org/movie/569094\">Spider-Man: Across the Spider-Verse (2023)</a> ⭐️⭐️⭐️⭐️⭐️</p>\n<figure><img src=\"https://cdn.uploads.micro.blog/171686/2024/5d4fb6e811.jpg\" alt=\"Spider-Man: Across the Spider-Verse poster\" />\n<figcaption>Spider-Man: Across the Spider-Verse poster</figcaption>\n</figure>\n",
 				"date_published": "2023-07-01T21:24:21-04:00",
 				"url": "https://ericgregorich.com/2023/07/01/spiderman-across-the.html",
 				"tags": ["Movies"]
@@ -2739,7 +2774,7 @@
 				"id": "http://ericgregorich.micro.blog/2022/12/31/a-book-review.html",
 				"title": "A book review of Antinet Zettelkasten by Scott P. Scheper",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p>Finished reading: <a href=\"https://micro.blog/books/ISBN139798986862613\">Antinet Zettelkasten</a> by Scott P. Scheper, 📚 a book about how to create an analog Zettelkasten (slip box) that acts as a “communication partner” for thinking and creating.</p>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" title=\"\" src=\"https://ericgregorich.com/uploads/2024/a928999a10.jpg\" alt=\"\" width=\"\" height=\"\" border=\"0\" /></p>\n<p>After seeing a couple of <a href=\"https://www.youtube.com/channel/UCnvMBVMXMPKA4Lmy5Ihd-FQ\">videos</a> from Scott and keeping up with his <a href=\"https://scottscheper.com/\">website</a>, I expected this book to be a deep and dull venture into the analog Zettelkasten, including tons of history and facts. Not that his other content is this way, but the build-up to the book made me think this. However, I thought it flowed nicely and was pretty easy to read. Perhaps this is because I’m already familiar with the material, so I didn’t get stuck at any point. Also, the book appears much longer than it is. Each chapter has several pages of footnotes, and I recommend exploring them, but they take up a lot of space.</p>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" title=\"Antinet Zettelkasten-4.png\" src=\"https://ericgregorich.micro.blog/uploads/2022/8c2e145a24.png\" alt=\"Antinet Zettelkasten 4\" width=\"779\" height=\"438\" border=\"0\" /></p>\n<p>Scott explores the analog Zettelkasten, made famous by <a href=\"https://en.wikipedia.org/wiki/Niklas_Luhmann\">Niklas Luhmann</a>, a German sociologist, philosopher of social scient, and a prominent thinker in systems theory. Luhmann used a note card system that enabled him to publish dozens of books and hundreds of scholarly articles over his lifetime. The Antinet is Scott’s version of this system, nearly identical to the original.</p>\n<p>The four principles of the Antinet are Analog, Numeric-Alpha, Tree, and Index. The Net in Antinet stands for network. I won’t try to go into the details in this post; there are plenty of other <a href=\"https://zettelkasten.de/posts/introduction-antinet-zettelkasten/\">articles</a> that do this well (or get the <a href=\"https://micro.blog/books/ISBN139798986862613\">book</a>).</p>\n<p>While Scott has an <a href=\"https://scottscheper.com/letter/1/\">article</a> on his website explaining how to get started with an Antinet, the book goes into much more detail. You’ll learn how to create the cards, bib notes, index, and other system components. It does take a while to get to the step-by-step instructions, but it’s probably important to understand the concepts first.</p>\n<p>Scott spends a reasonable amount of time discussing how this analog system can become your “communication partner.” This idea is pulled from Luhmann’s essay “<a href=\"http://luhmann.surge.sh/communicating-with-slip-boxes\">Communicating with Slip Boxes</a>.” If you want to go deeper into Luhmann’s work, you can visit the <a href=\"https://niklas-luhmann-archiv.de/\">Niklas Luhmann Archive</a>.</p>\n<p>Scott mentions (several times) <a href=\"https://www.soenkeahrens.de/en/takesmartnotes\">How to Take Smart Notes</a> by Sönke Ahrens and how, although Sönke introduced the Zettelkasten system to modern day, he also gets much of it wrong, especially by trying to make it work in digital tools.</p>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" title=\"Antinet Zettelkasten-2.png\" src=\"https://ericgregorich.micro.blog/uploads/2022/f15c61122a.png\" alt=\"Antinet Zettelkasten 2\" width=\"779\" height=\"438\" border=\"0\" /></p>\n<p><strong>Who should create an Antinet?</strong> This system is not for those who need to capture technical notes, meeting notes, etc. This is a thinking tool, and you would use it to gather your thoughts during research. The system is best suited for specific projects where you need to do a lot of research, gather your thoughts, and then create an output (academic paper, article, book, etc.).</p>\n<p>You want to use an analog Zettelkasten because it forces you to slow down and think. Not only do you have to take the time to write notes by hand on index cards, but you also have to think about where to put the card. This is intentional, forcing you to think and connect ideas by flipping through your cards. As you do this, you engrain these thoughts into memory.</p>\n<p><strong>Am I going to create my Antinet?</strong> Maybe someday, but I don’t need it now. As I mentioned earlier, it is best to have a big project or do a lot of research. I’ll be honest. When I first read How to Take Smart Notes by Sönke Ahrens, I tried to create a digital Zettelkasten. I spent about a year of my life trying different tools and approaches. I later realized I was pursuing the system for the wrong reasons. I was trying to force a square peg into a round hole. Not only that, I was trying to replicate it in Digital tools, which misses the point.</p>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" title=\"Antinet Zettelkasten.png\" src=\"https://ericgregorich.micro.blog/uploads/2022/ca15ff2154.png\" alt=\"Antinet Zettelkasten\" width=\"779\" height=\"438\" border=\"0\" /></p>\n<p>Overall, this was a good book. I would recommend you check out Scott’s <a href=\"https://scottscheper.com\">website</a> and <a href=\"https://www.youtube.com/channel/UCnvMBVMXMPKA4Lmy5Ihd-FQ\">videos</a> first. If these are interesting, then the book is for you. I enjoyed it more than I expected, but I admit, I geek out on this stuff.</p>\n",
+				"content_text": "<p>Finished reading: <a href=\"https://micro.blog/books/ISBN139798986862613\">Antinet Zettelkasten</a> by Scott P. Scheper, 📚 a book about how to create an analog Zettelkasten (slip box) that acts as a “communication partner” for thinking and creating.</p>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" title=\"\" src=\"https://cdn.uploads.micro.blog/171686/2024/a928999a10.jpg\" alt=\"\" width=\"\" height=\"\" border=\"0\" /></p>\n<p>After seeing a couple of <a href=\"https://www.youtube.com/channel/UCnvMBVMXMPKA4Lmy5Ihd-FQ\">videos</a> from Scott and keeping up with his <a href=\"https://scottscheper.com/\">website</a>, I expected this book to be a deep and dull venture into the analog Zettelkasten, including tons of history and facts. Not that his other content is this way, but the build-up to the book made me think this. However, I thought it flowed nicely and was pretty easy to read. Perhaps this is because I’m already familiar with the material, so I didn’t get stuck at any point. Also, the book appears much longer than it is. Each chapter has several pages of footnotes, and I recommend exploring them, but they take up a lot of space.</p>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" title=\"Antinet Zettelkasten-4.png\" src=\"https://ericgregorich.micro.blog/uploads/2022/8c2e145a24.png\" alt=\"Antinet Zettelkasten 4\" width=\"779\" height=\"438\" border=\"0\" /></p>\n<p>Scott explores the analog Zettelkasten, made famous by <a href=\"https://en.wikipedia.org/wiki/Niklas_Luhmann\">Niklas Luhmann</a>, a German sociologist, philosopher of social scient, and a prominent thinker in systems theory. Luhmann used a note card system that enabled him to publish dozens of books and hundreds of scholarly articles over his lifetime. The Antinet is Scott’s version of this system, nearly identical to the original.</p>\n<p>The four principles of the Antinet are Analog, Numeric-Alpha, Tree, and Index. The Net in Antinet stands for network. I won’t try to go into the details in this post; there are plenty of other <a href=\"https://zettelkasten.de/posts/introduction-antinet-zettelkasten/\">articles</a> that do this well (or get the <a href=\"https://micro.blog/books/ISBN139798986862613\">book</a>).</p>\n<p>While Scott has an <a href=\"https://scottscheper.com/letter/1/\">article</a> on his website explaining how to get started with an Antinet, the book goes into much more detail. You’ll learn how to create the cards, bib notes, index, and other system components. It does take a while to get to the step-by-step instructions, but it’s probably important to understand the concepts first.</p>\n<p>Scott spends a reasonable amount of time discussing how this analog system can become your “communication partner.” This idea is pulled from Luhmann’s essay “<a href=\"http://luhmann.surge.sh/communicating-with-slip-boxes\">Communicating with Slip Boxes</a>.” If you want to go deeper into Luhmann’s work, you can visit the <a href=\"https://niklas-luhmann-archiv.de/\">Niklas Luhmann Archive</a>.</p>\n<p>Scott mentions (several times) <a href=\"https://www.soenkeahrens.de/en/takesmartnotes\">How to Take Smart Notes</a> by Sönke Ahrens and how, although Sönke introduced the Zettelkasten system to modern day, he also gets much of it wrong, especially by trying to make it work in digital tools.</p>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" title=\"Antinet Zettelkasten-2.png\" src=\"https://ericgregorich.micro.blog/uploads/2022/f15c61122a.png\" alt=\"Antinet Zettelkasten 2\" width=\"779\" height=\"438\" border=\"0\" /></p>\n<p><strong>Who should create an Antinet?</strong> This system is not for those who need to capture technical notes, meeting notes, etc. This is a thinking tool, and you would use it to gather your thoughts during research. The system is best suited for specific projects where you need to do a lot of research, gather your thoughts, and then create an output (academic paper, article, book, etc.).</p>\n<p>You want to use an analog Zettelkasten because it forces you to slow down and think. Not only do you have to take the time to write notes by hand on index cards, but you also have to think about where to put the card. This is intentional, forcing you to think and connect ideas by flipping through your cards. As you do this, you engrain these thoughts into memory.</p>\n<p><strong>Am I going to create my Antinet?</strong> Maybe someday, but I don’t need it now. As I mentioned earlier, it is best to have a big project or do a lot of research. I’ll be honest. When I first read How to Take Smart Notes by Sönke Ahrens, I tried to create a digital Zettelkasten. I spent about a year of my life trying different tools and approaches. I later realized I was pursuing the system for the wrong reasons. I was trying to force a square peg into a round hole. Not only that, I was trying to replicate it in Digital tools, which misses the point.</p>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" title=\"Antinet Zettelkasten.png\" src=\"https://ericgregorich.micro.blog/uploads/2022/ca15ff2154.png\" alt=\"Antinet Zettelkasten\" width=\"779\" height=\"438\" border=\"0\" /></p>\n<p>Overall, this was a good book. I would recommend you check out Scott’s <a href=\"https://scottscheper.com\">website</a> and <a href=\"https://www.youtube.com/channel/UCnvMBVMXMPKA4Lmy5Ihd-FQ\">videos</a> first. If these are interesting, then the book is for you. I enjoyed it more than I expected, but I admit, I geek out on this stuff.</p>\n",
 				"date_published": "2022-12-31T11:49:52-04:00",
 				"url": "https://ericgregorich.com/2022/12/31/a-book-review.html"
 			},
@@ -3041,7 +3076,7 @@
 				"id": "http://ericgregorich.micro.blog/2022/11/12/i-have-been.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p>I have been using my iPad as a <strong>display</strong> under my monitor while I work. It has been helpful to have quick access to my calendar and tasks.</p>\n<p>The widgets disappear when not in work focus, and I enjoy a nice background image.</p>\n<figure><img src=\"uploads/2024/d5f0a4f19e.jpg\" alt=\"iPad background image. \" />\n<figcaption>iPad background image.</figcaption>\n</figure>\n",
+				"content_text": "<p>I have been using my iPad as a <strong>display</strong> under my monitor while I work. It has been helpful to have quick access to my calendar and tasks.</p>\n<p>The widgets disappear when not in work focus, and I enjoy a nice background image.</p>\n<figure><img src=\"https://cdn.uploads.micro.blog/171686/2024/d5f0a4f19e.jpg\" alt=\"iPad background image. \" />\n<figcaption>iPad background image.</figcaption>\n</figure>\n",
 				"date_published": "2022-11-11T22:50:54-04:00",
 				"url": "https://ericgregorich.com/2022/11/11/i-have-been.html"
 			},
