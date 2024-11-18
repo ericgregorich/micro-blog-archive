@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://ericgregorich.micro.blog/2024/11/18/i-just-upgraded.html",
+				
+				"content_html": "<p>I just upgraded my Micro.blog subscription to Premium—mainly to support <a href=\"https://micro.blog/Manton\">@Manton</a>. My blog currently uses 11ty, which I enjoy, but I feel I might move it back. The built-in features, like cross-posting, web mentions, bookmarks, bookshelves, newsletters, and more, make it a great deal!</p>\n",
+				"content_text": "I just upgraded my Micro.blog subscription to Premium—mainly to support [@Manton](https://micro.blog/Manton). My blog currently uses 11ty, which I enjoy, but I feel I might move it back. The built-in features, like cross-posting, web mentions, bookmarks, bookshelves, newsletters, and more, make it a great deal!\n",
+				"date_published": "2024-11-18T18:44:11-05:00",
+				"url": "https://micro.ericgregorich.com/2024/11/18/i-just-upgraded.html"
+			},
+			{
 				"id": "http://ericgregorich.micro.blog/2024/11/09/i-just-switched.html",
 				
 				"content_html": "<p>I just switched my home internet to fiber and have a new TP-Link Deco router. It comes with Homeshield security, available for about $55 per year. I don&rsquo;t know if that&rsquo;s any good. Does anyone have recommendations for home security that can be applied at the router level?</p>\n",
