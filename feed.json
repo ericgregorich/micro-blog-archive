@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://ericgregorich.micro.blog/2024/11/24/after-experimenting-with.html",
+				
+				"content_html": "<p>After experimenting with 11ty, I decided to move my blog back to Pika. The main reason is that I’m trying to disconnect from social media, and unnecessary development so I can focus on some other things.</p>\n<p>I’m still blogging at <a href=\"https://focustivity.blog\">Focustivity.blog</a>. Please follow my RSS or <a href=\"https://mastodon.social/@focustivity\">Mastodon</a> feed.</p>\n",
+				"content_text": "After experimenting with 11ty, I decided to move my blog back to Pika. The main reason is that I’m trying to disconnect from social media, and unnecessary development so I can focus on some other things. \r\n\r\nI’m still blogging at [Focustivity.blog](https://focustivity.blog). Please follow my RSS or [Mastodon](https://mastodon.social/@focustivity) feed. \n",
+				"date_published": "2024-11-24T11:54:17-05:00",
+				"url": "https://micro.ericgregorich.com/2024/11/24/after-experimenting-with.html"
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2024/11/18/currently-reading-scythe.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781442472433\">Scythe</a> by Neal Shusterman 📚</p>\n",
+				"content_text": "Currently reading: [Scythe](https://micro.blog/books/9781442472433) by Neal Shusterman 📚\n",
+				"date_published": "2024-11-18T20:40:18-05:00",
+				"url": "https://micro.ericgregorich.com/2024/11/18/currently-reading-scythe.html",
+				"tags": ["Books"]
+			},
+			{
 				"id": "http://ericgregorich.micro.blog/2024/11/18/i-just-upgraded.html",
 				
 				"content_html": "<p>I just upgraded my Micro.blog subscription to Premium—mainly to support <a href=\"https://micro.blog/Manton\">@Manton</a>. My blog currently uses 11ty, which I enjoy, but I feel I might move it back. The built-in features, like cross-posting, web mentions, bookmarks, bookshelves, newsletters, and more, make it a great deal!</p>\n",
