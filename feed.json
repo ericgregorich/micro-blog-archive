@@ -173,7 +173,7 @@
 				"id": "http://ericgregorich.micro.blog/2024/09/21/my-daughter-has.html",
 				
 				"content_html": "<p>My daughter has become quite the home chef. She whipped up some sort of Korean Rice Cakes and pork with a nicely fried egg on top. It was delicious!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My daughter has become quite the home chef. She whipped up some sort of Korean Rice Cakes and pork with a nicely fried egg on top. It was delicious!\n\n<img src=\"uploads/2024/korean-rice-cakes-and-pork.jpeg\" width=\"450\" height=\"600\" alt=\"Korean Rice Cakes and ground pork with a fried egg.\">\n",
+				"content_text": "My daughter has become quite the home chef. She whipped up some sort of Korean Rice Cakes and pork with a nicely fried egg on top. It was delicious!\n\n<img src=\"https://ericgregorich.micro.blog/uploads/2024/korean-rice-cakes-and-pork.jpeg\" width=\"450\" height=\"600\" alt=\"Korean Rice Cakes and ground pork with a fried egg.\">\n",
 				"date_published": "2024-09-21T12:14:47-05:00",
 				"url": "https://micro.ericgregorich.com/2024/09/21/my-daughter-has.html",
 				"tags": ["Photos"]
@@ -263,7 +263,7 @@
 				"id": "http://ericgregorich.micro.blog/2024/09/05/i-swapped-the.html",
 				
 				"content_html": "<p>I swapped the switches on my NuPhy Air 75 V2 from Cowberry to Wisteria. The Wisteria switches are noticeably more tactical and have a deeper clicky sound I like.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I swapped the switches on my NuPhy Air 75 V2 from Cowberry to Wisteria. The Wisteria switches are noticeably more tactical and have a deeper clicky sound I like. \n\n<img src=\"uploads/2024/86c84dd97d.jpg\" width=\"600\" height=\"450\" alt=\"The Nuphy Air 75 v2 with Wisteria switches. \">\n",
+				"content_text": "I swapped the switches on my NuPhy Air 75 V2 from Cowberry to Wisteria. The Wisteria switches are noticeably more tactical and have a deeper clicky sound I like. \n\n<img src=\"https://ericgregorich.micro.blog/uploads/2024/86c84dd97d.jpg\" width=\"600\" height=\"450\" alt=\"The Nuphy Air 75 v2 with Wisteria switches. \">\n",
 				"date_published": "2024-09-05T12:12:11-05:00",
 				"url": "https://micro.ericgregorich.com/2024/09/05/i-swapped-the.html",
 				"tags": ["Hardware","Photos"]
@@ -272,7 +272,7 @@
 				"id": "http://ericgregorich.micro.blog/2024/09/03/i-finally-bought.html",
 				
 				"content_html": "<p>I finally bought a new bookshelf after my old one was overflowing. It feels empty at the moment.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I finally bought a new bookshelf after my old one was overflowing. It feels empty at the moment.  \n\n<img src=\"uploads/2024/ff16643241.jpg\" width=\"450\" height=\"600\" alt=\"A photo of a bookshelf with a few books and decorations. \">\n",
+				"content_text": "I finally bought a new bookshelf after my old one was overflowing. It feels empty at the moment.  \n\n<img src=\"https://ericgregorich.micro.blog/uploads/2024/ff16643241.jpg\" width=\"450\" height=\"600\" alt=\"A photo of a bookshelf with a few books and decorations. \">\n",
 				"date_published": "2024-09-03T06:47:56-05:00",
 				"url": "https://micro.ericgregorich.com/2024/09/03/i-finally-bought.html",
 				"tags": ["Photos"]
@@ -314,7 +314,7 @@
 				"id": "http://ericgregorich.micro.blog/2024/08/17/ive-been-using.html",
 				
 				"content_html": "<p>I’ve been using a Lamy Safari Fountain Pen for about 2 weeks. I think I’m hooked. While I don’t have a beautiful notebook to go with it, I do have a large hardcover, spiral-bound notebook that works well for me.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I’ve been using a Lamy Safari Fountain Pen for about 2 weeks. I think I’m hooked. While I don’t have a beautiful notebook to go with it, I do have a large hardcover, spiral-bound notebook that works well for me. \n\n<img src=\"uploads/2024/d31d144739.jpg\" width=\"450\" height=\"600\" alt=\"A Lamy Safari Fountain Pen on a large, spiral-bound notebook. \">\n",
+				"content_text": "I’ve been using a Lamy Safari Fountain Pen for about 2 weeks. I think I’m hooked. While I don’t have a beautiful notebook to go with it, I do have a large hardcover, spiral-bound notebook that works well for me. \n\n<img src=\"https://ericgregorich.micro.blog/uploads/2024/d31d144739.jpg\" width=\"450\" height=\"600\" alt=\"A Lamy Safari Fountain Pen on a large, spiral-bound notebook. \">\n",
 				"date_published": "2024-08-17T12:21:34-05:00",
 				"url": "https://micro.ericgregorich.com/2024/08/17/ive-been-using.html",
 				"tags": ["Hardware","Photos"]
@@ -395,7 +395,7 @@
 				"id": "http://ericgregorich.micro.blog/2024/07/24/spent-last-week.html",
 				
 				"content_html": "<p>Spent last week near the beach.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Spent last week near the beach. \n\n<img src=\"uploads/2024/image.jpg\" width=\"450\" height=\"600\" alt=\"Gentle waves wash ashore on a sandy beach under a cloudy sky at sunset.\">\n",
+				"content_text": "Spent last week near the beach. \n\n<img src=\"https://ericgregorich.micro.blog/uploads/2024/image.jpg\" width=\"450\" height=\"600\" alt=\"Gentle waves wash ashore on a sandy beach under a cloudy sky at sunset.\">\n",
 				"date_published": "2024-07-24T19:57:32-05:00",
 				"url": "https://micro.ericgregorich.com/2024/07/24/spent-last-week.html",
 				"tags": ["Photos"]
@@ -1427,7 +1427,7 @@
 				"id": "http://ericgregorich.micro.blog/2023/12/08/mutt-a-textonly.html",
 				"title": "Mutt — A text-only email client",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p>I don’t recall how I stumbled upon this. <a title=\"Mutt\" href=\"http://www.mutt.org/\">Mutt</a> is a text-based email client.</p>\n<p>Not for me, but I thought it was interesting nonetheless.</p>\n<p>There is a <a title=\"Wiki\" href=\"https://gitlab.com/muttmua/mutt/-/wikis/home\">Wiki</a> with additional information and guides for getting started.</p>\n<figure><img src=\"uploads/2024/5079f304bc.jpg\" alt=\"\" /></figure>\n",
+				"content_text": "<p>I don’t recall how I stumbled upon this. <a title=\"Mutt\" href=\"http://www.mutt.org/\">Mutt</a> is a text-based email client.</p>\n<p>Not for me, but I thought it was interesting nonetheless.</p>\n<p>There is a <a title=\"Wiki\" href=\"https://gitlab.com/muttmua/mutt/-/wikis/home\">Wiki</a> with additional information and guides for getting started.</p>\n<figure><img src=\"https://ericgregorich.micro.blog/uploads/2024/5079f304bc.jpg\" alt=\"\" /></figure>\n",
 				"date_published": "2023-12-08T17:59:12-05:00",
 				"url": "https://micro.ericgregorich.com/2023/12/08/mutt-a-textonly.html"
 			},
@@ -1517,7 +1517,7 @@
 				"id": "http://ericgregorich.micro.blog/2023/11/26/cars-cars-poster.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p>🍿 <a href=\"https://www.themoviedb.org/movie/920\">Cars (2006)</a></p>\n<figure><img src=\"uploads/2024/1d3600b749.jpg\" alt=\"Cars poster\" />\n<figcaption>Cars poster</figcaption>\n</figure>\n<p>We probably watched this hundreds of times when my kids were little. It still holds up as one of my favorite movies. ⭐️⭐️⭐️⭐️⭐️</p>\n",
+				"content_text": "<p>🍿 <a href=\"https://www.themoviedb.org/movie/920\">Cars (2006)</a></p>\n<figure><img src=\"https://ericgregorich.micro.blog/uploads/2024/1d3600b749.jpg\" alt=\"Cars poster\" />\n<figcaption>Cars poster</figcaption>\n</figure>\n<p>We probably watched this hundreds of times when my kids were little. It still holds up as one of my favorite movies. ⭐️⭐️⭐️⭐️⭐️</p>\n",
 				"date_published": "2023-11-26T15:16:14-05:00",
 				"url": "https://micro.ericgregorich.com/2023/11/26/cars-cars-poster.html",
 				"tags": ["Movies"]
@@ -1624,7 +1624,7 @@
 				"id": "http://ericgregorich.micro.blog/2023/11/06/five-nights-at.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p>🍿 <a href=\"https://www.themoviedb.org/movie/507089\">Five Nights at Freddy’s (2023)</a></p>\n<p>A fun movie. A few jump scare attempts. Pretty good story. Definitely sets up for a sequal. it was worth seeing in the theaters.</p>\n<p>There is a huge following for FNAF that i was not aware of. Some games and stories. Here is a <a href=\"https://youtu.be/gWOXSh4-Iuc?si=rbQHjrqzaCQQNKKq\">timeline</a> if your interested.</p>\n<figure><img src=\"uploads/2024/5add69a8b4.jpg\" alt=\"Five Nights at Freddys poster\" />\n<figcaption>Five Nights at Freddy’s poster</figcaption>\n</figure>\n",
+				"content_text": "<p>🍿 <a href=\"https://www.themoviedb.org/movie/507089\">Five Nights at Freddy’s (2023)</a></p>\n<p>A fun movie. A few jump scare attempts. Pretty good story. Definitely sets up for a sequal. it was worth seeing in the theaters.</p>\n<p>There is a huge following for FNAF that i was not aware of. Some games and stories. Here is a <a href=\"https://youtu.be/gWOXSh4-Iuc?si=rbQHjrqzaCQQNKKq\">timeline</a> if your interested.</p>\n<figure><img src=\"https://ericgregorich.micro.blog/uploads/2024/5add69a8b4.jpg\" alt=\"Five Nights at Freddys poster\" />\n<figcaption>Five Nights at Freddy’s poster</figcaption>\n</figure>\n",
 				"date_published": "2023-11-05T19:09:48-05:00",
 				"url": "https://micro.ericgregorich.com/2023/11/05/five-nights-at.html",
 				"tags": ["Movies"]
@@ -2133,7 +2133,7 @@
 				"id": "http://ericgregorich.micro.blog/2023/07/02/spiderman-across-the.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p>🍿 <a href=\"https://www.themoviedb.org/movie/569094\">Spider-Man: Across the Spider-Verse (2023)</a> ⭐️⭐️⭐️⭐️⭐️</p>\n<figure><img src=\"uploads/2024/5d4fb6e811.jpg\" alt=\"Spider-Man: Across the Spider-Verse poster\" />\n<figcaption>Spider-Man: Across the Spider-Verse poster</figcaption>\n</figure>\n",
+				"content_text": "<p>🍿 <a href=\"https://www.themoviedb.org/movie/569094\">Spider-Man: Across the Spider-Verse (2023)</a> ⭐️⭐️⭐️⭐️⭐️</p>\n<figure><img src=\"https://ericgregorich.micro.blog/uploads/2024/5d4fb6e811.jpg\" alt=\"Spider-Man: Across the Spider-Verse poster\" />\n<figcaption>Spider-Man: Across the Spider-Verse poster</figcaption>\n</figure>\n",
 				"date_published": "2023-07-01T20:24:21-05:00",
 				"url": "https://micro.ericgregorich.com/2023/07/01/spiderman-across-the.html",
 				"tags": ["Movies"]
@@ -3330,7 +3330,7 @@
 				"id": "http://ericgregorich.micro.blog/2022/11/12/i-have-been.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p>I have been using my iPad as a <strong>display</strong> under my monitor while I work. It has been helpful to have quick access to my calendar and tasks.</p>\n<p>The widgets disappear when not in work focus, and I enjoy a nice background image.</p>\n<figure><img src=\"uploads/2024/d5f0a4f19e.jpg\" alt=\"iPad background image. \" />\n<figcaption>iPad background image.</figcaption>\n</figure>\n",
+				"content_text": "<p>I have been using my iPad as a <strong>display</strong> under my monitor while I work. It has been helpful to have quick access to my calendar and tasks.</p>\n<p>The widgets disappear when not in work focus, and I enjoy a nice background image.</p>\n<figure><img src=\"https://ericgregorich.micro.blog/uploads/2024/d5f0a4f19e.jpg\" alt=\"iPad background image. \" />\n<figcaption>iPad background image.</figcaption>\n</figure>\n",
 				"date_published": "2022-11-11T21:50:54-05:00",
 				"url": "https://micro.ericgregorich.com/2022/11/11/i-have-been.html"
 			},
