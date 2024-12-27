@@ -7,6 +7,69 @@
 	"items": [
 		
 			{
+				"id": "http://ericgregorich.micro.blog/2024/12/27/life-is-the-sum-of.html",
+				
+				"content_html": "<blockquote>\n<p>&ldquo;Life is the sum of what you focus on. Living the focused life is not about constant happiness, but about being mindful of what you allow in your mind, akin to tending a private garden. Your experience of the world is shaped by what you pay attention to.&rdquo; (Deep Questions with Cal Newport, Ep. 311: Finding Focus in Distracting Times)</p>\n</blockquote>\n",
+				"content_text": "> \"Life is the sum of what you focus on. Living the focused life is not about constant happiness, but about being mindful of what you allow in your mind, akin to tending a private garden. Your experience of the world is shaped by what you pay attention to.\" (Deep Questions with Cal Newport, Ep. 311: Finding Focus in Distracting Times)\r\n\r\n",
+				"date_published": "2024-12-27T13:34:03-05:00",
+				"url": "https://ericgregorich.blog/2024/12/27/life-is-the-sum-of.html",
+				"tags": ["Quotes"]
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2024/12/26/ai-in-its-current-state.html",
+				"title": "AI, in its current state, is a rubber duck",
+				"content_html": "<p>I was listening to Scott Hanselman&rsquo;s <a href=\"https://www.youtube.com/watch?v=z_pPJvLjNrk\">Hanselminutes podcast</a> with guest <a href=\"https://maggieappleton.com/\">Maggie Appleton</a>, and they were talking about AI.</p>\n<p>I agree with the discussion that LLMs (AI), in their current state, are best used for rubber ducking.</p>\n<p>What is rubber ducking? It&rsquo;s a term often used by developers where the idea is that you have a rubber duck on your desk that you talk through a problem with. You don&rsquo;t necessarily need another person for this; often, you need to talk through the problem with yourself in order to discover the answer.</p>\n<p>Today&rsquo;s LLMs excel at this. Give it a prompt that will act as a guide. Tell it to ask you questions about the problem. Let it answer questions, but respond with more questions for you to answer.</p>\n<p>The back-and-forth is invaluable for figuring out problems and thinking through topics. You can do this on your own, but a good LLM can give you a big boost.</p>\n",
+				"content_text": "I was listening to Scott Hanselman's [Hanselminutes podcast](https://www.youtube.com/watch?v=z_pPJvLjNrk) with guest [Maggie Appleton](https://maggieappleton.com/), and they were talking about AI.  \n\nI agree with the discussion that LLMs (AI), in their current state, are best used for rubber ducking.  \n\nWhat is rubber ducking? It's a term often used by developers where the idea is that you have a rubber duck on your desk that you talk through a problem with. You don't necessarily need another person for this; often, you need to talk through the problem with yourself in order to discover the answer.  \n\nToday's LLMs excel at this. Give it a prompt that will act as a guide. Tell it to ask you questions about the problem. Let it answer questions, but respond with more questions for you to answer. \n\nThe back-and-forth is invaluable for figuring out problems and thinking through topics. You can do this on your own, but a good LLM can give you a big boost. \n",
+				"date_published": "2024-12-26T20:12:38-05:00",
+				"url": "https://ericgregorich.blog/2024/12/26/ai-in-its-current-state.html",
+				"tags": ["Links"]
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2024/12/26/cards-theme-v.html",
+				"title": "Cards Theme v1.9.8",
+				"content_html": "<p>I worked on a few updates to the <a href=\"https://micro.blog/account/plugins/view/82\">Micro.blog Cards Theme</a> today.</p>\n<ul>\n<li>New: New meta tags are automatically added to your head HTML. og:title, og:description, og:url fediverse:creator, and themecolor. The og: tags are for better interoperability with social media platforms. You can test your tags <a href=\"https://lens.rknight.me/\">here</a>.</li>\n<li>Added: In the plugin settings you can now enter your Fediverse Creator ID. Primarily supported by Mastodon, you can read more about this feature <a href=\"https://blog.joinmastodon.org/2024/07/highlighting-journalism-on-mastodon/\">here</a>.</li>\n<li>Updated: Updated the look of the default theme.</li>\n<li>Fixed: Your home page meta description will now use the header text in your plugin settings. Post pages will continue to use the post description.</li>\n</ul>\n<p>Let me know if you use the Cards Theme and if you have any issues!</p>\n",
+				"content_text": "I worked on a few updates to the [Micro.blog Cards Theme](https://micro.blog/account/plugins/view/82) today.\r\n\r\n- New: New meta tags are automatically added to your head HTML. og:title, og:description, og:url fediverse:creator, and themecolor. The og: tags are for better interoperability with social media platforms. You can test your tags [here](https://lens.rknight.me/).\r\n- Added: In the plugin settings you can now enter your Fediverse Creator ID. Primarily supported by Mastodon, you can read more about this feature [here](https://blog.joinmastodon.org/2024/07/highlighting-journalism-on-mastodon/).\r\n- Updated: Updated the look of the default theme.\r\n- Fixed: Your home page meta description will now use the header text in your plugin settings. Post pages will continue to use the post description.\r\n\r\nLet me know if you use the Cards Theme and if you have any issues!\r\n\r\n",
+				"date_published": "2024-12-26T18:27:05-05:00",
+				"url": "https://ericgregorich.blog/2024/12/26/cards-theme-v.html",
+				"tags": ["Cards Theme"]
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2024/12/26/philips-s-prestige-shaver.html",
+				"title": "Philips S9000 Prestige Shaver",
+				"content_html": "<p>I never believed I would buy myself a $299 electric shaver, but here we are. To be fair, I used Christmas money (from this year and last year that I never spent) and just a little bit of my own cash to pay for it.</p>\n<p>Is the <a href=\"https://www.usa.philips.com/c-p/SP9841_84/shaver-s9000-prestige-wet-dry-electric-shaver-with-senseiq\">Philips S9000 Prestige</a> worth it? I love this thing so far. It provides a nice and smooth shave. It&rsquo;s also easy to clean since I purchased the model with the included cleaning and storage tub.</p>\n<p>I&rsquo;m using it to keep my head shaved, as well as my face (I have a beard, so not much to do there) and neck. Ideally, I will use this shaver every day, like brushing my teeth, since it only takes a minute or two to use it for maintenance.</p>\n<p>I hope this thing lasts because I won&rsquo;t be buying another one anytime soon.</p>\n",
+				"content_text": "I never believed I would buy myself a $299 electric shaver, but here we are. To be fair, I used Christmas money (from this year and last year that I never spent) and just a little bit of my own cash to pay for it.\n\nIs the [Philips S9000 Prestige](https://www.usa.philips.com/c-p/SP9841_84/shaver-s9000-prestige-wet-dry-electric-shaver-with-senseiq) worth it? I love this thing so far. It provides a nice and smooth shave. It's also easy to clean since I purchased the model with the included cleaning and storage tub.\n\nI'm using it to keep my head shaved, as well as my face (I have a beard, so not much to do there) and neck. Ideally, I will use this shaver every day, like brushing my teeth, since it only takes a minute or two to use it for maintenance.\n\nI hope this thing lasts because I won't be buying another one anytime soon.\n",
+				"date_published": "2024-12-26T14:24:02-05:00",
+				"url": "https://ericgregorich.blog/2024/12/26/philips-s-prestige-shaver.html",
+				"tags": ["Hardware"]
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2024/12/25/red-one.html",
+				"title": "Red One, 2024 - ★★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"uploads/2024/760193-red-one-0-600-0-900-crop.jpg.jpg\"/></p> <p>I enjoyed this movie better than I thought I would. It was a good holiday action film. Very creative and entertaining.</p>\n",
+				"date_published": "2024-12-25T17:15:27-05:00",
+				"url": "https://ericgregorich.blog/2024/12/25/red-one.html",
+				"tags": ["Movies"]
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2024/12/22/whoop-ai.html",
+				"title": "Whoop AI",
+				"content_html": "<p>I&rsquo;ve been using the Whoop band for a couple of months now. My main reason for using Whoop is that I can wear it on my bicep and forget about it. Then, I get all kinds of data that I can use to improve my health.</p>\n<p>I love data. But I hate digging for it.</p>\n<p>One of the cool features is the use of AI within the Whoop app. With access to all of your data, the Whoop AI can tell you what you &ldquo;should&rdquo; be doing and give you better answers about what you did and how it impacts your health.</p>\n<p>As a casual user, I appreciate this. Without digging through the app, I can ask things like, “How much time did I spend in Zone 2 this week?” and “How much time should I spend in Zone 2 this week?” and I get direct answers based on my data.</p>\n<p>Even better, the daily insights usually provide the most relevant answers before I even need to ask them. I can see how much I should push myself today. It even provides recommendations of what workouts to do based on my past workouts. It&rsquo;s pretty useful.</p>\n",
+				"content_text": "I've been using the Whoop band for a couple of months now. My main reason for using Whoop is that I can wear it on my bicep and forget about it. Then, I get all kinds of data that I can use to improve my health.\n\nI love data. But I hate digging for it.\n\nOne of the cool features is the use of AI within the Whoop app. With access to all of your data, the Whoop AI can tell you what you \"should\" be doing and give you better answers about what you did and how it impacts your health.\n\nAs a casual user, I appreciate this. Without digging through the app, I can ask things like, “How much time did I spend in Zone 2 this week?” and “How much time should I spend in Zone 2 this week?” and I get direct answers based on my data.\n\nEven better, the daily insights usually provide the most relevant answers before I even need to ask them. I can see how much I should push myself today. It even provides recommendations of what workouts to do based on my past workouts. It's pretty useful.\n",
+				"date_published": "2024-12-22T15:23:11-05:00",
+				"url": "https://ericgregorich.blog/2024/12/22/whoop-ai.html",
+				"tags": ["Apps","Health"]
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2024/12/22/a-quiet-week-at-work.html",
+				"title": "A quiet week at work, a good time to reflect",
+				"content_html": "<p>Last week was pretty chill at work; everyone was wrapping up their tasks so they can start their time off for the holidays. You can tell nobody wants to start something new as they try to clear their plate. I do the same.</p>\n<p>I find it&rsquo;s a good opportunity to clean up systems and reflect on what&rsquo;s working and what&rsquo;s not.</p>\n<p>I&rsquo;ve been making heavy use of Azure DevOps lately. Not only for managing our project tasks, but also utilizing the Wiki for documentation, and even dabbling in Pipelines for some automated deployments. I&rsquo;ve been cleaning up our projects in Azure DevOps and creating new processes to streamline our work.</p>\n<p>It can be a challenge to find time to create and maintain documentation for work like mine (consulting work dealing with dozens of projects a year across several clients). Things tend to get forgotten or lost over time. I find a simple Wiki for each client is a great way to <em>point the way</em>, by containing documentation about how the solutions work, how to maintain them, and linking to any external documentation and resources.</p>\n",
+				"content_text": "Last week was pretty chill at work; everyone was wrapping up their tasks so they can start their time off for the holidays. You can tell nobody wants to start something new as they try to clear their plate. I do the same. \n\nI find it's a good opportunity to clean up systems and reflect on what's working and what's not.\n\nI've been making heavy use of Azure DevOps lately. Not only for managing our project tasks, but also utilizing the Wiki for documentation, and even dabbling in Pipelines for some automated deployments. I've been cleaning up our projects in Azure DevOps and creating new processes to streamline our work.\n\nIt can be a challenge to find time to create and maintain documentation for work like mine (consulting work dealing with dozens of projects a year across several clients). Things tend to get forgotten or lost over time. I find a simple Wiki for each client is a great way to *point the way*, by containing documentation about how the solutions work, how to maintain them, and linking to any external documentation and resources.\n",
+				"date_published": "2024-12-22T15:15:31-05:00",
+				"url": "https://ericgregorich.blog/2024/12/22/a-quiet-week-at-work.html",
+				"tags": ["Development","Work"]
+			},
+			{
 				"id": "http://ericgregorich.micro.blog/2024/12/22/obsidian-web-clipper.html",
 				"title": "Obsidian Web Clipper works on iOS",
 				"content_html": "<p>I just discovered that the Obsidian Web Clipper also works on iOS! I&rsquo;ll need to use Safari since it&rsquo;s a Safari extension, but that&rsquo;s okay.</p>\n<p>I struggled with importing my settings. I had to import each template manually, and configuring the Interpreter was a bit of a pain, but it works!</p>\n",
@@ -76,7 +139,7 @@
 				"content_text": "I started using the [Keychron Q1 Max](https://www.keychron.com/products/keychron-q1-max-qmk-via-wireless-custom-mechanical-keyboard) keyboard a few days ago. I'm loving it so far. It feels so premium. It weights about 3.8 pounds (1.72 kg) and doesn't move unless intended. And, I should be able to replace parts over time to keep it feeling fresh.\n\n\n\n<img src=\"https://cdn.uploads.micro.blog/171686/2024/keychron-q1-max-keyboard.jpeg\" width=\"600\" height=\"450\" alt=\"Keychron Q1 Max Keyboard\">\n",
 				"date_published": "2024-12-10T13:58:24-05:00",
 				"url": "https://ericgregorich.blog/2024/12/10/i-started-using.html",
-				"tags": ["Hardware","Photos"]
+				"tags": ["Hardware"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2024/11/18/currently-reading-scythe.html",
@@ -104,6 +167,15 @@
 				"url": "https://ericgregorich.blog/2024/11/09/i-just-switched.html"
 			},
 			{
+				"id": "http://ericgregorich.micro.blog/2024/11/03/the-wild-robot.html",
+				"title": "The Wild Robot, 2024 - ★★★★★",
+				"content_html": "<!-- raw HTML omitted -->\n<p>🍿 Yesterday, the family and I went to see The Wild Robot. It was an excellent movie. The girls cried (several times). I didn’t (I’m not a crier), but they kept checking to see if I was. The movie was visually stunning, fun, and fast-paced. It is a kid’s movie, but the story is very deep, and adults will love it as well. My daughter thanked me for “making” her see it.</p>\n",
+				"content_text": "<img src=\"https://cdn.uploads.micro.blog/171686/2024/4522090fcd.png\" alt=\"\">\n\n🍿 Yesterday, the family and I went to see The Wild Robot. It was an excellent movie. The girls cried (several times). I didn’t (I’m not a crier), but they kept checking to see if I was. The movie was visually stunning, fun, and fast-paced. It is a kid’s movie, but the story is very deep, and adults will love it as well. My daughter thanked me for “making” her see it.\n",
+				"date_published": "2024-11-03T21:00:00-05:00",
+				"url": "https://ericgregorich.blog/2024/11/03/the-wild-robot.html",
+				"tags": ["Movies"]
+			},
+			{
 				"id": "http://ericgregorich.micro.blog/2024/10/14/i-gave-capacities.html",
 				
 				"content_html": "<p>I gave <a href=\"https://capacities.io\">Capacities</a> a quick look. I like the idea of organizing everything as objects. I don’t think I could stick with it. Too many possibilities and my brain will want to try every one of them.</p>\n",
@@ -111,6 +183,15 @@
 				"date_published": "2024-10-14T21:08:07-05:00",
 				"url": "https://ericgregorich.blog/2024/10/14/i-gave-capacities.html",
 				"tags": ["Apps"]
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2024/10/06/storyworthy-by-matthew-dicks.html",
+				"title": "Storyworthy by Matthew Dicks",
+				"content_html": "<p>📚 I was listening to the Bookworm podcast and the next book that the hosts will be talking about is Storyworthy, by Matthew Dicks.</p>\n<p>I wasn’t interested in the book at first, as I’m not a storyteller, but then I thought there could be some useful tips in here for writing. Anyone who reads my writing knows I need all the help I can get.</p>\n<p>So, I picked up a paperback copy of the book and gave it a shot. Was it good? Well, I finished it (although I skipped a little here and there), so that’s a good sign. </p>\n<p>As you would expect, Storyworthy, is about creating good stories, so obviously, the book was full of stories. Not long stories. Rather, short, easy to read stories (that didn’t stop the author from plugging the long versions that are available on the website and YouTube channel).</p>\n<p>As far as storytelling/writing tips, I was able to abstract a few that I found could be useful for elaborating in some of my writing. </p>\n<ul>\n<li>Every story should have a five-second moment. This is the moment when the story contains a turning-point. A transformation.</li>\n<li>Every story must have an Elephant, which is a part of the story that is obvious. This may be a clear definition of the problem, or mystery. It signifies where the story is heading.</li>\n<li>Always provide a physical location for each moment of the story. This gives your audience something to visualize. </li>\n<li>The ideal connection between sentences is “but” and “therefore” including synonyms. Don’t use “and”. When your paragraphs can be connected by a silent “and”, then it feels like rambling. Instead, each should flow into the other.</li>\n<li>Stories about failure are more engaging than those about success.</li>\n<li>Your story must reflect change over time. Otherwise, what’s the point?</li>\n</ul>\n<p>I admit, at times I got lost and didn’t understand the point of what was said. I’d have to reread parts or look back (or forward) to see where the actionable advice is.</p>\n<p>There are also a few very short chapters in the book that didn’t have any rhyme or reason for being there. They felt like filler text to make the book a bit longer.</p>\n<p>Although I found some parts of the book tedious and disjointed, I found Storyworthy had enough practical advice, with examples, to help strengthen my non-technical writing. </p>\n",
+				"content_text": "📚 I was listening to the Bookworm podcast and the next book that the hosts will be talking about is Storyworthy, by Matthew Dicks.\n\nI wasn’t interested in the book at first, as I’m not a storyteller, but then I thought there could be some useful tips in here for writing. Anyone who reads my writing knows I need all the help I can get.\n\nSo, I picked up a paperback copy of the book and gave it a shot. Was it good? Well, I finished it (although I skipped a little here and there), so that’s a good sign. \n\nAs you would expect, Storyworthy, is about creating good stories, so obviously, the book was full of stories. Not long stories. Rather, short, easy to read stories (that didn’t stop the author from plugging the long versions that are available on the website and YouTube channel).\n\nAs far as storytelling/writing tips, I was able to abstract a few that I found could be useful for elaborating in some of my writing. \n\n- Every story should have a five-second moment. This is the moment when the story contains a turning-point. A transformation.\n- Every story must have an Elephant, which is a part of the story that is obvious. This may be a clear definition of the problem, or mystery. It signifies where the story is heading.\n- Always provide a physical location for each moment of the story. This gives your audience something to visualize. \n- The ideal connection between sentences is “but” and “therefore” including synonyms. Don’t use “and”. When your paragraphs can be connected by a silent “and”, then it feels like rambling. Instead, each should flow into the other.\n- Stories about failure are more engaging than those about success.\n- Your story must reflect change over time. Otherwise, what’s the point?\n\nI admit, at times I got lost and didn’t understand the point of what was said. I’d have to reread parts or look back (or forward) to see where the actionable advice is.\n\nThere are also a few very short chapters in the book that didn’t have any rhyme or reason for being there. They felt like filler text to make the book a bit longer.\n\nAlthough I found some parts of the book tedious and disjointed, I found Storyworthy had enough practical advice, with examples, to help strengthen my non-technical writing. \n\n\n\n",
+				"date_published": "2024-10-06T21:00:00-05:00",
+				"url": "https://ericgregorich.blog/2024/10/06/storyworthy-by-matthew-dicks.html",
+				"tags": ["Books"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2024/09/22/ive-been-watching.html",
@@ -143,8 +224,7 @@
 				"content_html": "<p>My daughter has become quite the home chef. She whipped up some sort of Korean Rice Cakes and pork with a nicely fried egg on top. It was delicious!</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "My daughter has become quite the home chef. She whipped up some sort of Korean Rice Cakes and pork with a nicely fried egg on top. It was delicious!\n\n<img src=\"https://cdn.uploads.micro.blog/171686/2024/korean-rice-cakes-and-pork.jpeg\" width=\"450\" height=\"600\" alt=\"Korean Rice Cakes and ground pork with a fried egg.\">\n",
 				"date_published": "2024-09-21T12:14:47-05:00",
-				"url": "https://ericgregorich.blog/2024/09/21/my-daughter-has.html",
-				"tags": ["Photos"]
+				"url": "https://ericgregorich.blog/2024/09/21/my-daughter-has.html"
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2024/09/18/i-have-a.html",
@@ -153,7 +233,7 @@
 				"content_text": "I have a habit of ruining my experience with an app I enjoy using by slowly trying to make it do things it was not meant to do. \n\nI think I’m getting better at reminding myself of this before I get myself in trouble. \n\nStill a long way to go.  \n",
 				"date_published": "2024-09-18T17:35:55-05:00",
 				"url": "https://ericgregorich.blog/2024/09/18/i-have-a.html",
-				"tags": ["Ideas"]
+				"tags": ["Productivity"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2024/09/16/i-preordered-my.html",
@@ -207,7 +287,7 @@
 				"content_text": "[Automate Fastmail static website deployments with Hugo, Rclone and GitHub Actions](https://devblog.jpcaparas.com/automate-fastmail-static-website-deployments-with-hugo-and-github-actions-36f7d71d7519)\r\n\r\nApparently, if you're a [Fastmail](https://join.fastmail.com/fd63c1e7)* user, you can host a static Hugo website using WebDav and GitHub Actions and the file storage capabilities that come with your Fastmail account.\r\n\r\n* Affiliate link $10 off first year.\r\n\r\n",
 				"date_published": "2024-09-08T08:01:50-05:00",
 				"url": "https://ericgregorich.blog/2024/09/08/automate-fastmail-static.html",
-				"tags": ["Links","Dev"]
+				"tags": ["Links","Development"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2024/09/07/ive-been-listening.html",
@@ -234,7 +314,7 @@
 				"content_text": "I swapped the switches on my NuPhy Air 75 V2 from Cowberry to Wisteria. The Wisteria switches are noticeably more tactical and have a deeper clicky sound I like. \n\n<img src=\"https://cdn.uploads.micro.blog/171686/2024/86c84dd97d.jpg\" width=\"600\" height=\"450\" alt=\"The Nuphy Air 75 v2 with Wisteria switches. \">\n",
 				"date_published": "2024-09-05T12:12:11-05:00",
 				"url": "https://ericgregorich.blog/2024/09/05/i-swapped-the.html",
-				"tags": ["Hardware","Photos"]
+				"tags": ["Hardware"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2024/09/03/i-finally-bought.html",
@@ -242,8 +322,7 @@
 				"content_html": "<p>I finally bought a new bookshelf after my old one was overflowing. It feels empty at the moment.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "I finally bought a new bookshelf after my old one was overflowing. It feels empty at the moment.  \n\n<img src=\"https://cdn.uploads.micro.blog/171686/2024/ff16643241.jpg\" width=\"450\" height=\"600\" alt=\"A photo of a bookshelf with a few books and decorations. \">\n",
 				"date_published": "2024-09-03T06:47:56-05:00",
-				"url": "https://ericgregorich.blog/2024/09/03/i-finally-bought.html",
-				"tags": ["Photos"]
+				"url": "https://ericgregorich.blog/2024/09/03/i-finally-bought.html"
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2024/09/01/i-updated-my.html",
@@ -285,7 +364,7 @@
 				"content_text": "I’ve been using a Lamy Safari Fountain Pen for about 2 weeks. I think I’m hooked. While I don’t have a beautiful notebook to go with it, I do have a large hardcover, spiral-bound notebook that works well for me. \n\n<img src=\"https://cdn.uploads.micro.blog/171686/2024/d31d144739.jpg\" width=\"450\" height=\"600\" alt=\"A Lamy Safari Fountain Pen on a large, spiral-bound notebook. \">\n",
 				"date_published": "2024-08-17T12:21:34-05:00",
 				"url": "https://ericgregorich.blog/2024/08/17/ive-been-using.html",
-				"tags": ["Hardware","Photos"]
+				"tags": ["Hardware"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2024/08/17/on-hobbies-side.html",
@@ -303,7 +382,7 @@
 				"content_text": "I moved our company development Wiki from Azure DevOps into Obsidian Publish. With local markdown and one-click publishing, it's been the solution that stuck with us. My company gladly paid for the commercial license and the Publish service. \n",
 				"date_published": "2024-08-10T14:10:44-05:00",
 				"url": "https://ericgregorich.blog/2024/08/10/i-moved-our.html",
-				"tags": ["Dev"]
+				"tags": ["Development"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2024/08/10/currently-reading-right.html",
@@ -334,9 +413,9 @@
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2024/08/04/deadpool-wolverine-a.html",
-				
-				"content_html": "<p>🍿 <a href=\"https://www.themoviedb.org/movie/533535\">Deadpool &amp; Wolverine (2024)</a> - ★★★★★</p>\n<p>A fun movie with a lot of fan service. Im getting tired of the “multiverse” movies, but this one needed it to make the story work.</p>\n",
-				"content_text": "🍿 [Deadpool & Wolverine (2024)](https://www.themoviedb.org/movie/533535) - ★★★★★\r\n\r\nA fun movie with a lot of fan service. Im getting tired of the “multiverse” movies, but this one needed it to make the story work. \n",
+				"title": "Deadpool \u0026 Wolverine, 2024 - ★★★★",
+				"content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/4/6/2/8/7/0/462870-deadpool-wolverine-0-1000-0-1500-crop.jpg?v=1aa778d2c6\" alt=\"Deadpooll & Wolverine Movie Poster\"></p>\n<p>🍿 A fun movie with a lot of fan service. I&rsquo;m getting tired of the “multiverse” movies, but this one needed it to make the story work.</p>\n",
+				"content_text": "![Deadpooll & Wolverine Movie Poster](https://a.ltrbxd.com/resized/film-poster/4/6/2/8/7/0/462870-deadpool-wolverine-0-1000-0-1500-crop.jpg?v=1aa778d2c6)\n\n🍿 A fun movie with a lot of fan service. I'm getting tired of the “multiverse” movies, but this one needed it to make the story work.\n\n\n",
 				"date_published": "2024-08-04T11:22:50-05:00",
 				"url": "https://ericgregorich.blog/2024/08/04/deadpool-wolverine-a.html",
 				"tags": ["Movies"]
@@ -365,8 +444,16 @@
 				"content_html": "<p>Spent last week near the beach.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Spent last week near the beach. \n\n<img src=\"https://cdn.uploads.micro.blog/171686/2024/image.jpg\" width=\"450\" height=\"600\" alt=\"Gentle waves wash ashore on a sandy beach under a cloudy sky at sunset.\">\n",
 				"date_published": "2024-07-24T19:57:32-05:00",
-				"url": "https://ericgregorich.blog/2024/07/24/spent-last-week.html",
-				"tags": ["Photos"]
+				"url": "https://ericgregorich.blog/2024/07/24/spent-last-week.html"
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2024/07/23/my-apple-vision-pro-demo.html",
+				"title": "My Apple Vision Pro Demo",
+				"content_html": "<p>I had the opportunity to demo the Apple Vision Pro yesterday. The following is a write-up of my experience.</p>\n<h2 id=\"the-demo\">The Demo</h2>\n<p>My store had a section blocked off with a couple of tables where a few people could do the demo simultaneously. Unfortunately, it was a sitting experience and quite loud in the room. It was not the ideal setup because of the noise and the other people in my “view,” but it didn’t deter the experience much.</p>\n<h2 id=\"the-hardware\">The Hardware</h2>\n<p>Apple took my current glasses so they could add the appropriate lease to my demo device. While I waited, my guide told me what to expect and what her experience was with her first demo.</p>\n<p>The device is very slick, made of high-quality materials, and looks very premium—precisely what you would expect from Apple.</p>\n<p>I didn’t think much of the weight at first. I adjusted my straps, and while I could tell the weight was in the front, it didn’t seem significant or uncomfortable. A 20-minute demo is not enough to know.</p>\n<p>One of the things I didn’t think about until after the demo was the audio. Nothing covers the ears, yet the audio sounded fairly good, even in a noisy room. It&rsquo;s different from with good headphones or a living-room sound system, but it&rsquo;s impressive, nonetheless.</p>\n<h2 id=\"the-ui\">The UI</h2>\n<p>After some adjustments, the demo started. When things booted up, I looked to the side, where my UI was “stuck.” So, as I waited, I looked elsewhere and didn’t even see the boot-up sequence, where you’re looking when your Home Screen loads, which is where it will stay until you move it.</p>\n<p>I remember glancing to the side and noticing the Home Screen floating there, and then I realized what was happening. I adjusted.</p>\n<p>The UI looks spectacular. It just floats there in front of you. It looks as if you can touch it. Everything has a “soft” look to it. The area you’re looking at is crisper than the surrounding area, as in real life. This also makes it possible to put more processing power into the area you’re looking at rather than what you’re not.</p>\n<p>As I look around with my eyes, the icons light up. Your eyes are your primary navigation (without getting into the accessibility options).</p>\n<p>Clicking a selected UI element is evident. Tap your fingers together. I initially held my hands up when I did this, but I realized that was not necessary. As long as my hands were not obstructed under the table, it worked fine while resting.</p>\n<p>There are other gestures for scrolling and zooming.</p>\n<h2 id=\"the-environments\">The Environments</h2>\n<p>I was then guided through the UI and the “Environments” that could be enabled using your “Digital Crown” on the headset itself. You could fade the environment in and out. This allows you to sit in the Alaskan mountains or on a beach while you work or play.</p>\n<h2 id=\"photos-and-videos\">Photos and Videos</h2>\n<p>Next, I took a tour of some photos taken on various iPhones. Initially, they were standard photos that looked great. I could easily resize and zoom in and out. Next were the spatial photos, which were taken from newer iPhones or the Vision Pro itself. These photos were much more realistic and had a depth that didn’t look “fake 3D” but more lifelike than any other photo I’ve seen.</p>\n<p>I then experienced the video, in which I’m sitting at a table with the family watching the young girl blowing out her birthday cake candles. This was the first “oh wow” that came out of my mouth. Other than the limited field of view from the goggles, it felt like I was sitting in the room.</p>\n<p>After experiencing this, I genuinely understand why we would want to record these moments so that we may watch them again whenever we want. It was remarkable. On the other hand, I don’t envision myself wanting to wear a Vision Pro during these moments. Maybe recording with a phone instead. There needs to be a better way to record these moments without being taken out of the moment itself.</p>\n<h2 id=\"movies\">Movies</h2>\n<p>Next, there was a quick demo of the Mario movie. During this, I was able to resize the window to “Movie Screen” size and experience what it is like to watch a movie with the Vision Pro. I could envision myself watching movies on this device. However, some movies are ideal for Vision Pro, while others may not. This video explains it well.</p>\n<h2 id=\"the-recap\">The Recap</h2>\n<p>Last was a 5-minute video that explored various landscapes, including mountain climbing, flying, interacting with rhinos, and a few other things.</p>\n<p>I did back up when the Rhine came at me. I could feel things slightly that were not there, like the mist or the chilly rain. My mind was filling in the gaps. It was cool.</p>\n<h2 id=\"the-demo-ends\">The demo ends</h2>\n<p>This concluded my demo. I was a bit disappointed it ended so quickly. I expected to see some dinosaurs, touch a butterfly, and experience the mindfulness features. Not only that, but I didn’t experience Personas or what it would be like to use a Mac or take a Zoom call—things I would expect to use in real life.</p>\n<h2 id=\"motion-sickness\">Motion Sickness</h2>\n<p>I’m someone who gets motion sickness quickly. I can’t ride in the back seat of a car on long trips or ride rollercoasters. Yet, I didn’t have any problems at all with the Vision Pro. I may have felt slightly unbalanced when I was suddenly on a high tightrope looking over a river. But that’s part of the experience.</p>\n<h2 id=\"long-periods\">Long Periods?</h2>\n<p>Could I use the Vision Pro for extended periods? Could I use it to work on my computer? Read a book? Watch movies? I don’t know for sure. While the device was comfortable during the 20 minutes I wore it, I did notice I was very sweaty when I took it off. I would imagine it would get uncomfortable to use it for more than a couple of hours at a time.</p>\n<h2 id=\"antisocial\">Antisocial?</h2>\n<p>A big issue with the Vision Pro is that it is primarily a solo experience. While you can optionally see other people in the room and interact with them, they won’t see what you see. What if I want to watch a show with my wife or a movie with my kids? I suspect Apple will resolve this over time. There will be more ways to have a shared experience, assuming each of you has a Vision Pro.</p>\n<h2 id=\"will-i-buy-a-vision-pro\">Will I buy a Vision Pro?</h2>\n<p>I react similarly to Vision Pro as most people do. It’s technically outstanding but too expensive, and I don’t think I would use it enough.</p>\n<p>No, I won’t buy this first version of the Apple Vision Pro.</p>\n<p>I will undoubtedly watch the following versions to see how Apple improves things. If they make it a little lighter, a lot cheaper, and more capable (especially in multi-player), then it will be much more interesting for me.</p>\n<p>As it stands, I don’t know if there are many benefits to the Vision Pro as a “productivity” device. It could replace your expensive monitors. Then, you can easily take your setup with you, even to a coffee shop.</p>\n<p>There are certainly some situations that sound wonderful with the Apple Vision Pro. I don’t think there’s a difference between comfort and battery life yet. I’m excited to see what it looks like in a few years.</p>\n",
+				"content_text": "I had the opportunity to demo the Apple Vision Pro yesterday. The following is a write-up of my experience.\n\n## The Demo\n\nMy store had a section blocked off with a couple of tables where a few people could do the demo simultaneously. Unfortunately, it was a sitting experience and quite loud in the room. It was not the ideal setup because of the noise and the other people in my “view,” but it didn’t deter the experience much.\n\n## The Hardware\n\nApple took my current glasses so they could add the appropriate lease to my demo device. While I waited, my guide told me what to expect and what her experience was with her first demo.\n\nThe device is very slick, made of high-quality materials, and looks very premium—precisely what you would expect from Apple.\n\nI didn’t think much of the weight at first. I adjusted my straps, and while I could tell the weight was in the front, it didn’t seem significant or uncomfortable. A 20-minute demo is not enough to know.\n\nOne of the things I didn’t think about until after the demo was the audio. Nothing covers the ears, yet the audio sounded fairly good, even in a noisy room. It's different from with good headphones or a living-room sound system, but it's impressive, nonetheless.\n\n## The UI\n\nAfter some adjustments, the demo started. When things booted up, I looked to the side, where my UI was “stuck.” So, as I waited, I looked elsewhere and didn’t even see the boot-up sequence, where you’re looking when your Home Screen loads, which is where it will stay until you move it.\n\nI remember glancing to the side and noticing the Home Screen floating there, and then I realized what was happening. I adjusted.\n\nThe UI looks spectacular. It just floats there in front of you. It looks as if you can touch it. Everything has a “soft” look to it. The area you’re looking at is crisper than the surrounding area, as in real life. This also makes it possible to put more processing power into the area you’re looking at rather than what you’re not.\n\nAs I look around with my eyes, the icons light up. Your eyes are your primary navigation (without getting into the accessibility options).\n\nClicking a selected UI element is evident. Tap your fingers together. I initially held my hands up when I did this, but I realized that was not necessary. As long as my hands were not obstructed under the table, it worked fine while resting.\n\nThere are other gestures for scrolling and zooming.\n\n## The Environments\n\nI was then guided through the UI and the “Environments” that could be enabled using your “Digital Crown” on the headset itself. You could fade the environment in and out. This allows you to sit in the Alaskan mountains or on a beach while you work or play.\n\n## Photos and Videos\n\nNext, I took a tour of some photos taken on various iPhones. Initially, they were standard photos that looked great. I could easily resize and zoom in and out. Next were the spatial photos, which were taken from newer iPhones or the Vision Pro itself. These photos were much more realistic and had a depth that didn’t look “fake 3D” but more lifelike than any other photo I’ve seen.\n\nI then experienced the video, in which I’m sitting at a table with the family watching the young girl blowing out her birthday cake candles. This was the first “oh wow” that came out of my mouth. Other than the limited field of view from the goggles, it felt like I was sitting in the room.\n\nAfter experiencing this, I genuinely understand why we would want to record these moments so that we may watch them again whenever we want. It was remarkable. On the other hand, I don’t envision myself wanting to wear a Vision Pro during these moments. Maybe recording with a phone instead. There needs to be a better way to record these moments without being taken out of the moment itself.\n\n## Movies\n\nNext, there was a quick demo of the Mario movie. During this, I was able to resize the window to “Movie Screen” size and experience what it is like to watch a movie with the Vision Pro. I could envision myself watching movies on this device. However, some movies are ideal for Vision Pro, while others may not. This video explains it well.\n\n## The Recap\n\nLast was a 5-minute video that explored various landscapes, including mountain climbing, flying, interacting with rhinos, and a few other things.\n\nI did back up when the Rhine came at me. I could feel things slightly that were not there, like the mist or the chilly rain. My mind was filling in the gaps. It was cool.\n\n## The demo ends\n\nThis concluded my demo. I was a bit disappointed it ended so quickly. I expected to see some dinosaurs, touch a butterfly, and experience the mindfulness features. Not only that, but I didn’t experience Personas or what it would be like to use a Mac or take a Zoom call—things I would expect to use in real life.\n\n## Motion Sickness\n\nI’m someone who gets motion sickness quickly. I can’t ride in the back seat of a car on long trips or ride rollercoasters. Yet, I didn’t have any problems at all with the Vision Pro. I may have felt slightly unbalanced when I was suddenly on a high tightrope looking over a river. But that’s part of the experience.\n\n## Long Periods?\n\nCould I use the Vision Pro for extended periods? Could I use it to work on my computer? Read a book? Watch movies? I don’t know for sure. While the device was comfortable during the 20 minutes I wore it, I did notice I was very sweaty when I took it off. I would imagine it would get uncomfortable to use it for more than a couple of hours at a time.\n\n## Antisocial?\n\nA big issue with the Vision Pro is that it is primarily a solo experience. While you can optionally see other people in the room and interact with them, they won’t see what you see. What if I want to watch a show with my wife or a movie with my kids? I suspect Apple will resolve this over time. There will be more ways to have a shared experience, assuming each of you has a Vision Pro.\n\n## Will I buy a Vision Pro?\n\nI react similarly to Vision Pro as most people do. It’s technically outstanding but too expensive, and I don’t think I would use it enough.\n\nNo, I won’t buy this first version of the Apple Vision Pro.\n\nI will undoubtedly watch the following versions to see how Apple improves things. If they make it a little lighter, a lot cheaper, and more capable (especially in multi-player), then it will be much more interesting for me.\n\nAs it stands, I don’t know if there are many benefits to the Vision Pro as a “productivity” device. It could replace your expensive monitors. Then, you can easily take your setup with you, even to a coffee shop.\n\nThere are certainly some situations that sound wonderful with the Apple Vision Pro. I don’t think there’s a difference between comfort and battery life yet. I’m excited to see what it looks like in a few years.\n",
+				"date_published": "2024-07-23T23:00:00-05:00",
+				"url": "https://ericgregorich.blog/2024/07/23/my-apple-vision-pro-demo.html",
+				"tags": ["Hardware"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2024/07/20/it-seems-that.html",
@@ -376,6 +463,15 @@
 				"date_published": "2024-07-20T08:12:32-05:00",
 				"url": "https://ericgregorich.blog/2024/07/20/it-seems-that.html",
 				"tags": ["Quotes"]
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2024/07/09/losing-the-ability-to-read.html",
+				"title": "Losing the ability to read and think deeply",
+				"content_html": "<p>I’m losing my ability to read deeply and understand what I’m reading, and I’m not alone.</p>\n<p>I used to be able to sit with a book for hours at a time, fully immersed. I’d put the book down and still think about what I read, processing it and making connections. This led to a deeper understanding of the material and a longer-term recollection.</p>\n<p>Today, we’re so consumed by digital email, chats, TikTok, social media, short blog posts, video clips, and other forms of consumption that are meant to be short and quick - in and out. The content is designed to keep us engaged.</p>\n<p>There must be a connection between today’s method of consumption and the ability to read and think deeply.</p>\n<p>I struggle to read a book with information I want to understand. My mind is jumping around to other things. I can’t focus enough to comprehend what I read. I even read the prior text and don’t recall it. I have to read a paragraph over and over to understand it.</p>\n<p>The book is too difficult to read because it requires more direct attention, the opposite of other material I consume. My mind is no longer wired in a way that provides me with the focus I need.</p>\n<p>This is concerning.</p>\n<p>Oddly enough, it doesn’t apply to everything. I often become fully engaged when writing code and building software solutions. It may take a few minutes to get going, but once I do, I can be so completely engrossed in my work that it requires someone shaking my shoulder to get my attention.</p>\n<p>Do the books need to be more attractive to grab my attention in the same way as writing code? Is it because I’m creating and not consuming?</p>\n<p>Today’s books are written differently. Old books are denser, with complicated words, paragraphs, and less fluff. Today’s books are more straightforward, full of short stories, and tend only to skim the material’s surface. All of this is to keep the reader engaged. [@wolfReaderComeHome2018]</p>\n<p>Fortunately, if I had the abilities in the past and slowly lost them over time, it could be reversed. Right?</p>\n<p>My next steps sound simple enough but will be challenging to execute. Reduce the short, mind-numbing consumption and replace it with more time spent with evergreen material that forces me to slow down and think. This should help rebuild the muscle of deep reading and thinking.</p>\n<p>What does this problem mean for my children? How will they solve the world’s problems if they can’t sit with something for over 20 minutes?</p>\n",
+				"content_text": "I’m losing my ability to read deeply and understand what I’m reading, and I’m not alone.\n\nI used to be able to sit with a book for hours at a time, fully immersed. I’d put the book down and still think about what I read, processing it and making connections. This led to a deeper understanding of the material and a longer-term recollection.\n\nToday, we’re so consumed by digital email, chats, TikTok, social media, short blog posts, video clips, and other forms of consumption that are meant to be short and quick - in and out. The content is designed to keep us engaged.\n\nThere must be a connection between today’s method of consumption and the ability to read and think deeply.\n\nI struggle to read a book with information I want to understand. My mind is jumping around to other things. I can’t focus enough to comprehend what I read. I even read the prior text and don’t recall it. I have to read a paragraph over and over to understand it.\n\nThe book is too difficult to read because it requires more direct attention, the opposite of other material I consume. My mind is no longer wired in a way that provides me with the focus I need.\n\nThis is concerning.\n\nOddly enough, it doesn’t apply to everything. I often become fully engaged when writing code and building software solutions. It may take a few minutes to get going, but once I do, I can be so completely engrossed in my work that it requires someone shaking my shoulder to get my attention.\n\nDo the books need to be more attractive to grab my attention in the same way as writing code? Is it because I’m creating and not consuming?\n\nToday’s books are written differently. Old books are denser, with complicated words, paragraphs, and less fluff. Today’s books are more straightforward, full of short stories, and tend only to skim the material’s surface. All of this is to keep the reader engaged. [@wolfReaderComeHome2018]\n\nFortunately, if I had the abilities in the past and slowly lost them over time, it could be reversed. Right?\n\nMy next steps sound simple enough but will be challenging to execute. Reduce the short, mind-numbing consumption and replace it with more time spent with evergreen material that forces me to slow down and think. This should help rebuild the muscle of deep reading and thinking.\n\nWhat does this problem mean for my children? How will they solve the world’s problems if they can’t sit with something for over 20 minutes?\n",
+				"date_published": "2024-07-09T10:06:00-05:00",
+				"url": "https://ericgregorich.blog/2024/07/09/losing-the-ability-to-read.html",
+				"tags": ["Productivity"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2024/06/26/finished-reading-how.html",
@@ -466,36 +562,60 @@
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2024/06/06/the-new-mutants.html",
-				
-				"content_html": "<p>🍿 <a href=\"https://letterboxd.com/egregorich/film/the-new-mutants/\">The New Mutants, 2020 - ★★★</a></p>\n<p><img src=\"https://cdn.uploads.micro.blog/171686/2024/72e1b6266c.jpg\" alt=\"\"></p>\n<p>Watched on Monday June 3, 2024.</p>\n",
-				"content_text": "🍿 [The New Mutants, 2020 - ★★★](https://letterboxd.com/egregorich/film/the-new-mutants/)\r\n\r\n![](https://cdn.uploads.micro.blog/171686/2024/72e1b6266c.jpg)\n\nWatched on Monday June 3, 2024.\n",
+				"title": "The New Mutants, 2020 - ★★★",
+				"content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/2/6/9/5/9/6/269596-the-new-mutants-0-1000-0-1500-crop.jpg?v=45506abc84\" alt=\"The New Mutants\"></p>\n<p>🍿Not terrible. Not great.</p>\n",
+				"content_text": "![The New Mutants](https://a.ltrbxd.com/resized/film-poster/2/6/9/5/9/6/269596-the-new-mutants-0-1000-0-1500-crop.jpg?v=45506abc84)\n\n🍿Not terrible. Not great. \n",
 				"date_published": "2024-06-06T12:16:25-05:00",
 				"url": "https://ericgregorich.blog/2024/06/06/the-new-mutants.html",
 				"tags": ["Movies"]
 			},
 			{
+				"id": "http://ericgregorich.micro.blog/2024/06/06/121542.html",
+				"title": "The New Mutants, 2020 - ★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/171686/2024/fe7862a212.jpg\"/></p> <p>Watched on Monday June 3, 2024.</p>\n",
+				"date_published": "2024-06-06T12:15:42-05:00",
+				"url": "https://ericgregorich.blog/2024/06/06/121542.html"
+			},
+			{
 				"id": "http://ericgregorich.micro.blog/2024/06/06/the-beekeeper-watched.html",
-				
-				"content_html": "<p>🍿 <a href=\"https://letterboxd.com/egregorich/film/the-beekeeper-2024/\">The Beekeeper, 2024 - ★★★</a></p>\n<p><img src=\"https://cdn.uploads.micro.blog/171686/2024/2786fdc774.jpg\" alt=\"\"></p>\n<p>Watched on Tuesday June 4, 2024.</p>\n",
-				"content_text": "🍿 [The Beekeeper, 2024 - ★★★](https://letterboxd.com/egregorich/film/the-beekeeper-2024/)\r\n\r\n![](https://cdn.uploads.micro.blog/171686/2024/2786fdc774.jpg)\n\nWatched on Tuesday June 4, 2024.\n",
+				"title": "The Beekeeper, 2024 - ★★",
+				"content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/7/8/0/1/7/0/780170-the-beekeeper-0-1000-0-1500-crop.jpg?v=bf94429baa\" alt=\"The Beekeer\"></p>\n<p>🍿 A ridicules John Wick wannabe.</p>\n",
+				"content_text": "![The Beekeer](https://a.ltrbxd.com/resized/film-poster/7/8/0/1/7/0/780170-the-beekeeper-0-1000-0-1500-crop.jpg?v=bf94429baa)\n\n🍿 A ridicules John Wick wannabe. \n",
 				"date_published": "2024-06-06T12:12:04-05:00",
 				"url": "https://ericgregorich.blog/2024/06/06/the-beekeeper-watched.html",
 				"tags": ["Movies"]
 			},
 			{
-				"id": "http://ericgregorich.micro.blog/2024/05/28/furiosa-a-mad.html",
-				
-				"content_html": "<p>🍿 <a href=\"https://www.themoviedb.org/movie/786892\">Furiosa: A Mad Max Saga (2024)</a> - ★★★★★</p>\n",
-				"content_text": "🍿 [Furiosa: A Mad Max Saga (2024)](https://www.themoviedb.org/movie/786892) - ★★★★★\n",
-				"date_published": "2024-05-27T19:43:44-05:00",
-				"url": "https://ericgregorich.blog/2024/05/27/furiosa-a-mad.html",
+				"id": "http://ericgregorich.micro.blog/2024/06/06/the-beekeeper.html",
+				"title": "The Beekeeper, 2024 - ★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/171686/2024/8990327116.jpg\"/></p> <p>Watched on Tuesday June 4, 2024.</p>\n",
+				"date_published": "2024-06-06T12:10:36-05:00",
+				"url": "https://ericgregorich.blog/2024/06/06/the-beekeeper.html"
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2024/05/31/mad-max-fury-road.html",
+				"title": "Mad Max: Fury Road, 2015 - ★★★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/171686/2024/62780-mad-max-fury-road-0-600-0-900-crop.jpg.jpg\"/></p> <p>Rewatched Fury Road last night with my daughter and wife. They seemed blown away by how crazy the movie is. It was fun to watch.</p>\n",
+				"date_published": "2024-05-31T19:08:10-05:00",
+				"url": "https://ericgregorich.blog/2024/05/31/mad-max-fury-road.html"
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2024/05/31/furiosa-a-mad-max-saga.html",
+				"title": "Furiosa: A Mad Max Saga, 2024 - ★★★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/171686/2024/705221-furiosa-a-mad-max-saga-0-600-0-900-crop.jpg.jpg\"/></p> <p>Watched on Monday May 27, 2024.</p>\n",
+				"date_published": "2024-05-31T19:02:49-05:00",
+				"url": "https://ericgregorich.blog/2024/05/31/furiosa-a-mad-max-saga.html",
 				"tags": ["Movies"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2024/05/27/mad-max-fury.html",
-				
-				"content_html": "<p>🍿 <a href=\"https://www.themoviedb.org/movie/76341\">Mad Max: Fury Road (2015)</a> - ★★★★★</p>\n<p>Rewatched Fury Road last night with my daughter and wife. They seemed blown away by how crazy the movie is. It was fun to watch.</p>\n",
-				"content_text": "🍿 [Mad Max: Fury Road (2015)](https://www.themoviedb.org/movie/76341) - ★★★★★\r\n\r\nRewatched Fury Road last night with my daughter and wife. They seemed blown away by how crazy the movie is. It was fun to watch. \n",
+				"title": "Mad Max: Fury Road, 2015 - ★★★★★",
+				"content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/6/2/7/8/0/62780-mad-max-fury-road-0-1000-0-1500-crop.jpg?v=37c5424b1f\" alt=\"Fury Road\"></p>\n<p>🍿 Rewatched Fury Road last night with my daughter and wife. They seemed blown away by how crazy the movie is. It was fun to watch.</p>\n",
+				"content_text": "![Fury Road](https://a.ltrbxd.com/resized/film-poster/6/2/7/8/0/62780-mad-max-fury-road-0-1000-0-1500-crop.jpg?v=37c5424b1f)\n\n🍿 Rewatched Fury Road last night with my daughter and wife. They seemed blown away by how crazy the movie is. It was fun to watch. \n",
 				"date_published": "2024-05-27T07:19:48-05:00",
 				"url": "https://ericgregorich.blog/2024/05/27/mad-max-fury.html",
 				"tags": ["Movies"]
@@ -554,18 +674,18 @@
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2024/05/05/the-fall-guy.html",
-				
-				"content_html": "<p>🍿 <a href=\"https://www.themoviedb.org/movie/746036\">The Fall Guy (2024)</a> - ★★★★★</p>\n<p>A fun action-comedy that pays tribute to stunt doubles.</p>\n",
-				"content_text": "🍿 [The Fall Guy (2024)](https://www.themoviedb.org/movie/746036) - ★★★★★\r\n\r\nA fun action-comedy that pays tribute to stunt doubles.\n",
+				"title": "The Fall Guy, 2024 - ★★★★★",
+				"content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/6/6/7/5/5/0/667550-the-fall-guy-0-1000-0-1500-crop.jpg?v=5f491a1281\" alt=\"The Fall Guy\"></p>\n<p>🍿 A fun action-comedy that pays tribute to stunt doubles.</p>\n",
+				"content_text": "![The Fall Guy](https://a.ltrbxd.com/resized/film-poster/6/6/7/5/5/0/667550-the-fall-guy-0-1000-0-1500-crop.jpg?v=5f491a1281)\n\n🍿 A fun action-comedy that pays tribute to stunt doubles.\n",
 				"date_published": "2024-05-05T18:46:32-05:00",
 				"url": "https://ericgregorich.blog/2024/05/05/the-fall-guy.html",
 				"tags": ["Movies"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2024/05/05/argylle-argylle-is.html",
-				
-				"content_html": "<p>🍿 <a href=\"https://www.themoviedb.org/movie/848538\">Argylle (2024)</a> - ★★★★☆</p>\n<p>Argylle is a fun action comedy that doesn&rsquo;t take itself too seriously, which makes it easier to enjoy the over the top action.</p>\n",
-				"content_text": "🍿 [Argylle (2024)](https://www.themoviedb.org/movie/848538) - ★★★★☆\n\nArgylle is a fun action comedy that doesn't take itself too seriously, which makes it easier to enjoy the over the top action.\n",
+				"title": "Arglle, 2024 - ★★★★",
+				"content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/7/6/3/1/6/0/763160-argylle-0-1000-0-1500-crop.jpg?v=82c014880d\" alt=\"Argylle\"></p>\n<p>🍿Argylle is a fun action comedy that doesn&rsquo;t take itself too seriously, which makes it easier to enjoy the over-the-top action.</p>\n",
+				"content_text": "![Argylle](https://a.ltrbxd.com/resized/film-poster/7/6/3/1/6/0/763160-argylle-0-1000-0-1500-crop.jpg?v=82c014880d)\n\n🍿Argylle is a fun action comedy that doesn't take itself too seriously, which makes it easier to enjoy the over-the-top action.\n",
 				"date_published": "2024-05-05T08:24:24-05:00",
 				"url": "https://ericgregorich.blog/2024/05/05/argylle-argylle-is.html",
 				"tags": ["Movies"]
@@ -731,9 +851,9 @@
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2024/04/07/godzilla-x-kong.html",
-				
-				"content_html": "<p>🍿 <a href=\"https://www.themoviedb.org/movie/823464\">Godzilla x Kong: The New Empire (2024)</a> - ★★☆☆☆</p>\n<p>Unfortunately, the theater we happened to be at was tiny with bad sound which deteriorated the best parts of the movie, the monster fights.</p>\n<p>If I felt I could suffer through the dumb plot again i would go see it again in a good theater. Not likely.</p>\n",
-				"content_text": "🍿 [Godzilla x Kong: The New Empire (2024)](https://www.themoviedb.org/movie/823464) - ★★☆☆☆\r\n\r\nUnfortunately, the theater we happened to be at was tiny with bad sound which deteriorated the best parts of the movie, the monster fights. \r\n\r\nIf I felt I could suffer through the dumb plot again i would go see it again in a good theater. Not likely.  \n",
+				"title": "Godzilla x Kong: The New Empire, 2022- ★★",
+				"content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/7/3/9/5/2/2/739522-godzilla-x-kong-the-new-empire-0-1000-0-1500-crop.jpg?v=7c2eb6e620\" alt=\"Godzilla x Kong\"></p>\n<p>🍿 Unfortunately, the theater we happened to be at was tiny with bad sound which deteriorated the best parts of the movie, the monster fights.</p>\n<p>If I felt, I could suffer through the dumb plot again I would see it again in a good theater. Not likely.</p>\n",
+				"content_text": "![Godzilla x Kong](https://a.ltrbxd.com/resized/film-poster/7/3/9/5/2/2/739522-godzilla-x-kong-the-new-empire-0-1000-0-1500-crop.jpg?v=7c2eb6e620)\n\n🍿 Unfortunately, the theater we happened to be at was tiny with bad sound which deteriorated the best parts of the movie, the monster fights. \n\nIf I felt, I could suffer through the dumb plot again I would see it again in a good theater. Not likely.  \n",
 				"date_published": "2024-04-06T19:30:22-05:00",
 				"url": "https://ericgregorich.blog/2024/04/06/godzilla-x-kong.html",
 				"tags": ["Movies"]
@@ -857,9 +977,9 @@
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2024/03/04/dune-part-two.html",
-				
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p>🍿 <a href=\"https://www.themoviedb.org/movie/693134\">Dune: Part Two (2024)</a> - ★★★★★</p>\n<p>A great sci-fi classic. I still don’t know who’s who half the time or what’s going on but still a great experience.</p>\n",
+				"title": "Dune: Part Two, 2024 - ★★★★★",
+				"content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/6/1/7/4/4/3/617443-dune-part-two-0-1000-0-1500-crop.jpg?v=cc533700f8\" alt=\"Dune: Part Two\"></p>\n<p>🍿 A great sci-fi classic. I still don’t know who’s who half the time or what’s going on but still a wonderful experience.</p>\n",
+				"content_text": "![Dune: Part Two](https://a.ltrbxd.com/resized/film-poster/6/1/7/4/4/3/617443-dune-part-two-0-1000-0-1500-crop.jpg?v=cc533700f8)\n\n🍿 A great sci-fi classic. I still don’t know who’s who half the time or what’s going on but still a wonderful experience.\n",
 				"date_published": "2024-03-03T19:35:09-05:00",
 				"url": "https://ericgregorich.blog/2024/03/03/dune-part-two.html",
 				"tags": ["Movies"]
@@ -1045,7 +1165,7 @@
 				"content_text": "I created a Working Memory file that I’ll use throughout the day. I learned this from [Cal Newport](https://www.calnewport.com/blog/2015/10/27/deep-habits-workingmemory-txt-the-most-important-productivity-tool-youve-never-heard-of/), although I’m sure he didn’t invent the idea.\n\nThe idea is to have a single text file open all day that you use to write all of your notes, today’s tasks, etc. Similar to a Daily Note available in some applications, like Roam Research, Logseq, or Obsidian, except this file persists from day to day.\n\nI clean up the file daily, move tasks to my task system, and save important notes into my note application. My Working Memory file also has a list of active projects with the current status that I keep up to date, as well as a short list of things I want to remember.\n\nThe purpose is not to jump in and out of applications all day, which is one of my struggles.\n\nI’m on Windows (for work), and Notepad was too basic; I tried iAWriter, but while I like writing with Markdown, I don’t want to see the Markdown. Now, I’m trying Typora, which uses Markdown, but with a live preview.\n\nSo far, I love this approach. It keeps everything within easy reach and forces me to review every day.\n",
 				"date_published": "2024-02-01T09:00:00-05:00",
 				"url": "https://ericgregorich.blog/2024/02/01/using-a-working.html",
-				"tags": ["Ideas"]
+				"tags": ["Productivity"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2024/02/01/in-praise-of.html",
@@ -1241,7 +1361,7 @@
 				"content_text": "If you want your site to automatically switch between light and dark themes based on the visitor's system settings, you can use a `@media` query and the `prefers-color-scheme` feature.\n\n```css\n:root {\n  --color-background: #eee;\n  --color-text: #000;\n}\n\n@media (prefers-color-scheme: dark) {\n  :root {\n    --color-background: #333;\n    --color-text: #eee;\n  }\n}\n\nbody {\n  color: var(--color-text);\n  background-color: var(--color-background);\n}\n\n```\n\n> Updated January 2, 2024 to use :root pseudo-class.\n",
 				"date_published": "2024-01-01T15:03:10-05:00",
 				"url": "https://ericgregorich.blog/2024/01/01/auto-dark-mode.html",
-				"tags": ["Dev"]
+				"tags": ["Development"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/12/31/previewing-the-new.html",
@@ -1384,9 +1504,9 @@
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/12/10/godzilla-minus-one.html",
-				
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p>🍿 <a href=\"https://www.themoviedb.org/movie/940721\">Godzilla Minus One (2023)</a> - ★★★★★</p>\n<p>Great movie. This time you feel for the humans and want to see Godzilla be defeated.</p>\n",
+				"title": "Godzilla Minus One, 2023 - ★★★★★",
+				"content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/8/4/5/7/0/6/845706-godzilla-minus-one-0-1000-0-1500-crop.jpg?v=a98e8c1ed4\" alt=\"Godzilla Minus One\"></p>\n<p>🍿 Great movie. They finally made a Godzilla movie where the humans took center stage, and that was a good thing.</p>\n",
+				"content_text": "![Godzilla Minus One](https://a.ltrbxd.com/resized/film-poster/8/4/5/7/0/6/845706-godzilla-minus-one-0-1000-0-1500-crop.jpg?v=a98e8c1ed4)\n\n🍿 Great movie. They finally made a Godzilla movie where the humans took center stage, and that was a good thing.\n",
 				"date_published": "2023-12-09T20:06:32-05:00",
 				"url": "https://ericgregorich.blog/2023/12/09/godzilla-minus-one.html",
 				"tags": ["Movies"]
@@ -1442,9 +1562,9 @@
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/12/03/the-hunger-games.html",
-				
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p>🍿 <a href=\"https://www.themoviedb.org/movie/695721\">The Hunger Games: The Ballad of Songbirds &amp; Snakes (2023)</a> - ★★★★★</p>\n",
+				"title": "The Hunger Games: The Ballad of Songbirds \u0026 Snakes, 2023 - ★★★★★",
+				"content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/6/1/9/5/1/0/619510-the-hunger-games-the-ballad-of-songbirds-snakes-0-1000-0-1500-crop.jpg?v=180f24b89f\" alt=\"The Hunger Games: The Ballad of Songbirds & Snakes\"></p>\n<p>🍿 A great movie.</p>\n",
+				"content_text": "![The Hunger Games: The Ballad of Songbirds & Snakes](https://a.ltrbxd.com/resized/film-poster/6/1/9/5/1/0/619510-the-hunger-games-the-ballad-of-songbirds-snakes-0-1000-0-1500-crop.jpg?v=180f24b89f)\n\n🍿 A great movie.\n",
 				"date_published": "2023-12-03T17:20:52-05:00",
 				"url": "https://ericgregorich.blog/2023/12/03/the-hunger-games.html",
 				"tags": ["Movies"]
@@ -1483,9 +1603,9 @@
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/11/26/cars-cars-poster.html",
-				
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p>🍿 <a href=\"https://www.themoviedb.org/movie/920\">Cars (2006)</a></p>\n<figure><img src=\"https://cdn.uploads.micro.blog/171686/2024/1d3600b749.jpg\" alt=\"Cars poster\" />\n<figcaption>Cars poster</figcaption>\n</figure>\n<p>We probably watched this hundreds of times when my kids were little. It still holds up as one of my favorite movies. ⭐️⭐️⭐️⭐️⭐️</p>\n",
+				"title": "Cars, 2006 - ★★★★★",
+				"content_html": "<p><img src=\"https://a.ltrbxd.com/resized/sm/upload/de/kp/63/hd/dWg33ektXuHmxjSjEulwDPTWbC2-0-1000-0-1500-crop.jpg?v=df40f228cb\" alt=\"Cars\"></p>\n<p>🍿 We watched this hundreds of times when my kids were little. It still holds up as one of my favorite movies.</p>\n",
+				"content_text": "![Cars](https://a.ltrbxd.com/resized/sm/upload/de/kp/63/hd/dWg33ektXuHmxjSjEulwDPTWbC2-0-1000-0-1500-crop.jpg?v=df40f228cb)\n\n🍿 We watched this hundreds of times when my kids were little. It still holds up as one of my favorite movies. \n",
 				"date_published": "2023-11-26T15:16:14-05:00",
 				"url": "https://ericgregorich.blog/2023/11/26/cars-cars-poster.html",
 				"tags": ["Movies"]
@@ -1590,9 +1710,9 @@
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/11/06/five-nights-at.html",
-				
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p>🍿 <a href=\"https://www.themoviedb.org/movie/507089\">Five Nights at Freddy’s (2023)</a></p>\n<p>A fun movie. A few jump scare attempts. Pretty good story. Definitely sets up for a sequal. it was worth seeing in the theaters.</p>\n<p>There is a huge following for FNAF that i was not aware of. Some games and stories. Here is a <a href=\"https://youtu.be/gWOXSh4-Iuc?si=rbQHjrqzaCQQNKKq\">timeline</a> if your interested.</p>\n<figure><img src=\"https://cdn.uploads.micro.blog/171686/2024/5add69a8b4.jpg\" alt=\"Five Nights at Freddys poster\" />\n<figcaption>Five Nights at Freddy’s poster</figcaption>\n</figure>\n",
+				"title": "Five Nights at Freddy’s, 2023 - ★★★★",
+				"content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/4/3/6/9/4/8/436948-five-nights-at-freddy-s-0-1000-0-1500-crop.jpg?v=6ff52485a8\" alt=\"Five Nights at Freddy&rsquo;s\"></p>\n<p>🍿 A fun movie. A few jumps scare attempts. Fairly good story. Set up for a sequel. It was worth seeing in the theaters.</p>\n",
+				"content_text": "![Five Nights at Freddy's](https://a.ltrbxd.com/resized/film-poster/4/3/6/9/4/8/436948-five-nights-at-freddy-s-0-1000-0-1500-crop.jpg?v=6ff52485a8)\n\n🍿 A fun movie. A few jumps scare attempts. Fairly good story. Set up for a sequel. It was worth seeing in the theaters.\n\n",
 				"date_published": "2023-11-05T19:09:48-05:00",
 				"url": "https://ericgregorich.blog/2023/11/05/five-nights-at.html",
 				"tags": ["Movies"]
@@ -1690,21 +1810,21 @@
 				"tags": ["Books"]
 			},
 			{
+				"id": "http://ericgregorich.micro.blog/2023/10/01/the-creator.html",
+				"title": "The Creator, 2023 - ★★★★½",
+				"content_html": "<!-- raw HTML omitted -->\n<p>A great looking sci-fi movie. I loved the look of the movie. CGI blended in and felt real. The world felt lived in.</p>\n<p>There were moments that deserved more of a buildup, instead they were just brief moments of dialog that explain key aspects of the story.</p>\n<p>Still, I really enjoyed it!</p>\n",
+				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/171686/2024/595029-the-creator-0-600-0-900-crop.jpg.jpg\"/></p> <p>Watched on Sunday October 1, 2023.</p>\n\nA great looking sci-fi movie. I loved the look of the movie. CGI blended in and felt real. The world felt lived in.\n\nThere were moments that deserved more of a buildup, instead they were just brief moments of dialog that explain key aspects of the story.\n\nStill, I really enjoyed it!\n",
+				"date_published": "2023-10-01T18:33:38-05:00",
+				"url": "https://ericgregorich.blog/2023/10/01/the-creator.html",
+				"tags": ["Movies"]
+			},
+			{
 				"id": "http://ericgregorich.micro.blog/2023/10/01/ive-been-using.html",
 				
 				"content_html": "<p>I’ve been using Reeder for all of my RSS, including Micro.blog feeds, favorite YouTube channels, Reddit channels, and even newsletters (through <a href=\"https://kill-the-newsletter.com\">Kill the Newsletter!</a>).</p>\n<p>Overall, it’s keeping me from jumping in and out of other apps, which often get me distracted with endless feeds and algorithms.</p>\n",
 				"content_text": "I’ve been using Reeder for all of my RSS, including Micro.blog feeds, favorite YouTube channels, Reddit channels, and even newsletters (through [Kill the Newsletter!](https://kill-the-newsletter.com)). \n\nOverall, it’s keeping me from jumping in and out of other apps, which often get me distracted with endless feeds and algorithms. \n",
 				"date_published": "2023-10-01T17:59:16-05:00",
 				"url": "https://ericgregorich.blog/2023/10/01/ive-been-using.html"
-			},
-			{
-				"id": "http://ericgregorich.micro.blog/2023/10/01/the-creator-a.html",
-				
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p>🍿 <a href=\"https://www.themoviedb.org/movie/670292\">The Creator (2023)</a></p>\n<p>A great looking sci-fi movie. I loved the look of the movie. CGI blended in and felt real. The world felt lived in.</p>\n<p>There were moments that deserved more of a build up, instead were just brief moments of dialog that explain key aspects if the story.</p>\n<p>Still, I really enjoyed it!</p>\n",
-				"date_published": "2023-10-01T15:23:07-05:00",
-				"url": "https://ericgregorich.blog/2023/10/01/the-creator-a.html",
-				"tags": ["Movies"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/10/01/meeting-agendas-should.html",
@@ -2099,9 +2219,9 @@
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/07/02/spiderman-across-the.html",
-				
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p>🍿 <a href=\"https://www.themoviedb.org/movie/569094\">Spider-Man: Across the Spider-Verse (2023)</a> ⭐️⭐️⭐️⭐️⭐️</p>\n<figure><img src=\"https://cdn.uploads.micro.blog/171686/2024/5d4fb6e811.jpg\" alt=\"Spider-Man: Across the Spider-Verse poster\" />\n<figcaption>Spider-Man: Across the Spider-Verse poster</figcaption>\n</figure>\n",
+				"title": "Spider-Man: Across the Spider-Verse, 2023 - ★★★★★",
+				"content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/4/9/7/6/3/1/497631-spider-man-across-the-spider-verse-0-1000-0-1500-crop.jpg?v=f2acbf1b8a\" alt=\"Spider-Man: Across the Spider-Verse\"></p>\n<p>🍿 A great animated movie. The whole family enjoyed it.</p>\n",
+				"content_text": "![Spider-Man: Across the Spider-Verse](https://a.ltrbxd.com/resized/film-poster/4/9/7/6/3/1/497631-spider-man-across-the-spider-verse-0-1000-0-1500-crop.jpg?v=f2acbf1b8a)\n\n🍿 A great animated movie. The whole family enjoyed it.\n",
 				"date_published": "2023-07-01T20:24:21-05:00",
 				"url": "https://ericgregorich.blog/2023/07/01/spiderman-across-the.html",
 				"tags": ["Movies"]
@@ -3851,7 +3971,7 @@
 				"content_text": "<p>As we all know, staring at a screen causes eye strain. When you do this too long and too often, your eyes may not recover. This eye strain is often called computer vision syndrome (CVS) and can cause headaches, fatigue, dry eyes, and long-term damage.</p>\n<h2 id=\"what-is-the-20-20-20-rule\"><strong>What is the 20–20–20 Rule?</strong></h2>\n<p>Every 20 minutes you spend using a screen, look away at something 20 feet away for 20 seconds. 20 feet for 20 seconds is the optimal distance and time to allow your eyes to relax.</p>\n<h2 id=\"how-to-do-it\"><strong>How to do it</strong></h2>\n<ul>\n<li>Set a timer for 20 minutes.</li>\n<li>When the timer goes off, look away from your screen and at something for 20 seconds.</li>\n<li>Repeat.</li>\n</ul>\n<h2 id=\"what-can-we-do-for-20-seconds\"><strong>What can we do for 20 seconds?</strong></h2>\n<p>20 seconds is not very long. But there are some healthy things we can do during this time.</p>\n<ul>\n<li>Continue thinking about what you are working on without losing focus. I’ve found that stepping away for a few seconds can help me think through a problem.</li>\n<li>Stretch your body.</li>\n<li>Do some burpees or something to get the blood flowing.</li>\n<li>Take a drink of water.</li>\n<li>A time check is helpful when you lose focus on a particular task. Are you spending too much time? Do you need to wrap things up?</li>\n</ul>\n<h2 id=\"additional-reading\">Additional Reading</h2>\n<ul>\n<li><a href=\"https://www.aao.org/eye-health/tips-prevention/computer-usage\">Computers, Digital Devices, and Eye Strain</a></li>\n<li><a href=\"https://www.nepjol.info/index.php/NEPJOPH/article/view/8707\">Computer vision syndrome: a study of knowledge and practices in university students</a></li>\n</ul>\n",
 				"date_published": "2022-09-05T10:24:05-05:00",
 				"url": "https://ericgregorich.blog/2022/09/05/take-care-of.html",
-				"tags": ["Ideas"]
+				"tags": ["Productivity"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/08/28/the-true-purpose.html",
