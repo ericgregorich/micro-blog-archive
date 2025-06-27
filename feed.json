@@ -7,13 +7,49 @@
 	"items": [
 		
 			{
+				"id": "http://ericgregorich.micro.blog/2025/06/27/uncharted/",
+				"title": "Uncharted 4",
+				"content_html": "<p>I started playing Uncharted 4 on PC. It&rsquo;s the kind of story-driven adventure game I love. I&rsquo;m only an hour in, but I can already tell this will be one of the few games I actually finish.</p>\n",
+				"content_text": "I started playing Uncharted 4 on PC. It's the kind of story-driven adventure game I love. I'm only an hour in, but I can already tell this will be one of the few games I actually finish.\n",
+				"date_published": "2025-06-27T18:08:27-04:00",
+				"url": "https://ericgregorich.blog/2025/06/27/uncharted/",
+				"tags": ["fun"]
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2025/06/21/brick-do-more-of-what/",
+				"title": "Brick - Do More of What Matters",
+				"content_html": "<p><a href=\"https://getbrick.app/\">Brick</a> is an interesting app for iOS, and soon Android, that allows you to lock down your phone using various profiles. For example, block certain apps when you are working and others when you are not. The only way to unlock the apps is to scan your phone on a physical hardware device that you purchase.</p>\n<p>I don&rsquo;t feel like I need this right now, but it is interesting nonetheless.</p>\n",
+				"content_text": "\n[Brick](https://getbrick.app/) is an interesting app for iOS, and soon Android, that allows you to lock down your phone using various profiles. For example, block certain apps when you are working and others when you are not. The only way to unlock the apps is to scan your phone on a physical hardware device that you purchase.\n\nI don't feel like I need this right now, but it is interesting nonetheless.\n",
+				"date_published": "2025-06-21T17:00:29-04:00",
+				"url": "https://ericgregorich.blog/2025/06/21/brick-do-more-of-what/",
+				"tags": ["links"]
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2025/06/21/test-your-color-contrast/",
+				"title": "Test your color contrast",
+				"content_html": "<p><a href=\"https://dequeuniversity.com/rules/axe/4.7/color-contrast\">Color Contract Ratio Thresholds</a></p>\n<p>A free tool to check color contrast for applications. I just used it to tweak my blog&rsquo;s colors for better accessibility.</p>\n",
+				"content_text": "\n[Color Contract Ratio Thresholds](https://dequeuniversity.com/rules/axe/4.7/color-contrast)\n\nA free tool to check color contrast for applications. I just used it to tweak my blog's colors for better accessibility.\n\n",
+				"date_published": "2025-06-21T16:54:52-04:00",
+				"url": "https://ericgregorich.blog/2025/06/21/test-your-color-contrast/",
+				"tags": ["tech","links"]
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2025/06/21/all-of-your-problems-have/",
+				
+				"content_html": "<blockquote>\n<p>All of your problems have one thing in common, you.</p>\n</blockquote>\n",
+				"content_text": "> All of your problems have one thing in common, you. \n",
+				"date_published": "2025-06-21T09:55:20-04:00",
+				"url": "https://ericgregorich.blog/2025/06/21/all-of-your-problems-have/",
+				"tags": ["thoughts"]
+			},
+			{
 				"id": "http://ericgregorich.micro.blog/2025/06/20/playing-with-obsidian-again/",
 				"title": "Playing with Obsidian (again)",
 				"content_html": "<p>I&rsquo;m playing around with Obsidian again. I like the idea of having all my notes and content as local text files, following the <a href=\"https://stephango.com/file-over-app\">File Over App</a> philosophy.</p>\n<p>Some things I noticed when I booted up Obsidian again with the latest updates:</p>\n<h2 id=\"web-viewer\">Web viewer</h2>\n<p>Web viewer is a new core plugin that lets you browse the web from within Obsidian. So far, I&rsquo;ve found it useful to bookmark Kagi for internet searches and the Micro.blog uploads page. I can click a bookmark (from within Obsidian), and it opens the Uploads page so I can upload photos for a post I want to write. I can then copy the markdown from those photos and paste it into my post that I&rsquo;m writing in Obsidian.</p>\n<h2 id=\"micropublish\">Micro.publish</h2>\n<p>A great plugin that has been around for a while, it lets you easily publish from Obsidian to Micro.blog. The one feature it is still missing is the ability to upload images. This is why I upload the photo first to Micro.blog, copy the markdown, and paste it into my draft post. I don&rsquo;t use images often, so it&rsquo;s not a big deal.</p>\n<h2 id=\"bases\">Bases</h2>\n<p>Bases is a new core plugin that lets you create filtered tables and views from your data using the metadata properties you tag to your note. I haven&rsquo;t used it much yet, but I like the idea of using it to track status of notes, etc. We&rsquo;ll see how it goes.</p>\n<h2 id=\"separate-vaults\">Separate Vaults</h2>\n<p>I&rsquo;m using separate vaults for Work and Personal because I don&rsquo;t want to get them mixed in any way. I don&rsquo;t want any personal notes on my work computer. Originally, I was starting with one vault and excluding my personal folders from syncing to my work machine. That worked, but it was too tedious to maintain since I keep adding and changing folders. I don&rsquo;t see a good reason to keep them together anyway.</p>\n",
 				"content_text": "I'm playing around with Obsidian again. I like the idea of having all my notes and content as local text files, following the [File Over App](https://stephango.com/file-over-app) philosophy.\n\nSome things I noticed when I booted up Obsidian again with the latest updates:\n\n## Web viewer\nWeb viewer is a new core plugin that lets you browse the web from within Obsidian. So far, I've found it useful to bookmark Kagi for internet searches and the Micro.blog uploads page. I can click a bookmark (from within Obsidian), and it opens the Uploads page so I can upload photos for a post I want to write. I can then copy the markdown from those photos and paste it into my post that I'm writing in Obsidian.\n\n## Micro.publish\nA great plugin that has been around for a while, it lets you easily publish from Obsidian to Micro.blog. The one feature it is still missing is the ability to upload images. This is why I upload the photo first to Micro.blog, copy the markdown, and paste it into my draft post. I don't use images often, so it's not a big deal.\n\n## Bases\nBases is a new core plugin that lets you create filtered tables and views from your data using the metadata properties you tag to your note. I haven't used it much yet, but I like the idea of using it to track status of notes, etc. We'll see how it goes.\n\n## Separate Vaults\nI'm using separate vaults for Work and Personal because I don't want to get them mixed in any way. I don't want any personal notes on my work computer. Originally, I was starting with one vault and excluding my personal folders from syncing to my work machine. That worked, but it was too tedious to maintain since I keep adding and changing folders. I don't see a good reason to keep them together anyway.\n",
 				"date_published": "2025-06-20T13:51:51-04:00",
 				"url": "https://ericgregorich.blog/2025/06/20/playing-with-obsidian-again/",
-				"tags": ["apps"]
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2025/06/17/mission-impossible/",
@@ -28,7 +64,7 @@
 				"id": "http://ericgregorich.micro.blog/2025/06/15/the-family-cooked-up-a/",
 				
 				"content_html": "<p>The family cooked up a wonderful homemade Father’s Day dinner, featuring chicken parmesan.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The family cooked up a wonderful homemade Father’s Day dinner, featuring chicken parmesan. \n\n<img src=\"uploads/2025/09ec34b17b.jpg\" width=\"600\" height=\"402\" alt=\"\">\n",
+				"content_text": "The family cooked up a wonderful homemade Father’s Day dinner, featuring chicken parmesan. \n\n<img src=\"https://cdn.uploads.micro.blog/229244/2025/09ec34b17b.jpg\" width=\"600\" height=\"402\" alt=\"\">\n",
 				"date_published": "2025-06-15T21:04:03-04:00",
 				"url": "https://ericgregorich.blog/2025/06/15/the-family-cooked-up-a/",
 				"tags": ["food"]
@@ -49,7 +85,7 @@
 				"content_text": "In an effort to utilize my iPad mini more for writing and note-taking, I purchased a simple [keyboard case](https://a.co/d/7aSm7eh) for it.\n\nThe keyboard works well, but I need to slightly scrunch my fingers together, and it takes some getting used to. I also need to learn some keyboard shortcuts.\n\nThe keyboard itself attaches magnetically, making it easy to remove from the screen when I want to read. It also has backlighting. \n\nIt’s pretty good quality and lightweight overall. Pretty happy with it so far.\n",
 				"date_published": "2025-06-11T15:18:58-04:00",
 				"url": "https://ericgregorich.blog/2025/06/11/ipad-mini-keyboard-case/",
-				"tags": ["technology"]
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2025/06/10/rssrssrss-free-tool-to-merge/",
@@ -67,7 +103,7 @@
 				"content_text": "I discovered in iOS 26 developer beta you can swipe down from the top of the screen in any app to get a full menu bar, just like you would see in macOS. \n\nThis is quite handy as it lets you quickly get to hidden settings, features, and see keyboard shortcuts at a glance. \n",
 				"date_published": "2025-06-10T22:29:41-04:00",
 				"url": "https://ericgregorich.blog/2025/06/10/i-discovered-in-ios-developer/",
-				"tags": ["technology"]
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2025/06/10/each-year-i-revert-to/",
@@ -76,7 +112,7 @@
 				"content_text": "Each year, I revert to Apple’s default apps (Mail, Calendar, Reminders, Notes) with new developer betas to see if they suit my workflow. This year is no different. Let’s see how long I stick with them before switching again. :)\n",
 				"date_published": "2025-06-10T15:37:36-04:00",
 				"url": "https://ericgregorich.blog/2025/06/10/each-year-i-revert-to/",
-				"tags": ["technology","apps"]
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2025/06/10/im-trying-the-ios-beta/",
@@ -101,8 +137,7 @@
 				"content_html": "<p>The <a href=\"https://usetrmnl.com/\">TRMNL</a> is an e-ink display that serves as a dashboard for your calendar, weather, stocks, RSS feeds, Apple Photos, and more. Its open platform allows developers to build and share their own apps. I won&rsquo;t get one now, but I&rsquo;ll keep an eye on it.</p>\n",
 				"content_text": "The [TRMNL](https://usetrmnl.com/) is an e-ink display that serves as a dashboard for your calendar, weather, stocks, RSS feeds, Apple Photos, and more. Its open platform allows developers to build and share their own apps. I won't get one now, but I'll keep an eye on it.\n",
 				"date_published": "2025-06-08T09:46:15-04:00",
-				"url": "https://ericgregorich.blog/2025/06/08/trmnl/",
-				"tags": ["apps"]
+				"url": "https://ericgregorich.blog/2025/06/08/trmnl/"
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2025/06/07/this-greater-goods-coffee-is/",
@@ -146,7 +181,7 @@
 				"content_text": "I’ve experimented with many e-ink devices over the past few years, hoping to find a device that could help reduce distractions and make it easier to read books and online articles. Some even had note-taking capabilities that I swore would \"change my life.\"\n\nEvery one of them has failed me (or perhaps I should say, I failed them).\n\nMy Journey Through Devices\n\nMy first e-ink device was the Amazon Kindle. I don’t remember which version, but I’ve almost always had the most recent Paperwhite. If you're embedded in the Amazon Kindle ecosystem and only read, these Kindles are great. But that’s all they're good for.\n\nMy first e-ink note-taking device was the reMarkable 2. I still think this is a great device for taking notes. However, over time, I simply stopped using it. The reading experience was excellent, but getting content onto the device was a challenge. Things may be better in the newer reMarkable Paper Pro, but wow, it’s expensive.\n\nI sold my reMarkable 2 and purchased an iPad Pro, thinking it would solve all my problems. It turned out to be a great device for consuming video, but too bulky for reading books and articles. Note-taking is great, thanks to the diverse app options and the Apple Pencil. Yet, I never used it much for notes. I like handwriting notes but found the iPad Pro simply too bulky.\n\nI again focused on the e-ink world and tried out the Boox Palma. It seemed like a great portable device for reading. I was interested in the Palma because I was traveling a lot at the time, as my daughter was playing travel softball, and the portable size was great. But, my daughter graduated, and the softball trips ended. At home, I slowly stopped using the Palma.\n\nI then briefly went back to the Amazon Kindle. Wanting to break away from Amazon, I tried the Kobo Clara Colour. I was interested in reading graphic novels and comics at the time. The Kobo is a great little device. However, I didn’t have a good way to take notes, and the content selection was slightly limited. Also, I actually found the device too small and limited, similar to the Palma.\n\nNext, I tried the Boox Go Color 7. This device was interesting because it runs full Android, opening up many software options. I was running Kindle, Kobo, Libby, Readwise Reader, and trying out some other apps as well. Overall, it’s a pretty good device, but something was still missing.\n\nI recently purchased the latest Apple iPad Mini with the A17 Pro chip. So far, it checks most of the boxes.\n\nWhat Do I Really Need?\n\nIf I spend some time reflecting on what I really want and need from this device, I realize I need to dig deeper into my expectations and compare them with reality.\n\nWhat I \"wanted\" was an all-in-one device where I could take all my notes, read and watch all my content, and avoid distractions. I was expecting to transform my digital life into something closer to analog.\n\nIn reality, I find I don’t take a lot of notes. What works for me is jotting down tasks and notes throughout the day on a piece of paper. Today, I’m using the Apple Notes app for this on the iPad. The ability to tap my lock screen with the Pencil and start writing in today’s note is enough. I’ve also been using Apple Notes to capture miscellaneous notes, receipts, documents, journal-type entries, etc. I even have several notes shared with my family, which is quite handy.\n\nAs far as reading, I’m pushing myself to read more books. I have purchased many physical books over the past couple of years and find them the best reading experience. Yet, reading on the iPad Mini is extremely convenient. I use Readwise to capture my highlights and notes and Readwise Reader to keep up with RSS feeds, articles, and PDFs I want to read later. Readwise works flawlessly on the iPad Mini. I can use Kindle, Kobo, Libby, YouTube, or whatever else I want to consume content on the iPad Mini.\n\nWhen it comes to blocking distractions, an e-ink reader is great because they’re so limited. The ones that are \"full-featured,\" like the Boox Go 7, are still slow and clunky due to how the screen refreshes. They are still great devices for simply reading but limited for other tasks.\n\nI have set up Focus Modes on the iPad and other tricks to limit distractions. I also removed nearly everything from my phone with the intention to use the iPad for consumption and productivity. I realize, I’m just trading one device for another, almost identical device, but hey, I’m trying. \n\nI’m sure I’ll change my mind again in the future. I’ll throw in a physical book or notebook when I’m needing to go more analog, but for now, the iPad Mini is my go-to device.\n",
 				"date_published": "2025-05-25T17:49:31-04:00",
 				"url": "https://ericgregorich.blog/2025/05/25/my-new-ipad-mini/",
-				"tags": ["technology"]
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2025/04/05/a-framework-for-thinking-about/",
@@ -217,7 +252,7 @@
 				"content_text": "> \"And if the robots don’t rise up, if our creations don’t come to life and take the power we have used so badly for so long away from us, who will? What we fear isn’t that AI will destroy us—we fear it won’t. We fear we will continue to degrade life on this planet until we destroy ourselves.\" (Ray Nayler, The Mountain in the Sea)\n",
 				"date_published": "2025-01-11T08:00:00-04:00",
 				"url": "https://ericgregorich.blog/2025/01/11/and-if-the-robots-dont/",
-				"tags": ["books","technology"]
+				"tags": ["books","tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2025/01/10/boox-go-color/",
@@ -226,7 +261,7 @@
 				"content_text": "A few days ago, my [Boox Go Color 7](https://shop.boox.com/products/gocolor7) arrived. Yes, I did just start using a Kobo Clara, which I wrote about [here](https://ericgregorich.blog/2024/12/28/switching-from-kindle-to-kobo.html).\n\nThe main reason I wanted to try the Boox is that I can run any Android app on it. This means Readwise, Kindle, Kobo, Libby, and even [Micro.blog](Micro.blog).\n\n![The Boox Go Color 7](https://ericgregorich.micro.blog/uploads/2025/0a3cf4dd95.jpg)\n\nIt took me a couple of weeks to make the decision to even try the Boox. I had the device in my cart several times, then removed it, then added it back later. I couldn't make up my mind. I decided I could try it and then decide which device I'll keep and return the other.\n- The Boox Go is slightly larger than the Kobo Clara. The Clara was noticeably small, and I found myself thinking it needed to be slightly larger but still very comfortable and light. \n- I'm still able to read Kindle, Kobo, Libby, or transfer my own books to the device.\n- I'm a pretty heavy user of Readwise Reader, and the app works great on Boox (with some minor configuration tweaks).\n- I like the hardware buttons.\n- The Clara shares a name with my mother-in-law. Weird.\n\nI'm going to return the Kobo Clara and keep the Boox Go Color 7.\n\nIf someone asked me which I would recommend, my answer would be it depends on if you want it to just work (go with the Kobo) or want options and are willing to tinker a bit (go with the Boox).\n\n",
 				"date_published": "2025-01-10T19:06:41-04:00",
 				"url": "https://ericgregorich.blog/2025/01/10/boox-go-color/",
-				"tags": ["technology","apps"]
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2025/01/10/ultimately-that-is-all-chatgpt/",
@@ -330,7 +365,7 @@
 				"content_text": "On the surface, [Reflect](https://reflect.app/home#connected) is as simple as it gets. When I open the app, I'm right on my daily note, when starting a new note, I get a blank screen. No toolbars, no bright shiny Share buttons, no distractions.\r\n\r\n![A screenshot of Reflect.app with a new note created.](https://cdn.uploads.micro.blog/229244/2025/reflect-new-blank-note.png)\r\n\r\nUnder the covers, there is a lot to like:\r\n- End-to-end encryption\r\n- Markdown support\r\n- Keyboard shortcuts\r\n- Backlinks\r\n- Image and PDF OCR\r\n- A simple tasks interface\r\n- Voice note transcription\r\n- Built-in AI (OpenAI or Anthropic) for manipulating text, creating custom prompts, or even chatting with AI about selected notes\r\n- Readwise (or direct Kindle) sync\r\n- Import and export of notes in Markdown and other formats\r\n\r\nReflect feels like writing in the default notepad app on my OS, but with superpowers. The one big downside is the price tag: a $120 annual subscription. I've been using Reflect for a year and tried switching to Obsidian, but I keep coming back.\r\n\r\nThe [Reflect YouTube channel](https://www.youtube.com/@reflect-notes) is a great resource for anyone interested.\r\n\r\n",
 				"date_published": "2025-01-02T19:10:01-04:00",
 				"url": "https://ericgregorich.blog/2025/01/02/starting-with-the-reflect-notes/",
-				"tags": ["technology","apps"]
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2025/01/02/i-try-to-avoid-having/",
@@ -426,7 +461,7 @@
 				"content_text": "I was listening to Scott Hanselman's [Hanselminutes podcast](https://www.youtube.com/watch?v=z_pPJvLjNrk) with guest [Maggie Appleton](https://maggieappleton.com/), and they were talking about AI.  \n\nI agree with the discussion that LLMs (AI), in their current state, are best used for rubber ducking.  \n\nWhat is rubber ducking? It's a term often used by developers where the idea is that you have a rubber duck on your desk that you talk through a problem with. You don't necessarily need another person for this; often, you need to talk through the problem with yourself in order to discover the answer.  \n\nToday's LLMs excel at this. Give it a prompt that will act as a guide. Tell it to ask you questions about the problem. Let it answer questions, but respond with more questions for you to answer. \n\nThe back-and-forth is invaluable for figuring out problems and thinking through topics. You can do this on your own, but a good LLM can give you a big boost. \n",
 				"date_published": "2024-12-26T21:12:38-04:00",
 				"url": "https://ericgregorich.blog/2024/12/26/ai-in-its-current-state/",
-				"tags": ["technology"]
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2024/12/26/cards-theme-v/",
@@ -460,7 +495,7 @@
 				"content_text": "I've been using the Whoop band for a couple of months now. My main reason for using Whoop is that I can wear it on my bicep and forget about it. Then, I get all kinds of data that I can use to improve my health.\n\nI love data. But I hate digging for it.\n\nOne of the cool features is the use of AI within the Whoop app. With access to all of your data, the Whoop AI can tell you what you \"should\" be doing and give you better answers about what you did and how it impacts your health.\n\nAs a casual user, I appreciate this. Without digging through the app, I can ask things like, “How much time did I spend in Zone 2 this week?” and “How much time should I spend in Zone 2 this week?” and I get direct answers based on my data.\n\nEven better, the daily insights usually provide the most relevant answers before I even need to ask them. I can see how much I should push myself today. It even provides recommendations of what workouts to do based on my past workouts. It's pretty useful.\n",
 				"date_published": "2024-12-22T16:23:11-04:00",
 				"url": "https://ericgregorich.blog/2024/12/22/whoop-ai/",
-				"tags": ["technology"]
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2024/12/22/a-quiet-week-at-work/",
@@ -477,7 +512,7 @@
 				"content_text": "I just discovered that the Obsidian Web Clipper also works on iOS! I'll need to use Safari since it's a Safari extension, but that's okay.\n\nI struggled with importing my settings. I had to import each template manually, and configuring the Interpreter was a bit of a pain, but it works!\n",
 				"date_published": "2024-12-22T11:07:50-04:00",
 				"url": "https://ericgregorich.blog/2024/12/22/obsidian-web-clipper-works-on/",
-				"tags": ["technology","apps"]
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2024/12/20/default-apps/",
@@ -486,7 +521,7 @@
 				"content_text": "Inspired by the [Hemispheric Views podcast](https://defaults.rknight.me/), here is my annual list of Default Apps for 2024. My list seems pretty boring (to me). It's changed a good deal over the year, but this is what I'm currently using and what seems to be sticking with me for now.\n\n- 📨 Mail Client: Hey [^1]\n- 📮 Mail Server: Hey [^1]\n- 📝 Notes: Obsidian [^2]\n- ✅ To-Do: Things 3 iOS\n- 📷 iPhone Photo Shooting: Default camera app.\n- 🟦 Photo Management: Apple Photos\n- 📆 Calendar: Apple Calendar\n- 📁 Cloud File Storage: Apple iCloud\n- 📖 RSS: Readwise Reader\n- 🙍🏻‍♂️ Contacts: Hey [^1] and Apple Contacts\n- 🌐 Browser: Edge on Windows. Orion on iOS\n- 💬 Chat: Apple Messages. Signal.\n- 🔖 Bookmarks: Obsidian [^3]\n- 📑 Read It Later: Readwise Reader\n- 📜 Word Processing: Obsidian\n- 🛒 Shopping Lists: Our Grociers iOS\n- 🍴 Meal Planning: N/A\n- 💰 Budgeting and Personal Finance: YNAB\n- 📰 News: RSS\n- 🎵 Music: Apple Music\n- 🎤 Podcasts: Overcast\n- 🔐 Password Management: 1Password\n- 🔎 Search: Kagi [^4]\n- 🌍 Blogging Platform: Micro.blog and Pika\n\n[^1]: I like Hey, but is it worth $99 a year? I'll reevaluate when its time.\n[^2]: I'm working on transitioning all of my notes (worth keeping) from Apple Notes, Upnote, Reflect, Evernote, Drafts, and anywhere else I may have them stored.\n[^3]: I've been using Obsidian Web Clipper to save bookmarks into Obsidian. It's lacking on mobile though.\n[^4]: I love Kagi, but have been experimenting with Perplexity and even ChatGPT Web search. \n",
 				"date_published": "2024-12-20T14:35:19-04:00",
 				"url": "https://ericgregorich.blog/2024/12/20/default-apps/",
-				"tags": ["fun","apps"]
+				"tags": ["fun","tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2024/12/19/maybe-ill-give-the-cards/",
@@ -503,7 +538,7 @@
 				"content_text": "One of my goals over the next couple of weeks, while I’m off work, is to move all of my notes from various places into Obsidian.\n\nSomehow, I get notes scattered all over we then place in various apps. I need to move them and cut out these other apps from my system. \n",
 				"date_published": "2024-12-18T12:15:37-04:00",
 				"url": "https://ericgregorich.blog/2024/12/18/one-of-my-goals-over/",
-				"tags": ["apps"]
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2024/12/15/microsoft-copilot-experiment-day/",
@@ -512,7 +547,7 @@
 				"content_text": "I've been trying Microsoft Copilot for the past couple of days. I've been jumping around between Perplexity, Kagi Assistant, ChatGPT, Claude, Grok, and Google's Gemini trying to better understand which may work best for me long-term.\r\n\r\nCopilot was recently updated with a simple and friendly UI. It's nice to use. However, I don't see any advanced features that power users will certainly want in their AI assistant. No projects, prompt configuration, no option to switch LLMs. The Pro version offers a simple \"Think Deeper\" button that, when clicked, switches to a more advanced model that helps the conversation go deeper. You'll also get priority access and other perks with Pro.\r\n\r\nThere is a Copilot Daily feature that reads today's top headlines. Today's headlines included a public service message to turn off lights when not in use, and headlines about the Apex fossil in the NY museum, Trump's goal to end daylight savings time, MicroStrategy to join Nasdaq-100 Index, Jared Padalecki's holiday message, and incentives to attract new residents in other countries. Overall, a good mix and summary of each. It was convenient to listen to it the past couple of days. As far as the ongoing content, we'll see.\r\n\r\nIt's obvious Microsoft is trying to make Copilot the \"everyday user's\" AI. Since Copilot is included front-and-center, for better or worse, on Windows machines going forward, they want it to be as simple as possible.\r\n\r\nI'm not convinced any Power User will want to use it. But, I need more time with it to see if I'm missing anything. The Pro version of Copilot is the standard $20 per month. I'll certainly need to try more advanced tasks to see if it's even worth considering.\n",
 				"date_published": "2024-12-15T11:41:54-04:00",
 				"url": "https://ericgregorich.blog/2024/12/15/microsoft-copilot-experiment-day/",
-				"tags": ["technology"]
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2024/12/14/ive-been-going-all-in/",
@@ -750,7 +785,7 @@
 				"content_text": "I finally installed the iOS 18 beta. I hear battery is decent and it’s pretty stable. Frankly, I’m surprised I waited so long. I usually jump right on the betas. \n",
 				"date_published": "2024-08-18T15:35:08-04:00",
 				"url": "https://ericgregorich.blog/2024/08/18/i-finally-installed-the-ios/",
-				"tags": ["technology"]
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2024/08/17/ive-been-using-a-lamy/",
@@ -775,7 +810,7 @@
 				"content_text": "I moved our company development Wiki from Azure DevOps into Obsidian Publish. With local markdown and one-click publishing, it's been the solution that stuck with us. My company gladly paid for the commercial license and the Publish service. \n",
 				"date_published": "2024-08-10T15:10:44-04:00",
 				"url": "https://ericgregorich.blog/2024/08/10/i-moved-our-company-development/",
-				"tags": ["apps"]
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2024/08/10/currently-reading-right-thing-right/",
@@ -793,7 +828,7 @@
 				"content_text": "Finished reading: [Co-Intelligence](https://micro.blog/books/9780593716724) by Ethan Mollick 📚\n\nThis book covers “AI” at a high level, including what AI is today and the possibilities of what it can be in the future. It touches on the ethics and regulation. Overall, the author was optimistic about AI if we learn to use it properly. \n",
 				"date_published": "2024-08-10T13:34:36-04:00",
 				"url": "https://ericgregorich.blog/2024/08/10/finished-reading-cointelligence-by-ethan/",
-				"tags": ["books","technology"]
+				"tags": ["books","tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2024/08/09/finished-reading-a-system-for/",
@@ -844,7 +879,7 @@
 				"content_text": "I had the opportunity to demo the Apple Vision Pro yesterday. The following is a write-up of my experience.\n\n## The Demo\n\nMy store had a section blocked off with a couple of tables where a few people could do the demo simultaneously. Unfortunately, it was a sitting experience and quite loud in the room. It was not the ideal setup because of the noise and the other people in my “view,” but it didn’t deter the experience much.\n\n## The Hardware\n\nApple took my current glasses so they could add the appropriate lease to my demo device. While I waited, my guide told me what to expect and what her experience was with her first demo.\n\nThe device is very slick, made of high-quality materials, and looks very premium—precisely what you would expect from Apple.\n\nI didn’t think much of the weight at first. I adjusted my straps, and while I could tell the weight was in the front, it didn’t seem significant or uncomfortable. A 20-minute demo is not enough to know.\n\nOne of the things I didn’t think about until after the demo was the audio. Nothing covers the ears, yet the audio sounded fairly good, even in a noisy room. It's different from with good headphones or a living-room sound system, but it's impressive, nonetheless.\n\n## The UI\n\nAfter some adjustments, the demo started. When things booted up, I looked to the side, where my UI was “stuck.” So, as I waited, I looked elsewhere and didn’t even see the boot-up sequence, where you’re looking when your Home Screen loads, which is where it will stay until you move it.\n\nI remember glancing to the side and noticing the Home Screen floating there, and then I realized what was happening. I adjusted.\n\nThe UI looks spectacular. It just floats there in front of you. It looks as if you can touch it. Everything has a “soft” look to it. The area you’re looking at is crisper than the surrounding area, as in real life. This also makes it possible to put more processing power into the area you’re looking at rather than what you’re not.\n\nAs I look around with my eyes, the icons light up. Your eyes are your primary navigation (without getting into the accessibility options).\n\nClicking a selected UI element is evident. Tap your fingers together. I initially held my hands up when I did this, but I realized that was not necessary. As long as my hands were not obstructed under the table, it worked fine while resting.\n\nThere are other gestures for scrolling and zooming.\n\n## The Environments\n\nI was then guided through the UI and the “Environments” that could be enabled using your “Digital Crown” on the headset itself. You could fade the environment in and out. This allows you to sit in the Alaskan mountains or on a beach while you work or play.\n\n## Photos and Videos\n\nNext, I took a tour of some photos taken on various iPhones. Initially, they were standard photos that looked great. I could easily resize and zoom in and out. Next were the spatial photos, which were taken from newer iPhones or the Vision Pro itself. These photos were much more realistic and had a depth that didn’t look “fake 3D” but more lifelike than any other photo I’ve seen.\n\nI then experienced the video, in which I’m sitting at a table with the family watching the young girl blowing out her birthday cake candles. This was the first “oh wow” that came out of my mouth. Other than the limited field of view from the goggles, it felt like I was sitting in the room.\n\nAfter experiencing this, I genuinely understand why we would want to record these moments so that we may watch them again whenever we want. It was remarkable. On the other hand, I don’t envision myself wanting to wear a Vision Pro during these moments. Maybe recording with a phone instead. There needs to be a better way to record these moments without being taken out of the moment itself.\n\n## Movies\n\nNext, there was a quick demo of the Mario movie. During this, I was able to resize the window to “Movie Screen” size and experience what it is like to watch a movie with the Vision Pro. I could envision myself watching movies on this device. However, some movies are ideal for Vision Pro, while others may not. This video explains it well.\n\n## The Recap\n\nLast was a 5-minute video that explored various landscapes, including mountain climbing, flying, interacting with rhinos, and a few other things.\n\nI did back up when the Rhine came at me. I could feel things slightly that were not there, like the mist or the chilly rain. My mind was filling in the gaps. It was cool.\n\n## The demo ends\n\nThis concluded my demo. I was a bit disappointed it ended so quickly. I expected to see some dinosaurs, touch a butterfly, and experience the mindfulness features. Not only that, but I didn’t experience Personas or what it would be like to use a Mac or take a Zoom call—things I would expect to use in real life.\n\n## Motion Sickness\n\nI’m someone who gets motion sickness quickly. I can’t ride in the back seat of a car on long trips or ride rollercoasters. Yet, I didn’t have any problems at all with the Vision Pro. I may have felt slightly unbalanced when I was suddenly on a high tightrope looking over a river. But that’s part of the experience.\n\n## Long Periods?\n\nCould I use the Vision Pro for extended periods? Could I use it to work on my computer? Read a book? Watch movies? I don’t know for sure. While the device was comfortable during the 20 minutes I wore it, I did notice I was very sweaty when I took it off. I would imagine it would get uncomfortable to use it for more than a couple of hours at a time.\n\n## Antisocial?\n\nA big issue with the Vision Pro is that it is primarily a solo experience. While you can optionally see other people in the room and interact with them, they won’t see what you see. What if I want to watch a show with my wife or a movie with my kids? I suspect Apple will resolve this over time. There will be more ways to have a shared experience, assuming each of you has a Vision Pro.\n\n## Will I buy a Vision Pro?\n\nI react similarly to Vision Pro as most people do. It’s technically outstanding but too expensive, and I don’t think I would use it enough.\n\nNo, I won’t buy this first version of the Apple Vision Pro.\n\nI will undoubtedly watch the following versions to see how Apple improves things. If they make it a little lighter, a lot cheaper, and more capable (especially in multi-player), then it will be much more interesting for me.\n\nAs it stands, I don’t know if there are many benefits to the Vision Pro as a “productivity” device. It could replace your expensive monitors. Then, you can easily take your setup with you, even to a coffee shop.\n\nThere are certainly some situations that sound wonderful with the Apple Vision Pro. I don’t think there’s a difference between comfort and battery life yet. I’m excited to see what it looks like in a few years.\n",
 				"date_published": "2024-07-24T00:00:00-04:00",
 				"url": "https://ericgregorich.blog/2024/07/24/my-apple-vision-pro-demo/",
-				"tags": ["technology"]
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2024/07/20/it-seems-that-perfection-is/",
@@ -878,8 +913,7 @@
 				"content_html": "<p>I&rsquo;m starting to enjoy using the sidebar in Vivaldi. It&rsquo;s been useful for showing email from Proton, notes from Reflect, RSS from Sublime Feed, Mastodon, Micro.blog, and more. I&rsquo;m trying to get more familiar with the keyboard navigation and Quick Commands feature as well. Overall, I&rsquo;m impressed.</p>\n",
 				"content_text": "I'm starting to enjoy using the sidebar in Vivaldi. It's been useful for showing email from Proton, notes from Reflect, RSS from Sublime Feed, Mastodon, Micro.blog, and more. I'm trying to get more familiar with the keyboard navigation and Quick Commands feature as well. Overall, I'm impressed.\n",
 				"date_published": "2024-06-25T19:33:17-04:00",
-				"url": "https://ericgregorich.blog/2024/06/25/im-starting-to-enjoy-using/",
-				"tags": ["apps"]
+				"url": "https://ericgregorich.blog/2024/06/25/im-starting-to-enjoy-using/"
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2024/06/24/fallout-i-enjoyed-the-show/",
@@ -887,7 +921,8 @@
 				"content_html": "<p>📺 <a href=\"https://www.themoviedb.org/tv/106379\">Fallout (2024)</a> - ★★★★★</p>\n<p>I enjoyed the show. it felt a lot like the game. It was pretty gory, which may put some people off, but I still found it fun to watch.</p>\n",
 				"content_text": "📺 [Fallout (2024)](https://www.themoviedb.org/tv/106379) - ★★★★★\n\nI enjoyed the show. it felt a lot like the game. It was pretty gory, which may put some people off, but I still found it fun to watch. \n",
 				"date_published": "2024-06-24T20:08:16-04:00",
-				"url": "https://ericgregorich.blog/2024/06/24/fallout-i-enjoyed-the-show/"
+				"url": "https://ericgregorich.blog/2024/06/24/fallout-i-enjoyed-the-show/",
+				"tags": ["fun"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2024/06/23/this-is-a-test-to/",
@@ -904,7 +939,7 @@
 				"content_text": "Well, my Logitech mouse now has [AI integration](https://www.logitech.com/en-us/software/logi-ai-prompt-builder.html). Assign a mouse button to trigger it. Select some text, and trigger the button. It will open a dialog to help you build a custom prompt, and then you can send it to ChatGPT.  At least it's optional and doesn't have AI Built in, it only creates a prompt.\n",
 				"date_published": "2024-06-23T09:34:05-04:00",
 				"url": "https://ericgregorich.blog/2024/06/23/well-my-logitech-mouse-now/",
-				"tags": ["technology"]
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2024/06/23/i-installed-the-unhook-extension/",
@@ -936,8 +971,7 @@
 				"content_html": "<p>I&rsquo;m seriously considering installing Linux on my Surface Laptop 3 to try it out again. If it sticks, I’d buy a new laptop.</p>\n<p>Most of the apps I use already run on Linux, so I don’t think I would lose much on the software side.</p>\n",
 				"content_text": "I'm seriously considering installing Linux on my Surface Laptop 3 to try it out again. If it sticks, I’d buy a new laptop. \n\nMost of the apps I use already run on Linux, so I don’t think I would lose much on the software side. \n",
 				"date_published": "2024-06-09T08:34:13-04:00",
-				"url": "https://ericgregorich.blog/2024/06/09/im-seriously-considering-installing-linux/",
-				"tags": ["apps"]
+				"url": "https://ericgregorich.blog/2024/06/09/im-seriously-considering-installing-linux/"
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2024/06/08/my-plans-for-this-weeks/",
@@ -1081,7 +1115,7 @@
 				"content_text": "I’m still using Feedbin as my one-stop for RSS, YouTube, and Newsletters. However, I started using the ReadKit app on iOS and macOS to sync my feeds. \n\nI’m enjoying it quite a bit. It’s easy to swipe over to get the actual post, which is great for some types of content, like Micro.blog the timeline. \n",
 				"date_published": "2024-05-04T06:54:04-04:00",
 				"url": "https://ericgregorich.blog/2024/05/04/im-still-using-feedbin-as/",
-				"tags": ["technology"]
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2024/05/02/i-added-the-archive-page/",
@@ -1106,7 +1140,7 @@
 				"content_text": "\n[Cortex 154: Workplace Therapy with Grey](https://overcast.fm/+E7b4qooA8)\n\nI'm listening to Cortex 154, and they talk about email and Apple's Focus Modes. They have the same [grip I have with Focus Modes](https://overcast.fm/+E7b4qooA8/55:10). I would rather not see the preview showing me what I'm missing. Show me when I leave the focus mode, not during!\n",
 				"date_published": "2024-04-27T11:04:25-04:00",
 				"url": "https://ericgregorich.blog/2024/04/27/cortex-workplace-therapy-with-grey/",
-				"tags": ["technology"]
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2024/04/27/is-the-web-falling-apart/",
@@ -1115,7 +1149,7 @@
 				"content_text": "\nEverywhere I look, I see negative posts about how the web is falling apart. Either by AI, politics, big corporations and a dozen other reasons. \n\nAnd everyone who hates seeing this happen seems to constantly write it. How they hate what the internet has become and miss what it once was. This seems to feed into the negativity. \n\nI hope things settle soon. I hope we get back to smaller, stronger communities where we can have civilized discussions about our concerns but still have fun and share interesting things. \n\nThese communities certainly exist. I feel like I'm a part of one here at Micro.blog and Mastodon. \n",
 				"date_published": "2024-04-27T08:58:44-04:00",
 				"url": "https://ericgregorich.blog/2024/04/27/is-the-web-falling-apart/",
-				"tags": ["technology"]
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2024/04/22/210948/",
@@ -1157,7 +1191,7 @@
 				"content_text": "🔗 <a href=\"https://coleb.blog/posts/how-to-trust-the-internet\" class=\"u-in-reply-to\">How to Trust the Internet - *coleb.blog*</a>\n\n> I would love to see search results tagging AI articles as such, so we know before we click. Or browser extentions that show if a web article was written by an AI model. These features would go a long way in restoring my trust in the internet.\n\nI’d rather AI-generated content like this not be allowed on the internet at all. However, I wonder, if search engines could display an indicator of AI content, that content would get substantially less traffic and desensitize this type of content to begin with. \n",
 				"date_published": "2024-04-21T08:03:03-04:00",
 				"url": "https://ericgregorich.blog/2024/04/21/how-to-trust-the-internet/",
-				"tags": ["technology"]
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2024/04/19/boox-palma-i-really-want/",
@@ -1166,7 +1200,7 @@
 				"content_text": "🔗 [ BOOX Palma ](https://shop.boox.com/products/palma)\n\nI really want to try this device. I'm happy with my Kindle Scribe for reading, but having a phone sized device that I as an ereader and access to Android apps would be cool.\n",
 				"date_published": "2024-04-19T13:33:30-04:00",
 				"url": "https://ericgregorich.blog/2024/04/19/boox-palma-i-really-want/",
-				"tags": ["technology"]
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2024/04/18/johnnydecimal-emerging-from-the-abyss/",
@@ -1216,7 +1250,7 @@
 				"content_text": "🔗 <a href=\"https://heydingus.net/shortcuts/publish-quote\" class=\"u-in-reply-to\">Publish Quote shortcut - HeyDingus // Jarrod Blundy // *heydingus.net*</a>\r\n\r\n> Use Apple Shortcuts to publish a copied blockquote, with or without commentary, to Micro.blog.\r\n\r\nTesting the Publish Quote shortcut to quickly post to Micro.blog. \n",
 				"date_published": "2024-04-11T19:45:04-04:00",
 				"url": "https://ericgregorich.blog/2024/04/11/publish-quote-shortcut-heydingus-jarrod/",
-				"tags": ["technology"]
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2024/04/09/what-about-anonymous-blogging-kev/",
@@ -1276,7 +1310,7 @@
 				"content_text": "<p><a href=\"https://havn.blog/2024/03/07/no-apple-youre.html\">Apple Is Not the Reason I’m Buying Apple Products - These People Are</a></p>\n<blockquote>\n<p>The things Apple makes and does isn’t the main reason I keep buying Apple products. It’s all the fantastic third-party developers, mostly indie, who make great software for the Apple platforms.</p>\n</blockquote>\n<p>This is a great point. When I switched to iPhone and Mac years ago, it was for the unique, high-quality apps that were missing on Windows and Android.</p>\n",
 				"date_published": "2024-03-20T09:04:33-04:00",
 				"url": "https://ericgregorich.blog/2024/03/20/apple-is-not-the-reason/",
-				"tags": ["technology","apps"]
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2024/03/17/finished-reading-the-mountain-in/",
@@ -1285,7 +1319,7 @@
 				"content_text": "<p>Finished reading: <a href=\"https://micro.blog/books/9780374605964\">The Mountain in the Sea</a> by Ray Nayler 📚</p>\n<p>Humans find an octopus colony that appears to have culture and language, and are defending themselves from the outside world (humans). While it may sound far-fetched, the book was very grounded in a near future reality. The story dives into deep topics such as AI, Androids, what is consciousness, and what makes us human.</p>\n<p>This was a sci-fi book that felt real and made me think about these topics even when I wasn’t reading. I really enjoyed it.</p>\n",
 				"date_published": "2024-03-17T10:37:18-04:00",
 				"url": "https://ericgregorich.blog/2024/03/17/finished-reading-the-mountain-in/",
-				"tags": ["books","technology"]
+				"tags": ["books","tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2024/03/14/my-inoreader-subscription-expires-today/",
@@ -1293,8 +1327,7 @@
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>My Inoreader subscription expires today. I didn’t auto-renew. I’ve grown to truly enjoy Inoreader in many ways. On the other hand, I’ve enjoyed Feedbin in the past, and it’s cheaper. I started a Feedbin 30-day trial to give it another go. The countdown begins.</p>\n",
 				"date_published": "2024-03-14T08:38:11-04:00",
-				"url": "https://ericgregorich.blog/2024/03/14/my-inoreader-subscription-expires-today/",
-				"tags": ["apps"]
+				"url": "https://ericgregorich.blog/2024/03/14/my-inoreader-subscription-expires-today/"
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2024/03/12/a-purpose-for-obsidian/",
@@ -1303,7 +1336,7 @@
 				"content_text": "<p>I’ve had an off and on relationship with Obsidian for some time now. I want to love the app, but after using it for a period, I always end up frustrated, and I move to something else.</p>\n<p>I’ve started to use Obsidian in a way that works for me. More on that in a minute. First some venting.</p>\n<p>I don’t know exactly what it is that I don’t like about Obsidian.</p>\n<p>I think it’s the way you interact with files. It’s also the ugly search, file presentation, backlinks, and so many other things that irritate me. It all seems to work okay, but not for me. If I were to try to pinpoint a part of Obsidian that I don’t like, it’s the Organization of my content. It all makes sense in theory, but execution is where it gets me.</p>\n<p>Obsidian has failed me when I tried to use it as a Notes application. When I attempt to use it as a Capture tool, then make connections between notes, etc. All of that PKM jargon I’ve come to find pretty useless for me.</p>\n<p>The other thing that I have a love/hate relationship with is the Plugins. On one hand, Obsidian can be very overwhelming with everything that’s possible. On the other hand, I can make Obsidian work the way I want it to, by enabling or disabling third-party and core plugins.</p>\n<p>Now that the venting is out of the way, I’ll talk about how I started to use Obsidian and make it work for me.</p>\n<p>What I do love about Obsidian is that it is local-first. My files are simple Markdown text files that live on my computer. I can take them anywhere, and use them with other applications.</p>\n<p>I also like the writing experience in Obsidian, mostly. The Live Preview Markdown mode can be weird sometimes, but for simple writing, it’s pretty good.</p>\n<p>The other thing I’ve come to quite enjoy is how I can write something and publish to Micro.blog using the Micro Publish plugin. It’s pretty seamless. I can’t wait for image support!</p>\n<p>I now open Obsidian to a blank screen, which creates a new note in the Drafts folder. I use CTRL-N to create a new note. Then I write. When it’s ready, I publish. Then I drag that file to a folder named Posts, where I store my published content. I also have a Pages folder where I can keep Pages on my blog updated.</p>\n<p>If I need to find an existing note that I need to update, I use the built-in Quick Switcher (CTRL-O).</p>\n<p>That’s mostly it. I’m using Obsidian solely as a writing tool. And I find I’m truly enjoying it now.</p>\n<p>I have a few plugins that help me accomplish this:\n- <a href=\"obsidian://show-plugin?id=microblog-publish-plugin\">Micro Publish</a> : Post to Micro.blog. - <a href=\"obsidian://show-plugin?id=obsidian-focus-mode\">Focus Mode</a>: To toggle into focus mode where I only see the note itself - <a href=\"obsidian://show-plugin?id=obsidian-languagetool-plugin\">Language Tools</a>: Built in Grammar checking. - <a href=\"https://github.com/Akifyss/obsidian-border\">Border theme</a>: My favorite theme at the moment. - <a href=\"obsidian://show-plugin?id=obsidian-style-settings\">Style Settings</a>: For tweaking the Border theme to my liking.</p>\n<figure><img src=\"uploads/2024/myobsidianplugins.png\" alt=\"My Obsidian Plugins\" />\n<figcaption>My Obsidian Plugins</figcaption>\n</figure>\n<p>Here is a screenshot of what Obsidian looks like when not in Focus Mode.</p>\n<figure><img src=\"uploads/2024/obsidian-with-focusmode-disabled.png\" alt=\"My Obsidian with Focus Mode Disabled\" />\n<figcaption>My Obsidian with Focus Mode Disabled</figcaption>\n</figure>\n<p>And here with Focus Mode enabled.</p>\n<figure><img src=\"uploads/2024/obsidian-with-focusmode-enabled.png\" alt=\"Obsidian with Focus Mode enabled\" />\n<figcaption>Obsidian with Focus Mode enabled</figcaption>\n</figure>\n<p>I’m sure I’ll keep tweaking things now and then. That’s how I work. But overall, I’m loving the simplicity of this setup.</p>\n",
 				"date_published": "2024-03-12T19:03:14-04:00",
 				"url": "https://ericgregorich.blog/2024/03/12/a-purpose-for-obsidian/",
-				"tags": ["apps"]
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2024/03/09/currently-reading-chatter-by-ethan/",
@@ -1364,7 +1397,7 @@
 				"content_text": "I know I have notes scattered all over in various apps. Evernote, Bear, Ulysses, Apple Notes, Reflect, Mymind, and Obsidian to name a few. \n\nSince I never know where a note is, I don't use them often and even create duplicate notes because if forget where it is or forget I already have the note. \n\nI want to consolidate them into one place. \n\nBut where?\n\nCurrently, I'm strongly considering Obsidian, but I need to sit on that for a while. I have a strange relationship with Obsidian. Every time I look at it fresh, I remember how powerful it is and possible to organize any way I want. But then I use it for a while and quickly get frustrated for one reason or another. \n\n🤔\n",
 				"date_published": "2024-03-02T13:46:31-04:00",
 				"url": "https://ericgregorich.blog/2024/03/02/consolidating-my-notes/",
-				"tags": ["apps"]
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2024/03/01/i-like-how-agenda-handles/",
@@ -1439,7 +1472,7 @@
 				"content_text": "\nWhile moving things around on my sites a few weeks ago, I realized I lost the \"[Tools I Use](https://ericgregorich.com/Lists/Tools+I+Use)\" page that I had set up. This is one of the downsides to changing things too often.\n\nAnyway, I created a new page. I decided to use my Obsidian Publish account since I still have an ongoing subscription. I think pages like this would be effortless to update from Obsidian. I may add more pages to that site, including a list of search engines, static site generators, favorite newsletters, podcasts, etc. Obsidian Publish should work well for \"static\" pages that are updated over time and independent of the chronological order of a blog.\n\nHere is my current [Tools I use](https://ericgregorich.com/tools-i-use/) page.\n",
 				"date_published": "2024-02-17T16:48:31-04:00",
 				"url": "https://ericgregorich.blog/2024/02/17/tools-i-use-page/",
-				"tags": ["apps"]
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2024/02/12/currently-reading-the-mountain-in/",
@@ -1498,7 +1531,7 @@
 				"content_text": "<p><a href=\"https://culturedcode.com/things/blog/\">Things for Apple Vision Pro</a></p>\n<p>Do I need to purchase an Apple Vision Pro so that I can use the Things app on it?</p>\n",
 				"date_published": "2024-02-02T21:24:09-04:00",
 				"url": "https://ericgregorich.blog/2024/02/02/things-for-apple-vision-pro/",
-				"tags": ["technology"]
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2024/02/02/digital-books-wear-out-faster/",
@@ -1514,8 +1547,7 @@
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>I prefer simple email clients like ProtonMail over the flashy Hey email. I rarely get emails since using InoReader, so simplicity is nice. Please don’t say “I told you so” when I switch back to Hey in 6 months. Experimentation and change is my nature.</p>\n<p><img src=\"uploads/2024/proton-mail-client-inbox-zero.png\" alt=\"A screenshot of Inbox Zero in the Proton Mail Client.\" width=\"600\" height=\"405\" /></p>\n",
 				"date_published": "2024-02-02T17:14:36-04:00",
-				"url": "https://ericgregorich.blog/2024/02/02/i-prefer-simple-email-clients/",
-				"tags": ["apps"]
+				"url": "https://ericgregorich.blog/2024/02/02/i-prefer-simple-email-clients/"
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2024/02/02/want-to-read-the-mountain/",
@@ -1540,7 +1572,8 @@
 				"content_html": "<p>I created a Working Memory file that I’ll use throughout the day. I learned this from <a href=\"https://www.calnewport.com/blog/2015/10/27/deep-habits-workingmemory-txt-the-most-important-productivity-tool-youve-never-heard-of/\">Cal Newport</a>, although I’m sure he didn’t invent the idea.</p>\n<p>The idea is to have a single text file open all day that you use to write all of your notes, today’s tasks, etc. Similar to a Daily Note available in some applications, like Roam Research, Logseq, or Obsidian, except this file persists from day to day.</p>\n<p>I clean up the file daily, move tasks to my task system, and save important notes into my note application. My Working Memory file also has a list of active projects with the current status that I keep up to date, as well as a short list of things I want to remember.</p>\n<p>The purpose is not to jump in and out of applications all day, which is one of my struggles.</p>\n<p>I’m on Windows (for work), and Notepad was too basic; I tried iAWriter, but while I like writing with Markdown, I don’t want to see the Markdown. Now, I’m trying Typora, which uses Markdown, but with a live preview.</p>\n<p>So far, I love this approach. It keeps everything within easy reach and forces me to review every day.</p>\n",
 				"content_text": "I created a Working Memory file that I’ll use throughout the day. I learned this from [Cal Newport](https://www.calnewport.com/blog/2015/10/27/deep-habits-workingmemory-txt-the-most-important-productivity-tool-youve-never-heard-of/), although I’m sure he didn’t invent the idea.\n\nThe idea is to have a single text file open all day that you use to write all of your notes, today’s tasks, etc. Similar to a Daily Note available in some applications, like Roam Research, Logseq, or Obsidian, except this file persists from day to day.\n\nI clean up the file daily, move tasks to my task system, and save important notes into my note application. My Working Memory file also has a list of active projects with the current status that I keep up to date, as well as a short list of things I want to remember.\n\nThe purpose is not to jump in and out of applications all day, which is one of my struggles.\n\nI’m on Windows (for work), and Notepad was too basic; I tried iAWriter, but while I like writing with Markdown, I don’t want to see the Markdown. Now, I’m trying Typora, which uses Markdown, but with a live preview.\n\nSo far, I love this approach. It keeps everything within easy reach and forces me to review every day.\n",
 				"date_published": "2024-02-01T10:00:00-04:00",
-				"url": "https://ericgregorich.blog/2024/02/01/using-a-working-memory-file/"
+				"url": "https://ericgregorich.blog/2024/02/01/using-a-working-memory-file/",
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2024/02/01/in-praise-of-the-particular/",
@@ -1573,7 +1606,7 @@
 				"content_text": "<p><a href=\"https://feedle.world/\">Feedle</a> is a clever service that acts as a search engine for RSS. When you search, you receive results from various RSS feeds. Your search results are returned as its own RSS feed that you can subscribe to. This seems like a great way to follow a topic your interested in. <a id=\"fnref:1\" class=\"footnote\" title=\"see footnote\" href=\"#fn:1\">[1]</a></p>\n<p>Feedle also has a <a href=\"https://feedle.world/top-stories\">Top Stories</a> page that uses AI to provide the top stories in its own RSS feed. Nicely done.</p>\n<div class=\"footnotes\"><hr />\n<ol>\n<li id=\"fn:1\">\n<p>I learned about this service from <a href=\"https://amerpie.lol/2024/01/19/i-have-just.html\">this post</a> by <a href=\"https://micro.blog/amerpie\">@amerpie</a>. <a class=\"reversefootnote\" title=\"return to article\" href=\"#fnref:1\"> ↩</a></p>\n</li>\n</ol>\n</div>\n",
 				"date_published": "2024-01-21T11:53:36-04:00",
 				"url": "https://ericgregorich.blog/2024/01/21/feedle/",
-				"tags": ["technology"]
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2024/01/20/the-productivity-field-guide-david/",
@@ -1590,7 +1623,7 @@
 				"content_text": "<p>I’m experimenting again with <a href=\"https://tot.rocks/\">Tot</a> by the Inconfactory. It’s a straightforward text app that gives you 7 plain text notes. It syncs across iOS and macOS. I’ve actually <a href=\"https://ericgregorich.com/2022/06/30/tot-pocket.html\">talked about it before</a> a long time ago.</p>\n<p>I’ve been using a “Working Memory” text file extensively lately. I keep a text file on my screen where I jot things down throughout the day. This could be meeting notes, ideas, or even short blog posts (like this one). I’ve been using Typora, a clean markdown editor, on my Windows machine. But on my Mac and iPhone, I’m using Tot.</p>\n<p>Now and then, usually at the end of the day, I’ll go through and delete most of it, move tasks to an appropriate home, move notes, etc.</p>\n<p>It’s a great way to quickly jot things down without jumping in and out of other applications.</p>\n",
 				"date_published": "2024-01-20T10:49:43-04:00",
 				"url": "https://ericgregorich.blog/2024/01/20/tot-working-memory/",
-				"tags": ["technology"]
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2024/01/14/the-taste-of-coffee/",
@@ -1623,8 +1656,7 @@
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>🔗 <a href=\"https://inoreader.com\">Inoreader</a> I’ve enjoyed Inoreader as my one stop for all RSS, newsletters, YouTube, and even Micro.blog.</p>\n<p>I have turned off unread counts and have the All Articles view set to Cards. An excellent way to scroll through everything without jumping in and out.</p>\n",
 				"date_published": "2024-01-14T09:36:03-04:00",
-				"url": "https://ericgregorich.blog/2024/01/14/inoreader-ive-enjoyed-inoreader-as/",
-				"tags": ["apps"]
+				"url": "https://ericgregorich.blog/2024/01/14/inoreader-ive-enjoyed-inoreader-as/"
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2024/01/13/ye-olde-blogroll-blogrollorg-you/",
@@ -1769,8 +1801,7 @@
 				"content_html": "<p>I create a more permanent <strong><a href=\"https://ericgregorich.com/now/\">NOW</a></strong> page where I&rsquo;ll attempt to keep all the hardware, apps, services, Newsletters, Podcasts, etc. that I currently use. I&rsquo;ll also show what gets cut from the list at the bottom.</p>\n<p>It&rsquo;s helpful for me to reflect on all this now and then to help clean things up.</p>\n",
 				"content_text": "I create a more permanent **[NOW](https://ericgregorich.com/now/)** page where I'll attempt to keep all the hardware, apps, services, Newsletters, Podcasts, etc. that I currently use. I'll also show what gets cut from the list at the bottom.\r\n\r\nIt's helpful for me to reflect on all this now and then to help clean things up. \n",
 				"date_published": "2023-12-27T12:06:16-04:00",
-				"url": "https://ericgregorich.blog/2023/12/27/i-create-a-more-permanent/",
-				"tags": ["apps"]
+				"url": "https://ericgregorich.blog/2023/12/27/i-create-a-more-permanent/"
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/12/26/i-received-my-nuphy-air/",
@@ -1870,7 +1901,7 @@
 				"content_text": "Curtis Mchale writes about [The State of Notetaking for 2024 – PKM Weekly Issue 100.](https://curtismchale.ca/2023/12/10/the-state-of-notetaking-for-2024-pkm-weekly-issue-100/?utm_source=mailpoet&utm_medium=email&utm_campaign=newsletter-post-title_35) \n\n> I think that the appeal of AI hits the same chord for many people looking at their notes. They want to have neatly compiled notes with clearly thought-out ideas that resonate with others. They want to be done with the hard work of writing their ideas down poorly 20,000 times until they come up with a single good idea that they can run with.\n\n> People figure AI will do this for them, but if your notes are crap to begin with, the output of any AI will also be crap.\n\nThis is a good reminder that while many apps are gaining AI superpowers, the LLMs can’t replace our thinking and ideas. Sure, they can help spark ideas and maybe some other use cases, but they won’t do the hard work for you. Especially when it comes to personal knowledge management. What’s the point of handling over your learning to AI? The real learning comes from doing the work to understand something and how it relates to other things, not by letting some software do it for you. \n",
 				"date_published": "2023-12-10T16:25:35-04:00",
 				"url": "https://ericgregorich.blog/2023/12/10/dont-allow-ai-to-take/",
-				"tags": ["technology","apps"]
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/12/10/im-still-using-ulysses-for/",
@@ -1879,7 +1910,7 @@
 				"content_text": "After giving iA Writer another brief go, I’m sticking with Ulysses. \n\nUlysses has a customizable writing experience, handles images well, has built-in grammar tools, and, most importantly, has seamless publishing to Micro.blog, where my sites are hosted. \n\nThese reasons make Ulysses the easiest to open up on mobile (which I’m doing now) or the Mac and start writing. If it’s something I want to share, I hit publish. \n\nI’ve also tried Obsidian, Typora, and Reflect. Each has some excellent features, but from a writing and publishing perspective, none are as simple and reliable as Ulysses. \n\nMy biggest issue is that Ulysses is Mac and iOS only. If I want to write a blog post for [The Power Architect](https://thepowerarchitect.com \"The Power Architect\"), I must do it from my Mac. Maybe that’s a better experience anyway. \n\nAs far as notes go, I’ve been dumping private notes into Apple Notes and everything else into Ulysses. Much of it gets posted to my blog. I’m not a big note taker lately. \n",
 				"date_published": "2023-12-10T16:08:37-04:00",
 				"url": "https://ericgregorich.blog/2023/12/10/im-still-using-ulysses-for/",
-				"tags": ["technology","apps"]
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/12/09/godzilla-minus-one/",
@@ -1962,8 +1993,7 @@
 				"content_html": "<p>I sent out the first issue of a new <a href=\"https://newsletter.ericgregorich.com/archive/erics-weekly-cache-1\">newsletter</a> I&rsquo;m experimenting with. The idea is to share some of my favorite articles, apps, and other interesting links that I discover during the week.</p>\n<p>I&rsquo;d appreciate any feedback!</p>\n",
 				"content_text": "I sent out the first issue of a new [newsletter](https://newsletter.ericgregorich.com/archive/erics-weekly-cache-1) I'm experimenting with. The idea is to share some of my favorite articles, apps, and other interesting links that I discover during the week. \n\nI'd appreciate any feedback!\n",
 				"date_published": "2023-12-03T12:58:49-04:00",
-				"url": "https://ericgregorich.blog/2023/12/03/125849/",
-				"tags": ["apps"]
+				"url": "https://ericgregorich.blog/2023/12/03/125849/"
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/12/02/im-done-no-more-messing/",
@@ -1997,7 +2027,7 @@
 				"content_text": "This is why I shouldn't have time off. I tend to rebuild my websites! \n\nMy [main site](https://ericgregorich.com) is now on blot.im. I did this so I could easily create and update posts from Obsidian.\n\nMy [Micro.blog site](https://ericgregorich.com) is now primarily my \"social media\" posts.\n\nAnd a new weekly digest newsletter on Buttondown. [Subscribe here](https://buttondown.email/ericgregorich?tag=home)!\n",
 				"date_published": "2023-11-26T11:34:56-04:00",
 				"url": "https://ericgregorich.blog/2023/11/26/this-is-why-i-shouldnt/",
-				"tags": ["apps"]
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/11/25/finished-reading-smart-brevity-by/",
@@ -2047,7 +2077,7 @@
 				"content_text": "I signed up for a [Kagi](https://kagi.com) trial yesterday. Kagi is a paid search engine that has an ad-free experience. I have it all set up on my machines and iPhone, and now I need to see how well it works. \n\nGoogle is such a mess these days. You have to scroll to get past the ads and see actual results!\n",
 				"date_published": "2023-11-12T09:47:46-04:00",
 				"url": "https://ericgregorich.blog/2023/11/12/i-signed-up-for-a/",
-				"tags": ["technology"]
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/11/11/bear-with-me-while-i/",
@@ -2081,7 +2111,7 @@
 				"content_text": "<p>There has been a trend where we share our default apps, which was inspired by the <a href=\"https://listen.hemisphericviews.com/097\">Hemispheric Views 097 - Duel of the Defaults!</a> podcast. You can find a compiled list of participants <a href=\"https://defaults.rknight.me/\">here</a>.</p>\n<p>This is a list of my personal tools. In my day job, I’m on Windows and use the standard Microsoft 365 services.</p>\n<ul>\n<li>📨 Mail Client: Fastmail</li>\n<li>📮 Mail Server: Fastmail, Outlook, and Gmail</li>\n<li>📝 Notes: Reflect and Mymind</li>\n<li>✅ To-Do: TickTick</li>\n<li>📷 iPhone Photo Shooting : Camera app</li>\n<li>🟦 Photo Management : Apple Photos</li>\n<li>📆 Calendar: Apple Calendar and TickTick</li>\n<li>📁 Cloud File Storage: iCloud</li>\n<li>📖 RSS: Readwise Reader</li>\n<li>🙍🏻‍♂️ Contacts: Apple Contacts, Fastmail</li>\n<li>🌐 Browser: Arc on Mac, Safari and Arc on iOS</li>\n<li>💬 Chat: Apple Messages</li>\n<li>🔖 Bookmarks: Arc</li>\n<li>📑 Read It Later: Readwise Reader</li>\n<li>📜 Word Processing: Pages</li>\n<li>📈 Spreadsheets: Numbers</li>\n<li>📊 Presentations: Keynote</li>\n<li>🛒 Shopping Lists: Our Groceries</li>\n<li>🍴 Meal Planning: Not used</li>\n<li>💰 Budgeting and Personal Finance: Numbers</li>\n<li>📰 News: Apple News</li>\n<li>🎵 Music: Apple Music</li>\n<li>🎤 Podcasts: Overcast</li>\n<li>🔐 Password Management: 1Password</li>\n<li>📓 Journal: Day One</li>\n</ul>\n",
 				"date_published": "2023-11-08T19:08:14-04:00",
 				"url": "https://ericgregorich.blog/2023/11/08/default-apps/",
-				"tags": ["fun","apps"]
+				"tags": ["fun"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/11/06/i-tidied-up-my-blog/",
@@ -2157,7 +2187,7 @@
 				"content_text": "<p>The <a href=\"https://help.obsidian.md/import\">Obsidian Importer</a> is an open-source tool that can convert notes from various applications into local markdown files.</p>\n<p>Apps currently supported include Notion, Evernote, Bear, Apple Notes, Google Keep, Microsoft OneNote, and Roam Research.</p>\n<p>Additional guides are provided for other apps.</p>\n",
 				"date_published": "2023-10-19T18:51:48-04:00",
 				"url": "https://ericgregorich.blog/2023/10/19/obsidian-importer-can-convert-your/",
-				"tags": ["apps"]
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/10/14/smaller-rocks-matter-rethinking-time/",
@@ -2175,7 +2205,7 @@
 				"content_text": "<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" title=\"IMG_1396.jpeg\" src=\"https://cdn.uploads.micro.blog/229244/2023/img-1396.jpeg\" alt=\"A sign post at the farm\" width=\"450\" height=\"600\" border=\"0\" /></p>\n<p style=\"text-align: center;\">An evening at the local farm. They had excellent funnel cakes and apple cider!</p>\n",
 				"date_published": "2023-10-08T16:42:46-04:00",
 				"url": "https://ericgregorich.blog/2023/10/08/an-evening-at-the-local/",
-				"tags": ["technology"]
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/10/08/the-four-levels-of-reading/",
@@ -2209,8 +2239,7 @@
 				"content_html": "<p>I’ve been using Reeder for all of my RSS, including Micro.blog feeds, favorite YouTube channels, Reddit channels, and even newsletters (through <a href=\"https://kill-the-newsletter.com\">Kill the Newsletter!</a>).</p>\n<p>Overall, it’s keeping me from jumping in and out of other apps, which often get me distracted with endless feeds and algorithms.</p>\n",
 				"content_text": "I’ve been using Reeder for all of my RSS, including Micro.blog feeds, favorite YouTube channels, Reddit channels, and even newsletters (through [Kill the Newsletter!](https://kill-the-newsletter.com)). \n\nOverall, it’s keeping me from jumping in and out of other apps, which often get me distracted with endless feeds and algorithms. \n",
 				"date_published": "2023-10-01T18:59:16-04:00",
-				"url": "https://ericgregorich.blog/2023/10/01/ive-been-using-reeder-for/",
-				"tags": ["apps"]
+				"url": "https://ericgregorich.blog/2023/10/01/ive-been-using-reeder-for/"
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/10/01/meeting-agendas-should-be-questions/",
@@ -2267,7 +2296,7 @@
 				"content_text": "<p>After many weeks, I continue to use the <a href=\"http://Reflect.app\">Reflect.app</a> as my primary note-taking application. Its simplicity is what attracts me the most. The app doesn’t appear to be much more than a notepad, especially in focus mode. However, with features like backlinks, Kindle import, markdown, end-to-end encryption, and built-in GPT–4, I find the app incredibly useful for capturing notes and writing.</p>\n<ul>\n<li>I maintain separate graphs for my work and personal notes.</li>\n<li>The Daily Notes feature has replaced a text file that I previously used as my <a href=\"https://ericgregorich.com/2022/12/02/i-am-trying.html\">Working Memory</a> file.</li>\n<li>I have stopped using Readwise (at least for now) since I now use the <a href=\"https://chrome.google.com/webstore/detail/reflect/kljfphapkgkjaiiddfmfpbdmeaplojge\">Reflect browser extension</a> to highlight webpages and import highlights directly from Kindle.</li>\n<li>I am attempting to use the Voice Transcriber to take audio notes. Although I don’t use it frequently, it works flawlessly when I do.</li>\n<li>I use tags sparingly. The default tags for books, links, people, and authors are sufficient for me. I might add some new tags to track drafts, posts, etc.</li>\n<li>I use the AI for grammar checking and formatting. For example, I can write a note that contains backlinks and then run a custom prompt that will strip the backlinks and give me the pure markdown that I can copy and paste into my blog or wiki.</li>\n</ul>\n<p>I don’t have a specific “system” when I Reflect, which suits me perfectly. I can simply capture notes without worrying about organizing them into folders or tags.</p>\n",
 				"date_published": "2023-09-10T11:18:15-04:00",
 				"url": "https://ericgregorich.blog/2023/09/10/how-im-using-reflectapp/",
-				"tags": ["technology"]
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/09/06/on-ios-we-can-hold/",
@@ -2276,7 +2305,7 @@
 				"content_text": "<p>On iOS, we can hold down the space key and slide a finger around the keyboard to position the cursor anywhere in the text.</p>\n<p>I just discovered this.</p>\n<p>I’ve always. I tried using my finger directly on the text, which is always cumbersome.</p>\n<p>Quality of life improvement that I wish I had known about sooner!</p>\n",
 				"date_published": "2023-09-06T20:46:33-04:00",
 				"url": "https://ericgregorich.blog/2023/09/06/on-ios-we-can-hold/",
-				"tags": ["technology"]
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/09/04/why-you-should-stop-caring/",
@@ -2310,7 +2339,7 @@
 				"content_text": "<p>My company and I decided to use Azure DevOps for shared documentation of our best practices, standards, deployment steps, and other SOPs.</p>\n<p>What I like about it is that anyone in the team can easily view and edit the documentation online. But for those inclined, we can use Git and keep the files locally and use our favor markdown editor to make updates.</p>\n<p>I’ve been using Obsidian to update documentation and the Obsidian Git plugin to easily sync the updates to the Wiki in DevOps.</p>\n<p>It’s pretty sweet!</p>\n",
 				"date_published": "2023-08-30T17:05:11-04:00",
 				"url": "https://ericgregorich.blog/2023/08/30/documentation-using-azure-devops-and/",
-				"tags": ["apps"]
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/08/28/why-songs-get-stuck-in/",
@@ -2343,7 +2372,7 @@
 				"content_text": "Some interesting apps and content that I've discovered recently.\n\n## Apps\n- [Lazy](https://lazy.so/ \"Lazy\") - A capture tool for knowledge. One keyboard shortcut to save every idea, link, tweet and so much more.\n- [BibGuru](https://www.bibguru.com \"BibGuru\") - A free APA, Harvard, & MLA Citation Generator\n- [Refind](https://refind.com/ \"Refind\") - Every day we pick the most relevant links from around the web for you.\n- [Digest](https://usedigest.com/ \"Digest\") - Create a personalized newsletter with your favorite content. \n- [Heptabase](https://heptabase.com/ \"Heptabase\") - Heptabase empowers you to visually make sense of your learning, research, and projects.\n\n## Blogs\n- [Steph Ango](https://stephanango.com/ \"Steph Ango\") - The blog of Steph Ango, the CEO of Obsidian.\n\n## Content\n- Delay caffeine intake for about 90 minutes to avoid the afternoon crash ([YouTube](https://youtube.com/shorts/-_g4CAdlx-o?feature=share)). \n- [The Book List](https://bookworm.fm/list/ \"The Book List\") from Bookworm - Quick access to all the books discussed on the podcast. \n- [Beyond Simple Multi-Tasking](https://lindastone.net/2009/11/30/beyond-simple-multi-tasking-continuous-partial-attention/): Continuous Partial Attention - Linda Stone.\n- [What AI Teaches Us About Good Writing](https://www.noemamag.com/what-ai-teaches-us-about-good-writing/?ref=refind) - NEOMA .\n",
 				"date_published": "2023-08-26T11:22:04-04:00",
 				"url": "https://ericgregorich.blog/2023/08/26/quick-links/",
-				"tags": ["apps"]
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/08/20/currently-reading-the-extended-mind/",
@@ -2361,7 +2390,7 @@
 				"content_text": "[What AI Teaches Us About Good Writing - NEOMA](https://www.noemamag.com/what-ai-teaches-us-about-good-writing)\n\n> But simply abiding by the rules doesn’t make excellent writing — it makes conventional, unremarkable writing, the kind usually found in business reports, policy memos and research articles.\n\nThe article discusses how AI can be used for writing. While it may produce concise and clear content, it cannot yet evoke the emotional responses from readers that a skilled human writer can.\n",
 				"date_published": "2023-08-20T17:03:47-04:00",
 				"url": "https://ericgregorich.blog/2023/08/20/what-ai-teaches-us-about/",
-				"tags": ["technology"]
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/08/15/the-paradox-of-goals-growth/",
@@ -2419,7 +2448,7 @@
 				"content_text": "If you use [Obsidian Publish](https://obsidian.md/publish) to host your Digital Garden and want a simple and privacy-focused analytics solution to track how people view your site, you can connect with [Tinylytics](https://tinylytics.app), a simple and privacy-focused analytics service.\n- Create a file named publish.js in your root directory.\n- Add the following script to the file.\n- Publish the file!\n\n```js\nvar tinylyticsScript = document.createElement('script');\ntinylyticsScript.defer = true;\ntinylyticsScript.src = '[tinylytics.app/embed/YOU...](https://tinylytics.app/embed/YOUREMBEDCODE.js';)\ndocument.head.appendChild(tinylyticsScript);\n```\n",
 				"date_published": "2023-08-08T12:30:00-04:00",
 				"url": "https://ericgregorich.blog/2023/08/08/add-tinylytics-to-obsidian-publish/",
-				"tags": ["apps"]
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/08/06/what-i-use-pkm-tools/",
@@ -2428,7 +2457,7 @@
 				"content_text": "<p>I find it beneficial to periodically review the tools I'm using. Reflecting on the current state and observing how things evolve has been insightful.</p>\n<p>These are the tools I'm using as of August 2023. My workflow is very simple.</p>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" title=\"My PKM System.png\" src=\"https://cdn.uploads.micro.blog/229244/2023/my-pkm-system.png\" alt=\"A diagram of my PKM tools and workflow\" width=\"599\" height=\"351\" border=\"0\" /><img src=\"https://firebasestorage.googleapis.com/v0/b/reflect-prod.appspot.com/o/users%2FB6wgzgeEt6by4hvtr95YZWSvFQg1%2Fdf26d94270924306b42c894830ba73ee?alt=media\\&token=1cace25c-c93d-44ee-a869-db5ffa5841d7\" alt=\"\" /></p>\n<h2 id=\"readwisereader\">Readwise Reader</h2>\n<p>I use Readwise Reader for nearly all of my consumption, which includes RSS, articles, videos, and PDFs. I also use it to highlight and take notes, which automatically sync to Readwise.</p>\n<p>The Reader app has grown on me over time. It is much more powerful than most similar services. Having RSS, videos, and my “Read Later” all in one place has been convenient.</p>\n<p>I also use the Reader as my external reference. If I want to look up information about a topic that I want to write about, or I need to reference documentation, I search in the Reader, and it pops right up. I don’t need to use external tools.</p>\n<h2 id=\"snipd\">Snipd</h2>\n<p>I use Snipd for my podcasts due to its unique feature of creating clips from podcasts, which can be AI-generated or manually adjusted. These clips sync automatically to Readwise.</p>\n<h2 id=\"kindleaudible\">Kindle/Audible</h2>\n<p>I mostly read on Kindle and Audible, often using the immersive reading feature to listen and read simultaneously for better focus. Of course, all my highlights and notes are synced to Readwise.</p>\n<h2 id=\"readwise\">Readwise</h2>\n<p>All content is synced into Readwise where I occasionally review my notes and highlights. Instead of exporting everything to another tool such as Obsidian or Reflect, I prefer keeping them in Readwise to separate others’ content from mine.</p>\n<h2 id=\"reflect\">Reflect.app</h2>\n<p>I’m testing <a href=\"https://reflect.app\">Reflect.app</a>, drawn in by its simple interface, daily notes, calendar integration, end-to-end encryption, local-first approach, and advanced AI. If the experiment proves successful, it could potentially replace Ulysses and even Grammarly as my primary writing tools.</p>\n<p>The objective is to create a library of reusable content that I can utilize for documentation, emails, estimates, development, code snippets, essay writing, and much more. I don’t subscribe to the “Zettelkasten” method per se. I just want a repository of content I create.</p>\n<h2 id=\"onthechoppingblock\">On the chopping block</h2>\n<h3 id=\"raindrop\">Raindrop</h3>\n<p>I’m still using Raindrop for bookmarks. I use it less though since Readwise Reader has taken over as my reference for external content. I still bookmark interesting apps, blogs, and other sites that I enjoy. I plan to start capturing those in Reflect and see if that works as a replacement.</p>\n<p>Bookmarks for “launching” things can easily be kept in my browser.</p>\n<h3 id=\"grammarly\">Grammarly</h3>\n<p>I’ve used Grammarly for years but canceled my subscription last month (effective today I discovered as I write this :)).</p>\n<p>I use Microsoft Editor for work, which is not as good as Grammarly but is integrated into most Microsoft tools.</p>\n<p>I’ve shifted from Grammarly to other AI tools like Reflect, which has built-in grammar checking, making the $144 annual Grammarly fee harder to justify.</p>\n<h3 id=\"feedbin\">Feedbin</h3>\n<p>I enjoy using Feedbin for its RSS reading due to its simple UI and adequate features. However, Readwise Reader is now my preference as it streamlines my workflow.</p>\n",
 				"date_published": "2023-08-06T09:56:48-04:00",
 				"url": "https://ericgregorich.blog/2023/08/06/what-i-use-pkm-tools/",
-				"tags": ["apps"]
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/08/05/im-experimenting-with-twos-an/",
@@ -2462,7 +2491,7 @@
 				"content_text": "<p>Obsidian’s Insider Build 1.4.1 has a new feature called “Properties,” which lets us manage metadata for each file using a user-friendly UI. We can hide YAML Front Matter from our file and view properties in a side panel, making a much cleaner experience.</p>\n<p>I’m looking forward to the possibilities!</p>\n<p><img src=\"uploads/2023/obsidian-properties-example.png\" alt=\"An example of Obsidian Properties\" width=\"600\" height=\"354\" /></p>\n",
 				"date_published": "2023-07-27T16:56:40-04:00",
 				"url": "https://ericgregorich.blog/2023/07/27/obsidians-insider-build-has-a/",
-				"tags": ["apps"]
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/07/24/apps-promise-to-boost-our/",
@@ -2471,7 +2500,7 @@
 				"content_text": "<p>Apps promise to boost our “Second Brain” with AI, smart links, and tricks, but I think our “First Brain” should rely less on external tools, except for practical reasons. The “Second Brain” is better suited for storing information we don’t need to remember. Apps should assist us, not lead us.</p>\n",
 				"date_published": "2023-07-24T12:52:04-04:00",
 				"url": "https://ericgregorich.blog/2023/07/24/apps-promise-to-boost-our/",
-				"tags": ["technology","apps"]
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/07/23/rip-the-external-if-youre/",
@@ -2662,7 +2691,7 @@
 				"content_text": "<p>The <a title=\"Snipd\" href=\"https://apps.apple.com/us/app/snipd-smart-podcast-player/id1557206126\">Snipd</a> podcast app has a snipping and AI component that makes it ideal for capturing and sharing the information you obtain from podcasts.</p>\n<p>You can even sync to Readwise and share to other services. I’ve been capturing and saving to my bookmarks’ manager, so I can reference clips later.</p>\n",
 				"date_published": "2023-06-23T15:45:04-04:00",
 				"url": "https://ericgregorich.blog/2023/06/23/the-snipd-podcast-app-has/",
-				"tags": ["technology"]
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/06/23/back-to-the-feed-reader/",
@@ -2703,8 +2732,7 @@
 				"content_html": "<p>I&rsquo;ve always struggled to commit to using Apple Notes as my main notes app because it is difficult to get notes out. While some apps and tools are available to help with bulk exporting from Apple Notes, it still feels like a lock in. The other reason is, while I think Apple notes is great for capturing, I don&rsquo;t prefer to write in it. It&rsquo;s something about the layout, formatting options that bother me.</p>\n<p>However, when I think about the way I use my note&rsquo;s app (at least how I want to use it) is as a scratchpad for capturing information that will be later transformed and shared as something new. When I think of it this way, I feel more comfortable with Apple Notes because I realize it is just a tool that I use to create the real value that is created and shared elsewhere. I could replace Apple Notes without needing to migrate all the content.</p>\n<p>I&rsquo;ve been using Ulysses to do all of my writing recently since, not only is it a great writing tool, but also great for publishing (to Micro.blog and Ghost in my case). I&rsquo;ll be trying Apple Notes for a while as my scratchpad where I throw ideas, sketches, bookmarks, and other things of interest. The fuel I need to create better content.</p>\n",
 				"content_text": "I've always struggled to commit to using Apple Notes as my main notes app because it is difficult to get notes out. While some apps and tools are available to help with bulk exporting from Apple Notes, it still feels like a lock in. The other reason is, while I think Apple notes is great for capturing, I don't prefer to write in it. It's something about the layout, formatting options that bother me. \n\nHowever, when I think about the way I use my note's app (at least how I want to use it) is as a scratchpad for capturing information that will be later transformed and shared as something new. When I think of it this way, I feel more comfortable with Apple Notes because I realize it is just a tool that I use to create the real value that is created and shared elsewhere. I could replace Apple Notes without needing to migrate all the content. \n\nI've been using Ulysses to do all of my writing recently since, not only is it a great writing tool, but also great for publishing (to Micro.blog and Ghost in my case). I'll be trying Apple Notes for a while as my scratchpad where I throw ideas, sketches, bookmarks, and other things of interest. The fuel I need to create better content. \n",
 				"date_published": "2023-06-17T08:00:00-04:00",
-				"url": "https://ericgregorich.blog/2023/06/17/rethinking-my-use-of-apple/",
-				"tags": ["apps"]
+				"url": "https://ericgregorich.blog/2023/06/17/rethinking-my-use-of-apple/"
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/06/16/moving-from-raindrop-to-anybox/",
@@ -2713,7 +2741,7 @@
 				"content_text": "<p>I moved all of my bookmarks from <a title=\"Raindrop\" href=\"https://raindrop.io\">Raindrop</a> to <a title=\"Anybox\" href=\"https://anybox.app\">Anybox</a> today. I’m not certain if it will be a permanent change yet. They are both bookmarking services that allow you to capture web bookmarks, images, files, etc.</p>\n<p>The process was simple. Export my Raindrop bookmarks as an HTML file. Import the HTML file into Anybox. It even kept all of my tags.</p>\n<p>It seems that Anybox has more options and more native apps on the Mac and iOS, although Raindrop’s new iOS app is pretty sweet. Anybox also has the ability to add standalone notes and files that I may utilize. It also appears to have a lot of automation capabilities that I may look into further.</p>\n<p>The biggest downside is that Anybox is not available on Windows. The way I have my current setup, that may not be a big deal. I have my Mac monitor below my Windows monitor and can easily switch back and forth throughout the day using Logitech flow. I tend to store my personal knowledge and links on my Mac and only use Windows for work.</p>\n<p>I’ll give it a few weeks and see how it works out.</p>\n",
 				"date_published": "2023-06-16T15:06:20-04:00",
 				"url": "https://ericgregorich.blog/2023/06/16/moving-from-raindrop-to-anybox/",
-				"tags": ["technology"]
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/06/16/i-took-a-day-off/",
@@ -2746,7 +2774,7 @@
 				"content_text": "I have not watched everything from the Apple Keynote yet. \n\nVision Pro looks impressive but still seems ridiculous to wear, especially during the life moments that you don't want to miss. \n\nTo watch through some goggles to record the moment seems over the top. Yet, the result could be pretty sweet. \n",
 				"date_published": "2023-06-05T22:34:31-04:00",
 				"url": "https://ericgregorich.blog/2023/06/05/i-have-not-watched-everything/",
-				"tags": ["technology"]
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/06/02/ive-heard-rumors-of-a/",
@@ -2755,7 +2783,7 @@
 				"content_text": "<p>I’ve heard rumors of a Journaling app from Apple.</p>\n<p>I discovered there is a new Shortcut from Apple called <a href=\"https://www.icloud.com/shortcuts/488c2b6ed3024a47bbdfc862a988ecc5\">Remember This</a>.</p>\n<p>The shortcut asks what you want to remember and then if you want to include a photo. It appends your response to a single note for each day.</p>\n<p>I wonder if this is all we’re getting?</p>\n",
 				"date_published": "2023-06-02T18:44:55-04:00",
 				"url": "https://ericgregorich.blog/2023/06/02/ive-heard-rumors-of-a/",
-				"tags": ["technology"]
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/05/31/is-chatgpt-really-artificial-intelligence/",
@@ -2806,7 +2834,7 @@
 				"content_text": "<p>I finished moving my notes from Obsidian, Apple Notes, and even Evernote into Bear. I don’t have too many notes so this want a big deal. But having one place for all my notes is a nice feeling.</p>\n<p>I chose Bear because it is fast, simple, and easy to export a note into various formats.</p>\n",
 				"date_published": "2023-05-28T12:16:53-04:00",
 				"url": "https://ericgregorich.blog/2023/05/28/i-finished-moving-my-notes/",
-				"tags": ["apps"]
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/05/26/if-youre-into-selfhelp-books/",
@@ -2825,13 +2853,22 @@
 				"url": "https://ericgregorich.blog/2023/05/18/microsoft-outlook-has-made-significant/"
 			},
 			{
+				"id": "http://ericgregorich.micro.blog/2023/05/16/remarkable-review/",
+				"title": "reMarkable 2 Review",
+				"content_html": "<p>I have recently discovered that I love writing on paper. It allows me to escape the digital world and think without distractions.</p>\n<p>However, paper can be messy. You deal with flipping through pages, smudging, mistakes that are difficult to fix, and the inability to move things. While some argue this adds to the experience, a better solution may exist for some.</p>\n<p>The reMarkable 2 is an e-ink device, similar to a Kindle, but built for writing. The reMarkable attempts to feel like paper and provide a distraction-free writing environment while offering digital advantages.</p>\n<h2 id=\"you-may-love-using-the-remarkable-2-if\">You may love using the reMarkable 2 if:</h2>\n<ul>\n<li>You enjoy writing on paper.</li>\n<li>You want a distraction-free writing space.</li>\n<li>You want to back up your notes automatically.</li>\n<li>You want to share your notes easily.</li>\n<li>You don’t want to keep buying paper planners or notebooks.</li>\n<li>You like the idea of unlimited pages.</li>\n<li>You want to search for notes quickly.</li>\n<li>You want to fix mistakes, move things around, and easily make updates.</li>\n<li>You also want to read and annotate.</li>\n</ul>\n<p>This article is my in-depth device review, including the hardware and software. It includes what I like and dislike. I hope it helps you decide whether to purchase a reMarkable 2.</p>\n<h2 id=\"first-impressions-of-the-hardware\">First Impressions of the Hardware</h2>\n<p><img src=\"https://cdn.uploads.micro.blog/229244/2025/bd94f9fd72.png\" alt=\"Auto-generated description: A digital e-ink tablet displaying a planner or note-taking page lies on a wooden surface.\"></p>\n<p>The hardware is stunning. Thin and light, the all-aluminum body gives it a solid feel, like holding a slate. A solid strip on the left adds to its look.</p>\n<p>The material is the same on both sides. The back has four rubber nubs to keep the device from sliding on a surface. The right side has a magnet to attach the Marker.</p>\n<p>Battery life seems excellent. I have not had the device long enough to say how long it will last. So far, I’ve had the tablet for six days and charged it once; it was at about 70% charge upon arrival. reMarkable says “weeks of battery,” but that depends on usage. I probably have it on for several hours per day.</p>\n<p>It’s hard to complain about the hardware itself. If anything, the screen margins are thick, especially at the bottom. It’s hard to notice until you are writing and run out of space on the page.</p>\n<p>Tip: You’ll need an external light source to see the screen. Don’t expect to read in the dark!</p>\n<p>The other thing to note is that this device has no backlight, meaning you need an external light source to see the screen.</p>\n<h2 id=\"technical-specifications\">Technical Specifications</h2>\n<p><img src=\"https://cdn.uploads.micro.blog/229244/2025/ee786b3659.png\" alt=\"Auto-generated description: A table presents the specifications of an electronic device, detailing attributes such as size, weight, screen size, storage, operating system, and other technical features.\"></p>\n<h2 id=\"remarkable-marker\">reMarkable Marker</h2>\n<p><img src=\"https://cdn.uploads.micro.blog/229244/2025/181cdbb1b2.png\" alt=\"Auto-generated description: A digital tablet with a stylus rests on a wooden surface.\"></p>\n<p>You can get either the regular Marker or the Marker Plus. The Marker is white, has no buttons or eraser, and reportedly has a nice texture.</p>\n<p>The Marker Plus is black and includes an eraser. The texture is excellent, and it has a nice weight. One side is flat to keep it from rolling off your desk and to attach to the device magnetically. I have had no problems writing with it, and it feels secure enough for transport in a bag.</p>\n<p>Is the extra $50 for the Marker Plus worth it for the eraser? I think so. If you often make mistakes, flipping the Marker over to erase saves a lot of time.</p>\n<p>Neither Marker needs charging.</p>\n<p>The biggest downside is the replaceable tips, which wear down over time. I have not had mine long enough to know how long they last, but research suggests they could last from one week to six weeks. The reMarkable comes with nine extra tips and a tool to replace them. Replacement Marker Tips currently cost $14 per pack.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/229244/2025/37a92b375a.png\" alt=\"Auto-generated description: A white card labeled reMarkable holds eight black pin-like tools arranged in a grid pattern.\"></p>\n<blockquote>\n<p>Tip (pun intended): Don’t forget about the tips. It can be easy to miss them in the packaging. You’ll want to set them aside where you can find them again.</p>\n</blockquote>\n<h2 id=\"the-book-folio\">The Book Folio</h2>\n<p><img src=\"https://cdn.uploads.micro.blog/229244/2025/806a6748f9.png\" alt=\"Auto-generated description: A gray fabric-covered ReMarkable tablet case is placed on a wooden surface.\"></p>\n<p>I opted for the Gray Book Folio (Polymer Weave). It is thin and covers the device nicely. Removing the reMarkable from the cover is effortless, yet it stays in place firmly.</p>\n<p>The material is acceptable but unexceptional. It doesn’t feel worth $99. However, it’s cheaper than the $149 leather Book Folio (which I hear doesn’t feel like natural leather). It’s probably worth getting to protect your investment.</p>\n<h2 id=\"first-impressions-of-the-software\">First Impressions of the Software</h2>\n<p>I was running version 2.5.0.27 when I wrote this, given the drastic software improvements.</p>\n<p>I had no problems figuring out how to use the software; it is straightforward. The main screen consists of your folders and files. Across the top are options to open the menu, create a folder, create a notebook, access Quick Sheets, or search. You can see the battery life, Wi-Fi connection, and sync status across the bottom of the main screen.</p>\n<blockquote>\n<p>Tip: Speaking of distraction-free, it doesn’t even have a clock!</p>\n</blockquote>\n<p>I won’t detail the software interface; I think it works well and is smooth. Remember that this is an e-ink device, and the page refresh differs from a typical tablet. The refresh is faster than my Kindle Paperwhite, and I have not had any performance issues.</p>\n<p>Sometimes, the swipe event does not register, and I must swipe multiple times to swap between pages or close a notebook. This is not an issue if you swipe in the right place and with enough motion.</p>\n<p>Tip: You can close any notebook or PDF by swiping down from the top of the screen. This is much faster than using the menu.</p>\n<h3 id=\"layers\">Layers</h3>\n<p>You can create layers on your page, allowing you to manipulate one without affecting the others. Make elaborate sketches and diagrams, or add text over a custom background.</p>\n<h3 id=\"text\">Text</h3>\n<p>Another cool feature is handwriting-to-text conversion. This feature works as expected if your writing is legible. You can convert one or more pages to text, but you must email the converted text because you can’t save it to the device.</p>\n<blockquote>\n<p>Tip: Wi-Fi is required for text conversion.</p>\n</blockquote>\n<h3 id=\"templates\">Templates</h3>\n<p>The device comes with many built-in templates, including dots and standard notebook lines with margins.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/229244/2025/6372bedaba.png\" alt=\"Auto-generated description: A digital e-ink tablet with a grid and diagram layout selection interface is placed on a wooden surface alongside a stylus.\"></p>\n<p>I immediately found that the templates I wanted were missing. Fortunately, you can add custom templates with some know-how. See the resources at the bottom of this article for more information.</p>\n<p>Fortunately, you can also use a PDF for your Daily Planner notebook type. You can find them everywhere; Etsy is an excellent place to start. I added more resources to the bottom of this article.</p>\n<h3 id=\"sharing\">Sharing</h3>\n<p>You can share pages, entire notebooks, or PDFs from the device. You’ll be prompted to enter an email address or select one you&rsquo;ve already used. You can add a message, change the filename, and select an export format (PDF, PNG, or SVG). The feature works well.</p>\n<blockquote>\n<p>Tip: You can download the PDF to your desktop and manipulate it from there.</p>\n</blockquote>\n<h3 id=\"search\">Search</h3>\n<p>You can easily search for any notebook, PDF, or Epub on your device from the search icon. You will also see the most recently updated files, making it easy to switch between them.</p>\n<p>Unfortunately, only the file names and folders are searched, not the content of your notes and files.</p>\n<h3 id=\"cloud-sync\">Cloud Sync</h3>\n<p>While using reMarkable Cloud Sync is not required, it is hard to avoid. The advantage is that your content is automatically backed up to the cloud and available on your other devices.</p>\n<p>Cloud Sync works, but it is not instantaneous. However, it gets the job done.</p>\n<h3 id=\"the-read-on-remarkable-browser-extension\">The “Read on reMarkable” Browser Extension</h3>\n<p>There is a new browser extension from the reMarkable team called <a href=\"https://chrome.google.com/webstore/detail/read-on-remarkable/bfhkfdnddlhfippjbflipboognpdpoeh\">Read on reMarkable</a>. This extension lets you send nearly any webpage to your device with a single click. You have two options. The default is to send the page to the device in EPUB format. This method looks excellent but does not include the source or any images! So I switched my default to PDF. With this setting, the page is converted to PDF and sent directly to your device. The PDF option includes images and more information about the article.</p>\n<p>How the content looks on the device is inconsistent and depends on the source content. If the page is full of ads and poorly formatted, the result will be low quality on the device. I’ve found that sites with a clean format look great.</p>\n<blockquote>\n<p>Tip: Use the PDF format to include images and the source for your articles.</p>\n</blockquote>\n<h2 id=\"desktop-and-mobile\">Desktop and Mobile</h2>\n<p>Speaking of Cloud Sync, you can access your content from desktop or mobile devices. The desktop and mobile software is unremarkable; it merely displays your content, just as you would see it on your device. You can then read, rearrange, or export your content as needed.</p>\n<h2 id=\"jagged-line-issue\">Jagged Line Issue</h2>\n<p>This could be a deal-breaker for some. I don’t feel it is an issue, as I don’t notice it unless I’m looking for it.</p>\n<blockquote>\n<p>Updated March 27, 2021: The reMarkable team released version 2.6, which addresses this issue.</p>\n</blockquote>\n<p><img src=\"https://cdn.uploads.micro.blog/229244/2025/1f4c513904.png\" alt=\"Auto-generated description: Handwritten text states, If you look closely, you can see the lines are &lsquo;Jagged&rsquo;.\"></p>\n<p>The “Jagged Line Issue” is one of the annoying things I found about Remarkable 2. If you look closely at the writing (zoom in if it helps), you can see the lines are jagged, depending on how you write. You can see a detailed video that explains the issue here.</p>\n<h2 id=\"the-writing-experience\">The Writing Experience</h2>\n<p>Okay, you want to know how this table feels when writing.</p>\n<p>It feels remarkable, like writing on paper!</p>\n<p>One thing I enjoy about writing on paper is how distraction-free it is. The feeling of writing helps me slow down and think. I get the same feeling while writing on the Remarkable. In addition, I can easily erase, move things around, convert to text, and search.</p>\n<p>My writing is better when using the reMarkable. I write very small on paper, while on the reMarkable, I have more space and write larger and, therefore, more legibly.</p>\n<p>The latency is about 21ms, which is the best on the market. There is very little noticeable lag when writing.</p>\n<h2 id=\"the-reading-experience\">The Reading Experience</h2>\n<p>I have limited experience with the reading functionality on the device. But here is what I have discovered so far.</p>\n<h3 id=\"pdf\">PDF</h3>\n<p><img src=\"https://cdn.uploads.micro.blog/229244/2025/30046a1879.png\" alt=\"Auto-generated description: A digital tablet displaying a document with annotations, accompanied by a black stylus on a wooden surface.\"></p>\n<p>In general, PDFs look great on the reMarkable 2. My only complaint is that the device is too small to read most PDFs comfortably. Articles converted to PDF work well.</p>\n<h2 id=\"epub\">EPUB</h2>\n<p><img src=\"https://cdn.uploads.micro.blog/229244/2025/dfa930ab6a.png\" alt=\"Auto-generated description: An e-reader with text displayed on its screen is resting on a white surface, accompanied by a stylus.\"></p>\n<p>I have heard that the reMarkable doesn’t work well with EPUB, but I don’t have enough experience to know for sure. I added one EPUB to the device, <a href=\"https://gumroad.com/l/doing-content-right\">Doing Content Right, by Steph Smith</a>. It looks great! I’ve had no problems, and it has been easier to read than the PDF version.</p>\n<blockquote>\n<p>Tip: You cannot read your Kindle books on this device.</p>\n</blockquote>\n<h2 id=\"the-price\">The Price</h2>\n<ul>\n<li>The reMarkable itself costs $399.</li>\n<li>The Marker costs $49. The Marker Plus costs $99.</li>\n<li>The Folios range from $69 to $149.</li>\n</ul>\n<p>My setup, the reMarkable with the Marker Plus and Book Folio, totaled $597 before tax. Ouch!</p>\n<p>Tip: Yes, you see that correctly. The reMarkable does not include a Marker, which is ridiculous!</p>\n<h2 id=\"what-would-make-the-remarkable-2-better\">What would make the reMarkable 2 better?</h2>\n<ul>\n<li>Fix jagged lines. (reMarkable fixed jagged lines in version 2.6)</li>\n<li>Include content, even handwritten notes, in search results.</li>\n<li>Faster sync.</li>\n<li>More text conversion options.</li>\n<li>Better formatting for PDF and EPUB.</li>\n<li>Better support. I have not contacted the reMarkable support team, but I have heard negative feedback regarding response times.</li>\n<li>More support for accessing content without Cloud Sync.</li>\n</ul>\n<p>The reMarkable 2 is worth purchasing if you like to write and use paper to organize your day. It is excellent for taking meeting notes, writing thoughts, drafting articles, making sketches and diagrams, disconnecting from the world, and getting lost in your thoughts.</p>\n<p>While I love the reMarkable 2 and use it daily in my workflow, it is not perfect. Software updates could resolve some existing problems.</p>\n<p>If you’re looking for a distraction-free digital writing device, I recommend it.</p>\n",
+				"content_text": "\nI have recently discovered that I love writing on paper. It allows me to escape the digital world and think without distractions.\n\nHowever, paper can be messy. You deal with flipping through pages, smudging, mistakes that are difficult to fix, and the inability to move things. While some argue this adds to the experience, a better solution may exist for some.\n\nThe reMarkable 2 is an e-ink device, similar to a Kindle, but built for writing. The reMarkable attempts to feel like paper and provide a distraction-free writing environment while offering digital advantages.\n\n## You may love using the reMarkable 2 if:\n\n- You enjoy writing on paper.\n- You want a distraction-free writing space.\n- You want to back up your notes automatically.\n- You want to share your notes easily.\n- You don’t want to keep buying paper planners or notebooks.\n- You like the idea of unlimited pages.\n- You want to search for notes quickly.\n- You want to fix mistakes, move things around, and easily make updates.\n- You also want to read and annotate.\n\nThis article is my in-depth device review, including the hardware and software. It includes what I like and dislike. I hope it helps you decide whether to purchase a reMarkable 2.\n## First Impressions of the Hardware\n\n![Auto-generated description: A digital e-ink tablet displaying a planner or note-taking page lies on a wooden surface.](https://cdn.uploads.micro.blog/229244/2025/bd94f9fd72.png)\n\nThe hardware is stunning. Thin and light, the all-aluminum body gives it a solid feel, like holding a slate. A solid strip on the left adds to its look.\n\nThe material is the same on both sides. The back has four rubber nubs to keep the device from sliding on a surface. The right side has a magnet to attach the Marker.\n\nBattery life seems excellent. I have not had the device long enough to say how long it will last. So far, I’ve had the tablet for six days and charged it once; it was at about 70% charge upon arrival. reMarkable says “weeks of battery,” but that depends on usage. I probably have it on for several hours per day.\n\nIt’s hard to complain about the hardware itself. If anything, the screen margins are thick, especially at the bottom. It’s hard to notice until you are writing and run out of space on the page.\n\nTip: You’ll need an external light source to see the screen. Don’t expect to read in the dark!\n\nThe other thing to note is that this device has no backlight, meaning you need an external light source to see the screen.\n\n## Technical Specifications\n\n![Auto-generated description: A table presents the specifications of an electronic device, detailing attributes such as size, weight, screen size, storage, operating system, and other technical features.](https://cdn.uploads.micro.blog/229244/2025/ee786b3659.png)\n\n## reMarkable Marker\n\n![Auto-generated description: A digital tablet with a stylus rests on a wooden surface.](https://cdn.uploads.micro.blog/229244/2025/181cdbb1b2.png)\n\nYou can get either the regular Marker or the Marker Plus. The Marker is white, has no buttons or eraser, and reportedly has a nice texture.\n\nThe Marker Plus is black and includes an eraser. The texture is excellent, and it has a nice weight. One side is flat to keep it from rolling off your desk and to attach to the device magnetically. I have had no problems writing with it, and it feels secure enough for transport in a bag.\n\nIs the extra $50 for the Marker Plus worth it for the eraser? I think so. If you often make mistakes, flipping the Marker over to erase saves a lot of time.\n\nNeither Marker needs charging.\n\nThe biggest downside is the replaceable tips, which wear down over time. I have not had mine long enough to know how long they last, but research suggests they could last from one week to six weeks. The reMarkable comes with nine extra tips and a tool to replace them. Replacement Marker Tips currently cost $14 per pack.\n\n![Auto-generated description: A white card labeled reMarkable holds eight black pin-like tools arranged in a grid pattern.](https://cdn.uploads.micro.blog/229244/2025/37a92b375a.png)\n\n> Tip (pun intended): Don’t forget about the tips. It can be easy to miss them in the packaging. You’ll want to set them aside where you can find them again.\n\n## The Book Folio\n\n![Auto-generated description: A gray fabric-covered ReMarkable tablet case is placed on a wooden surface.](https://cdn.uploads.micro.blog/229244/2025/806a6748f9.png)\n\nI opted for the Gray Book Folio (Polymer Weave). It is thin and covers the device nicely. Removing the reMarkable from the cover is effortless, yet it stays in place firmly.\n\nThe material is acceptable but unexceptional. It doesn’t feel worth $99. However, it’s cheaper than the $149 leather Book Folio (which I hear doesn’t feel like natural leather). It’s probably worth getting to protect your investment.\n\n## First Impressions of the Software\n\nI was running version 2.5.0.27 when I wrote this, given the drastic software improvements.\n\nI had no problems figuring out how to use the software; it is straightforward. The main screen consists of your folders and files. Across the top are options to open the menu, create a folder, create a notebook, access Quick Sheets, or search. You can see the battery life, Wi-Fi connection, and sync status across the bottom of the main screen.\n\n> Tip: Speaking of distraction-free, it doesn’t even have a clock!\n\nI won’t detail the software interface; I think it works well and is smooth. Remember that this is an e-ink device, and the page refresh differs from a typical tablet. The refresh is faster than my Kindle Paperwhite, and I have not had any performance issues.\n\nSometimes, the swipe event does not register, and I must swipe multiple times to swap between pages or close a notebook. This is not an issue if you swipe in the right place and with enough motion.\n\nTip: You can close any notebook or PDF by swiping down from the top of the screen. This is much faster than using the menu.\n\n### Layers\n\nYou can create layers on your page, allowing you to manipulate one without affecting the others. Make elaborate sketches and diagrams, or add text over a custom background.\n\n### Text\n\nAnother cool feature is handwriting-to-text conversion. This feature works as expected if your writing is legible. You can convert one or more pages to text, but you must email the converted text because you can’t save it to the device.\n\n> Tip: Wi-Fi is required for text conversion.\n\n### Templates\n\nThe device comes with many built-in templates, including dots and standard notebook lines with margins.\n\n![Auto-generated description: A digital e-ink tablet with a grid and diagram layout selection interface is placed on a wooden surface alongside a stylus.](https://cdn.uploads.micro.blog/229244/2025/6372bedaba.png)\n\nI immediately found that the templates I wanted were missing. Fortunately, you can add custom templates with some know-how. See the resources at the bottom of this article for more information.\n\nFortunately, you can also use a PDF for your Daily Planner notebook type. You can find them everywhere; Etsy is an excellent place to start. I added more resources to the bottom of this article.\n\n### Sharing\n\nYou can share pages, entire notebooks, or PDFs from the device. You’ll be prompted to enter an email address or select one you've already used. You can add a message, change the filename, and select an export format (PDF, PNG, or SVG). The feature works well.\n\n> Tip: You can download the PDF to your desktop and manipulate it from there.\n\n### Search\n\nYou can easily search for any notebook, PDF, or Epub on your device from the search icon. You will also see the most recently updated files, making it easy to switch between them.\n\nUnfortunately, only the file names and folders are searched, not the content of your notes and files.\n\n### Cloud Sync\n\nWhile using reMarkable Cloud Sync is not required, it is hard to avoid. The advantage is that your content is automatically backed up to the cloud and available on your other devices.\n\nCloud Sync works, but it is not instantaneous. However, it gets the job done.\n\n### The “Read on reMarkable” Browser Extension\n\nThere is a new browser extension from the reMarkable team called [Read on reMarkable](https://chrome.google.com/webstore/detail/read-on-remarkable/bfhkfdnddlhfippjbflipboognpdpoeh). This extension lets you send nearly any webpage to your device with a single click. You have two options. The default is to send the page to the device in EPUB format. This method looks excellent but does not include the source or any images! So I switched my default to PDF. With this setting, the page is converted to PDF and sent directly to your device. The PDF option includes images and more information about the article.\n\nHow the content looks on the device is inconsistent and depends on the source content. If the page is full of ads and poorly formatted, the result will be low quality on the device. I’ve found that sites with a clean format look great.\n\n> Tip: Use the PDF format to include images and the source for your articles.\n## Desktop and Mobile\n\nSpeaking of Cloud Sync, you can access your content from desktop or mobile devices. The desktop and mobile software is unremarkable; it merely displays your content, just as you would see it on your device. You can then read, rearrange, or export your content as needed.\n\n## Jagged Line Issue\n\nThis could be a deal-breaker for some. I don’t feel it is an issue, as I don’t notice it unless I’m looking for it.\n\n > Updated March 27, 2021: The reMarkable team released version 2.6, which addresses this issue.\n\n![Auto-generated description: Handwritten text states, If you look closely, you can see the lines are 'Jagged'.](https://cdn.uploads.micro.blog/229244/2025/1f4c513904.png)\n\nThe “Jagged Line Issue” is one of the annoying things I found about Remarkable 2. If you look closely at the writing (zoom in if it helps), you can see the lines are jagged, depending on how you write. You can see a detailed video that explains the issue here.\n\n## The Writing Experience\n\nOkay, you want to know how this table feels when writing.\n\nIt feels remarkable, like writing on paper!\n\nOne thing I enjoy about writing on paper is how distraction-free it is. The feeling of writing helps me slow down and think. I get the same feeling while writing on the Remarkable. In addition, I can easily erase, move things around, convert to text, and search.\n\nMy writing is better when using the reMarkable. I write very small on paper, while on the reMarkable, I have more space and write larger and, therefore, more legibly.\n\nThe latency is about 21ms, which is the best on the market. There is very little noticeable lag when writing.\n## The Reading Experience\n\nI have limited experience with the reading functionality on the device. But here is what I have discovered so far.\n\n### PDF\n\n![Auto-generated description: A digital tablet displaying a document with annotations, accompanied by a black stylus on a wooden surface.](https://cdn.uploads.micro.blog/229244/2025/30046a1879.png)\n\nIn general, PDFs look great on the reMarkable 2. My only complaint is that the device is too small to read most PDFs comfortably. Articles converted to PDF work well.\n\n## EPUB\n\n![Auto-generated description: An e-reader with text displayed on its screen is resting on a white surface, accompanied by a stylus.](https://cdn.uploads.micro.blog/229244/2025/dfa930ab6a.png)\n\nI have heard that the reMarkable doesn’t work well with EPUB, but I don’t have enough experience to know for sure. I added one EPUB to the device, [Doing Content Right, by Steph Smith](https://gumroad.com/l/doing-content-right). It looks great! I’ve had no problems, and it has been easier to read than the PDF version.\n\n> Tip: You cannot read your Kindle books on this device.\n\n## The Price\n\n- The reMarkable itself costs $399.\n- The Marker costs $49. The Marker Plus costs $99.\n- The Folios range from $69 to $149.\n\nMy setup, the reMarkable with the Marker Plus and Book Folio, totaled $597 before tax. Ouch!\n\nTip: Yes, you see that correctly. The reMarkable does not include a Marker, which is ridiculous!\n\n## What would make the reMarkable 2 better?\n\n- Fix jagged lines. (reMarkable fixed jagged lines in version 2.6)\n- Include content, even handwritten notes, in search results.\n- Faster sync.\n- More text conversion options.\n- Better formatting for PDF and EPUB.\n- Better support. I have not contacted the reMarkable support team, but I have heard negative feedback regarding response times.\n- More support for accessing content without Cloud Sync.\n\nThe reMarkable 2 is worth purchasing if you like to write and use paper to organize your day. It is excellent for taking meeting notes, writing thoughts, drafting articles, making sketches and diagrams, disconnecting from the world, and getting lost in your thoughts.\n\nWhile I love the reMarkable 2 and use it daily in my workflow, it is not perfect. Software updates could resolve some existing problems.\n\nIf you’re looking for a distraction-free digital writing device, I recommend it.\n",
+				"date_published": "2023-05-16T09:00:00-04:00",
+				"url": "https://ericgregorich.blog/2023/05/16/remarkable-review/",
+				"tags": ["tech"]
+			},
+			{
 				"id": "http://ericgregorich.micro.blog/2023/05/15/what-i-dislike-most-about/",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>What I dislike most about Obsidian is how notes are accessed though a file explorer-like interface with no nice list of notes with preview, thumbnail, etc., as you get in most apps like Bear.</p>\n<p>That seems like it could be a plugin. I’ll need to check to see if it already exists.</p>\n",
 				"date_published": "2023-05-15T11:41:16-04:00",
 				"url": "https://ericgregorich.blog/2023/05/15/what-i-dislike-most-about/",
-				"tags": ["apps"]
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/05/15/my-wife-enjoyed-being-pampered/",
@@ -2863,7 +2900,8 @@
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>I’ve been using Bear Notes for personal notes for the past week and enjoy it.</p>\n<p>I would use Bear for work if it was available on Windows and was local only. I then remembered UpNote. <a href=\"https://getupnote.com/\">UpNote</a> is a notes app I’ve tried in the past that is highly similar to Bear, but it is cross-platform and is updated frequently.</p>\n<p>I saw on my Mac that Upnote could work locally only without syncing your data. Perfect, I thought!</p>\n<p>I then installed UpNote on my Windows machine and, without logging in, started adding some notes. It worked flawlessly until…</p>\n<p>… I realized I need UpNote premium to use tables, have unlimited notes, export to PDF, and other critical features. No problem, I thought, because UpNote is dirt cheap, $24.99 for lifetime access. I thought it was worth the price.</p>\n<p>Next, I realized I couldn’t pay for a premium license without an account (a limitation in the Windows app). Understandable. So, I created an account and set it up on my Mac.</p>\n<p>I then switched to Windows, and it said my account was upgraded, and everything was good to go.</p>\n<p>Nope!</p>\n<p>I signed out of my account because I didn’t want to sync my work notes. I want it locally on my machine. As soon as I log out, my premium license is gone. You must be signed in and syncing data to have a premium license.</p>\n<p>What a bummer. I tried to give you money UpNote, but such a simple limitation is all it took to keep me on Obsidian at work.</p>\n<p>Regardless, I still highly recommend UpNote for anyone looking for something similar to Bear but is cross-platform. Remember that you can’t use Premium on Windows without syncing data.</p>\n",
 				"date_published": "2023-05-03T18:17:56-04:00",
-				"url": "https://ericgregorich.blog/2023/05/03/upnote-loses-a-paying-customer/"
+				"url": "https://ericgregorich.blog/2023/05/03/upnote-loses-a-paying-customer/",
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/04/30/for-those-who-watch-many/",
@@ -2872,7 +2910,7 @@
 				"content_text": "<p>For those who watch many YouTube videos (not me, of course 🫣), <a href=\"https://www.you-tldr.com/\">you-tldr</a> is a service that will use AI to extract a summary and transcript from any YouTube video. Free users can only summarize videos up to 30 minutes long (not bad).</p>\n",
 				"date_published": "2023-04-30T15:17:14-04:00",
 				"url": "https://ericgregorich.blog/2023/04/30/for-those-who-watch-many/",
-				"tags": ["technology"]
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/04/28/ive-given-stage-manager-on/",
@@ -2905,7 +2943,7 @@
 				"content_text": "<p>I’m playing around with <a href=\"https://obsidian.md/publish\">Obsidian Publish</a> again since they cut the price in half and pushed out a few updates. Your published notes can now have permalinks, which means the URL won’t change even if I reorganize my notes. This is a big deal for me!</p>\n",
 				"date_published": "2023-04-21T10:31:26-04:00",
 				"url": "https://ericgregorich.blog/2023/04/21/im-playing-around-with-obsidian/",
-				"tags": ["apps"]
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/04/19/the-team-at-obsidian-has/",
@@ -2914,7 +2952,7 @@
 				"content_text": "<p>The team at Obsidian has <a href=\"https://forum.obsidian.md/t/obsidian-publish-now-offers-more-for-less-a-lower-price-with-new-features-improved-seo-and-accessibility/58272\">announced</a> that <a href=\"https://obsidian.md/publish\">Obsidian Publish</a> is now 50% cheaper and has even more features. Obsidian Publish received a facelift recently, has better SEO and, we can finally edit permalinks, images, and page descriptions using YAML!</p>\n",
 				"date_published": "2023-04-19T20:13:49-04:00",
 				"url": "https://ericgregorich.blog/2023/04/19/the-team-at-obsidian-has/",
-				"tags": ["apps"]
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/04/16/my-workspace-update-april/",
@@ -2980,7 +3018,7 @@
 				"content_text": "<p>I tried the <a href=\"https://beta.bear.app/t/the-bear-2-beta-is-here/9115\">Bear 2 Beta</a>. What a beautiful app! I’m tempted to use it for my personal Knowledge Base.</p>\n<p>I’ve tried using one app (Obsidian), but finding separate apps for specific purposes seems to work better.</p>\n<ul>\n<li>Rocketbook = Capture</li>\n<li>Readwise = Collection</li>\n<li>Bear = Knowledge</li>\n<li>Raindrop = Bookmarks</li>\n<li>Ulysses = Long-form writing</li>\n<li>Mars Edit = Blog posts</li>\n<li>Things 3 = Tasks</li>\n<li>Apple Notes = Miscellaneous and shared notes</li>\n</ul>\n",
 				"date_published": "2023-04-09T09:55:53-04:00",
 				"url": "https://ericgregorich.blog/2023/04/09/i-tried-the-bear-beta/",
-				"tags": ["apps"]
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/04/02/heyscottyj-no-pkm-necessary-the/",
@@ -2997,7 +3035,7 @@
 				"content_text": "<p>I’m constantly changing the apps I use. I like to experiment with what works. But I also like to play with new toys. I tend to experiment and chat about new apps I’m trying, but in reality, I have a few core apps that I tend to stick to.</p>\n<p>I like to take inventory now and then as it helps me clean up my system and see how things change over time. This isn’t an exhaustive list, but it highlights the main apps and utilities I use daily.</p>\n<p><strong>I wrote about some of my experiments at the bottom.</strong></p>\n<h2 id=\"consumption\">Consumption</h2>\n<ul>\n<li><a title=\"Readwise Reader\" href=\"https://readwise.io/read\">Readwise Reader</a> - RSS, YouTube subscriptions, Newsletters, Read Later.</li>\n<li><a title=\"Readwise\" href=\"https://readwise.io\">Readwise</a> - Highlights and notes.</li>\n<li><a title=\"Kindle\" href=\"https://read.amazon.com/\">Kindle</a> - Digital book reading.</li>\n<li><a title=\"Audible\" href=\"https://www.audible.com\">Audible</a> - Digital book listening.</li>\n<li><a title=\"Overcast\" href=\"https://overcast.fm\">Overcast</a> - Podcasts.</li>\n<li><a title=\"Apple Music\" href=\"https://www.apple.com/apple-music/\">Apple Music</a> - Music.</li>\n<li><a title=\"Micro.blog\" href=\"https://micro.blog/ericgregorich\">Micro.blog</a> - My favorite community. I use the official app.</li>\n</ul>\n<h2 id=\"personalproductivity\">Personal Productivity</h2>\n<ul>\n<li><a title=\"Things 3\" href=\"https://culturedcode.com/things/\">Things 3</a> - Tasks and life organization.</li>\n<li><a title=\"Apple Notes\" href=\"https://apps.apple.com/us/app/notes/id1110145109\">Apple Notes</a> - Personal notes.</li>\n<li><a title=\"Apple Calendar\" href=\"https://apps.apple.com/us/app/calendar/id1108185179\">Apple Calendar</a> - Personal calendar (with work calendar visible).</li>\n<li><a title=\"Raindrop\" href=\"https://raindrop.io\">Raindrop</a> - Bookmarks and highlights.</li>\n<li><a title=\"Safari\" href=\"https://www.apple.com/safari/\">Safari</a> - Personal browser.</li>\n</ul>\n<h2 id=\"utilities\">Utilities</h2>\n<ul>\n<li><a title=\"Setapp\" href=\"https://go.setapp.com/invite/bl2jnwf8\">Setapp</a> - One subscription for hundreds of apps for Mac and iOS.</li>\n<li><a title=\"Bartender\" href=\"https://www.macbartender.com\">Bartender</a> - Cleans up my Mac menu bar.</li>\n<li><a title=\"Dato\" href=\"https://apps.apple.com/us/app/dato/id1470584107?mt=12\">Dato</a> - Shows my calendar in the menu bar.</li>\n<li><a title=\"Sip\" href=\"https://sipapp.io\">Sip</a> - For grabbing colors.</li>\n<li><a title=\"CleanMyMac X\" href=\"https://cleanmymac.com\">CleanMyMac X</a> - Keep my Mac clean.</li>\n<li><a title=\"Cleanshot X\" href=\"https://cleanshot.com\">Cleanshot X</a> - Screenshots.</li>\n<li><a title=\"BetterSnapTool\" href=\"https://apps.apple.com/us/app/bettersnaptool/id417375580?mt=12\">BetterSnapTool</a> - Window management.</li>\n<li><a title=\"Streaks\" href=\"https://streaksapp.com\">Streaks</a> - Habit tracking and reminders.</li>\n</ul>\n<h2 id=\"websiteandsocial\">Website and Social</h2>\n<ul>\n<li><a title=\"Micro.blog\" href=\"https://micro.blog\">Micro.blog</a> - Hosts my website.</li>\n<li><a title=\"Ulysses\" href=\"https://ulysses.app\">Ulysses</a> - I write posts and send them directly to Micro.blog.</li>\n<li><a title=\"MarsEdit 5\" href=\"https://redsweater.com/marsedit/\">MarsEdit 5</a> - For the occasional website update.</li>\n<li><a title=\"Mastodon\" href=\"https://joinmastodon.org\">Mastodon</a> - Micro.blog feeds into my <a title=\"Social.lol\" href=\"https://social.lol/@ericgregorich\">@ericgregorich@social.lol</a> account.</li>\n<li><a title=\"Ivory\" href=\"https://tapbots.com/ivory/\">Ivory</a> - My preferred Mastodon client (the only one I tried).</li>\n<li><a title=\"Grammarly\" href=\"https://app.grammarly.com\">Grammarly</a> - Grammar and spelling.</li>\n</ul>\n<h2 id=\"workproductivity\">Work Productivity</h2>\n<ul>\n<li>Outlook - Email, calendar, and work tasks.</li>\n<li>Microsoft Office - Documents and other necessary junk.</li>\n<li>Microsoft Teams - Team communication. Project organization and files.</li>\n<li>Microsoft OneNote - Project notes.</li>\n<li>Microsoft Editor - Grammar and spelling.</li>\n<li><a title=\"Azure DevOps\" href=\"http://devops.azure.com\">Azure DevOps</a> - Project tasks.</li>\n<li><a title=\"Balamic Mockups\" href=\"https://balsamiq.com\">Balsamic Mockups</a> - Wireframes and simple documentation.</li>\n<li><a title=\"Visual Studio Code\" href=\"https://visualstudio.microsoft.com\">Visual Studio Code</a> and <a title=\"Visual Studio\" href=\"https://visualstudio.microsoft.com\">Visual Studio</a> - Code!</li>\n<li><a title=\"Timeular\" href=\"https://timeular.com\">Timeular</a> - Where I track my time for client work.</li>\n<li><a title=\"Bing Chat\" href=\"https://www.bing.com/new\">Bing Chat</a> - Helps me troubleshoot, research, and create images.</li>\n</ul>\n<h2 id=\"experiments\">Experiments</h2>\n<p>I tried using <a title=\"Blot\" href=\"https://blot.im\">Blot</a> for my website. I was writing in Obsidian and posting to Blot, where it would immediately appear on my blog. It was awesome, but I’ll stick with ￼Micro.blog￼ for simplicity.</p>\n<p>I tried <a title=\"Obsidian\" href=\"https://obsidian.md\">Obsidian</a> for all of my writing. I still prefer Ulysses, and I think it’s more about the organization of notes and distractions that become available in Obsidian that sways me back to Ulysses.</p>\n<p>I tried <a title=\"Logseq\" href=\"https://logseq.com\">Logseq</a> for work notes, and it works great for getting things down and creating tasks throughout the day. My biggest grip is that I usually must share notes with my team. Taking light notes in OneNote and immediately updating the documentation for our project works best in the long run. Tasks immediately go into Azure DevOps and are assigned to team members or Microsoft To-Do (accessed through Outlook) for personal work tasks.</p>\n<p>I experimented with a <a title=\"Rocketbook\" href=\"https://getrocketbook.com\">Rocketbook</a> notebook. It didn’t stick. Not a problem with the notebook itself. When I get busy, I struggle to do anything analog, although that seems like it should be the best time to use analog. :( The Rocketbook reminded me of writing on my iPad with the Apple Pencil, which reminded me that I could do that by just taping my iPad Lock Screen and starting to write. I still jot down thoughts this way.</p>\n<p>I also experimented with dropping my RSS feeds altogether. That didn’t go well because I spent more time jumping to various sites to keep up with things. I returned to RSS, tried <a title=\"Inoreader\" href=\"https://www.inoreader.com\">Inoreader</a> for a minute, and thought about returning to <a title=\"Feedbin\" href=\"https://feedbin.com\">Feedbin</a>, but ultimately just added my RSS feeds and newsletters to the Readwise Reader app. Now everything is in one place. Readwise Reader is growing on me, and it is complex but has some great features.</p>\n<p>I played with some AI tools, like <a title=\"ChatGPT\" href=\"https://chat.openai.com/chat\">ChatGPT</a> and <a title=\"Microsoft Bing Chat.\" href=\"https://www.bing.com/new\">Microsoft Bing Chat</a>. I see them as useful search tools for research and troubleshooting.</p>\n<p>I foresee myself testing <a title=\"Microsoft Loop\" href=\"https://loop.microsoft.com/learn\">Microsoft Loop</a>, <a title=\"Microsoft Copilot\" href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2023/03/16/introducing-microsoft-365-copilot-a-whole-new-way-to-work/\">Microsoft Copilot</a>, and other miscellaneous tools next.</p>\n",
 				"date_published": "2023-04-01T10:52:52-04:00",
 				"url": "https://ericgregorich.blog/2023/04/01/apps-im-using-march/",
-				"tags": ["apps"]
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/03/31/the-temperature-is-in-that/",
@@ -3014,7 +3052,7 @@
 				"content_text": "[Raindrop](https://raindrop.io) released native iOS and iPadOS apps today. \n\nI’ve been using Raindrop because I need something cross-platform. I also use it heavily to highlight documentation that I review for work. \n\nI'm happy to see some native apps. The mobile experience was definitely lacking.\n",
 				"date_published": "2023-03-29T18:38:37-04:00",
 				"url": "https://ericgregorich.blog/2023/03/29/raindrop-released-native-ios-and/",
-				"tags": ["technology","apps"]
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/03/29/ultimate-calendar-hack-how-to/",
@@ -3046,7 +3084,8 @@
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>📺 We finished <a href=\"https://www.themoviedb.org/tv/66732\">Stranger Things</a> season 4. What a fun show!</p>\n",
 				"date_published": "2023-03-26T08:30:57-04:00",
-				"url": "https://ericgregorich.blog/2023/03/26/we-finished-stranger-things-season/"
+				"url": "https://ericgregorich.blog/2023/03/26/we-finished-stranger-things-season/",
+				"tags": ["fun"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/03/26/ai-like-chapgpt-is-simply/",
@@ -3055,7 +3094,7 @@
 				"content_text": "AI, like ChapGPT, is simply manipulating data and returning it to us in the requested format. The real AI we're all terrified of can learn. Give that AI access to material things, and then I'm scared. \n",
 				"date_published": "2023-03-26T07:54:06-04:00",
 				"url": "https://ericgregorich.blog/2023/03/26/ai-like-chapgpt-is-simply/",
-				"tags": ["technology"]
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/03/25/i-decided-to-switch-my/",
@@ -3081,7 +3120,7 @@
 				"content_text": "I'm trying out Drafts to be my primary capture tool. I'm configuring Drafts to send to various locations, like Micro.blog, Day One, Logseq, Obsidian, Reminders, etc. Perhaps, it will help to have one place to go to write things down?\n",
 				"date_published": "2023-03-25T10:46:20-04:00",
 				"url": "https://ericgregorich.blog/2023/03/25/im-trying-out-drafts-to/",
-				"tags": ["apps"]
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/03/24/discarded-the-future-is-analog/",
@@ -3107,7 +3146,7 @@
 				"content_text": "<p>Publishing to Blot is so fast; I don’t even know how it’s possible. I click the “push” button in Obsidian and switch to my browser, refresh, and the latest post is already there. Less than 1 second. Quite impressive!</p>\n",
 				"date_published": "2023-03-22T18:10:42-04:00",
 				"url": "https://ericgregorich.blog/2023/03/22/publishing-to-blot-is-so/",
-				"tags": ["apps"]
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/03/15/currently-reading-think-straight-by/",
@@ -3125,7 +3164,7 @@
 				"content_text": "<p>I finished the “Design your system for creativity” webinar by Oliver Burkeman. I took my notes in Obsidian Canvas, resulting in a visual mind map.</p>\n<p>I will try Canvas to map out the technical requirements of apps I design for my clients. Especially useful that each node can be a full page of notes.</p>\n<p><img src=\"uploads/2023/01ea2f8605.png\" alt=\"\" width=\"600\" height=\"558\" /></p>\n",
 				"date_published": "2023-03-12T14:08:16-04:00",
 				"url": "https://ericgregorich.blog/2023/03/12/i-finished-the-design-your/",
-				"tags": ["apps"]
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/03/11/im-about-complete-with-my/",
@@ -3134,7 +3173,7 @@
 				"content_text": "I'm about 90% complete with my \"website\" transition to Blot for hosting. The ONLY reason I'm moving my main blog from Micro.blog is because of the workflow I have set up with Obsidian and Git. \n\nMicro.blog is still where I post status updates and will continue to be the \"hub\" from a social standpoint. \n",
 				"date_published": "2023-03-11T18:02:29-04:00",
 				"url": "https://ericgregorich.blog/2023/03/11/im-about-complete-with-my/",
-				"tags": ["apps"]
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/03/11/microblog-rss-feeds/",
@@ -3174,7 +3213,8 @@
 				"content_html": "<p>I&rsquo;ve been quiet the past couple of weeks. I&rsquo;m working on a few things, including some website updates. I moved my Micro.blog site to <a href=\"https://ericgregorich.com\">blog.ericgregorich.com</a> and moved my <a href=\"https://ericgregorich.com\">main site</a> to <a href=\"https://blot.im\">Blot.im</a>.</p>\n<p>The only reason for this move is because Blot fits my workflow better. I can take all my markdown notes in Obsidian and easily publish them to my website using Git. I have local markdown files for everything, which is my goal.</p>\n",
 				"content_text": "I've been quiet the past couple of weeks. I'm working on a few things, including some website updates. I moved my Micro.blog site to [blog.ericgregorich.com](https://ericgregorich.com) and moved my [main site](https://ericgregorich.com) to [Blot.im](https://blot.im).\n\nThe only reason for this move is because Blot fits my workflow better. I can take all my markdown notes in Obsidian and easily publish them to my website using Git. I have local markdown files for everything, which is my goal.\n",
 				"date_published": "2023-03-07T17:13:33-04:00",
-				"url": "https://ericgregorich.blog/2023/03/07/ive-been-quiet-the-past/"
+				"url": "https://ericgregorich.blog/2023/03/07/ive-been-quiet-the-past/",
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/02/27/003417/",
@@ -3295,7 +3335,8 @@
 				"content_html": "<p>Short notes vs. long notes, how they differ, and the tools you need to manage each.</p>\n<p>I personally capture small notes but then create larger documents.</p>\n<p><a href=\"https://www.obsidianroundup.org/one-size-fits-all-how-to-take-big-notes-and-how-to-take-small-notes/\">Original Post</a></p>\n",
 				"content_text": "Short notes vs. long notes, how they differ, and the tools you need to manage each. \n\nI personally capture small notes but then create larger documents. \n\n[Original Post](https://www.obsidianroundup.org/one-size-fits-all-how-to-take-big-notes-and-how-to-take-small-notes/)\n",
 				"date_published": "2023-02-04T13:14:15-04:00",
-				"url": "https://ericgregorich.blog/2023/02/04/short-notes-vs-long-notes/"
+				"url": "https://ericgregorich.blog/2023/02/04/short-notes-vs-long-notes/",
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/02/04/ive-been-using-craft-for/",
@@ -3336,7 +3377,8 @@
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>📺 Watching <a href=\"https://www.netflix.com/title/81387962\">Stutz</a> on Netflix.</p>\n",
 				"date_published": "2023-01-29T16:02:35-04:00",
-				"url": "https://ericgregorich.blog/2023/01/29/watching-stutz-on-netflix/"
+				"url": "https://ericgregorich.blog/2023/01/29/watching-stutz-on-netflix/",
+				"tags": ["fun"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/01/29/ive-used-craftdo-before-and/",
@@ -3352,8 +3394,7 @@
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>I <a href=\"https://ericgregorich.com/mastodon\">published a guide</a> that consolidates my notes and bookmarks about Mastodon. It includes articles, tools for finding a server, people to follow, and client apps.</p>\n<p>As I stumble across more resources, I’ll add them. I’m recently starting with Mastodon. Let me know what I’m missing!</p>\n",
 				"date_published": "2023-01-29T10:30:21-04:00",
-				"url": "https://ericgregorich.blog/2023/01/29/i-published-a-guide-that/",
-				"tags": ["apps"]
+				"url": "https://ericgregorich.blog/2023/01/29/i-published-a-guide-that/"
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/01/28/i-published-my-first-craft/",
@@ -3361,8 +3402,7 @@
 				"content_html": "<p>I published my first Craft documents for the public. Starting with recent <!-- raw HTML omitted -->book<!-- raw HTML omitted --> notes and my notes for <!-- raw HTML omitted -->Microsoft Power Apps<!-- raw HTML omitted -->.</p>\n<p>Currently, it&rsquo;s a copy of my existing notes, but I plan to expand on it quite a bit.</p>\n<p>I also created a <!-- raw HTML omitted -->Notes<!-- raw HTML omitted --> page that will link the various documents.</p>\n",
 				"content_text": "I published my first Craft documents for the public. Starting with recent <a href=\"https://ericgregorich.com/calmyourmind\">book</a> notes and my notes for <a href=\"https://ericgregorich.com/microsoft-power-apps\">Microsoft Power Apps</a>.\n\nCurrently, it's a copy of my existing notes, but I plan to expand on it quite a bit.\n\nI also created a <a href=\"https://ericgregorich.com/notes/\">Notes</a> page that will link the various documents.\n",
 				"date_published": "2023-01-28T11:12:52-04:00",
-				"url": "https://ericgregorich.blog/2023/01/28/i-published-my-first-craft/",
-				"tags": ["apps"]
+				"url": "https://ericgregorich.blog/2023/01/28/i-published-my-first-craft/"
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/01/27/im-considering-moving-all-of/",
@@ -3462,7 +3502,7 @@
 				"content_text": "<p>“<a href=\"https://every.to/superorganizers/the-end-of-organizing\">The End of Organizing</a>” by Dan Shipper argues that AI will be the best way to organize our notes in the future.</p>\n<blockquote>\n<p>So you rarely go back to use your old notes. It’s too cognitively expensive and not rewarding enough. For an old note to be helpful it needs to be presented to Future You in a way that clicks into what you’re working on instantly—with as little processing as possible.</p>\n</blockquote>\n<p>As you consume content and take generic notes, the AI can transform it into more meaningful text, autocomplete the thought, apply context, and organize it, making it easy to find again.</p>\n<p>As you create content, AI could show your notes as you type. Imagine typing about a topic, and the AI presents the notes to you as you type, as it applies to the current context.</p>\n<p>Many note and reading apps already incorporate AI, including Readwise, Mem, Mymind, Craft, and Notion. Some with plugins that add this, including Obsidian and Logseq. It should quickly evolve to the point envisioned in this essay.</p>\n<p>This essay does not account for the act of writing as a way to help you think and learn. If we let AI do the lifting for us, does that make us smarter, or do we lose the ability to think for ourselves? There is a fine line.</p>\n",
 				"date_published": "2023-01-14T10:35:45-04:00",
 				"url": "https://ericgregorich.blog/2023/01/14/the-end-of-organizing-by/",
-				"tags": ["technology","apps"]
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/01/13/readwise-reader-is-growing-on/",
@@ -3487,6 +3527,15 @@
 				"content_text": "<p>Evernote 10.51.7 has been updated with backlink support. This means you can easily add links to other notes, and the backlinks will show you which notes are linking to the current note.</p>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" title=\"Evernote 10.51.7 Release Notes\" src=\"https://cdn.uploads.micro.blog/229244/2023/f59713988c.png\" alt=\"Evernote 10.51.7 Release Notes\" width=\"490\" height=\"500\" border=\"0\" /></p>\n<p>A previous update made adding links to other notes easier through a menu option (and keyboard shortcut).</p>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" title=\"Evernote New Link menu item\" src=\"https://cdn.uploads.micro.blog/229244/2023/b2743d7d2f.png\" alt=\"Evernote New Link menu item\" width=\"780\" height=\"434\" border=\"0\" /></p>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" title=\"Evernote backlinks menu\" src=\"https://cdn.uploads.micro.blog/229244/2023/943c762007.png\" alt=\"Evernote backlinks menu\" width=\"779\" height=\"252\" border=\"0\" /></p>\n<p>These updates make Evernote much more helpful for some note-makers who love connecting notes. Whenever I check the new Evernote apps, they seem faster and more stable.</p>\n<p>Evernote was <a href=\"https://ericgregorich.com/2022/11/17/bending-spoon-purchased.html\">recently purchased</a> by Bending Spoons.</p>\n",
 				"date_published": "2023-01-08T09:21:13-04:00",
 				"url": "https://ericgregorich.blog/2023/01/08/evernote-now-supports-backlinks/"
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2023/01/07/project-hail-mary/",
+				"title": "Project Hail Mary",
+				"content_html": "<p>Project Hail Mary is a story by the same author of The Martian, Andy Weir. While The Martian’s story is grounded in the science we understand today, Project Hail Mary goes beyond that and adds more sci-fi without breaking the rules of science.</p>\n<p>The other difference between The Martian and Project Hail Mary is the scope. In The Martian, Mark Watney is stranded on Mars and needs to figure out how to get home. In Project Hail Mary, a phenomenon is destroying the Sun, and Ryland Grace must travel to a distant star to figure out how to save Earth.</p>\n<p>The protagonist, Ryland Grace, is a science teacher who ends up as the sole survivor of the Hail Mary as it travels to its destination, where we hope to figure out how to save Earth. Ryland wakes from a coma with no memory of how he got there or even who he is. Fortunately, his memory comes back over time.</p>\n<p>As Ryland solves one problem after another aboard the Hail Mary, his memories slowly return. We see the planning of the Project Hail Mary mission on Earth and how Ryland was “chosen” for the mission. We also see the sacrifices that are made to make the mission happen.</p>\n<p>The writing is engaging and fun. While much math is involved, you can get the point without understanding it. It all makes sense. This is one of the unique things about Andy Weir’s writing style. You can tell he loves this stuff. He researched and discussed “what if” scenarios with real scientists and astronauts. After the success of The Martian, he likely has a pool of resources available to him.</p>\n<p>This story is not your typical sci-fi. This could happen. Ryland’s science-based problems felt realistic instead of forced plot twists to make the story exciting. Many times in this book, I imagined all the things that could have been done if this were an action sci-fi story we would typically see. Instead, we get a great story about somebody working out extraordinary issues.</p>\n",
+				"content_text": "Project Hail Mary is a story by the same author of The Martian, Andy Weir. While The Martian’s story is grounded in the science we understand today, Project Hail Mary goes beyond that and adds more sci-fi without breaking the rules of science.\n\nThe other difference between The Martian and Project Hail Mary is the scope. In The Martian, Mark Watney is stranded on Mars and needs to figure out how to get home. In Project Hail Mary, a phenomenon is destroying the Sun, and Ryland Grace must travel to a distant star to figure out how to save Earth.\n\nThe protagonist, Ryland Grace, is a science teacher who ends up as the sole survivor of the Hail Mary as it travels to its destination, where we hope to figure out how to save Earth. Ryland wakes from a coma with no memory of how he got there or even who he is. Fortunately, his memory comes back over time.\n\nAs Ryland solves one problem after another aboard the Hail Mary, his memories slowly return. We see the planning of the Project Hail Mary mission on Earth and how Ryland was “chosen” for the mission. We also see the sacrifices that are made to make the mission happen.\n\nThe writing is engaging and fun. While much math is involved, you can get the point without understanding it. It all makes sense. This is one of the unique things about Andy Weir’s writing style. You can tell he loves this stuff. He researched and discussed “what if” scenarios with real scientists and astronauts. After the success of The Martian, he likely has a pool of resources available to him.\n\nThis story is not your typical sci-fi. This could happen. Ryland’s science-based problems felt realistic instead of forced plot twists to make the story exciting. Many times in this book, I imagined all the things that could have been done if this were an action sci-fi story we would typically see. Instead, we get a great story about somebody working out extraordinary issues.\n",
+				"date_published": "2023-01-07T09:00:00-04:00",
+				"url": "https://ericgregorich.blog/2023/01/07/project-hail-mary/",
+				"tags": ["books"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2023/01/06/i-finally-completed-my-christmas/",
@@ -3553,7 +3602,7 @@
 				"content_text": "<p><a href=\"https://apps.apple.com/us/app/play-save-videos-watch-later/id1596506190\">Play</a>, by Loop Apps LTDA, is an app for iOS and macOS that lets you easily save videos from YouTube, Vimeo, and other sources so you can manage your playlist and watch them later.</p>\n<p>If you get frustrated by the Watch later feature built into YouTube, this app could solve your problems.</p>\n",
 				"date_published": "2022-12-30T09:51:49-04:00",
 				"url": "https://ericgregorich.blog/2022/12/30/play-manage-your-video-playlist/",
-				"tags": ["technology"]
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/12/30/fade-in-your-website-using/",
@@ -3603,7 +3652,7 @@
 				"content_text": "<p>I played around with Obsidian’s Canvas feature (only in the Insider Build). I also played with Apple’s new Freeform app and think Obsidian canvas is better. Quite impressive for such a small dev team.</p>\n<p>Here is a pass at my “PKM” system. This doesn’t do the app justice, though.</p>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" title=\"My PKM System.png\" src=\"https://cdn.uploads.micro.blog/229244/2022/1febccf8ec.png\" alt=\"My PKM System\" width=\"715\" height=\"600\" border=\"0\" /></p>\n",
 				"date_published": "2022-12-17T10:08:34-04:00",
 				"url": "https://ericgregorich.blog/2022/12/17/i-played-around-with-obsidians/",
-				"tags": ["technology","apps"]
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/12/15/currently-reading-the-staff-engineers/",
@@ -3654,7 +3703,7 @@
 				"content_text": "I wonder if today's search engines will be replaced by AI or at least incorporate AI into the results. \n\nRather than searching for a website with an answer to something, the AI will tell you the answer and allow you to fine-tune the outcome based on your needs. \n",
 				"date_published": "2022-12-11T12:41:25-04:00",
 				"url": "https://ericgregorich.blog/2022/12/11/i-wonder-if-todays-search/",
-				"tags": ["technology"]
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/12/11/i-just-purchased-my-copy/",
@@ -3687,7 +3736,7 @@
 				"content_text": "<p>The new Canvas feature in the Obsidian v1.1.0 (Insider Build) looks crazy brilliant. I can see how this would help brainstorm directly in Obsidian. I will be trying it out soon. ￼<a href=\"https://youtu.be/G3DJKk4ivq4\">Here is a short video￼</a> from Danny Hatcher that shows precisely what the Canvas view can do.</p>\n",
 				"date_published": "2022-12-06T21:26:16-04:00",
 				"url": "https://ericgregorich.blog/2022/12/06/the-new-canvas-feature-in/",
-				"tags": ["apps"]
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/12/05/how-we-spend-our-hours/",
@@ -3703,7 +3752,8 @@
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>I watched the first episode of Willow last night. It brings back memories! I loved the movie when I was a kid.</p>\n<p>While I’m not yet blown away by the effects and story, it’s still fun, and I‘ll undoubtedly continue watching. 📺</p>\n",
 				"date_published": "2022-12-03T20:50:00-04:00",
-				"url": "https://ericgregorich.blog/2022/12/03/i-watched-the-first-episode/"
+				"url": "https://ericgregorich.blog/2022/12/03/i-watched-the-first-episode/",
+				"tags": ["fun"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/12/03/ive-been-cleaning-up-the/",
@@ -3711,8 +3761,7 @@
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>I’ve been cleaning up the apps on my phone. My main screen has a few widgets (photos, calendar, activity, airshow, Kindle) and this second screen has the main apps I use. Next, I’ll work on the iPad. :)</p>\n<figure><img src=\"uploads/2022/94d5501227.png\" alt=\"\" /></figure>\n",
 				"date_published": "2022-12-03T18:15:26-04:00",
-				"url": "https://ericgregorich.blog/2022/12/03/ive-been-cleaning-up-the/",
-				"tags": ["apps"]
+				"url": "https://ericgregorich.blog/2022/12/03/ive-been-cleaning-up-the/"
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/12/02/using-a-working-memory-file/",
@@ -3720,7 +3769,8 @@
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>I created a Working Memory file that I’ll use throughout the day. I learned this from <a href=\"https://www.calnewport.com/blog/2015/10/27/deep-habits-workingmemory-txt-the-most-important-productivity-tool-youve-never-heard-of/\">Cal Newport</a>, although I’m sure he didn’t invent the idea.</p>\n<p>The idea is to have a single text file open all day that you use to write all of your notes, today’s tasks, etc. Similar to a Daily Note available in some applications, like Roam Research, Logseq, or Obsidian, except this file persists from day to day.</p>\n<p>I clean up the file daily, move tasks to my task system, and save important notes into my note application. My Working Memory file also has a list of active projects with the current status that I keep up to date, as well as a short list of things I want to remember.</p>\n<p>The purpose is not to jump in and out of applications all day, which is one of my struggles.</p>\n<p>I’m on Windows (for work), and Notepad was too basic; I tried iAWriter, but while I like writing with Markdown, I don’t want to see the Markdown. Now, I’m trying Typora, which uses Markdown, but with a live preview.</p>\n<p>So far, I love this approach. It keeps everything within easy reach and forces me to review every day.</p>\n",
 				"date_published": "2022-12-02T11:32:01-04:00",
-				"url": "https://ericgregorich.blog/2022/12/02/using-a-working-memory-file/"
+				"url": "https://ericgregorich.blog/2022/12/02/using-a-working-memory-file/",
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/12/01/adding-web-signin-to-your/",
@@ -3737,7 +3787,7 @@
 				"content_text": "I received my invitation to try out [Lex](https://lex.page \"Lex\") today. While I’m opposed to the idea of AI writing for me, I certainly don’t mind some assistance when I get stuck. Kind of like a writing partner. I doubt I will use it, but I’m interested in the tech.\n",
 				"date_published": "2022-11-28T09:22:55-04:00",
 				"url": "https://ericgregorich.blog/2022/11/28/i-received-my-invitation-to/",
-				"tags": ["technology"]
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/11/27/i-made-some-delicious-smoked/",
@@ -3770,7 +3820,7 @@
 				"content_text": "<p>Evernote <a title=\"announced\" href=\"https://evernote.com/blog/evernote-next-move-joining-bending-spoons/\">announced</a> Bending Spoons, a developer of mobile apps had acquired them. Bending Spoons is known for (or not known for) its mobile apps, including, Splice, Remini, and 30 Day Fitness.</p>\n<p>Like many, my first thoughts were, “this doesn’t make sense. Evernote is doomed!”. However, Bending Spoons must have the funds and technology to take Evernote to the next level. In a way, this is kind of exciting. Let’s hope they don’t blow it.</p>\n<p>What does this purchase mean for Evernote? It’s hard to say without knowing more about Bending Spoons. Looking through their website, it appears they’re heavily invested in AI (who isn’t these days). Adding some AI to Evernote could be pretty exciting. Evernote is already great (if not the best) at capturing and storing information. Adding AI to help connect notes, write text, update media, etc., could be a welcome addition. It’s also possible Bending Spoons does absolutely nothing with Evernote, and it’s business as usual.</p>\n<p>I’ve been an Evernote user for over a decade and have accumulated nearly 7 thousand notes. Like many, Evernote has become a dumping ground where everything gets added to a massive black hole, never to be seen again. Don’t get me wrong, Evernote search is excellent, and with OCR, notebooks, and tags, users who like to use Evernote for their daily workflow have many options.</p>\n<p>I keep jumping into the Evernote app to see what’s new and occasionally to grab an old note. I just haven’t been able to stick with it lately because of the bloat. There are many other simple and sleeker tools out there today.</p>\n<p>I must admit that Evernote has come a long way in the past year or two after its massive rewrite. The app is pretty fast and responsive on all platforms. If it had better export and the ability to hide the features I don’t want to use, it would be tempting to use it full-time again. At this point, I’ll wait to see how this acquisition turns out before jumping back in.</p>\n",
 				"date_published": "2022-11-17T09:38:54-04:00",
 				"url": "https://ericgregorich.blog/2022/11/17/bending-spoons-purchased-evernote/",
-				"tags": ["technology"]
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/11/15/i-tried-using-an-outliner/",
@@ -3779,7 +3829,7 @@
 				"content_text": "<p>I tried using Logseq to write in throughout the day. It’s a great application, but I can’t enjoy writing in an outliner. I had the same issues when I tried Roam Research back in the day. It’s okay when I’m just jotting things down, but I become frustrated whenever I try to write anything substantial, more than a couple of paragraphs.</p>\n<p>I’ll stick with Obsidian because of the much better writing experience (for me).</p>\n",
 				"date_published": "2022-11-15T13:21:43-04:00",
 				"url": "https://ericgregorich.blog/2022/11/15/i-tried-using-an-outliner/",
-				"tags": ["apps"]
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/11/15/i-switched-from-my-logitech/",
@@ -3894,7 +3944,7 @@
 				"content_text": "I started using Apple Notes for quick capture. \n\nOne way is from my iPad. I tap my Apple Pencil on the Lock Screen and start to write or sketch. \n\nI have always enjoyed this process on paper, and now I can do it digitally. \n\nIt’s a great way to **echo** my thoughts. #mbnov\n",
 				"date_published": "2022-11-06T15:54:41-04:00",
 				"url": "https://ericgregorich.blog/2022/11/06/i-started-using-apple-notes/",
-				"tags": ["technology","apps"]
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/11/06/things-i-love-about-feedbin/",
@@ -3943,7 +3993,7 @@
 				"content_text": "I'm trying to **figure** out how to go from not taking consistent notes to creating a personal knowledge base. \n\nI'm using Obsidian and publishing ~90% of my notes are published to my [site](https://ericgregorich.com) rather than my blog.\n\nPhase 1 is to consolidate my existing notes. I already see the benefits!\n",
 				"date_published": "2022-11-01T08:27:39-04:00",
 				"url": "https://ericgregorich.blog/2022/11/01/im-trying-to-figure-out/",
-				"tags": ["apps"]
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/10/30/our-assumptions-may-limit-our/",
@@ -3959,8 +4009,7 @@
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>If nothing else, my Micro.blog <a title=\"newsletter\" href=\"https://ericgregorich.com/newsletter/\">newsletter</a> provides a nice overview of my past week. It’s a great way to reflect and share with others who have similar interests.</p>\n",
 				"date_published": "2022-10-30T10:47:19-04:00",
-				"url": "https://ericgregorich.blog/2022/10/30/if-nothing-else-my-microblog/",
-				"tags": ["apps"]
+				"url": "https://ericgregorich.blog/2022/10/30/if-nothing-else-my-microblog/"
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/10/30/im-one-to-keep-trying/",
@@ -4010,8 +4059,7 @@
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>I uninstalled all of the social apps from my phone (again), except Micro.blog.</p>\n<p>I have trouble leaving Twitter because there is such a robust community I follow for news and updates pertaining to my work.</p>\n<p>I’m experimenting with Mailbrew to provide a daily Twitter digest.</p>\n",
 				"date_published": "2022-10-28T18:24:54-04:00",
-				"url": "https://ericgregorich.blog/2022/10/28/i-uninstalled-all-of-the/",
-				"tags": ["apps"]
+				"url": "https://ericgregorich.blog/2022/10/28/i-uninstalled-all-of-the/"
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/10/26/annelaure-le-cunff-fed-jasper/",
@@ -4020,7 +4068,7 @@
 				"content_text": "<p>Anne-Laure Le Cunff fed Jasper, an AI writing tool, 100 headlines from content she wrote in the past and then shared them on a <a href=\"https://toolbox.nesslabs.com/\">website</a>.</p>\n<p>While the articles were repetitive and dry, it’s quite scary how AI can be used to generate content. She even created the thumbnails with AI!</p>\n<p>Here is a <a href=\"https://youtu.be/rtgyps-6jdg\">video</a> where she explains the process and the results.</p>\n",
 				"date_published": "2022-10-26T22:35:58-04:00",
 				"url": "https://ericgregorich.blog/2022/10/26/annelaure-le-cunff-fed-jasper/",
-				"tags": ["technology"]
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/10/25/i-stumbled-across-this-article/",
@@ -4045,7 +4093,7 @@
 				"content_text": "<p>I renewed my Mymind subscription today. It’s expensive, but I enjoy using it and keep returning to it as my primary tool for bookmarks and private notes.</p>\n<p>Myminds best features include AI to tag your content automatically, a clean interface, and an extremely fast search.</p>\n<figure><img src=\"uploads/2022/a2a748d734.png\" alt=\"Eric Gregorichs Mymind\" />\n<figcaption>Eric Gregorich’s Mymind</figcaption>\n</figure>\n",
 				"date_published": "2022-10-21T17:14:37-04:00",
 				"url": "https://ericgregorich.blog/2022/10/21/i-renewed-my-mymind-subscription/",
-				"tags": ["technology"]
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/10/21/my-struggles-with-writing/",
@@ -4053,8 +4101,7 @@
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>Writing what’s on my mind is something I struggle with. I think the issue is not the writing itself; it’s the distractions and mind wandering. I have difficulty focusing for a long enough period to produce something worth reading.</p>\n<p>Even when I get on track and start writing something, I lose focus and never finish what I started, or more often, I wrap it up early and hit publish. “Good enough.”. Maybe that’s why I enjoy Micro.blog so much since it quickly makes it easy to post something without giving it much thought.</p>\n<p>I also get distracted by tools and apps. Changing my system will always fix the problem, right?</p>\n<p>I enjoy writing and think it helps me clear my mind. It is one of the few things I do that forces me to focus. So, I don’t want to stop.</p>\n<p>To help improve my writing, I will try a few obvious things.</p>\n<ol>\n<li>Block distractions as much as possible.</li>\n<li>Dedicate the same time every day to writing.</li>\n<li>Continue to post short thoughts (like this) on my blog.</li>\n<li>I’m tempted to create a new blog (maybe on Substack?) where I post long-form essays. The kind that requires a lot of time and research. This would be more of an exercise to create a routine and dedicate time to something I enjoy.</li>\n</ol>\n",
 				"date_published": "2022-10-21T08:53:15-04:00",
-				"url": "https://ericgregorich.blog/2022/10/21/my-struggles-with-writing/",
-				"tags": ["apps"]
+				"url": "https://ericgregorich.blog/2022/10/21/my-struggles-with-writing/"
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/10/20/the-goal-is-the-target/",
@@ -4079,7 +4126,7 @@
 				"content_text": "<p>I imported my Readwise collection into my Obsidian vault. The graph view looks like a mess, but I can start seeing where some knowledge is clustered together. I’m thinking the local graph will be more useful day-to-day.</p>\n<p><img src=\"uploads/2022/32520b564e.png\" alt=\"Eric Gregorich Obsidian Graph 2022-10-20\" width=\"600\" height=\"418\" /></p>\n",
 				"date_published": "2022-10-20T16:37:29-04:00",
 				"url": "https://ericgregorich.blog/2022/10/20/i-imported-my-readwise-collection/",
-				"tags": ["apps"]
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/10/16/what-im-reading/",
@@ -4088,7 +4135,7 @@
 				"content_text": "<p>I’ve been jumping between 3 books this week.</p>\n<p>The first is <a title=\"Fairy Tale, by Stephen King\" href=\"https://amzn.to/3s0YZeE\">Fairy Tale, by Stephen King</a>. I’m about 3/4 of the way through and have to say it’s excellent. I highly recommend the audiobook.</p>\n<p>The next is <a title=\"Stolen Focus by Johann Hari\" href=\"https://amzn.to/3rZMRuj\">Stolen Focus by Johann Hari</a>. Another book is about how the distractions from today’s technology are harming us.</p>\n<p>The last is <a title=\"Where Good Ideas Come From\" href=\"https://amzn.to/3eAJ6bC\">Where Good Ideas Come From by Steven Johnson</a>. This book discusses how our mind makes connections that form ideas. This book may interest you if you’re interested in PKM and all the new apps like Roam Research, Obsidian, Tana, Scrintal, Napkin, etc.</p>\n",
 				"date_published": "2022-10-16T08:28:37-04:00",
 				"url": "https://ericgregorich.blog/2022/10/16/what-im-reading/",
-				"tags": ["apps"]
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/10/15/i-made-some-more-tweaks/",
@@ -4187,7 +4234,7 @@
 				"content_text": "<p>I have started using Obsidian to manage my work notes. I created a new vault for each client connected to source control using Git.</p>\n<p>Obsidian allows me to work with local markdown files, which has been a great experience.</p>\n<p>Also, Obsidian is free and secure!</p>\n",
 				"date_published": "2022-10-07T18:05:21-04:00",
 				"url": "https://ericgregorich.blog/2022/10/07/i-have-started-using-obsidian/",
-				"tags": ["apps"]
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/10/04/i-have-used-the-new/",
@@ -4246,7 +4293,7 @@
 				"content_text": "<p>I discovered a new podcast app for iOS called <a title=\"Airshow\" href=\"https://feedbin.com/airshow\">Airshow</a>. It is from the same creators of Feedbin, the popular RSS service. What’s interesting is that Airshow actually uses Feedbin to sync podcasts between devices. This makes sense since it’s all RSS.</p>\n<p>What I like about Airshow is its simplicity. It’s a beautiful app. There are no bells and whistles. You can add podcasts as a Subscription or Bookmark. Subscriptions are automatically downloaded and added to your queue. Bookmarks give you quick access to podcasts you are interested in but don’t listen to regularly.</p>\n<p>Your queue is a simple list of podcast episodes. You can reorder them and edit them as you like. The queue is synced to your Feedbin account so you can also view the podcasts from Feedbin.</p>\n<figure><img src=\"uploads/2022/1087891f01.jpg\" alt=\"The Airshow Play Screen\" />\n<figcaption>The Airshow Play Screen</figcaption>\n</figure>\n<figure><img src=\"uploads/2022/75e3d69bca.jpg\" alt=\"Airshow Subscription Screen\" />\n<figcaption>Airshow Subscription Screen</figcaption>\n</figure>\n",
 				"date_published": "2022-10-02T12:52:37-04:00",
 				"url": "https://ericgregorich.blog/2022/10/02/airshow-podcast-app/",
-				"tags": ["technology"]
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/09/30/last-week-i-attended-the/",
@@ -4262,8 +4309,7 @@
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p><a href=\"https://on.substack.com/p/new-web-reader?r=1cnvs&s=r&utm_campaign=post&utm_medium=web\">Announcing the all-new Substack Reader for web</a></p>\n<blockquote>\n<p>Want to add a publication from outside Substack? No problem—just select “Add RSS feed” from the left sidebar.</p>\n</blockquote>\n<p>I keep seeing on Twitter that Substack is finally going to replace what we lost in Google Reader all those years ago. What was special about Google Reader that has not already been replaced by Feedbin, Feedly, Inoreader, NetNewsWire, and the dozens of other RSS services out there?</p>\n",
 				"date_published": "2022-09-26T19:12:23-04:00",
-				"url": "https://ericgregorich.blog/2022/09/26/announcing-the-allnew-substack-reader/",
-				"tags": ["apps"]
+				"url": "https://ericgregorich.blog/2022/09/26/announcing-the-allnew-substack-reader/"
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/09/25/ive-moved-all-my-rss/",
@@ -4426,7 +4472,8 @@
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p><a href=\"https://raindrop.io\">Raindrop.io</a> has become one of those apps that I use nearly every day. With so much content on the web, we need a place to save what we find helpful. Raindrop does just that. It is a bookmarking service that works on nearly any device and browser.</p>\n<ul>\n<li>Save and recall interesting content.</li>\n<li>Save articles and videos to read or watch later.</li>\n<li>Read articles and make highlights and annotations. <a href=\"https://readwise.io/raindrop_syncing\">Sync highlights</a> with <a href=\"https://readwise.io/\">Readwise</a>.</li>\n<li>Save inspirational images.</li>\n<li>Share bookmarks with others.</li>\n<li>Create an RSS feed of a collection that can be shared and consumed in other applications.</li>\n</ul>\n<h2 id=\"platforms\">Platforms</h2>\n<ul>\n<li>Browser Extension for Chrome, Edge, Safari, Firefox, and Brave.</li>\n<li>Mobile app for iPhone, iPad, and Android.</li>\n<li>Desktop app for macOS, Windows, and Linux.</li>\n</ul>\n<h2 id=\"organization\">Organization</h2>\n<p>Raindrop allows you to create Collections (Folders) and Tags. With the Pro version, you can create nested collections. You can also create Groups to help organize your collections.</p>\n<p>I have been using the <a href=\"https://fortelabs.co/blog/para/\">PARA</a> method to provide a straightforward way to organize content. I like to keep it simple.</p>\n<figure class=\"kg-card kg-image-card\"><img class=\"kg-image\" src=\"https://cdn.uploads.micro.blog/229244/2022/9e177e74a6.jpg\" alt=\"\" /></figure>\n<ul>\n<li>Unsorted: Things I want to read or watch later. They’ll often be deleted unless they’re worth keeping, then I’ll send them to another collection and add some tags.</li>\n<li>Shared: I have a shared collection of Microsoft and <a href=\"https://raindrop.io/egregorich/focustivity-resources-26717462/search\">Focustivity bookmarks</a>.</li>\n<li>Projects: I create a collection for each project where I gather links and web content. I don’t usually have many projects of this type.</li>\n<li>Areas: A collection for each area of my life. I’ll store manuals, links to important sites, and other things here.</li>\n<li>Resources: This is where most of my bookmarks go. I have a single Resources collection that I dump everything into. I add a couple of tags to make it easier to filter later.</li>\n<li>Archive: Where I keep archived projects.</li>\n</ul>\n<h2 id=\"highlights\">Highlights</h2>\n<p>One of my favorite features in Raindrop is the Highlights. Once installed with the browser extension, you can highlight text on a page and save the highlight directly to Raindrop. You can also use this feature now in Raindrop (like the image below). Select a webpage, highlight some text, and add annotations if you want.</p>\n<figure class=\"kg-card kg-image-card\"><img class=\"kg-image\" src=\"https://cdn.uploads.micro.blog/229244/2022/2295115915.jpg\" alt=\"\" /></figure>\n<p>These highlights can <a href=\"https://readwise.io/raindrop_syncing\">sync to Readwise</a> (this feature was not announced at the time of this post).</p>\n<h2 id=\"search\">Search</h2>\n<p>The <a href=\"https://help.raindrop.io/using-search/\">search</a> functionality is pretty solid, featuring Full-Text search meaning it will find content within your bookmarks and PDFs. You can use the filters to quickly select a tag, date, type, or other criteria.</p>\n<figure class=\"kg-card kg-image-card\"><img class=\"kg-image\" src=\"https://cdn.uploads.micro.blog/229244/2022/13201232e0.jpg\" alt=\"\" /></figure>\n<h2 id=\"pricing\">Pricing</h2>\n<p>The pricing of Raindrop is reasonable. I think most people can get by with the free version, which includes unlimited bookmarks, collections, highlights, and most features.</p>\n<p>The pro version provides extra features like full-text search, nested collections, annotations, duplicate link finder, automatic backups, 10Gb files per month, and priority email support.</p>\n<h2 id=\"who-is-raindrop-for\">Who is Raindrop for?</h2>\n<p>Raindrop is not going to be a replacement for an academic research tool like Zotero, where you will need citations, PDF annotations, and integrations to note applications like Obsidian.</p>\n<p>For anyone who wants to save bookmarks, and does some light highlighting and annotations, then Raindrop is a great option.</p>\n",
 				"date_published": "2022-08-14T09:23:51-04:00",
-				"url": "https://ericgregorich.blog/2022/08/14/raindropio/"
+				"url": "https://ericgregorich.blog/2022/08/14/raindropio/",
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/08/05/add-plausible-analytics-to-your/",
@@ -4435,7 +4482,7 @@
 				"content_text": "<p><a href=\"https://obsidian.md/publish\">Obsidian Publish</a> allows adding JavaScript, which means you can add a <a href=\"http://plausible.io/\">Plausible Analytics</a> tracking code to your site.</p>\n<h2 id=\"configure-plausible-analytics\">Configure Plausible Analytics</h2>\n<ol>\n<li>Create your Obsidian Publish site in your Plausible Analytics account.</li>\n<li>View your tracking code. It should look similar to this:</li>\n</ol>\n<pre><code class=\"js\"><script defer data-domain=\"yourdomain.com\" src=\"https://plausible.io/js/script.js\"></script>\n</code></pre>\n<h2 id=\"configure-obsidian-publish\">Configure Obsidian Publish</h2>\n<ol>\n<li>Create a file named publish.js in the root of your Obsidian vault. Create this file from file explorer, not from within Obsidian!</li>\n<li>Copy the below script to the publish.js file.</li>\n<li>Update the `data-domain` and `src` to the values provided in the Plausible script.</li>\n<li>Save and publish the publish.js file to your Obsidian Publish site!</li>\n<li>Open your Plausible Analytics page and refresh your Obsidian Publish page. Plausible Analytics should recognize an active visitor to the site.</li>\n</ol>\n<pre><code class=\"js\">var analyticsScript = document.createElement('script');\nanalyticsScript.defer = true;\nanalyticsScript.data-domain = \"yourdomain.com\";\nanalyticsScript.src = '[plausible.io/js/script...](https://plausible.io/js/script.js';)\ndocument.head.appendChild(analyticsScript);\n\n</code></pre>\n",
 				"date_published": "2022-08-05T20:00:00-04:00",
 				"url": "https://ericgregorich.blog/2022/08/05/add-plausible-analytics-to-your/",
-				"tags": ["apps"]
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/08/05/hide-specific-folders-from-the/",
@@ -4444,7 +4491,7 @@
 				"content_text": "<p>Using CSS, you can hide specific folders and files in the left navigation on your Obsidian Publish site.</p>\n<blockquote>\n<p>Note: Hiding the folders or pages from the left navigation does not remove them from your site, and visitors can still access these files through links or even search.</p>\n</blockquote>\n<p>You may want to do this if you wish to clean up your left navigation, you want to keep the search box, or you only want to hide specific folders or pages. Otherwise, you can toggle the navigation to be entirely off through your Obsidian Publish settings.</p>\n<ol>\n<li>Copy the following CSS to your publish.css file.</li>\n<li>Update the data-path value to include the name of the file or folder you want to hide. Make a copy of the line for each folder or file you want to add.</li>\n<li>Publish your updated publish.css file to the root of your Obsidian Publish site.</li>\n</ol>\n",
 				"date_published": "2022-08-05T20:00:00-04:00",
 				"url": "https://ericgregorich.blog/2022/08/05/hide-specific-folders-from-the/",
-				"tags": ["apps"]
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2022/06/30/tot-pocket/",
