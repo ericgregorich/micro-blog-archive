@@ -7,6 +7,42 @@
 	"items": [
 		
 			{
+				"id": "http://ericgregorich.micro.blog/2025/07/08/bookmarked-is-chatgpt-really-rotting/",
+				
+				"content_html": "<p>🔖 Bookmarked: <a href=\"https://nesslabs.com/is-chatgpt-really-rotting-our-brains?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=is-chatgpt-really-rotting-our-brains\">Is ChatGPT really rotting our brains?</a>\nHow does ChatGPT affect memory, brain activity, and critical thinking? A neuroscientist breaks down the science behind the MIT study.</p>\n",
+				"content_text": "🔖 Bookmarked: [Is ChatGPT really rotting our brains?](https://nesslabs.com/is-chatgpt-really-rotting-our-brains?utm_source=rss&utm_medium=rss&utm_campaign=is-chatgpt-really-rotting-our-brains)\r\nHow does ChatGPT affect memory, brain activity, and critical thinking? A neuroscientist breaks down the science behind the MIT study.\n",
+				"date_published": "2025-07-08T19:00:47-04:00",
+				"url": "https://ericgregorich.blog/2025/07/08/bookmarked-is-chatgpt-really-rotting/",
+				"tags": ["bookmarks"]
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2025/07/06/jurassic-world-rebirth-was-a/",
+				
+				"content_html": "<p>Jurassic World Rebirth was a typical Jurassic movie. It was enjoyable enough, but because it rehashed the same formula, it felt lackluster. 🍿</p>\n<p>Perhaps someday they come up with a good story to go along with the amazing visuals and bigger and badder dinosaurs.</p>\n",
+				"content_text": "Jurassic World Rebirth was a typical Jurassic movie. It was enjoyable enough, but because it rehashed the same formula, it felt lackluster. 🍿\n\nPerhaps someday they come up with a good story to go along with the amazing visuals and bigger and badder dinosaurs. \n",
+				"date_published": "2025-07-06T18:41:32-04:00",
+				"url": "https://ericgregorich.blog/2025/07/06/jurassic-world-rebirth-was-a/",
+				"tags": ["fun"]
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2025/07/04/harper-grammar-checker/",
+				"title": "Harper Grammar Checker",
+				"content_html": "<p>I discovered <a href=\"https://writewithharper.com/\">Harper </a> the other day. Harper is a free grammar checking tool that is completely private and works directly on your device. It has a Chrome extension, Obsidian Plugin, Visual Studio Code plugin and is 100% open source.</p>\n<p>I also just discovered Harper was acquired by Automatic last year.</p>\n",
+				"content_text": "I discovered [Harper ](https://writewithharper.com/) the other day. Harper is a free grammar checking tool that is completely private and works directly on your device. It has a Chrome extension, Obsidian Plugin, Visual Studio Code plugin and is 100% open source. \r\n\r\nI also just discovered Harper was acquired by Automatic last year. \n",
+				"date_published": "2025-07-04T13:10:16-04:00",
+				"url": "https://ericgregorich.blog/2025/07/04/harper-grammar-checker/",
+				"tags": ["tech","bookmarks"]
+			},
+			{
+				"id": "http://ericgregorich.micro.blog/2025/07/04/drafts-pro-i-started-using/",
+				
+				"content_html": "<p>I started using Drafts Pro again on iOS. It is a quick way for me to capture anything and then send it to wherever it needs to go.</p>\n<p>I use it to capture tasks into TeuxDeux and also send posts and bookmarks to Micro.blog.</p>\n",
+				"content_text": "I started using Drafts Pro again on iOS. It is a quick way for me to capture anything and then send it to wherever it needs to go. \n\nI use it to capture tasks into TeuxDeux and also send posts and bookmarks to Micro.blog. \n",
+				"date_published": "2025-07-04T12:09:59-04:00",
+				"url": "https://ericgregorich.blog/2025/07/04/drafts-pro-i-started-using/",
+				"tags": ["tech"]
+			},
+			{
 				"id": "http://ericgregorich.micro.blog/2025/06/29/i-updated-the-key-caps/",
 				
 				"content_html": "<p>I updated the key caps on my Keychain Q1 Max keyboard today. I went for a classy lower-profile black-and-white look.</p>\n<!-- raw HTML omitted -->\n",
@@ -31,7 +67,7 @@
 				"content_text": "[On Complaining](https://manuelmoreale.com/on-complaining)\n\n> But some people out there are consumed by their constant complaining. And it’s infectious. The more you complain the more you find and see things worth complaining about. And that’s not healthy. It’s not healthy for them, it’s not healthy for the people around them. - manuelmoreale.com\n",
 				"date_published": "2025-06-28T08:31:30-04:00",
 				"url": "https://ericgregorich.blog/2025/06/28/on-complaining-but-some-people/",
-				"tags": ["links"]
+				"tags": ["bookmarks"]
 			},
 			{
 				"id": "http://ericgregorich.micro.blog/2025/06/27/uncharted/",
